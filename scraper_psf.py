@@ -70,12 +70,19 @@ def parse_data_hora(texto: str):
         return None
 
 
+def linhas_diretas_da_tabela(tabela):
+    """
+    Retorna as linhas (<tr>) que pertencem DIRETAMENTE a essa tabela - ou seja,
+    cuja tabela mais próxima acima delas é exatamente essa (não uma tabela
+    aninhada mais profunda). Isso funciona mesmo que o navegador insira
+    automaticamente um <tbody> no meio (o que ele faz sempre), porque olha
+    para a tabela ancestral mais próxima, não para o "pai direto" literal.
+    """
+    return [tr for tr in tabela.find_all("tr") if tr.find_parent("table") is tabela]
+
+
 def celulas_da_linha(tr):
-    """
-    Pega o texto de cada célula FILHA DIRETA dessa linha (recursive=False).
-    Isso evita 'vazar' para dentro de tabelas aninhadas que porventura existam
-    dentro de alguma célula dessa linha.
-    """
+    """Pega o texto de cada célula FILHA DIRETA dessa linha (recursive=False)."""
     return [c.get_text(strip=True) for c in tr.find_all(["th", "td"], recursive=False)]
 
 
@@ -88,7 +95,7 @@ def encontrar_todas_tabelas_de_navios(soup):
     """
     encontradas = []
     for tabela in soup.find_all("table"):
-        linhas = tabela.find_all("tr", recursive=False)
+        linhas = linhas_diretas_da_tabela(tabela)
         if not linhas:
             continue
         primeira_linha = celulas_da_linha(linhas[0])
@@ -106,7 +113,7 @@ def encontrar_todas_tabelas_de_navios(soup):
 
 def extrair_registros_da_tabela(tabela, headers_tabela):
     registros = []
-    for tr in tabela.find_all("tr", recursive=False)[1:]:
+    for tr in linhas_diretas_da_tabela(tabela)[1:]:
         colunas = celulas_da_linha(tr)
         if not colunas:
             continue
