@@ -2,14 +2,25 @@
 Scraper de status de navios - Praticagem São Francisco (São Francisco do Sul / Itapoá)
 ========================================================================================
 
-Essa página carrega a tabela de navios via JavaScript, e a tabela de dados pode
-estar dentro de um IFRAME aninhado (um "quadro" dentro da página). Por isso este
-script:
-1. Usa o Playwright para abrir um navegador robô de verdade e deixar o
-   JavaScript rodar
-2. Espera um tempo extra de segurança
-3. Procura a tabela de navios em TODOS os frames da página (o principal e
-   quaisquer iframes internos), não só no HTML de fora
+Estrutura real dessa página (descoberta durante os testes): existe uma tabela
+"de fora" que só organiza as abas visuais, e DENTRO dela ficam várias tabelas
+menores, uma para cada seção:
+
+    Movimentações | Navios Atracados | Navios Fundeados (Internos) |
+    Navios Fundeados (Barra) | Navios Esperados
+
+Cada uma dessas tabelas tem seu próprio cabeçalho (Navio, Nrº IMO, Tipo de
+Navio, Agência, ..., Situação) e suas próprias linhas de navios. Um mesmo navio
+pode aparecer em mais de uma seção (ex: em "Movimentações" e em "Navios
+Atracados" ao mesmo tempo).
+
+Este script:
+1. Usa Playwright para renderizar a página (o conteúdo carrega via JavaScript)
+2. Lê CADA linha usando apenas os filhos DIRETOS da linha (recursive=False),
+   para não "vazar" e misturar com tabelas aninhadas dentro dela
+3. Encontra TODAS as tabelas de navios (uma por seção), não só uma
+4. Junta tudo numa lista única por navio, preferindo a versão com mais campos
+   preenchidos quando o mesmo navio aparece em mais de uma seção
 
 Como usar:
     python scraper_psf.py navios.txt
@@ -34,6 +45,8 @@ URL = "https://webpilot.praticagemsaofrancisco.com.br/webpilot/integracao/itmano
 DATA_RE = re.compile(r"(\d{2}/\d{2}/\d{4})")
 HORA_RE = re.compile(r"(\d{2}:\d{2})")
 
+PALAVRAS_CHAVE = ["NAVIO", "IMO", "CHEGADA", "MANOBRA", "SITUACAO", "BERCO", "CALLSIGN", "CALADO", "AGENCIA"]
+
 
 def normalizar(texto: str) -> str:
     texto = texto.strip().upper()
@@ -57,25 +70,25 @@ def parse_data_hora(texto: str):
         return None
 
 
-PALAVRAS_CHAVE = ["NAVIO", "IMO", "CHEGADA", "MANOBRA", "SITUACAO", "BERCO", "CALLSIGN", "CALADO", "AGENCIA"]
-
-
 def celulas_da_linha(tr):
-    """Pega o texto de cada célula da linha, seja ela <th> ou <td>."""
-    return [c.get_text(strip=True) for c in tr.find_all(["th", "td"])]
+    """
+    Pega o texto de cada célula FILHA DIRETA dessa linha (recursive=False).
+    Isso evita 'vazar' para dentro de tabelas aninhadas que porventura existam
+    dentro de alguma célula dessa linha.
+    """
+    return [c.get_text(strip=True) for c in tr.find_all(["th", "td"], recursive=False)]
 
 
-def encontrar_tabela_de_navios(soup):
+def encontrar_todas_tabelas_de_navios(soup):
     """
-    Procura, entre TODAS as tabelas da página (incluindo aninhadas), a que tem
-    uma célula exatamente igual a "Navio" na primeira linha (cabeçalho real de
-    dados) - e não apenas a palavra "navio" em algum lugar, o que evitaria cair
-    em tabelas de abas tipo "Navios Atracados", "Navios Esperados" etc, que só
-    são rótulos de navegação, não colunas de dados.
+    Retorna uma lista de (tabela, headers) para TODAS as tabelas da página
+    (incluindo aninhadas) cuja primeira linha tenha uma célula exatamente
+    igual a "Navio" - ou seja, cada seção (Movimentações, Atracados, etc)
+    vira um item separado nessa lista.
     """
-    candidatas = []
+    encontradas = []
     for tabela in soup.find_all("table"):
-        linhas = tabela.find_all("tr")
+        linhas = tabela.find_all("tr", recursive=False)
         if not linhas:
             continue
         primeira_linha = celulas_da_linha(linhas[0])
@@ -86,22 +99,47 @@ def encontrar_tabela_de_navios(soup):
 
         if tem_navio_exato and score >= 3:
             headers_tabela = [c.lower() for c in primeira_linha]
-            candidatas.append((tabela, headers_tabela, len(linhas), score))
+            encontradas.append((tabela, headers_tabela))
 
-    if not candidatas:
-        return None, []
+    return encontradas
 
-    candidatas.sort(key=lambda x: (x[3], x[2]), reverse=True)
-    tabela, headers_tabela, _, _ = candidatas[0]
-    return tabela, headers_tabela
+
+def extrair_registros_da_tabela(tabela, headers_tabela):
+    registros = []
+    for tr in tabela.find_all("tr", recursive=False)[1:]:
+        colunas = celulas_da_linha(tr)
+        if not colunas:
+            continue
+        registro = dict(zip(headers_tabela, colunas))
+
+        nome = (registro.get("navio") or "").strip()
+        if not nome:
+            continue
+
+        data_chegada_texto = registro.get("data de chegada") or ""
+        data_chegada_dt = parse_data_hora(data_chegada_texto)
+
+        registros.append({
+            "navio": nome,
+            "imo": registro.get("nrº imo") or registro.get("nº imo") or registro.get("imo"),
+            "agencia": registro.get("agência") or registro.get("agencia"),
+            "data_chegada_texto": data_chegada_texto or None,
+            "data_chegada_iso": data_chegada_dt.isoformat() if data_chegada_dt else None,
+            "manobra": registro.get("manobra") or None,
+            "data_manobra": registro.get("data de manobra") or None,
+            "berco": registro.get("berço") or registro.get("berco"),
+            "situacao": registro.get("situação") or registro.get("situacao") or None,
+        })
+
+    return registros
+
+
+def campos_preenchidos(registro):
+    """Conta quantos campos (fora 'navio') têm valor - usado para escolher a versão mais completa de um navio."""
+    return sum(1 for k, v in registro.items() if k != "navio" and v)
 
 
 def obter_htmls_de_todos_os_frames():
-    """
-    Abre a página num navegador headless, espera o JavaScript preencher os dados
-    (com uma folga extra de segurança), e devolve o HTML de cada frame da página
-    (principal + iframes internos) separadamente.
-    """
     with sync_playwright() as p:
         navegador = p.chromium.launch()
         pagina = navegador.new_page()
@@ -120,8 +158,6 @@ def obter_htmls_de_todos_os_frames():
         for i, frame in enumerate(pagina.frames):
             try:
                 conteudo = frame.content()
-                qtd_tabelas = conteudo.lower().count("<table")
-                print(f"[debug] frame {i} ({frame.url}): {qtd_tabelas} tabela(s) no HTML.", file=sys.stderr)
                 htmls.append(conteudo)
             except Exception as e:
                 print(f"[debug] não consegui ler o frame {i}: {e}", file=sys.stderr)
@@ -133,54 +169,24 @@ def obter_htmls_de_todos_os_frames():
 def buscar_movimentacoes():
     htmls = obter_htmls_de_todos_os_frames()
 
-    melhor_tabela = None
-    melhor_headers = []
-    melhor_qtd_linhas = 0
+    navios_por_chave = {}
 
     for html in htmls:
-        soup_temp = BeautifulSoup(html, "lxml")
-        tabela_temp, headers_temp = encontrar_tabela_de_navios(soup_temp)
-        if tabela_temp is not None:
-            qtd = len(tabela_temp.find_all("tr"))
-            print(f"[debug] tabela candidata encontrada com {qtd} linha(s), cabeçalho: {headers_temp}", file=sys.stderr)
-            if qtd > melhor_qtd_linhas:
-                melhor_tabela, melhor_headers, melhor_qtd_linhas = tabela_temp, headers_temp, qtd
+        soup = BeautifulSoup(html, "lxml")
+        tabelas = encontrar_todas_tabelas_de_navios(soup)
+        print(f"[debug] {len(tabelas)} seção(ões) de navios encontrada(s) neste frame.", file=sys.stderr)
 
-    if melhor_tabela is None or melhor_qtd_linhas <= 1:
-        raise RuntimeError(
-            "Não encontrei nenhuma tabela com dados de navios (com mais de 1 linha) "
-            "em nenhum frame da página, mesmo após renderizar o JavaScript."
-        )
+        for tabela, headers_tabela in tabelas:
+            registros = extrair_registros_da_tabela(tabela, headers_tabela)
+            print(f"[debug]   seção com cabeçalho {headers_tabela[:3]}...: {len(registros)} navio(s)", file=sys.stderr)
 
-    tabela, headers_tabela = melhor_tabela, melhor_headers
+            for registro in registros:
+                chave = normalizar(registro["navio"])
+                existente = navios_por_chave.get(chave)
+                if existente is None or campos_preenchidos(registro) > campos_preenchidos(existente):
+                    navios_por_chave[chave] = registro
 
-    registros = []
-    for tr in tabela.find_all("tr")[1:]:
-        colunas = [td.get_text(" ", strip=True) for td in tr.find_all("td")]
-        if not colunas:
-            continue
-        registro = dict(zip(headers_tabela, colunas))
-
-        nome = (registro.get("navio") or "").strip()
-        if not nome:
-            continue
-
-        data_chegada_texto = registro.get("data de chegada") or ""
-        data_chegada_dt = parse_data_hora(data_chegada_texto)
-
-        registros.append({
-            "navio": nome,
-            "imo": registro.get("nº imo") or registro.get("n imo") or registro.get("imo"),
-            "agencia": registro.get("agência") or registro.get("agencia"),
-            "data_chegada_texto": data_chegada_texto or None,
-            "data_chegada_iso": data_chegada_dt.isoformat() if data_chegada_dt else None,
-            "manobra": registro.get("manobra"),
-            "data_manobra": registro.get("data de manobra"),
-            "berco": registro.get("berço") or registro.get("berco"),
-            "situacao": registro.get("situação") or registro.get("situacao"),
-        })
-
-    return registros
+    return list(navios_por_chave.values())
 
 
 def cruzar_com_lista(navios_site, navios_acompanhados, limiar=0.82):
@@ -209,9 +215,9 @@ def cruzar_com_lista(navios_site, navios_acompanhados, limiar=0.82):
 def main():
     navios_site = buscar_movimentacoes()
 
-    print(f"[debug] {len(navios_site)} navio(s) lidos da tabela no total.", file=sys.stderr)
-    for n in navios_site[:20]:
-        print(f"[debug]   - {n['navio']}", file=sys.stderr)
+    print(f"[debug] {len(navios_site)} navio(s) únicos lidos no total.", file=sys.stderr)
+    for n in navios_site[:30]:
+        print(f"[debug]   - {n['navio']} | situação: {n.get('situacao')}", file=sys.stderr)
 
     if len(sys.argv) < 2:
         print(json.dumps(navios_site, indent=2, ensure_ascii=False))
