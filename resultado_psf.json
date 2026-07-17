@@ -1,9 +1,32 @@
 {
-  "gerado_em": "2026-07-17T15:32:53.188511",
-  "encontrados": [],
+  "gerado_em": "2026-07-17T15:38:34.754581",
+  "encontrados": [
+    {
+      "navio_planilha": "Maersk Freeport",
+      "navio": "Maersk Freeport",
+      "imo": "9991202",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "17/07/2026 08:08",
+      "data_chegada_iso": "2026-07-17T08:08:00",
+      "manobra": null,
+      "data_manobra": null,
+      "berco": "902",
+      "situacao": null
+    },
+    {
+      "navio_planilha": "CMA CGM Iron",
+      "navio": "CMA CGM Iron",
+      "imo": "9996678",
+      "agencia": "UNIMAR",
+      "data_chegada_texto": "14/07/2026 17:00",
+      "data_chegada_iso": "2026-07-14T17:00:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "17/07/2026 13:30",
+      "berco": "901 BARRA",
+      "situacao": "Confirmado"
+    }
+  ],
   "nao_encontrados": [
-    "Maersk Freeport",
-    "CMA CGM Iron",
     "Dusseldorf Express"
   ]
 }
