@@ -1,28 +1,6 @@
 {
-  "gerado_em": "2026-07-17T17:45:40.051593",
+  "gerado_em": "2026-07-17T18:38:34.799475",
   "navios": [
-    {
-      "navio": "Maersk Ganges",
-      "imo": "9694581",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "15/07/2026 08:30",
-      "data_chegada_iso": "2026-07-15T08:30:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "17/07/2026 13:30",
-      "berco": "BARRA 901",
-      "situacao": "Em Andamento"
-    },
-    {
-      "navio": "CMA CGM Iron",
-      "imo": "9996678",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "14/07/2026 17:00",
-      "data_chegada_iso": "2026-07-14T17:00:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "17/07/2026 13:30",
-      "berco": "901 BARRA",
-      "situacao": "Em Andamento"
-    },
     {
       "navio": "Akmi",
       "imo": "9852092",
@@ -32,7 +10,8 @@
       "manobra": "Suspender e Sair",
       "data_manobra": "17/07/2026 16:00",
       "berco": "F3 BARRA",
-      "situacao": "Confirmado"
+      "situacao": "Confirmado",
+      "secao": "Movimentações"
     },
     {
       "navio": "Stinger",
@@ -43,7 +22,20 @@
       "manobra": "Desatracação e Saída",
       "data_manobra": "17/07/2026 17:00",
       "berco": "302 BARRA",
-      "situacao": "A Confirmar"
+      "situacao": "Confirmado",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Maersk Ganges",
+      "imo": "9694581",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "15/07/2026 08:30",
+      "data_chegada_iso": "2026-07-15T08:30:00",
+      "manobra": null,
+      "data_manobra": null,
+      "berco": "901",
+      "situacao": null,
+      "secao": "Navios Atracados"
     },
     {
       "navio": "Maersk Freeport",
@@ -54,7 +46,8 @@
       "manobra": null,
       "data_manobra": null,
       "berco": "902",
-      "situacao": null
+      "situacao": null,
+      "secao": "Navios Atracados"
     },
     {
       "navio": "Alwine",
@@ -65,7 +58,8 @@
       "manobra": null,
       "data_manobra": null,
       "berco": "101",
-      "situacao": null
+      "situacao": null,
+      "secao": "Navios Atracados"
     },
     {
       "navio": "Gladiator",
@@ -76,7 +70,8 @@
       "manobra": null,
       "data_manobra": null,
       "berco": "102",
-      "situacao": null
+      "situacao": null,
+      "secao": "Navios Atracados"
     },
     {
       "navio": "Tomini Entity",
@@ -87,7 +82,8 @@
       "manobra": null,
       "data_manobra": null,
       "berco": "201",
-      "situacao": null
+      "situacao": null,
+      "secao": "Navios Atracados"
     },
     {
       "navio": "Barcaça N09",
@@ -98,7 +94,8 @@
       "manobra": null,
       "data_manobra": null,
       "berco": "F1",
-      "situacao": null
+      "situacao": null,
+      "secao": "Navios Fundeados (Internos)"
     },
     {
       "navio": "Aristo Ocean",
@@ -109,7 +106,8 @@
       "manobra": null,
       "data_manobra": null,
       "berco": "SFS",
-      "situacao": null
+      "situacao": null,
+      "secao": "Navios Fundeados (Barra)"
     },
     {
       "navio": "Gallia Graeca II",
@@ -120,7 +118,8 @@
       "manobra": null,
       "data_manobra": null,
       "berco": "SFS",
-      "situacao": null
+      "situacao": null,
+      "secao": "Navios Fundeados (Barra)"
     },
     {
       "navio": "Amoy Galaxy",
@@ -131,7 +130,8 @@
       "manobra": null,
       "data_manobra": null,
       "berco": "SFS",
-      "situacao": null
+      "situacao": null,
+      "secao": "Navios Fundeados (Barra)"
     },
     {
       "navio": "Maersk Venezia",
@@ -142,7 +142,8 @@
       "manobra": null,
       "data_manobra": null,
       "berco": "ITAPOÁ",
-      "situacao": null
+      "situacao": null,
+      "secao": "Navios Fundeados (Barra)"
     },
     {
       "navio": "CMA CGM Veracruz",
@@ -153,7 +154,8 @@
       "manobra": null,
       "data_manobra": null,
       "berco": "ITAPOÁ",
-      "situacao": null
+      "situacao": null,
+      "secao": "Navios Fundeados (Barra)"
     },
     {
       "navio": "San Augustin Maersk",
@@ -164,7 +166,8 @@
       "manobra": null,
       "data_manobra": null,
       "berco": "ITAPOÁ",
-      "situacao": null
+      "situacao": null,
+      "secao": "Navios Esperados"
     },
     {
       "navio": "Scion Charlotte",
@@ -175,7 +178,8 @@
       "manobra": null,
       "data_manobra": null,
       "berco": "SFS",
-      "situacao": null
+      "situacao": null,
+      "secao": "Navios Esperados"
     },
     {
       "navio": "Jamaica Bay",
@@ -186,7 +190,8 @@
       "manobra": null,
       "data_manobra": null,
       "berco": "TESC",
-      "situacao": null
+      "situacao": null,
+      "secao": "Navios Esperados"
     },
     {
       "navio": "Viyada Naree",
@@ -197,7 +202,8 @@
       "manobra": null,
       "data_manobra": null,
       "berco": "SFS",
-      "situacao": null
+      "situacao": null,
+      "secao": "Navios Esperados"
     },
     {
       "navio": "CMA CGM Lisa Marie",
@@ -208,7 +214,8 @@
       "manobra": null,
       "data_manobra": null,
       "berco": "ITAPOÁ",
-      "situacao": null
+      "situacao": null,
+      "secao": "Navios Esperados"
     },
     {
       "navio": "SSI Phoenix",
@@ -219,7 +226,8 @@
       "manobra": null,
       "data_manobra": null,
       "berco": "SFS",
-      "situacao": null
+      "situacao": null,
+      "secao": "Navios Esperados"
     },
     {
       "navio": "Cosco Shipping Brazil",
@@ -230,7 +238,8 @@
       "manobra": null,
       "data_manobra": null,
       "berco": "ITAPOÁ",
-      "situacao": null
+      "situacao": null,
+      "secao": "Navios Esperados"
     },
     {
       "navio": "Maersk Karun",
@@ -241,7 +250,8 @@
       "manobra": null,
       "data_manobra": null,
       "berco": "ITAPOÁ",
-      "situacao": null
+      "situacao": null,
+      "secao": "Navios Esperados"
     },
     {
       "navio": "Egret Oasis",
@@ -252,7 +262,8 @@
       "manobra": null,
       "data_manobra": null,
       "berco": "SFS",
-      "situacao": null
+      "situacao": null,
+      "secao": "Navios Esperados"
     },
     {
       "navio": "MSC Pamela",
@@ -263,7 +274,8 @@
       "manobra": null,
       "data_manobra": null,
       "berco": "ITAPOÁ",
-      "situacao": null
+      "situacao": null,
+      "secao": "Navios Esperados"
     },
     {
       "navio": "ONE Premium",
@@ -274,7 +286,8 @@
       "manobra": null,
       "data_manobra": null,
       "berco": "ITAPOÁ",
-      "situacao": null
+      "situacao": null,
+      "secao": "Navios Esperados"
     },
     {
       "navio": "Babitonga Bay",
@@ -285,7 +298,8 @@
       "manobra": null,
       "data_manobra": null,
       "berco": "TESC",
-      "situacao": null
+      "situacao": null,
+      "secao": "Navios Esperados"
     },
     {
       "navio": "Binnur C",
@@ -296,7 +310,8 @@
       "manobra": null,
       "data_manobra": null,
       "berco": "SFS",
-      "situacao": null
+      "situacao": null,
+      "secao": "Navios Esperados"
     },
     {
       "navio": "Felixstowe",
@@ -307,7 +322,8 @@
       "manobra": null,
       "data_manobra": null,
       "berco": "ITAPOÁ",
-      "situacao": null
+      "situacao": null,
+      "secao": "Navios Esperados"
     },
     {
       "navio": "Maersk Lins",
@@ -318,7 +334,8 @@
       "manobra": null,
       "data_manobra": null,
       "berco": "ITAPOÁ",
-      "situacao": null
+      "situacao": null,
+      "secao": "Navios Esperados"
     },
     {
       "navio": "Lori",
@@ -329,7 +346,8 @@
       "manobra": null,
       "data_manobra": null,
       "berco": "ITAPOÁ",
-      "situacao": null
+      "situacao": null,
+      "secao": "Navios Esperados"
     },
     {
       "navio": "Barcaça N12",
@@ -340,7 +358,8 @@
       "manobra": null,
       "data_manobra": null,
       "berco": "TESC",
-      "situacao": null
+      "situacao": null,
+      "secao": "Navios Esperados"
     },
     {
       "navio": "Bartolomeu Dias",
@@ -351,7 +370,8 @@
       "manobra": null,
       "data_manobra": null,
       "berco": "ITAPOÁ",
-      "situacao": null
+      "situacao": null,
+      "secao": "Navios Esperados"
     },
     {
       "navio": "Cassiopeia Ocean",
@@ -362,7 +382,8 @@
       "manobra": null,
       "data_manobra": null,
       "berco": "SFS",
-      "situacao": null
+      "situacao": null,
+      "secao": "Navios Esperados"
     },
     {
       "navio": "Genco Madeleine",
@@ -373,7 +394,8 @@
       "manobra": null,
       "data_manobra": null,
       "berco": "SFS",
-      "situacao": null
+      "situacao": null,
+      "secao": "Navios Esperados"
     },
     {
       "navio": "Pacific Ginko",
@@ -384,7 +406,8 @@
       "manobra": null,
       "data_manobra": null,
       "berco": "SFS",
-      "situacao": null
+      "situacao": null,
+      "secao": "Navios Esperados"
     },
     {
       "navio": "San Antonio Maersk",
@@ -395,7 +418,8 @@
       "manobra": null,
       "data_manobra": null,
       "berco": "ITAPOÁ",
-      "situacao": null
+      "situacao": null,
+      "secao": "Navios Esperados"
     },
     {
       "navio": "Marla Samurai",
@@ -406,7 +430,8 @@
       "manobra": null,
       "data_manobra": null,
       "berco": "SFS",
-      "situacao": null
+      "situacao": null,
+      "secao": "Navios Esperados"
     },
     {
       "navio": "Maersk Monte Azul",
@@ -417,7 +442,8 @@
       "manobra": null,
       "data_manobra": null,
       "berco": "ITAPOÁ",
-      "situacao": null
+      "situacao": null,
+      "secao": "Navios Esperados"
     },
     {
       "navio": "Mercosul Fortaleza",
@@ -428,7 +454,8 @@
       "manobra": null,
       "data_manobra": null,
       "berco": "ITAPOÁ",
-      "situacao": null
+      "situacao": null,
+      "secao": "Navios Esperados"
     },
     {
       "navio": "Barcaça N11",
@@ -439,7 +466,8 @@
       "manobra": null,
       "data_manobra": null,
       "berco": "TESC",
-      "situacao": null
+      "situacao": null,
+      "secao": "Navios Esperados"
     },
     {
       "navio": "Nordcheetah",
@@ -450,7 +478,8 @@
       "manobra": null,
       "data_manobra": null,
       "berco": "ITAPOÁ",
-      "situacao": null
+      "situacao": null,
+      "secao": "Navios Esperados"
     },
     {
       "navio": "San Nicolas Maersk",
@@ -461,7 +490,8 @@
       "manobra": null,
       "data_manobra": null,
       "berco": "ITAPOÁ",
-      "situacao": null
+      "situacao": null,
+      "secao": "Navios Esperados"
     },
     {
       "navio": "Chayanee Naree",
@@ -472,7 +502,8 @@
       "manobra": null,
       "data_manobra": null,
       "berco": "SFS",
-      "situacao": null
+      "situacao": null,
+      "secao": "Navios Esperados"
     },
     {
       "navio": "Fernão de Magalhães",
@@ -483,7 +514,8 @@
       "manobra": null,
       "data_manobra": null,
       "berco": "ITAPOÁ",
-      "situacao": null
+      "situacao": null,
+      "secao": "Navios Esperados"
     },
     {
       "navio": "Cosco Valencia",
@@ -494,7 +526,8 @@
       "manobra": null,
       "data_manobra": null,
       "berco": "ITAPOÁ",
-      "situacao": null
+      "situacao": null,
+      "secao": "Navios Esperados"
     },
     {
       "navio": "MSC Albany",
@@ -505,7 +538,8 @@
       "manobra": null,
       "data_manobra": null,
       "berco": "ITAPOÁ",
-      "situacao": null
+      "situacao": null,
+      "secao": "Navios Esperados"
     },
     {
       "navio": "Santa Ines",
@@ -516,7 +550,8 @@
       "manobra": null,
       "data_manobra": null,
       "berco": "ITAPOÁ",
-      "situacao": null
+      "situacao": null,
+      "secao": "Navios Esperados"
     },
     {
       "navio": "Foresight Diva",
@@ -527,7 +562,8 @@
       "manobra": null,
       "data_manobra": null,
       "berco": "101",
-      "situacao": null
+      "situacao": null,
+      "secao": "Navios Esperados"
     },
     {
       "navio": "Danae R",
@@ -538,7 +574,8 @@
       "manobra": null,
       "data_manobra": null,
       "berco": "SFS",
-      "situacao": null
+      "situacao": null,
+      "secao": "Navios Esperados"
     },
     {
       "navio": "Maersk Chambal",
@@ -549,7 +586,8 @@
       "manobra": null,
       "data_manobra": null,
       "berco": "ITAPOÁ",
-      "situacao": null
+      "situacao": null,
+      "secao": "Navios Esperados"
     },
     {
       "navio": "BH Power",
@@ -560,7 +598,8 @@
       "manobra": null,
       "data_manobra": null,
       "berco": "TESC",
-      "situacao": null
+      "situacao": null,
+      "secao": "Navios Esperados"
     },
     {
       "navio": "Shandong Xin You",
@@ -571,7 +610,8 @@
       "manobra": null,
       "data_manobra": null,
       "berco": "SFS",
-      "situacao": null
+      "situacao": null,
+      "secao": "Navios Esperados"
     },
     {
       "navio": "Mazowsze",
@@ -582,7 +622,8 @@
       "manobra": null,
       "data_manobra": null,
       "berco": "SFS",
-      "situacao": null
+      "situacao": null,
+      "secao": "Navios Esperados"
     },
     {
       "navio": "Maersk Leticia",
@@ -593,7 +634,8 @@
       "manobra": null,
       "data_manobra": null,
       "berco": "ITAPOÁ",
-      "situacao": null
+      "situacao": null,
+      "secao": "Navios Esperados"
     },
     {
       "navio": "Maersk Redwood",
@@ -604,7 +646,8 @@
       "manobra": null,
       "data_manobra": null,
       "berco": "ITAPOÁ",
-      "situacao": null
+      "situacao": null,
+      "secao": "Navios Esperados"
     },
     {
       "navio": "Industrial Charger",
@@ -615,7 +658,8 @@
       "manobra": null,
       "data_manobra": null,
       "berco": "TESC",
-      "situacao": null
+      "situacao": null,
+      "secao": "Navios Esperados"
     },
     {
       "navio": "Tuju Arrow",
@@ -626,7 +670,8 @@
       "manobra": null,
       "data_manobra": null,
       "berco": "TESC",
-      "situacao": null
+      "situacao": null,
+      "secao": "Navios Esperados"
     },
     {
       "navio": "Equinox Galini",
@@ -637,7 +682,8 @@
       "manobra": null,
       "data_manobra": null,
       "berco": "SFS",
-      "situacao": null
+      "situacao": null,
+      "secao": "Navios Esperados"
     }
   ]
 }
