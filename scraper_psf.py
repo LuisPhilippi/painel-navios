@@ -212,4 +212,4 @@ def main():
     for n in navios_site[:20]:
         print(f"[debug]   - {n['navio']}", file=sys.stderr)
 
-    if len(sys.argv)
+    if len(sys.argv) < 2:
