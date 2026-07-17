@@ -119,11 +119,15 @@ def extrair_registros_de_tabela_com_secoes(tabela):
     Percorre a tabela linha a linha. Toda vez que encontra uma linha de
     cabeçalho (Navio, Nrº IMO, ...), passa a usar esse cabeçalho para
     interpretar as linhas seguintes, até o próximo cabeçalho aparecer.
-    Linhas que não têm o mesmo número de colunas do cabeçalho atual (como
-    títulos de seção do tipo "Navios Atracados") são ignoradas.
+
+    Linhas com poucas células (ex: "Navios Atracados", "Navios Esperados")
+    são títulos de seção - guardamos esse texto para marcar cada navio
+    seguinte com a seção de onde ele veio (isso é o que permite ao painel
+    saber se um navio já está de fato ATRACADO, por exemplo).
     """
     registros = []
     headers_atuais = None
+    secao_atual = None
 
     for tr in linhas_diretas_da_tabela(tabela):
         celulas = celulas_da_linha(tr)
@@ -136,11 +140,17 @@ def extrair_registros_de_tabela_com_secoes(tabela):
             headers_atuais = [c.lower() for c in celulas]
             continue
 
+        if len(celulas) <= 2:
+            # provável título de seção (ex: "Navios Atracados")
+            secao_atual = celulas[0].strip()
+            continue
+
         if headers_atuais is None or len(celulas) != len(headers_atuais):
-            continue  # título de seção ou linha decorativa - ignora
+            continue  # linha decorativa - ignora
 
         registro = montar_registro(headers_atuais, celulas)
         if registro:
+            registro["secao"] = secao_atual
             registros.append(registro)
 
     return registros
