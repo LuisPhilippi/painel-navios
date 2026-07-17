@@ -2,24 +2,25 @@
 Scraper de status de navios - Praticagem São Francisco (São Francisco do Sul / Itapoá)
 ========================================================================================
 
-Estrutura real dessa página (descoberta durante os testes): existe uma tabela
-"de fora" que só organiza as abas visuais, e DENTRO dela ficam várias tabelas
-menores, uma para cada seção:
+Estrutura real dessa página (descoberta depurando passo a passo): existe UMA
+ÚNICA tabela de dados, mas com várias seções dentro dela (Movimentações,
+Navios Atracados, Navios Fundeados (Internos), Navios Fundeados (Barra),
+Navios Esperados). Cada seção aparece como:
 
-    Movimentações | Navios Atracados | Navios Fundeados (Internos) |
-    Navios Fundeados (Barra) | Navios Esperados
+    [linha com só 1 célula: título da seção, ex: "Navios Atracados"]
+    [linha de cabeçalho: Navio | Nrº IMO | Tipo de Navio | ... | Situação]
+    [linhas de dados de navios daquela seção]
+    (repete para a próxima seção)
 
-Cada uma dessas tabelas tem seu próprio cabeçalho (Navio, Nrº IMO, Tipo de
-Navio, Agência, ..., Situação) e suas próprias linhas de navios. Um mesmo navio
-pode aparecer em mais de uma seção (ex: em "Movimentações" e em "Navios
-Atracados" ao mesmo tempo).
+Ou seja, o cabeçalho "reaparece" no meio da tabela toda vez que uma nova seção
+começa. Um mesmo navio pode aparecer em mais de uma seção ao mesmo tempo.
 
 Este script:
 1. Usa Playwright para renderizar a página (o conteúdo carrega via JavaScript)
-2. Lê CADA linha usando apenas os filhos DIRETOS da linha (recursive=False),
-   para não "vazar" e misturar com tabelas aninhadas dentro dela
-3. Encontra TODAS as tabelas de navios (uma por seção), não só uma
-4. Junta tudo numa lista única por navio, preferindo a versão com mais campos
+2. Lê a tabela linha por linha, atualizando o "cabeçalho atual" toda vez que
+   encontra uma linha de cabeçalho, e tratando as linhas seguintes como dados
+   daquele cabeçalho até o próximo cabeçalho aparecer
+3. Junta tudo numa lista única por navio, preferindo a versão com mais campos
    preenchidos quando o mesmo navio aparece em mais de uma seção
 
 Como usar:
@@ -74,82 +75,73 @@ def linhas_diretas_da_tabela(tabela):
     """
     Retorna as linhas (<tr>) que pertencem DIRETAMENTE a essa tabela - ou seja,
     cuja tabela mais próxima acima delas é exatamente essa (não uma tabela
-    aninhada mais profunda). Isso funciona mesmo que o navegador insira
-    automaticamente um <tbody> no meio (o que ele faz sempre), porque olha
-    para a tabela ancestral mais próxima, não para o "pai direto" literal.
+    aninhada mais profunda). Funciona mesmo com <tbody> inserido pelo navegador.
     """
     return [tr for tr in tabela.find_all("tr") if tr.find_parent("table") is tabela]
 
 
 def celulas_da_linha(tr):
-    """Pega o texto de cada célula FILHA DIRETA dessa linha (recursive=False)."""
+    """Pega o texto de cada célula FILHA DIRETA dessa linha."""
     return [c.get_text(strip=True) for c in tr.find_all(["th", "td"], recursive=False)]
 
 
-def encontrar_todas_tabelas_de_navios(soup):
+def eh_linha_de_cabecalho(celulas_normalizadas):
+    tem_navio_exato = any(c == "NAVIO" for c in celulas_normalizadas)
+    score = sum(1 for c in celulas_normalizadas for kw in PALAVRAS_CHAVE if kw in c)
+    return tem_navio_exato and score >= 3
+
+
+def montar_registro(headers_atuais, celulas):
+    registro_bruto = dict(zip(headers_atuais, celulas))
+
+    nome = (registro_bruto.get("navio") or "").strip()
+    if not nome:
+        return None
+
+    data_chegada_texto = registro_bruto.get("data de chegada") or ""
+    data_chegada_dt = parse_data_hora(data_chegada_texto)
+
+    return {
+        "navio": nome,
+        "imo": registro_bruto.get("nrº imo") or registro_bruto.get("nº imo") or registro_bruto.get("imo"),
+        "agencia": registro_bruto.get("agência") or registro_bruto.get("agencia"),
+        "data_chegada_texto": data_chegada_texto or None,
+        "data_chegada_iso": data_chegada_dt.isoformat() if data_chegada_dt else None,
+        "manobra": registro_bruto.get("manobra") or None,
+        "data_manobra": registro_bruto.get("data de manobra") or None,
+        "berco": registro_bruto.get("berço") or registro_bruto.get("berco"),
+        "situacao": registro_bruto.get("situação") or registro_bruto.get("situacao") or None,
+    }
+
+
+def extrair_registros_de_tabela_com_secoes(tabela):
     """
-    Retorna uma lista de (tabela, headers) para TODAS as tabelas da página
-    (incluindo aninhadas) cuja primeira linha tenha uma célula exatamente
-    igual a "Navio" - ou seja, cada seção (Movimentações, Atracados, etc)
-    vira um item separado nessa lista.
+    Percorre a tabela linha a linha. Toda vez que encontra uma linha de
+    cabeçalho (Navio, Nrº IMO, ...), passa a usar esse cabeçalho para
+    interpretar as linhas seguintes, até o próximo cabeçalho aparecer.
+    Linhas que não têm o mesmo número de colunas do cabeçalho atual (como
+    títulos de seção do tipo "Navios Atracados") são ignoradas.
     """
-    todas_tabelas = soup.find_all("table")
-    print(f"[debug] {len(todas_tabelas)} <table> no total nesta página/frame.", file=sys.stderr)
-
-    encontradas = []
-    for i, tabela in enumerate(todas_tabelas):
-        linhas = linhas_diretas_da_tabela(tabela)
-        if not linhas:
-            print(f"[debug] tabela {i}: 0 linha(s) direta(s) (provavelmente vazia ou só decorativa).", file=sys.stderr)
-            continue
-
-        primeira_linha = celulas_da_linha(linhas[0])
-        normalizadas = [normalizar(c) for c in primeira_linha]
-
-        tem_navio_exato = any(n == "NAVIO" for n in normalizadas)
-        score = sum(1 for n in normalizadas for kw in PALAVRAS_CHAVE if kw in n)
-
-        amostra = [c[:30] for c in primeira_linha[:8]]
-        print(
-            f"[debug] tabela {i}: {len(linhas)} linha(s) direta(s), "
-            f"tem_navio_exato={tem_navio_exato}, score={score}, "
-            f"1ª linha (amostra): {amostra}",
-            file=sys.stderr,
-        )
-
-        if tem_navio_exato and score >= 3:
-            headers_tabela = [c.lower() for c in primeira_linha]
-            encontradas.append((tabela, headers_tabela))
-
-    return encontradas
-
-
-def extrair_registros_da_tabela(tabela, headers_tabela):
     registros = []
-    for tr in linhas_diretas_da_tabela(tabela)[1:]:
-        colunas = celulas_da_linha(tr)
-        if not colunas:
-            continue
-        registro = dict(zip(headers_tabela, colunas))
+    headers_atuais = None
 
-        nome = (registro.get("navio") or "").strip()
-        if not nome:
+    for tr in linhas_diretas_da_tabela(tabela):
+        celulas = celulas_da_linha(tr)
+        if not celulas:
             continue
 
-        data_chegada_texto = registro.get("data de chegada") or ""
-        data_chegada_dt = parse_data_hora(data_chegada_texto)
+        normalizadas = [normalizar(c) for c in celulas]
 
-        registros.append({
-            "navio": nome,
-            "imo": registro.get("nrº imo") or registro.get("nº imo") or registro.get("imo"),
-            "agencia": registro.get("agência") or registro.get("agencia"),
-            "data_chegada_texto": data_chegada_texto or None,
-            "data_chegada_iso": data_chegada_dt.isoformat() if data_chegada_dt else None,
-            "manobra": registro.get("manobra") or None,
-            "data_manobra": registro.get("data de manobra") or None,
-            "berco": registro.get("berço") or registro.get("berco"),
-            "situacao": registro.get("situação") or registro.get("situacao") or None,
-        })
+        if eh_linha_de_cabecalho(normalizadas):
+            headers_atuais = [c.lower() for c in celulas]
+            continue
+
+        if headers_atuais is None or len(celulas) != len(headers_atuais):
+            continue  # título de seção ou linha decorativa - ignora
+
+        registro = montar_registro(headers_atuais, celulas)
+        if registro:
+            registros.append(registro)
 
     return registros
 
@@ -177,8 +169,7 @@ def obter_htmls_de_todos_os_frames():
         htmls = []
         for i, frame in enumerate(pagina.frames):
             try:
-                conteudo = frame.content()
-                htmls.append(conteudo)
+                htmls.append(frame.content())
             except Exception as e:
                 print(f"[debug] não consegui ler o frame {i}: {e}", file=sys.stderr)
 
@@ -193,12 +184,12 @@ def buscar_movimentacoes():
 
     for html in htmls:
         soup = BeautifulSoup(html, "lxml")
-        tabelas = encontrar_todas_tabelas_de_navios(soup)
-        print(f"[debug] {len(tabelas)} seção(ões) de navios encontrada(s) neste frame.", file=sys.stderr)
+        todas_tabelas = soup.find_all("table")
+        print(f"[debug] {len(todas_tabelas)} <table> no total neste frame.", file=sys.stderr)
 
-        for tabela, headers_tabela in tabelas:
-            registros = extrair_registros_da_tabela(tabela, headers_tabela)
-            print(f"[debug]   seção com cabeçalho {headers_tabela[:3]}...: {len(registros)} navio(s)", file=sys.stderr)
+        for i, tabela in enumerate(todas_tabelas):
+            registros = extrair_registros_de_tabela_com_secoes(tabela)
+            print(f"[debug] tabela {i}: {len(registros)} navio(s) extraído(s).", file=sys.stderr)
 
             for registro in registros:
                 chave = normalizar(registro["navio"])
