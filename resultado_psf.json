@@ -1,18 +1,6 @@
 {
-  "gerado_em": "2026-07-17T20:39:48.800461",
+  "gerado_em": "2026-07-17T23:39:05.578714",
   "navios": [
-    {
-      "navio": "Stinger",
-      "imo": "9762871",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "14/07/2026 13:12",
-      "data_chegada_iso": "2026-07-14T13:12:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "17/07/2026 17:00",
-      "berco": "302 BARRA",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Amoy Galaxy",
       "imo": "1085083",
@@ -44,7 +32,7 @@
       "data_chegada_texto": "11/07/2026 14:18",
       "data_chegada_iso": "2026-07-11T14:18:00",
       "manobra": "Entrada e Atracação",
-      "data_manobra": "18/07/2026 03:30",
+      "data_manobra": "18/07/2026 03:45",
       "berco": "BARRA 101",
       "situacao": "A Confirmar",
       "secao": "Movimentações"

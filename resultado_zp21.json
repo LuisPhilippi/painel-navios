@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-07-17T20:39:42.609777",
+  "gerado_em": "2026-07-17T23:38:58.998947",
   "navios": [
     {
       "navio": "SUNNY PHOENIX",
@@ -26,7 +26,7 @@
       "status": "Previsto",
       "data_hora_texto": "14/07/2026 - 08:00",
       "data_hora_iso": "2026-07-14T08:00:00",
-      "calado": "TBC",
+      "calado": "8,80 EK",
       "rota": "",
       "berco": null,
       "posicao": null
@@ -37,6 +37,16 @@
       "data_hora_texto": "14/07/2026 - 17:00",
       "data_hora_iso": "2026-07-14T17:00:00",
       "calado": "TBC",
+      "rota": "",
+      "berco": null,
+      "posicao": null
+    },
+    {
+      "navio": "SAN AUGUSTIN MAERSK",
+      "status": "Previsto",
+      "data_hora_texto": "18/07/2026 - 07:00",
+      "data_hora_iso": "2026-07-18T07:00:00",
+      "calado": "11,60/11,70",
       "rota": "",
       "berco": null,
       "posicao": null
@@ -57,16 +67,6 @@
       "data_hora_texto": "19/07/2026 - 01:00",
       "data_hora_iso": "2026-07-19T01:00:00",
       "calado": "TBC",
-      "rota": "",
-      "berco": null,
-      "posicao": null
-    },
-    {
-      "navio": "SAN AUGUSTIN MAERSK",
-      "status": "Previsto",
-      "data_hora_texto": "19/07/2026 - 07:00",
-      "data_hora_iso": "2026-07-19T07:00:00",
-      "calado": "11,60/11,70",
       "rota": "",
       "berco": null,
       "posicao": null
@@ -192,21 +192,11 @@
       "posicao": null
     },
     {
-      "navio": "HMM SKY",
-      "status": "Fundeado",
-      "data_hora_texto": "13/07/2026 - 00:56",
-      "data_hora_iso": "2026-07-13T00:56:00",
-      "calado": "12,75 EK",
-      "rota": "",
-      "berco": null,
-      "posicao": "26 54,70 S / 048 32,15 W"
-    },
-    {
       "navio": "COSTA RICA EXPRESS",
       "status": "Fundeado",
       "data_hora_texto": "15/07/2026 - 18:07",
       "data_hora_iso": "2026-07-15T18:07:00",
-      "calado": "10,50/10,70",
+      "calado": "11,80 EK",
       "rota": "",
       "berco": null,
       "posicao": "26 58,73 S / 048 28,85 W"
@@ -230,6 +220,16 @@
       "rota": "",
       "berco": null,
       "posicao": "26 55,01 S / 048 29,94 W"
+    },
+    {
+      "navio": "HMM SKY",
+      "status": "Atracado",
+      "data_hora_texto": "17/07/2026 - 18:11",
+      "data_hora_iso": "2026-07-17T18:11:00",
+      "calado": null,
+      "rota": "",
+      "berco": "PNAVE 01",
+      "posicao": null
     },
     {
       "navio": "NAVIOS DOMINO",
