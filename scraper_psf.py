@@ -2,16 +2,14 @@
 Scraper de status de navios - Praticagem São Francisco (São Francisco do Sul / Itapoá)
 ========================================================================================
 
-IMPORTANTE: essa página carrega a tabela de navios via JavaScript (depois que a
-página inicial já carregou). Por isso este script usa o Playwright, que abre um
-"navegador robô" de verdade (sem tela, rodando em segundo plano), espera o
-JavaScript rodar e só então lê a tabela - diferente de uma biblioteca simples
-tipo `requests`, que só baixa o HTML "cru" e não veria a tabela preenchida.
-
-Colunas esperadas na tabela:
-Navio | Nº IMO | Tipo de Navio | Agência | Comp. | Boca | Calado | GRT |
-Callsign | Data de Chegada | Data da Última Manobra | Manobra | Data de Manobra |
-Berço | Situação
+Essa página carrega a tabela de navios via JavaScript, e a tabela de dados pode
+estar dentro de um IFRAME aninhado (um "quadro" dentro da página). Por isso este
+script:
+1. Usa o Playwright para abrir um navegador robô de verdade e deixar o
+   JavaScript rodar
+2. Espera um tempo extra de segurança
+3. Procura a tabela de navios em TODOS os frames da página (o principal e
+   quaisquer iframes internos), não só no HTML de fora
 
 Como usar:
     python scraper_psf.py navios.txt
@@ -60,42 +58,71 @@ def parse_data_hora(texto: str):
 
 
 def encontrar_tabela_de_navios(soup):
+    """Retorna a tabela com mais linhas entre as que têm 'navio' no cabeçalho (evita pegar uma vazia por engano)."""
+    candidatas = []
     for tabela in soup.find_all("table"):
         headers_tabela = [th.get_text(strip=True).lower() for th in tabela.find_all("th")]
         if any("navio" in h for h in headers_tabela):
-            return tabela, headers_tabela
-    return None, []
+            candidatas.append((tabela, headers_tabela, len(tabela.find_all("tr"))))
+    if not candidatas:
+        return None, []
+    candidatas.sort(key=lambda x: x[2], reverse=True)
+    tabela, headers_tabela, _ = candidatas[0]
+    return tabela, headers_tabela
 
 
-def obter_html_renderizado():
-    """Abre a página num navegador headless, espera carregar, e devolve o HTML já com os dados."""
+def obter_htmls_de_todos_os_frames():
     with sync_playwright() as p:
         navegador = p.chromium.launch()
         pagina = navegador.new_page()
         pagina.goto(URL, wait_until="networkidle", timeout=30000)
+
         try:
             pagina.wait_for_selector("table", timeout=10000)
         except Exception:
             print("[aviso] nenhuma <table> apareceu em 10s de espera extra.", file=sys.stderr)
-        html = pagina.content()
+
+        pagina.wait_for_timeout(4000)
+
+        print(f"[debug] a página tem {len(pagina.frames)} frame(s) no total.", file=sys.stderr)
+
+        htmls = []
+        for i, frame in enumerate(pagina.frames):
+            try:
+                conteudo = frame.content()
+                qtd_tabelas = conteudo.lower().count("<table")
+                print(f"[debug] frame {i} ({frame.url}): {qtd_tabelas} tabela(s) no HTML.", file=sys.stderr)
+                htmls.append(conteudo)
+            except Exception as e:
+                print(f"[debug] não consegui ler o frame {i}: {e}", file=sys.stderr)
+
         navegador.close()
-        return html
+        return htmls
 
 
 def buscar_movimentacoes():
-    html = obter_html_renderizado()
-    soup = BeautifulSoup(html, "lxml")
+    htmls = obter_htmls_de_todos_os_frames()
 
-    tabela, headers_tabela = encontrar_tabela_de_navios(soup)
-    if tabela is None:
-        todas = soup.find_all("table")
-        print(f"[debug] {len(todas)} tabela(s) na página, nenhuma com coluna 'Navio'.", file=sys.stderr)
-        for i, t in enumerate(todas):
-            hs = [th.get_text(strip=True) for th in t.find_all("th")]
-            print(f"[debug] tabela {i}: {hs}", file=sys.stderr)
+    melhor_tabela = None
+    melhor_headers = []
+    melhor_qtd_linhas = 0
+
+    for html in htmls:
+        soup_temp = BeautifulSoup(html, "lxml")
+        tabela_temp, headers_temp = encontrar_tabela_de_navios(soup_temp)
+        if tabela_temp is not None:
+            qtd = len(tabela_temp.find_all("tr"))
+            print(f"[debug] tabela candidata encontrada com {qtd} linha(s), cabeçalho: {headers_temp}", file=sys.stderr)
+            if qtd > melhor_qtd_linhas:
+                melhor_tabela, melhor_headers, melhor_qtd_linhas = tabela_temp, headers_temp, qtd
+
+    if melhor_tabela is None or melhor_qtd_linhas <= 1:
         raise RuntimeError(
-            "Não encontrei nenhuma tabela com coluna 'Navio' na página, mesmo após renderizar o JavaScript."
+            "Não encontrei nenhuma tabela com dados de navios (com mais de 1 linha) "
+            "em nenhum frame da página, mesmo após renderizar o JavaScript."
         )
+
+    tabela, headers_tabela = melhor_tabela, melhor_headers
 
     registros = []
     for tr in tabela.find_all("tr")[1:]:
@@ -151,8 +178,9 @@ def cruzar_com_lista(navios_site, navios_acompanhados, limiar=0.82):
 
 def main():
     navios_site = buscar_movimentacoes()
+
     print(f"[debug] {len(navios_site)} navio(s) lidos da tabela no total.", file=sys.stderr)
-    for n in navios_site[:15]:
+    for n in navios_site[:20]:
         print(f"[debug]   - {n['navio']}", file=sys.stderr)
 
     if len(sys.argv) < 2:
