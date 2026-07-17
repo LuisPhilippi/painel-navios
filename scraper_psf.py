@@ -151,9 +151,10 @@ def cruzar_com_lista(navios_site, navios_acompanhados, limiar=0.82):
 
 def main():
     navios_site = buscar_movimentacoes()
-print(f"[debug] {len(navios_site)} navio(s) lidos da tabela no total.", file=sys.stderr)
+    print(f"[debug] {len(navios_site)} navio(s) lidos da tabela no total.", file=sys.stderr)
     for n in navios_site[:15]:
         print(f"[debug]   - {n['navio']}", file=sys.stderr)
+
     if len(sys.argv) < 2:
         print(json.dumps(navios_site, indent=2, ensure_ascii=False))
         return
