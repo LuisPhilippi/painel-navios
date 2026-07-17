@@ -18,9 +18,9 @@ jobs:
           python-version: '3.11'
       - run: pip install requests beautifulsoup4 lxml playwright
       - run: playwright install --with-deps chromium
-      - run: python scraper_zp21.py navios.txt
-      - run: python scraper_psf.py navios_psf.txt
       - run: git add resultado_zp21.json resultado_psf.json
+      - run: python scraper_zp21.py
+      - run: python scraper_psf.py
       - run: |
           git config user.name "Automação Painel"
           git config user.email "automacao@painel.local"
