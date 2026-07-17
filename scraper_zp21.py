@@ -1,23 +1,19 @@
 """
-Scraper de previsão de chegada de navios - ZP21 Práticos (Itajaí/Navegantes)
-=============================================================================
+Scraper de status de navios - ZP21 Práticos (Itajaí/Navegantes) - v2
+=====================================================================
 
-O que este script faz:
-1. Acessa a página pública de movimentação de navios do ZP21
-   (https://praticoszp21.com.br/movimentacao-de-navios/)
-2. Lê a tabela "Navios Previstos" (nome do navio + previsão de chegada)
-3. Cruza com a lista de navios que a empresa está acompanhando
-   (vinda da planilha semanal) usando comparação aproximada de nomes
-   (útil pois o nome pode vir com grafia levemente diferente)
-4. Gera um arquivo JSON com o resultado: navios encontrados (com ETA)
-   e navios da lista que não foram encontrados na página (para revisão manual)
+Agora o script lê TRÊS tabelas da página, não só uma, porque um navio
+pode estar em situações diferentes:
+
+- "Navios Previstos"  -> ainda a caminho, com previsão de chegada (ETA)
+- "Navios Fundeados"   -> já chegou na região e está ancorado, esperando vaga
+- "Navios Atracados"   -> já está atracado no cais
+
+Para cada navio da lista de vocês, o script busca nas três tabelas e retorna
+o status mais concreto que encontrar (Atracado > Fundeado > Previsto).
 
 Como usar:
-    python scraper_zp21.py caminho/para/navios_acompanhados.txt
-
-O arquivo .txt de entrada deve ter um nome de navio por linha, exatamente
-como aparece na planilha (ex: MSC AVNI, LOG-IN ENDURANCE, etc).
-Se nenhum arquivo for passado, o script só imprime tudo que encontrou no site.
+    python scraper_zp21.py navios.txt
 
 Dependências:
     pip install requests beautifulsoup4 lxml
@@ -35,8 +31,6 @@ from bs4 import BeautifulSoup
 
 URL = "https://praticoszp21.com.br/movimentacao-de-navios/"
 
-# Navegadores de verdade mandam esse cabeçalho; alguns sites bloqueiam
-# requisições sem User-Agent por padrão.
 HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
@@ -44,9 +38,16 @@ HEADERS = {
     )
 }
 
+TABELAS_ALVO = {
+    "navios previstos": "Previsto",
+    "navios fundeados": "Fundeado",
+    "navios atracados": "Atracado",
+}
+
+PRIORIDADE_STATUS = {"Atracado": 3, "Fundeado": 2, "Previsto": 1}
+
 
 def normalizar(texto: str) -> str:
-    """Remove acentos, espaços extras e deixa em maiúsculas, para comparar nomes."""
     texto = texto.strip().upper()
     texto = unicodedata.normalize("NFKD", texto).encode("ASCII", "ignore").decode("ASCII")
     texto = re.sub(r"\s+", " ", texto)
@@ -54,88 +55,94 @@ def normalizar(texto: str) -> str:
 
 
 def parse_data_hora(texto: str):
-    """Converte 'dd/mm/aaaa - HH:MM' em datetime. Retorna None se não der para converter."""
-    texto = texto.strip()
-    try:
-        return datetime.strptime(texto, "%d/%m/%Y - %H:%M")
-    except ValueError:
-        return None
+    texto = (texto or "").strip()
+    for formato in ("%d/%m/%Y - %H:%M", "%d/%m/%Y-%H:%M"):
+        try:
+            return datetime.strptime(texto, formato)
+        except ValueError:
+            continue
+    return None
 
 
-def buscar_navios_previstos():
-    """Busca a tabela 'Navios Previstos' na página do ZP21 e retorna uma lista de dicts."""
+def extrair_tabela(soup, titulo_procurado):
+    for tag in soup.find_all(["h1", "h2", "h3", "h4", "strong"]):
+        if titulo_procurado in tag.get_text(strip=True).lower():
+            return tag.find_next("table")
+    return None
+
+
+def tabela_para_dicts(tabela):
+    if tabela is None:
+        return []
+    headers_tabela = [th.get_text(strip=True).lower() for th in tabela.find_all("th")]
+    linhas = []
+    for tr in tabela.find_all("tr")[1:]:
+        colunas = [td.get_text(strip=True) for td in tr.find_all("td")]
+        if not colunas:
+            continue
+        linhas.append(dict(zip(headers_tabela, colunas)))
+    return linhas
+
+
+def buscar_status_navios():
     resp = requests.get(URL, headers=HEADERS, timeout=20)
     resp.raise_for_status()
-
     soup = BeautifulSoup(resp.text, "lxml")
 
-    # Estratégia: procurar o título "Navios Previstos" (pode estar em h2/h3/strong)
-    # e pegar a primeira <table> que aparece depois dele. Isso é mais resistente
-    # a mudanças de layout do que "pegar a tabela de índice X".
-    titulo = None
-    for tag in soup.find_all(["h1", "h2", "h3", "h4", "strong"]):
-        if "navios previstos" in tag.get_text(strip=True).lower():
-            titulo = tag
-            break
+    navios_por_chave = {}
 
-    if titulo is None:
-        raise RuntimeError(
-            "Não encontrei o título 'Navios Previstos' na página. "
-            "O site pode ter mudado a estrutura - me avise para eu ajustar."
-        )
-
-    tabela = titulo.find_next("table")
-    if tabela is None:
-        raise RuntimeError("Encontrei o título 'Navios Previstos' mas nenhuma tabela depois dele.")
-
-    # Cabeçalhos esperados: Navio | Loa | Calado | Rota | Previsão de chegada | Rebocadores
-    headers_tabela = [th.get_text(strip=True).lower() for th in tabela.find_all("th")]
-
-    navios = []
-    for linha in tabela.find_all("tr")[1:]:  # pula o cabeçalho
-        colunas = [td.get_text(strip=True) for td in linha.find_all("td")]
-        if not colunas or len(colunas) < 2:
+    for titulo_procurado, status in TABELAS_ALVO.items():
+        tabela = extrair_tabela(soup, titulo_procurado)
+        if tabela is None:
+            print(f"[aviso] não encontrei a tabela '{titulo_procurado}' na página.", file=sys.stderr)
             continue
 
-        registro = dict(zip(headers_tabela, colunas))
+        for registro in tabela_para_dicts(tabela):
+            nome = (registro.get("navio") or "").strip()
+            if not nome:
+                continue
 
-        nome = registro.get("navio", "").strip()
-        eta_texto = registro.get("previsão de chegada") or registro.get("previsao de chegada") or ""
-        eta_dt = parse_data_hora(eta_texto)
+            eta_texto = (
+                registro.get("previsão de chegada")
+                or registro.get("previsao de chegada")
+                or registro.get("data - hora")
+                or registro.get("data-hora")
+                or ""
+            )
+            eta_dt = parse_data_hora(eta_texto)
 
-        if nome:
-            navios.append({
+            chave = normalizar(nome)
+            candidato = {
                 "navio": nome,
-                "previsao_chegada_texto": eta_texto,
-                "previsao_chegada_iso": eta_dt.isoformat() if eta_dt else None,
+                "status": status,
+                "data_hora_texto": eta_texto or None,
+                "data_hora_iso": eta_dt.isoformat() if eta_dt else None,
                 "calado": registro.get("calado"),
                 "rota": registro.get("rota"),
-            })
+                "berco": registro.get("berço") or registro.get("berco"),
+                "posicao": registro.get("posicao") or registro.get("posição"),
+            }
 
-    return navios
+            existente = navios_por_chave.get(chave)
+            if existente is None or PRIORIDADE_STATUS[status] > PRIORIDADE_STATUS[existente["status"]]:
+                navios_por_chave[chave] = candidato
+
+    return list(navios_por_chave.values())
 
 
 def cruzar_com_lista(navios_site, navios_acompanhados, limiar=0.82):
-    """
-    Faz o "match" entre os navios do site e os navios que a empresa acompanha.
-    Usa comparação aproximada (fuzzy) porque nomes podem vir com grafia
-    levemente diferente entre a planilha da empresa e o site do prático.
-    """
     encontrados = []
     nomes_site_normalizados = {normalizar(n["navio"]): n for n in navios_site}
-
     nao_encontrados = []
 
     for nome_buscado in navios_acompanhados:
         chave_buscada = normalizar(nome_buscado)
 
-        # 1. tenta igualdade exata primeiro
         if chave_buscada in nomes_site_normalizados:
             match = nomes_site_normalizados[chave_buscada]
             encontrados.append({"navio_planilha": nome_buscado, **match})
             continue
 
-        # 2. senão, tenta a melhor aproximação (ex: pequenas diferenças de grafia)
         candidatos = difflib.get_close_matches(
             chave_buscada, nomes_site_normalizados.keys(), n=1, cutoff=limiar
         )
@@ -149,14 +156,13 @@ def cruzar_com_lista(navios_site, navios_acompanhados, limiar=0.82):
 
 
 def main():
-    navios_site = buscar_navios_previstos()
+    navios_site = buscar_status_navios()
 
     if len(sys.argv) < 2:
         print(json.dumps(navios_site, indent=2, ensure_ascii=False))
         return
 
-    caminho_lista = sys.argv[1]
-    with open(caminho_lista, encoding="utf-8") as f:
+    with open(sys.argv[1], encoding="utf-8") as f:
         navios_acompanhados = [linha.strip() for linha in f if linha.strip()]
 
     encontrados, nao_encontrados = cruzar_com_lista(navios_site, navios_acompanhados)
@@ -171,8 +177,10 @@ def main():
         json.dump(resultado, f, indent=2, ensure_ascii=False)
 
     print(f"{len(encontrados)} navio(s) encontrado(s) e atualizado(s).")
+    for item in encontrados:
+        print(f"  - {item['navio_planilha']}: status = {item['status']}")
     if nao_encontrados:
-        print(f"{len(nao_encontrados)} navio(s) da lista NÃO encontrados no site:")
+        print(f"{len(nao_encontrados)} navio(s) da lista NÃO encontrados em nenhuma das 3 tabelas:")
         for n in nao_encontrados:
             print(f"  - {n}")
     print("Resultado completo salvo em resultado_zp21.json")
