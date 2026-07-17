@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-07-17T18:38:28.470516",
+  "gerado_em": "2026-07-17T20:39:42.609777",
   "navios": [
     {
       "navio": "SUNNY PHOENIX",
@@ -232,16 +232,6 @@
       "posicao": "26 55,01 S / 048 29,94 W"
     },
     {
-      "navio": "LOG-IN JATOBÁ",
-      "status": "Atracado",
-      "data_hora_texto": "17/07/2026 - 08:10",
-      "data_hora_iso": "2026-07-17T08:10:00",
-      "calado": null,
-      "rota": "",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
       "navio": "NAVIOS DOMINO",
       "status": "Atracado",
       "data_hora_texto": "16/07/2026 - 22:58",
@@ -249,16 +239,6 @@
       "calado": null,
       "rota": "",
       "berco": "PORTO ITAJAI - 03",
-      "posicao": null
-    },
-    {
-      "navio": "PRESTIGE",
-      "status": "Atracado",
-      "data_hora_texto": "16/07/2026 - 03:27",
-      "data_hora_iso": "2026-07-16T03:27:00",
-      "calado": null,
-      "rota": "",
-      "berco": "JBS 2",
       "posicao": null
     },
     {
