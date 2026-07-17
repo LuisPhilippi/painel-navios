@@ -213,3 +213,32 @@ def main():
         print(f"[debug]   - {n['navio']}", file=sys.stderr)
 
     if len(sys.argv) < 2:
+       print(json.dumps(navios_site, indent=2, ensure_ascii=False))
+        return
+
+    with open(sys.argv[1], encoding="utf-8") as f:
+        navios_acompanhados = [linha.strip() for linha in f if linha.strip()]
+
+    encontrados, nao_encontrados = cruzar_com_lista(navios_site, navios_acompanhados)
+
+    resultado = {
+        "gerado_em": datetime.now().isoformat(),
+        "encontrados": encontrados,
+        "nao_encontrados": nao_encontrados,
+    }
+
+    with open("resultado_psf.json", "w", encoding="utf-8") as f:
+        json.dump(resultado, f, indent=2, ensure_ascii=False)
+
+    print(f"{len(encontrados)} navio(s) encontrado(s) e atualizado(s).")
+    for item in encontrados:
+        print(f"  - {item['navio_planilha']}: situação = {item.get('situacao')}")
+    if nao_encontrados:
+        print(f"{len(nao_encontrados)} navio(s) da lista NÃO encontrados:")
+        for n in nao_encontrados:
+            print(f"  - {n}")
+    print("Resultado completo salvo em resultado_psf.json")
+
+
+if __name__ == "__main__":
+    main()
