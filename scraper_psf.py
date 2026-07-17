@@ -2,18 +2,14 @@
 Scraper de status de navios - Praticagem São Francisco (São Francisco do Sul / Itapoá)
 ========================================================================================
 
-Essa página carrega a tabela de navios via JavaScript, dentro de uma estrutura
-de abas (Movimentações / Atracados / Fundeados / Esperados). A tabela real de
-dados usa células <td> (não <th>) como cabeçalho, e fica aninhada dentro da
-tabela de abas. Por isso este script:
-
+Essa página carrega a tabela de navios via JavaScript, e a tabela de dados pode
+estar dentro de um IFRAME aninhado (um "quadro" dentro da página). Por isso este
+script:
 1. Usa o Playwright para abrir um navegador robô de verdade e deixar o
    JavaScript rodar
 2. Espera um tempo extra de segurança
-3. Procura, em TODOS os frames e TODAS as tabelas (incluindo aninhadas), a que
-   tem uma célula exatamente igual a "Navio" na primeira linha - evitando
-   confundir com tabelas de abas tipo "Navios Atracados", que só têm a palavra
-   "navio" dentro de um rótulo maior
+3. Procura a tabela de navios em TODOS os frames da página (o principal e
+   quaisquer iframes internos), não só no HTML de fora
 
 Como usar:
     python scraper_psf.py navios.txt
@@ -101,6 +97,11 @@ def encontrar_tabela_de_navios(soup):
 
 
 def obter_htmls_de_todos_os_frames():
+    """
+    Abre a página num navegador headless, espera o JavaScript preencher os dados
+    (com uma folga extra de segurança), e devolve o HTML de cada frame da página
+    (principal + iframes internos) separadamente.
+    """
     with sync_playwright() as p:
         navegador = p.chromium.launch()
         pagina = navegador.new_page()
@@ -213,7 +214,7 @@ def main():
         print(f"[debug]   - {n['navio']}", file=sys.stderr)
 
     if len(sys.argv) < 2:
-       print(json.dumps(navios_site, indent=2, ensure_ascii=False))
+        print(json.dumps(navios_site, indent=2, ensure_ascii=False))
         return
 
     with open(sys.argv[1], encoding="utf-8") as f:
