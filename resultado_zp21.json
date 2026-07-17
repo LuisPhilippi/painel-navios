@@ -1,19 +1,137 @@
 {
-  "gerado_em": "2026-07-17T15:38:28.614105",
-  "encontrados": [
+  "gerado_em": "2026-07-17T16:55:52.723439",
+  "navios": [
     {
-      "navio_planilha": "MSC AVNI",
-      "navio": "MSC AVNI",
-      "status": "Fundeado",
-      "data_hora_texto": "17/07/2026 - 11:55",
-      "data_hora_iso": "2026-07-17T11:55:00",
-      "calado": "11,70/12,20",
+      "navio": "SUNNY PHOENIX",
+      "status": "Previsto",
+      "data_hora_texto": "29/06/2026 - 06:00",
+      "data_hora_iso": "2026-06-29T06:00:00",
+      "calado": "10,00/10,20",
       "rota": "",
       "berco": null,
-      "posicao": "26 55,01 S / 048 29,94 W"
+      "posicao": null
     },
     {
-      "navio_planilha": "LOG-IN ENDURANCE",
+      "navio": "MSC DAKAR X",
+      "status": "Previsto",
+      "data_hora_texto": "13/07/2026 - 03:00",
+      "data_hora_iso": "2026-07-13T03:00:00",
+      "calado": "8,80/11,30",
+      "rota": "",
+      "berco": null,
+      "posicao": null
+    },
+    {
+      "navio": "LI DA XING",
+      "status": "Previsto",
+      "data_hora_texto": "14/07/2026 - 08:00",
+      "data_hora_iso": "2026-07-14T08:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": null,
+      "posicao": null
+    },
+    {
+      "navio": "ESPIRITO SANTO EXPRESS",
+      "status": "Previsto",
+      "data_hora_texto": "14/07/2026 - 17:00",
+      "data_hora_iso": "2026-07-14T17:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": null,
+      "posicao": null
+    },
+    {
+      "navio": "PIO GRANDE",
+      "status": "Previsto",
+      "data_hora_texto": "18/07/2026 - 19:00",
+      "data_hora_iso": "2026-07-18T19:00:00",
+      "calado": "5,00/5,40",
+      "rota": "",
+      "berco": null,
+      "posicao": null
+    },
+    {
+      "navio": "ACASTOS",
+      "status": "Previsto",
+      "data_hora_texto": "19/07/2026 - 01:00",
+      "data_hora_iso": "2026-07-19T01:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": null,
+      "posicao": null
+    },
+    {
+      "navio": "SAN AUGUSTIN MAERSK",
+      "status": "Previsto",
+      "data_hora_texto": "19/07/2026 - 07:00",
+      "data_hora_iso": "2026-07-19T07:00:00",
+      "calado": "11,60/11,70",
+      "rota": "",
+      "berco": null,
+      "posicao": null
+    },
+    {
+      "navio": "MERCOSUL SUAPE",
+      "status": "Previsto",
+      "data_hora_texto": "19/07/2026 - 12:00",
+      "data_hora_iso": "2026-07-19T12:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": null,
+      "posicao": null
+    },
+    {
+      "navio": "MSC INIYA V",
+      "status": "Previsto",
+      "data_hora_texto": "19/07/2026 - 14:00",
+      "data_hora_iso": "2026-07-19T14:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": null,
+      "posicao": null
+    },
+    {
+      "navio": "CBO XAVANTES",
+      "status": "Previsto",
+      "data_hora_texto": "19/07/2026 - 16:00",
+      "data_hora_iso": "2026-07-19T16:00:00",
+      "calado": "6,70 EK",
+      "rota": "",
+      "berco": null,
+      "posicao": null
+    },
+    {
+      "navio": "MSC LE HAVRE",
+      "status": "Previsto",
+      "data_hora_texto": "20/07/2026 - 01:00",
+      "data_hora_iso": "2026-07-20T01:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": null,
+      "posicao": null
+    },
+    {
+      "navio": "NC BRUMA",
+      "status": "Previsto",
+      "data_hora_texto": "20/07/2026 - 01:00",
+      "data_hora_iso": "2026-07-20T01:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": null,
+      "posicao": null
+    },
+    {
+      "navio": "DOVER HIGHWAY",
+      "status": "Previsto",
+      "data_hora_texto": "20/07/2026 - 16:00",
+      "data_hora_iso": "2026-07-20T16:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": null,
+      "posicao": null
+    },
+    {
       "navio": "LOG-IN ENDURANCE",
       "status": "Previsto",
       "data_hora_texto": "21/07/2026 - 04:00",
@@ -24,7 +142,56 @@
       "posicao": null
     },
     {
-      "navio_planilha": "HMM SKY",
+      "navio": "ADVENTURER",
+      "status": "Previsto",
+      "data_hora_texto": "24/07/2026 - 07:00",
+      "data_hora_iso": "2026-07-24T07:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": null,
+      "posicao": null
+    },
+    {
+      "navio": "LOG-IN RESILIENTE",
+      "status": "Previsto",
+      "data_hora_texto": "24/07/2026 - 17:00",
+      "data_hora_iso": "2026-07-24T17:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": null,
+      "posicao": null
+    },
+    {
+      "navio": "CAPE ALTIUS",
+      "status": "Previsto",
+      "data_hora_texto": "26/07/2026 - 01:00",
+      "data_hora_iso": "2026-07-26T01:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": null,
+      "posicao": null
+    },
+    {
+      "navio": "NC BREDA",
+      "status": "Previsto",
+      "data_hora_texto": "27/07/2026 - 06:00",
+      "data_hora_iso": "2026-07-27T06:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": null,
+      "posicao": null
+    },
+    {
+      "navio": "XIAMEN EXPRESS",
+      "status": "Previsto",
+      "data_hora_texto": "27/07/2026 - 07:00",
+      "data_hora_iso": "2026-07-27T07:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": null,
+      "posicao": null
+    },
+    {
       "navio": "HMM SKY",
       "status": "Fundeado",
       "data_hora_texto": "13/07/2026 - 00:56",
@@ -33,7 +200,76 @@
       "rota": "",
       "berco": null,
       "posicao": "26 54,70 S / 048 32,15 W"
+    },
+    {
+      "navio": "COSTA RICA EXPRESS",
+      "status": "Fundeado",
+      "data_hora_texto": "15/07/2026 - 18:07",
+      "data_hora_iso": "2026-07-15T18:07:00",
+      "calado": "10,50/10,70",
+      "rota": "",
+      "berco": null,
+      "posicao": "26 58,73 S / 048 28,85 W"
+    },
+    {
+      "navio": "NAVARINO",
+      "status": "Fundeado",
+      "data_hora_texto": "16/07/2026 - 15:28",
+      "data_hora_iso": "2026-07-16T15:28:00",
+      "calado": "10,00 EK",
+      "rota": "",
+      "berco": null,
+      "posicao": "26 57,78 S / 048 30,98 W"
+    },
+    {
+      "navio": "MSC AVNI",
+      "status": "Fundeado",
+      "data_hora_texto": "17/07/2026 - 11:55",
+      "data_hora_iso": "2026-07-17T11:55:00",
+      "calado": "11,70/12,20",
+      "rota": "",
+      "berco": null,
+      "posicao": "26 55,01 S / 048 29,94 W"
+    },
+    {
+      "navio": "LOG-IN JATOBÁ",
+      "status": "Atracado",
+      "data_hora_texto": "17/07/2026 - 08:10",
+      "data_hora_iso": "2026-07-17T08:10:00",
+      "calado": null,
+      "rota": "",
+      "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
+      "navio": "NAVIOS DOMINO",
+      "status": "Atracado",
+      "data_hora_texto": "16/07/2026 - 22:58",
+      "data_hora_iso": "2026-07-16T22:58:00",
+      "calado": null,
+      "rota": "",
+      "berco": "PORTO ITAJAI - 03",
+      "posicao": null
+    },
+    {
+      "navio": "PRESTIGE",
+      "status": "Atracado",
+      "data_hora_texto": "16/07/2026 - 03:27",
+      "data_hora_iso": "2026-07-16T03:27:00",
+      "calado": null,
+      "rota": "",
+      "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "BRAM BUCCANEER",
+      "status": "Atracado",
+      "data_hora_texto": "22/01/2026 - 10:04",
+      "data_hora_iso": "2026-01-22T10:04:00",
+      "calado": null,
+      "rota": "",
+      "berco": "NAVSHIP",
+      "posicao": null
     }
-  ],
-  "nao_encontrados": []
+  ]
 }
