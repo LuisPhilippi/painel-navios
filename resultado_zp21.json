@@ -1,16 +1,16 @@
 {
-  "gerado_em": "2026-07-17T14:47:24.430389",
+  "gerado_em": "2026-07-17T15:01:57.379492",
   "encontrados": [
     {
       "navio_planilha": "MSC AVNI",
       "navio": "MSC AVNI",
-      "status": "Previsto",
-      "data_hora_texto": "17/07/2026 - 13:00",
-      "data_hora_iso": "2026-07-17T13:00:00",
+      "status": "Fundeado",
+      "data_hora_texto": "17/07/2026 - 11:55",
+      "data_hora_iso": "2026-07-17T11:55:00",
       "calado": "11,70/12,20",
       "rota": "",
       "berco": null,
-      "posicao": null
+      "posicao": "26 55,01 S / 048 29,94 W"
     },
     {
       "navio_planilha": "LOG-IN ENDURANCE",
