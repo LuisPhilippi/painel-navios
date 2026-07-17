@@ -2,20 +2,23 @@
 Scraper de status de navios - Praticagem São Francisco (São Francisco do Sul / Itapoá)
 ========================================================================================
 
-Este site tem uma única tabela "Movimentações" com colunas:
+IMPORTANTE: essa página carrega a tabela de navios via JavaScript (depois que a
+página inicial já carregou). Por isso este script usa o Playwright, que abre um
+"navegador robô" de verdade (sem tela, rodando em segundo plano), espera o
+JavaScript rodar e só então lê a tabela - diferente de uma biblioteca simples
+tipo `requests`, que só baixa o HTML "cru" e não veria a tabela preenchida.
+
+Colunas esperadas na tabela:
 Navio | Nº IMO | Tipo de Navio | Agência | Comp. | Boca | Calado | GRT |
 Callsign | Data de Chegada | Data da Última Manobra | Manobra | Data de Manobra |
 Berço | Situação
-
-O script identifica a tabela automaticamente (procurando a que tem uma coluna
-"Navio" no cabeçalho, em vez de depender de um título fixo, já que essa página
-pode não ter um título de seção como no ZP21).
 
 Como usar:
     python scraper_psf.py navios.txt
 
 Dependências:
-    pip install requests beautifulsoup4 lxml
+    pip install playwright beautifulsoup4 lxml
+    playwright install --with-deps chromium
 """
 
 import sys
@@ -25,17 +28,10 @@ import unicodedata
 import difflib
 from datetime import datetime
 
-import requests
 from bs4 import BeautifulSoup
+from playwright.sync_api import sync_playwright
 
 URL = "https://webpilot.praticagemsaofrancisco.com.br/webpilot/integracao/itmanobrassfs.aspx?chave_api=55021FC5-3800-4E11-8B7D-C4726E8E07F8"
-
-HEADERS = {
-    "User-Agent": (
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-        "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"
-    )
-}
 
 DATA_RE = re.compile(r"(\d{2}/\d{2}/\d{4})")
 HORA_RE = re.compile(r"(\d{2}:\d{2})")
@@ -71,16 +67,34 @@ def encontrar_tabela_de_navios(soup):
     return None, []
 
 
+def obter_html_renderizado():
+    """Abre a página num navegador headless, espera carregar, e devolve o HTML já com os dados."""
+    with sync_playwright() as p:
+        navegador = p.chromium.launch()
+        pagina = navegador.new_page()
+        pagina.goto(URL, wait_until="networkidle", timeout=30000)
+        try:
+            pagina.wait_for_selector("table", timeout=10000)
+        except Exception:
+            print("[aviso] nenhuma <table> apareceu em 10s de espera extra.", file=sys.stderr)
+        html = pagina.content()
+        navegador.close()
+        return html
+
+
 def buscar_movimentacoes():
-    resp = requests.get(URL, headers=HEADERS, timeout=20)
-    resp.raise_for_status()
-    soup = BeautifulSoup(resp.text, "lxml")
+    html = obter_html_renderizado()
+    soup = BeautifulSoup(html, "lxml")
 
     tabela, headers_tabela = encontrar_tabela_de_navios(soup)
     if tabela is None:
+        todas = soup.find_all("table")
+        print(f"[debug] {len(todas)} tabela(s) na página, nenhuma com coluna 'Navio'.", file=sys.stderr)
+        for i, t in enumerate(todas):
+            hs = [th.get_text(strip=True) for th in t.find_all("th")]
+            print(f"[debug] tabela {i}: {hs}", file=sys.stderr)
         raise RuntimeError(
-            "Não encontrei nenhuma tabela com coluna 'Navio' na página. "
-            "O site pode carregar os dados via JavaScript, ou a estrutura mudou - me avise."
+            "Não encontrei nenhuma tabela com coluna 'Navio' na página, mesmo após renderizar o JavaScript."
         )
 
     registros = []
