@@ -38,12 +38,14 @@ HEADERS = {
     )
 }
 
+# título exato na página -> nome do status que vamos usar no resultado
 TABELAS_ALVO = {
     "navios previstos": "Previsto",
     "navios fundeados": "Fundeado",
     "navios atracados": "Atracado",
 }
 
+# ordem de prioridade quando um navio aparece em mais de uma tabela
 PRIORIDADE_STATUS = {"Atracado": 3, "Fundeado": 2, "Previsto": 1}
 
 
@@ -55,6 +57,7 @@ def normalizar(texto: str) -> str:
 
 
 def parse_data_hora(texto: str):
+    """Aceita formatos 'dd/mm/aaaa - HH:MM' e retorna datetime, ou None se não bater."""
     texto = (texto or "").strip()
     for formato in ("%d/%m/%Y - %H:%M", "%d/%m/%Y-%H:%M"):
         try:
@@ -65,13 +68,16 @@ def parse_data_hora(texto: str):
 
 
 def extrair_tabela(soup, titulo_procurado):
+    """Acha o título (h1-h4/strong) que contém titulo_procurado e devolve a tabela seguinte."""
     for tag in soup.find_all(["h1", "h2", "h3", "h4", "strong"]):
         if titulo_procurado in tag.get_text(strip=True).lower():
-            return tag.find_next("table")
+            tabela = tag.find_next("table")
+            return tabela
     return None
 
 
 def tabela_para_dicts(tabela):
+    """Converte uma <table> do BeautifulSoup em uma lista de dicts (chave = cabeçalho em minúsculo)."""
     if tabela is None:
         return []
     headers_tabela = [th.get_text(strip=True).lower() for th in tabela.find_all("th")]
@@ -85,6 +91,10 @@ def tabela_para_dicts(tabela):
 
 
 def buscar_status_navios():
+    """
+    Busca as três tabelas e retorna uma lista unificada, um registro por navio,
+    já com o status mais concreto (se o navio aparecer em mais de uma tabela).
+    """
     resp = requests.get(URL, headers=HEADERS, timeout=20)
     resp.raise_for_status()
     soup = BeautifulSoup(resp.text, "lxml")
@@ -94,6 +104,7 @@ def buscar_status_navios():
     for titulo_procurado, status in TABELAS_ALVO.items():
         tabela = extrair_tabela(soup, titulo_procurado)
         if tabela is None:
+            # Não interrompe tudo por causa de uma tabela só; apenas avisa.
             print(f"[aviso] não encontrei a tabela '{titulo_procurado}' na página.", file=sys.stderr)
             continue
 
@@ -158,32 +169,15 @@ def cruzar_com_lista(navios_site, navios_acompanhados, limiar=0.82):
 def main():
     navios_site = buscar_status_navios()
 
-    if len(sys.argv) < 2:
-        print(json.dumps(navios_site, indent=2, ensure_ascii=False))
-        return
-
-    with open(sys.argv[1], encoding="utf-8") as f:
-        navios_acompanhados = [linha.strip() for linha in f if linha.strip()]
-
-    encontrados, nao_encontrados = cruzar_com_lista(navios_site, navios_acompanhados)
-
     resultado = {
         "gerado_em": datetime.now().isoformat(),
-        "encontrados": encontrados,
-        "nao_encontrados": nao_encontrados,
+        "navios": navios_site,
     }
 
     with open("resultado_zp21.json", "w", encoding="utf-8") as f:
         json.dump(resultado, f, indent=2, ensure_ascii=False)
 
-    print(f"{len(encontrados)} navio(s) encontrado(s) e atualizado(s).")
-    for item in encontrados:
-        print(f"  - {item['navio_planilha']}: status = {item['status']}")
-    if nao_encontrados:
-        print(f"{len(nao_encontrados)} navio(s) da lista NÃO encontrados em nenhuma das 3 tabelas:")
-        for n in nao_encontrados:
-            print(f"  - {n}")
-    print("Resultado completo salvo em resultado_zp21.json")
+    print(f"{len(navios_site)} navio(s) publicado(s) em resultado_zp21.json")
 
 
 if __name__ == "__main__":
