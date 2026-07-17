@@ -93,16 +93,29 @@ def encontrar_todas_tabelas_de_navios(soup):
     igual a "Navio" - ou seja, cada seção (Movimentações, Atracados, etc)
     vira um item separado nessa lista.
     """
+    todas_tabelas = soup.find_all("table")
+    print(f"[debug] {len(todas_tabelas)} <table> no total nesta página/frame.", file=sys.stderr)
+
     encontradas = []
-    for tabela in soup.find_all("table"):
+    for i, tabela in enumerate(todas_tabelas):
         linhas = linhas_diretas_da_tabela(tabela)
         if not linhas:
+            print(f"[debug] tabela {i}: 0 linha(s) direta(s) (provavelmente vazia ou só decorativa).", file=sys.stderr)
             continue
+
         primeira_linha = celulas_da_linha(linhas[0])
         normalizadas = [normalizar(c) for c in primeira_linha]
 
         tem_navio_exato = any(n == "NAVIO" for n in normalizadas)
         score = sum(1 for n in normalizadas for kw in PALAVRAS_CHAVE if kw in n)
+
+        amostra = [c[:30] for c in primeira_linha[:8]]
+        print(
+            f"[debug] tabela {i}: {len(linhas)} linha(s) direta(s), "
+            f"tem_navio_exato={tem_navio_exato}, score={score}, "
+            f"1ª linha (amostra): {amostra}",
+            file=sys.stderr,
+        )
 
         if tem_navio_exato and score >= 3:
             headers_tabela = [c.lower() for c in primeira_linha]
