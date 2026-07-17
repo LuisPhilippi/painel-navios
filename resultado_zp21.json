@@ -1,0 +1,24 @@
+{
+  "gerado_em": "2026-07-17T13:45:18.751067",
+  "encontrados": [
+    {
+      "navio_planilha": "MSC AVNI",
+      "navio": "MSC AVNI",
+      "previsao_chegada_texto": "17/07/2026 - 13:00",
+      "previsao_chegada_iso": "2026-07-17T13:00:00",
+      "calado": "11,70/12,20",
+      "rota": ""
+    },
+    {
+      "navio_planilha": "LOG-IN ENDURANCE",
+      "navio": "LOG-IN ENDURANCE",
+      "previsao_chegada_texto": "21/07/2026 - 04:00",
+      "previsao_chegada_iso": "2026-07-21T04:00:00",
+      "calado": "TBC",
+      "rota": ""
+    }
+  ],
+  "nao_encontrados": [
+    "HMM SKY"
+  ]
+}
