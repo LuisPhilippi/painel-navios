@@ -1,54 +1,6 @@
 {
-  "gerado_em": "2026-07-18T19:56:04.467896",
+  "gerado_em": "2026-07-18T22:34:27.845472",
   "navios": [
-    {
-      "navio": "Jamaica Bay",
-      "imo": "9610717",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "18/07/2026 11:18",
-      "data_chegada_iso": "2026-07-18T11:18:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "18/07/2026 14:00",
-      "berco": "BARRA 302",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Aristo Ocean",
-      "imo": "9909223",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "11/07/2026 14:18",
-      "data_chegada_iso": "2026-07-11T14:18:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "18/07/2026 16:45",
-      "berco": "BARRA 101",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Maersk Ganges",
-      "imo": "9694581",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "15/07/2026 08:30",
-      "data_chegada_iso": "2026-07-15T08:30:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "18/07/2026 16:45",
-      "berco": "901 BARRA",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Alwine",
-      "imo": "9692698",
-      "agencia": "LITORAL",
-      "data_chegada_texto": "08/07/2026 05:31",
-      "data_chegada_iso": "2026-07-08T05:31:00",
-      "manobra": "Desatracação e Fundeio",
-      "data_manobra": "18/07/2026 16:45",
-      "berco": "101 F3",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "CMA CGM Veracruz",
       "imo": "9418377",
@@ -58,7 +10,7 @@
       "manobra": "Entrada e Atracação",
       "data_manobra": "18/07/2026 18:15",
       "berco": "BARRA 901",
-      "situacao": "Confirmado",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -68,7 +20,7 @@
       "data_chegada_texto": "17/07/2026 01:16",
       "data_chegada_iso": "2026-07-17T01:16:00",
       "manobra": "Entrada e Atracação",
-      "data_manobra": "18/07/2026 21:30",
+      "data_manobra": "18/07/2026 22:30",
       "berco": "BARRA 902",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
@@ -80,8 +32,56 @@
       "data_chegada_texto": "17/07/2026 08:08",
       "data_chegada_iso": "2026-07-17T08:08:00",
       "manobra": "Desatracação e Fundeio",
-      "data_manobra": "18/07/2026 21:30",
+      "data_manobra": "18/07/2026 22:30",
       "berco": "902 F5",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "MSC Meline",
+      "imo": "9702077",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "17/07/2026 03:11",
+      "data_chegada_iso": "2026-07-17T03:11:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "19/07/2026 05:15",
+      "berco": "BARRA 901",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "CMA CGM Lisa Marie",
+      "imo": "9729099",
+      "agencia": "UNIMAR",
+      "data_chegada_texto": "19/07/2026 15:00",
+      "data_chegada_iso": "2026-07-19T15:00:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "19/07/2026 15:00",
+      "berco": "BARRA 902",
+      "situacao": "A Confirmar",
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Gallia Graeca II",
+      "imo": "1060136",
+      "agencia": "ALPHAMAR",
+      "data_chegada_texto": "11/07/2026 14:20",
+      "data_chegada_iso": "2026-07-11T14:20:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "19/07/2026 17:15",
+      "berco": "BARRA 101",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Aristo Ocean",
+      "imo": "9909223",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "11/07/2026 14:18",
+      "data_chegada_iso": "2026-07-11T14:18:00",
+      "manobra": "Desatracação e Fundeio",
+      "data_manobra": "20/07/2026 01:00",
+      "berco": "101 F5",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
     },
@@ -110,6 +110,30 @@
       "secao": "Navios Atracados"
     },
     {
+      "navio": "Jamaica Bay",
+      "imo": "9610717",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "18/07/2026 11:18",
+      "data_chegada_iso": "2026-07-18T11:18:00",
+      "manobra": null,
+      "data_manobra": null,
+      "berco": "302",
+      "situacao": null,
+      "secao": "Navios Atracados"
+    },
+    {
+      "navio": "Alwine",
+      "imo": "9692698",
+      "agencia": "LITORAL",
+      "data_chegada_texto": "08/07/2026 05:31",
+      "data_chegada_iso": "2026-07-08T05:31:00",
+      "manobra": null,
+      "data_manobra": null,
+      "berco": "F3",
+      "situacao": null,
+      "secao": "Navios Fundeados (Internos)"
+    },
+    {
       "navio": "Barcaça N09",
       "imo": "9326005",
       "agencia": "WILSON SONS",
@@ -122,18 +146,6 @@
       "secao": "Navios Fundeados (Internos)"
     },
     {
-      "navio": "Gallia Graeca II",
-      "imo": "1060136",
-      "agencia": "ALPHAMAR",
-      "data_chegada_texto": "11/07/2026 14:20",
-      "data_chegada_iso": "2026-07-11T14:20:00",
-      "manobra": null,
-      "data_manobra": null,
-      "berco": "SFS",
-      "situacao": null,
-      "secao": "Navios Fundeados (Barra)"
-    },
-    {
       "navio": "Scion Charlotte",
       "imo": "1023982",
       "agencia": "LITORAL",
@@ -144,18 +156,6 @@
       "berco": "SFS",
       "situacao": null,
       "secao": "Navios Fundeados (Barra)"
-    },
-    {
-      "navio": "CMA CGM Lisa Marie",
-      "imo": "9729099",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "19/07/2026 23:00",
-      "data_chegada_iso": "2026-07-19T23:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
     },
     {
       "navio": "SSI Phoenix",

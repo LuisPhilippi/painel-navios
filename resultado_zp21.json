@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-07-18T19:55:57.555044",
+  "gerado_em": "2026-07-18T22:34:20.328452",
   "navios": [
     {
       "navio": "SUNNY PHOENIX",
@@ -42,26 +42,6 @@
       "posicao": null
     },
     {
-      "navio": "MSC INIYA V",
-      "status": "Previsto",
-      "data_hora_texto": "18/07/2026 - 16:00",
-      "data_hora_iso": "2026-07-18T16:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": null,
-      "posicao": null
-    },
-    {
-      "navio": "ACASTOS",
-      "status": "Previsto",
-      "data_hora_texto": "18/07/2026 - 17:00",
-      "data_hora_iso": "2026-07-18T17:00:00",
-      "calado": "9,90 EK",
-      "rota": "",
-      "berco": null,
-      "posicao": null
-    },
-    {
       "navio": "MERCOSUL SUAPE",
       "status": "Previsto",
       "data_hora_texto": "18/07/2026 - 20:00",
@@ -77,16 +57,6 @@
       "data_hora_texto": "19/07/2026 - 07:00",
       "data_hora_iso": "2026-07-19T07:00:00",
       "calado": "7,20 EK",
-      "rota": "",
-      "berco": null,
-      "posicao": null
-    },
-    {
-      "navio": "MSC LE HAVRE",
-      "status": "Previsto",
-      "data_hora_texto": "20/07/2026 - 01:00",
-      "data_hora_iso": "2026-07-20T01:00:00",
-      "calado": "TBC",
       "rota": "",
       "berco": null,
       "posicao": null
@@ -172,16 +142,6 @@
       "posicao": null
     },
     {
-      "navio": "COSTA RICA EXPRESS",
-      "status": "Fundeado",
-      "data_hora_texto": "15/07/2026 - 18:07",
-      "data_hora_iso": "2026-07-15T18:07:00",
-      "calado": "11,80 EK",
-      "rota": "",
-      "berco": null,
-      "posicao": "26 58,73 S / 048 28,85 W"
-    },
-    {
       "navio": "NAVARINO",
       "status": "Fundeado",
       "data_hora_texto": "16/07/2026 - 15:28",
@@ -222,6 +182,36 @@
       "posicao": "26 55,26 S / 048 31,56 W"
     },
     {
+      "navio": "MSC INIYA V",
+      "status": "Fundeado",
+      "data_hora_texto": "18/07/2026 - 17:04",
+      "data_hora_iso": "2026-07-18T17:04:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": null,
+      "posicao": "26 51,75 S / 048 31,38 W"
+    },
+    {
+      "navio": "ACASTOS",
+      "status": "Fundeado",
+      "data_hora_texto": "18/07/2026 - 17:56",
+      "data_hora_iso": "2026-07-18T17:56:00",
+      "calado": "9,90 EK",
+      "rota": "",
+      "berco": null,
+      "posicao": "26 56,60 S / 048 29,89 W"
+    },
+    {
+      "navio": "COSTA RICA EXPRESS",
+      "status": "Fundeado",
+      "data_hora_texto": "18/07/2026 - 19:08",
+      "data_hora_iso": "2026-07-18T19:08:00",
+      "calado": "11,80 EK",
+      "rota": "",
+      "berco": null,
+      "posicao": "26 53,02 S / 048 29,30 W"
+    },
+    {
       "navio": "SAN AUGUSTIN MAERSK",
       "status": "Atracado",
       "data_hora_texto": "18/07/2026 - 16:14",
@@ -239,16 +229,6 @@
       "calado": null,
       "rota": "",
       "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "NAVIOS DOMINO",
-      "status": "Atracado",
-      "data_hora_texto": "16/07/2026 - 22:58",
-      "data_hora_iso": "2026-07-16T22:58:00",
-      "calado": null,
-      "rota": "",
-      "berco": "PORTO ITAJAI - 03",
       "posicao": null
     },
     {
