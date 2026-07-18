@@ -1,18 +1,6 @@
 {
-  "gerado_em": "2026-07-18T07:11:48.416786",
+  "gerado_em": "2026-07-18T11:33:11.687319",
   "navios": [
-    {
-      "navio": "Amoy Galaxy",
-      "imo": "1085083",
-      "agencia": "ORION",
-      "data_chegada_texto": "15/07/2026 01:24",
-      "data_chegada_iso": "2026-07-15T01:24:00",
-      "manobra": "Entrada e Fundeio",
-      "data_manobra": "18/07/2026 03:15",
-      "berco": "BARRA F3",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Viyada Naree",
       "imo": "9722039",
@@ -46,6 +34,18 @@
       "manobra": "Desatracação e Saída",
       "data_manobra": "18/07/2026 11:00",
       "berco": "201 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Amoy Galaxy",
+      "imo": "1085083",
+      "agencia": "ORION",
+      "data_chegada_texto": "15/07/2026 01:24",
+      "data_chegada_iso": "2026-07-15T01:24:00",
+      "manobra": "Suspender e Atracar",
+      "data_manobra": "18/07/2026 11:30",
+      "berco": "F3 102",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
     },
@@ -158,28 +158,16 @@
       "secao": "Navios Fundeados (Barra)"
     },
     {
-      "navio": "San Augustin Maersk",
-      "imo": "9622239",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "18/07/2026 07:00",
-      "data_chegada_iso": "2026-07-18T07:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
       "navio": "Scion Charlotte",
       "imo": "1023982",
       "agencia": "LITORAL",
-      "data_chegada_texto": "18/07/2026 11:00",
-      "data_chegada_iso": "2026-07-18T11:00:00",
+      "data_chegada_texto": "18/07/2026 07:42",
+      "data_chegada_iso": "2026-07-18T07:42:00",
       "manobra": null,
       "data_manobra": null,
       "berco": "SFS",
       "situacao": null,
-      "secao": "Navios Esperados"
+      "secao": "Navios Fundeados (Barra)"
     },
     {
       "navio": "CMA CGM Lisa Marie",

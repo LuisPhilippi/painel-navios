@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-07-18T07:11:40.295034",
+  "gerado_em": "2026-07-18T11:33:04.353100",
   "navios": [
     {
       "navio": "SUNNY PHOENIX",
@@ -220,6 +220,16 @@
       "rota": "",
       "berco": null,
       "posicao": "26 55,01 S / 048 29,94 W"
+    },
+    {
+      "navio": "FELIXSTOWE",
+      "status": "Fundeado",
+      "data_hora_texto": "18/07/2026 - 07:44",
+      "data_hora_iso": "2026-07-18T07:44:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": null,
+      "posicao": "26 53,68 S / 048 31,15 W"
     },
     {
       "navio": "MSC YAMUNA VI",
