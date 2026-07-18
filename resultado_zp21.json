@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-07-18T11:33:04.353100",
+  "gerado_em": "2026-07-18T15:33:05.666557",
   "navios": [
     {
       "navio": "SUNNY PHOENIX",
@@ -46,17 +46,17 @@
       "status": "Previsto",
       "data_hora_texto": "18/07/2026 - 07:00",
       "data_hora_iso": "2026-07-18T07:00:00",
-      "calado": "11,60/11,70",
+      "calado": "11,40/11,75",
       "rota": "",
       "berco": null,
       "posicao": null
     },
     {
-      "navio": "PIO GRANDE",
+      "navio": "MSC INIYA V",
       "status": "Previsto",
-      "data_hora_texto": "18/07/2026 - 19:00",
-      "data_hora_iso": "2026-07-18T19:00:00",
-      "calado": "5,00/5,40",
+      "data_hora_texto": "18/07/2026 - 16:00",
+      "data_hora_iso": "2026-07-18T16:00:00",
+      "calado": "TBC",
       "rota": "",
       "berco": null,
       "posicao": null
@@ -72,31 +72,21 @@
       "posicao": null
     },
     {
+      "navio": "CBO XAVANTES",
+      "status": "Previsto",
+      "data_hora_texto": "19/07/2026 - 07:00",
+      "data_hora_iso": "2026-07-19T07:00:00",
+      "calado": "7,20 EK",
+      "rota": "",
+      "berco": null,
+      "posicao": null
+    },
+    {
       "navio": "MERCOSUL SUAPE",
       "status": "Previsto",
       "data_hora_texto": "19/07/2026 - 12:00",
       "data_hora_iso": "2026-07-19T12:00:00",
       "calado": "TBC",
-      "rota": "",
-      "berco": null,
-      "posicao": null
-    },
-    {
-      "navio": "MSC INIYA V",
-      "status": "Previsto",
-      "data_hora_texto": "19/07/2026 - 14:00",
-      "data_hora_iso": "2026-07-19T14:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": null,
-      "posicao": null
-    },
-    {
-      "navio": "CBO XAVANTES",
-      "status": "Previsto",
-      "data_hora_texto": "19/07/2026 - 16:00",
-      "data_hora_iso": "2026-07-19T16:00:00",
-      "calado": "6,70 EK",
       "rota": "",
       "berco": null,
       "posicao": null
@@ -230,6 +220,16 @@
       "rota": "",
       "berco": null,
       "posicao": "26 53,68 S / 048 31,15 W"
+    },
+    {
+      "navio": "PIO GRANDE",
+      "status": "Fundeado",
+      "data_hora_texto": "18/07/2026 - 08:52",
+      "data_hora_iso": "2026-07-18T08:52:00",
+      "calado": "5,00/5,40",
+      "rota": "",
+      "berco": null,
+      "posicao": "26 55,26 S / 048 31,56 W"
     },
     {
       "navio": "MSC YAMUNA VI",

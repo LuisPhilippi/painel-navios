@@ -1,17 +1,17 @@
 {
-  "gerado_em": "2026-07-18T11:33:11.687319",
+  "gerado_em": "2026-07-18T15:33:13.328286",
   "navios": [
     {
       "navio": "Viyada Naree",
       "imo": "9722039",
       "agencia": "SEATRADE",
-      "data_chegada_texto": "18/07/2026 08:00",
-      "data_chegada_iso": "2026-07-18T08:00:00",
+      "data_chegada_texto": "18/07/2026 10:30",
+      "data_chegada_iso": "2026-07-18T10:30:00",
       "manobra": "Entrada e Atracação",
       "data_manobra": "18/07/2026 10:30",
       "berco": "BARRA 201",
-      "situacao": "A Confirmar",
-      "secao": "Navios Esperados"
+      "situacao": "Em Andamento",
+      "secao": "Movimentações"
     },
     {
       "navio": "Gladiator",
@@ -22,7 +22,7 @@
       "manobra": "Desatracação e Saída",
       "data_manobra": "18/07/2026 10:30",
       "berco": "102 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -34,7 +34,7 @@
       "manobra": "Desatracação e Saída",
       "data_manobra": "18/07/2026 11:00",
       "berco": "201 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -46,44 +46,20 @@
       "manobra": "Suspender e Atracar",
       "data_manobra": "18/07/2026 11:30",
       "berco": "F3 102",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "CMA CGM Veracruz",
-      "imo": "9418377",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "17/07/2026 10:45",
-      "data_chegada_iso": "2026-07-17T10:45:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "18/07/2026 13:30",
-      "berco": "BARRA 901",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Maersk Ganges",
-      "imo": "9694581",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "15/07/2026 08:30",
-      "data_chegada_iso": "2026-07-15T08:30:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "18/07/2026 13:30",
-      "berco": "901 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
       "navio": "Jamaica Bay",
       "imo": "9610717",
       "agencia": "WILSON SONS",
-      "data_chegada_texto": "18/07/2026 11:00",
-      "data_chegada_iso": "2026-07-18T11:00:00",
+      "data_chegada_texto": "18/07/2026 11:18",
+      "data_chegada_iso": "2026-07-18T11:18:00",
       "manobra": "Entrada e Atracação",
-      "data_manobra": "18/07/2026 16:30",
+      "data_manobra": "18/07/2026 14:00",
       "berco": "BARRA 302",
-      "situacao": "A Confirmar",
-      "secao": "Navios Esperados"
+      "situacao": "Confirmado",
+      "secao": "Movimentações"
     },
     {
       "navio": "Aristo Ocean",
@@ -98,6 +74,18 @@
       "secao": "Movimentações"
     },
     {
+      "navio": "Maersk Ganges",
+      "imo": "9694581",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "15/07/2026 08:30",
+      "data_chegada_iso": "2026-07-15T08:30:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "18/07/2026 16:45",
+      "berco": "901 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
       "navio": "Alwine",
       "imo": "9692698",
       "agencia": "LITORAL",
@@ -106,6 +94,18 @@
       "manobra": "Desatracação e Fundeio",
       "data_manobra": "18/07/2026 16:45",
       "berco": "101 F3",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "CMA CGM Veracruz",
+      "imo": "9418377",
+      "agencia": "UNIMAR",
+      "data_chegada_texto": "17/07/2026 10:45",
+      "data_chegada_iso": "2026-07-17T10:45:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "18/07/2026 18:15",
+      "berco": "BARRA 901",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
     },
