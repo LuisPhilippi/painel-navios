@@ -1,54 +1,6 @@
 {
-  "gerado_em": "2026-07-18T15:33:13.328286",
+  "gerado_em": "2026-07-18T19:56:04.467896",
   "navios": [
-    {
-      "navio": "Viyada Naree",
-      "imo": "9722039",
-      "agencia": "SEATRADE",
-      "data_chegada_texto": "18/07/2026 10:30",
-      "data_chegada_iso": "2026-07-18T10:30:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "18/07/2026 10:30",
-      "berco": "BARRA 201",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Gladiator",
-      "imo": "9605853",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "14/07/2026 19:48",
-      "data_chegada_iso": "2026-07-14T19:48:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "18/07/2026 10:30",
-      "berco": "102 BARRA",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Tomini Entity",
-      "imo": "9831775",
-      "agencia": "SEATRADE",
-      "data_chegada_texto": "13/07/2026 15:00",
-      "data_chegada_iso": "2026-07-13T15:00:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "18/07/2026 11:00",
-      "berco": "201 BARRA",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Amoy Galaxy",
-      "imo": "1085083",
-      "agencia": "ORION",
-      "data_chegada_texto": "15/07/2026 01:24",
-      "data_chegada_iso": "2026-07-15T01:24:00",
-      "manobra": "Suspender e Atracar",
-      "data_manobra": "18/07/2026 11:30",
-      "berco": "F3 102",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Jamaica Bay",
       "imo": "9610717",
@@ -58,7 +10,7 @@
       "manobra": "Entrada e Atracação",
       "data_manobra": "18/07/2026 14:00",
       "berco": "BARRA 302",
-      "situacao": "Confirmado",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -70,7 +22,7 @@
       "manobra": "Entrada e Atracação",
       "data_manobra": "18/07/2026 16:45",
       "berco": "BARRA 101",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -82,7 +34,7 @@
       "manobra": "Desatracação e Saída",
       "data_manobra": "18/07/2026 16:45",
       "berco": "901 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -94,7 +46,7 @@
       "manobra": "Desatracação e Fundeio",
       "data_manobra": "18/07/2026 16:45",
       "berco": "101 F3",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -106,7 +58,7 @@
       "manobra": "Entrada e Atracação",
       "data_manobra": "18/07/2026 18:15",
       "berco": "BARRA 901",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -132,6 +84,30 @@
       "berco": "902 F5",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
+    },
+    {
+      "navio": "Amoy Galaxy",
+      "imo": "1085083",
+      "agencia": "ORION",
+      "data_chegada_texto": "15/07/2026 01:24",
+      "data_chegada_iso": "2026-07-15T01:24:00",
+      "manobra": null,
+      "data_manobra": null,
+      "berco": "102",
+      "situacao": null,
+      "secao": "Navios Atracados"
+    },
+    {
+      "navio": "Viyada Naree",
+      "imo": "9722039",
+      "agencia": "SEATRADE",
+      "data_chegada_texto": "18/07/2026 10:30",
+      "data_chegada_iso": "2026-07-18T10:30:00",
+      "manobra": null,
+      "data_manobra": null,
+      "berco": "201",
+      "situacao": null,
+      "secao": "Navios Atracados"
     },
     {
       "navio": "Barcaça N09",

@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-07-18T15:33:05.666557",
+  "gerado_em": "2026-07-18T19:55:57.555044",
   "navios": [
     {
       "navio": "SUNNY PHOENIX",
@@ -42,16 +42,6 @@
       "posicao": null
     },
     {
-      "navio": "SAN AUGUSTIN MAERSK",
-      "status": "Previsto",
-      "data_hora_texto": "18/07/2026 - 07:00",
-      "data_hora_iso": "2026-07-18T07:00:00",
-      "calado": "11,40/11,75",
-      "rota": "",
-      "berco": null,
-      "posicao": null
-    },
-    {
       "navio": "MSC INIYA V",
       "status": "Previsto",
       "data_hora_texto": "18/07/2026 - 16:00",
@@ -64,9 +54,19 @@
     {
       "navio": "ACASTOS",
       "status": "Previsto",
-      "data_hora_texto": "19/07/2026 - 01:00",
-      "data_hora_iso": "2026-07-19T01:00:00",
+      "data_hora_texto": "18/07/2026 - 17:00",
+      "data_hora_iso": "2026-07-18T17:00:00",
       "calado": "9,90 EK",
+      "rota": "",
+      "berco": null,
+      "posicao": null
+    },
+    {
+      "navio": "MERCOSUL SUAPE",
+      "status": "Previsto",
+      "data_hora_texto": "18/07/2026 - 20:00",
+      "data_hora_iso": "2026-07-18T20:00:00",
+      "calado": "TBC",
       "rota": "",
       "berco": null,
       "posicao": null
@@ -77,16 +77,6 @@
       "data_hora_texto": "19/07/2026 - 07:00",
       "data_hora_iso": "2026-07-19T07:00:00",
       "calado": "7,20 EK",
-      "rota": "",
-      "berco": null,
-      "posicao": null
-    },
-    {
-      "navio": "MERCOSUL SUAPE",
-      "status": "Previsto",
-      "data_hora_texto": "19/07/2026 - 12:00",
-      "data_hora_iso": "2026-07-19T12:00:00",
-      "calado": "TBC",
       "rota": "",
       "berco": null,
       "posicao": null
@@ -232,10 +222,10 @@
       "posicao": "26 55,26 S / 048 31,56 W"
     },
     {
-      "navio": "MSC YAMUNA VI",
+      "navio": "SAN AUGUSTIN MAERSK",
       "status": "Atracado",
-      "data_hora_texto": "17/07/2026 - 22:01",
-      "data_hora_iso": "2026-07-17T22:01:00",
+      "data_hora_texto": "18/07/2026 - 16:14",
+      "data_hora_iso": "2026-07-18T16:14:00",
       "calado": null,
       "rota": "",
       "berco": "JBS 2",
