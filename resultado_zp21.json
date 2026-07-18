@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-07-17T23:38:58.998947",
+  "gerado_em": "2026-07-18T07:11:40.295034",
   "navios": [
     {
       "navio": "SUNNY PHOENIX",
@@ -66,7 +66,7 @@
       "status": "Previsto",
       "data_hora_texto": "19/07/2026 - 01:00",
       "data_hora_iso": "2026-07-19T01:00:00",
-      "calado": "TBC",
+      "calado": "9,90 EK",
       "rota": "",
       "berco": null,
       "posicao": null
@@ -220,6 +220,16 @@
       "rota": "",
       "berco": null,
       "posicao": "26 55,01 S / 048 29,94 W"
+    },
+    {
+      "navio": "MSC YAMUNA VI",
+      "status": "Atracado",
+      "data_hora_texto": "17/07/2026 - 22:01",
+      "data_hora_iso": "2026-07-17T22:01:00",
+      "calado": null,
+      "rota": "",
+      "berco": "JBS 2",
+      "posicao": null
     },
     {
       "navio": "HMM SKY",
