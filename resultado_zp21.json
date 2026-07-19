@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-07-19T11:41:00.371307",
+  "gerado_em": "2026-07-19T15:34:12.652632",
   "navios": [
     {
       "navio": "SUNNY PHOENIX",
@@ -37,16 +37,6 @@
       "data_hora_texto": "14/07/2026 - 17:00",
       "data_hora_iso": "2026-07-14T17:00:00",
       "calado": "TBC",
-      "rota": "",
-      "berco": null,
-      "posicao": null
-    },
-    {
-      "navio": "CBO XAVANTES",
-      "status": "Previsto",
-      "data_hora_texto": "19/07/2026 - 10:00",
-      "data_hora_iso": "2026-07-19T10:00:00",
-      "calado": "7,20 EK",
       "rota": "",
       "berco": null,
       "posicao": null
@@ -202,6 +192,16 @@
       "posicao": "26 56,100 S / 048 31,61 W"
     },
     {
+      "navio": "CBO XAVANTES",
+      "status": "Atracado",
+      "data_hora_texto": "19/07/2026 - 10:58",
+      "data_hora_iso": "2026-07-19T10:58:00",
+      "calado": null,
+      "rota": "",
+      "berco": "BARRA DO RIO",
+      "posicao": null
+    },
+    {
       "navio": "LAEM CHABANG EXPRESS",
       "status": "Atracado",
       "data_hora_texto": "19/07/2026 - 00:43",
@@ -209,16 +209,6 @@
       "calado": null,
       "rota": "",
       "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "NAVARINO",
-      "status": "Atracado",
-      "data_hora_texto": "18/07/2026 - 19:48",
-      "data_hora_iso": "2026-07-18T19:48:00",
-      "calado": null,
-      "rota": "",
-      "berco": "PORTO ITAJAI - 03",
       "posicao": null
     },
     {

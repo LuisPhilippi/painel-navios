@@ -1,18 +1,6 @@
 {
-  "gerado_em": "2026-07-19T11:41:06.554379",
+  "gerado_em": "2026-07-19T15:34:19.946133",
   "navios": [
-    {
-      "navio": "Maersk Freeport",
-      "imo": "9991202",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "17/07/2026 08:08",
-      "data_chegada_iso": "2026-07-17T08:08:00",
-      "manobra": "Suspender e Sair",
-      "data_manobra": "19/07/2026 09:45",
-      "berco": "F5 BARRA",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
     {
       "navio": "CMA CGM Lisa Marie",
       "imo": "9729099",
@@ -38,13 +26,25 @@
       "secao": "Movimentações"
     },
     {
+      "navio": "Alwine",
+      "imo": "9692698",
+      "agencia": "LITORAL",
+      "data_chegada_texto": "08/07/2026 05:31",
+      "data_chegada_iso": "2026-07-08T05:31:00",
+      "manobra": "Suspender e Sair",
+      "data_manobra": "20/07/2026 06:00",
+      "berco": "F3 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
       "navio": "MSC Meline",
       "imo": "9702077",
       "agencia": "WILSON SONS",
       "data_chegada_texto": "17/07/2026 03:11",
       "data_chegada_iso": "2026-07-17T03:11:00",
       "manobra": "Desatracação e Saída",
-      "data_manobra": "19/07/2026 17:15",
+      "data_manobra": "20/07/2026 06:30",
       "berco": "901 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
@@ -56,7 +56,7 @@
       "data_chegada_texto": "11/07/2026 14:20",
       "data_chegada_iso": "2026-07-11T14:20:00",
       "manobra": "Entrada e Atracação",
-      "data_manobra": "20/07/2026 01:00",
+      "data_manobra": "20/07/2026 13:00",
       "berco": "BARRA 101",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
@@ -68,10 +68,22 @@
       "data_chegada_texto": "11/07/2026 14:18",
       "data_chegada_iso": "2026-07-11T14:18:00",
       "manobra": "Desatracação e Fundeio",
-      "data_manobra": "20/07/2026 01:00",
+      "data_manobra": "20/07/2026 13:00",
       "berco": "101 F5",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
+    },
+    {
+      "navio": "Cosco Shipping Brazil",
+      "imo": "9945837",
+      "agencia": "UNIMAR",
+      "data_chegada_texto": "20/07/2026 11:00",
+      "data_chegada_iso": "2026-07-20T11:00:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "20/07/2026 13:30",
+      "berco": "BARRA 901",
+      "situacao": "A Confirmar",
+      "secao": "Navios Esperados"
     },
     {
       "navio": "Amoy Galaxy",
@@ -110,18 +122,6 @@
       "secao": "Navios Atracados"
     },
     {
-      "navio": "Alwine",
-      "imo": "9692698",
-      "agencia": "LITORAL",
-      "data_chegada_texto": "08/07/2026 05:31",
-      "data_chegada_iso": "2026-07-08T05:31:00",
-      "manobra": null,
-      "data_manobra": null,
-      "berco": "F3",
-      "situacao": null,
-      "secao": "Navios Fundeados (Internos)"
-    },
-    {
       "navio": "Barcaça N09",
       "imo": "9326005",
       "agencia": "WILSON SONS",
@@ -154,18 +154,6 @@
       "manobra": null,
       "data_manobra": null,
       "berco": "SFS",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Cosco Shipping Brazil",
-      "imo": "9945837",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "20/07/2026 11:00",
-      "data_chegada_iso": "2026-07-20T11:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Esperados"
     },
