@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-07-19T19:59:46.281960",
+  "gerado_em": "2026-07-19T22:37:43.447164",
   "navios": [
     {
       "navio": "SUNNY PHOENIX",
@@ -173,13 +173,13 @@
     },
     {
       "navio": "MERCOSUL SUAPE",
-      "status": "Fundeado",
-      "data_hora_texto": "18/07/2026 - 20:12",
-      "data_hora_iso": "2026-07-18T20:12:00",
-      "calado": "10,90/11,10",
+      "status": "Atracado",
+      "data_hora_texto": "19/07/2026 - 17:09",
+      "data_hora_iso": "2026-07-19T17:09:00",
+      "calado": null,
       "rota": "",
-      "berco": null,
-      "posicao": "26 56,100 S / 048 31,61 W"
+      "berco": "PNAVE 01",
+      "posicao": null
     },
     {
       "navio": "ACASTOS",

@@ -1,18 +1,6 @@
 {
-  "gerado_em": "2026-07-19T19:59:53.476186",
+  "gerado_em": "2026-07-19T22:37:51.323095",
   "navios": [
-    {
-      "navio": "CMA CGM Lisa Marie",
-      "imo": "9729099",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "19/07/2026 14:59",
-      "data_chegada_iso": "2026-07-19T14:59:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "19/07/2026 15:00",
-      "berco": "BARRA 902",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Alwine",
       "imo": "9692698",
@@ -72,6 +60,18 @@
       "berco": "BARRA 901",
       "situacao": "A Confirmar",
       "secao": "Navios Esperados"
+    },
+    {
+      "navio": "CMA CGM Lisa Marie",
+      "imo": "9729099",
+      "agencia": "UNIMAR",
+      "data_chegada_texto": "19/07/2026 14:59",
+      "data_chegada_iso": "2026-07-19T14:59:00",
+      "manobra": null,
+      "data_manobra": null,
+      "berco": "902",
+      "situacao": null,
+      "secao": "Navios Atracados"
     },
     {
       "navio": "Amoy Galaxy",
