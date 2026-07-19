@@ -1,30 +1,6 @@
 {
-  "gerado_em": "2026-07-19T07:39:46.154592",
+  "gerado_em": "2026-07-19T11:41:06.554379",
   "navios": [
-    {
-      "navio": "MSC Meline",
-      "imo": "9702077",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "17/07/2026 03:11",
-      "data_chegada_iso": "2026-07-17T03:11:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "19/07/2026 05:45",
-      "berco": "BARRA 901",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "CMA CGM Veracruz",
-      "imo": "9418377",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "17/07/2026 10:45",
-      "data_chegada_iso": "2026-07-17T10:45:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "19/07/2026 05:45",
-      "berco": "901 BARRA",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Maersk Freeport",
       "imo": "9991202",
@@ -34,7 +10,7 @@
       "manobra": "Suspender e Sair",
       "data_manobra": "19/07/2026 09:45",
       "berco": "F5 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -62,13 +38,25 @@
       "secao": "Movimentações"
     },
     {
+      "navio": "MSC Meline",
+      "imo": "9702077",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "17/07/2026 03:11",
+      "data_chegada_iso": "2026-07-17T03:11:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "19/07/2026 17:15",
+      "berco": "901 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
       "navio": "Gallia Graeca II",
       "imo": "1060136",
       "agencia": "ALPHAMAR",
       "data_chegada_texto": "11/07/2026 14:20",
       "data_chegada_iso": "2026-07-11T14:20:00",
       "manobra": "Entrada e Atracação",
-      "data_manobra": "19/07/2026 17:15",
+      "data_manobra": "20/07/2026 01:00",
       "berco": "BARRA 101",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
