@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-07-18T22:34:20.328452",
+  "gerado_em": "2026-07-19T07:39:39.922613",
   "navios": [
     {
       "navio": "SUNNY PHOENIX",
@@ -42,20 +42,10 @@
       "posicao": null
     },
     {
-      "navio": "MERCOSUL SUAPE",
-      "status": "Previsto",
-      "data_hora_texto": "18/07/2026 - 20:00",
-      "data_hora_iso": "2026-07-18T20:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": null,
-      "posicao": null
-    },
-    {
       "navio": "CBO XAVANTES",
       "status": "Previsto",
-      "data_hora_texto": "19/07/2026 - 07:00",
-      "data_hora_iso": "2026-07-19T07:00:00",
+      "data_hora_texto": "19/07/2026 - 10:00",
+      "data_hora_iso": "2026-07-19T10:00:00",
       "calado": "7,20 EK",
       "rota": "",
       "berco": null,
@@ -142,16 +132,6 @@
       "posicao": null
     },
     {
-      "navio": "NAVARINO",
-      "status": "Fundeado",
-      "data_hora_texto": "16/07/2026 - 15:28",
-      "data_hora_iso": "2026-07-16T15:28:00",
-      "calado": "10,00 EK",
-      "rota": "",
-      "berco": null,
-      "posicao": "26 57,78 S / 048 30,98 W"
-    },
-    {
       "navio": "MSC AVNI",
       "status": "Fundeado",
       "data_hora_texto": "17/07/2026 - 11:55",
@@ -212,6 +192,46 @@
       "posicao": "26 53,02 S / 048 29,30 W"
     },
     {
+      "navio": "MERCOSUL SUAPE",
+      "status": "Fundeado",
+      "data_hora_texto": "18/07/2026 - 20:12",
+      "data_hora_iso": "2026-07-18T20:12:00",
+      "calado": "10,90/11,10",
+      "rota": "",
+      "berco": null,
+      "posicao": "26 56,100 S / 048 31,61 W"
+    },
+    {
+      "navio": "LAEM CHABANG EXPRESS",
+      "status": "Atracado",
+      "data_hora_texto": "19/07/2026 - 00:43",
+      "data_hora_iso": "2026-07-19T00:43:00",
+      "calado": null,
+      "rota": "",
+      "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
+      "navio": "NAVARINO",
+      "status": "Atracado",
+      "data_hora_texto": "18/07/2026 - 19:48",
+      "data_hora_iso": "2026-07-18T19:48:00",
+      "calado": null,
+      "rota": "",
+      "berco": "PORTO ITAJAI - 03",
+      "posicao": null
+    },
+    {
+      "navio": "REBOCADOR TRITÃO",
+      "status": "Atracado",
+      "data_hora_texto": "18/07/2026 - 19:45",
+      "data_hora_iso": "2026-07-18T19:45:00",
+      "calado": null,
+      "rota": "",
+      "berco": "Delegacia da Capitania dos Portos",
+      "posicao": null
+    },
+    {
       "navio": "SAN AUGUSTIN MAERSK",
       "status": "Atracado",
       "data_hora_texto": "18/07/2026 - 16:14",
@@ -219,16 +239,6 @@
       "calado": null,
       "rota": "",
       "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "HMM SKY",
-      "status": "Atracado",
-      "data_hora_texto": "17/07/2026 - 18:11",
-      "data_hora_iso": "2026-07-17T18:11:00",
-      "calado": null,
-      "rota": "",
-      "berco": "PNAVE 01",
       "posicao": null
     },
     {

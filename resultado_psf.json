@@ -1,27 +1,27 @@
 {
-  "gerado_em": "2026-07-18T22:34:27.845472",
+  "gerado_em": "2026-07-19T07:39:46.154592",
   "navios": [
+    {
+      "navio": "MSC Meline",
+      "imo": "9702077",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "17/07/2026 03:11",
+      "data_chegada_iso": "2026-07-17T03:11:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "19/07/2026 05:45",
+      "berco": "BARRA 901",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
     {
       "navio": "CMA CGM Veracruz",
       "imo": "9418377",
       "agencia": "UNIMAR",
       "data_chegada_texto": "17/07/2026 10:45",
       "data_chegada_iso": "2026-07-17T10:45:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "18/07/2026 18:15",
-      "berco": "BARRA 901",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Maersk Venezia",
-      "imo": "9344681",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "17/07/2026 01:16",
-      "data_chegada_iso": "2026-07-17T01:16:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "18/07/2026 22:30",
-      "berco": "BARRA 902",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "19/07/2026 05:45",
+      "berco": "901 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
     },
@@ -31,21 +31,9 @@
       "agencia": "LACHMANN",
       "data_chegada_texto": "17/07/2026 08:08",
       "data_chegada_iso": "2026-07-17T08:08:00",
-      "manobra": "Desatracação e Fundeio",
-      "data_manobra": "18/07/2026 22:30",
-      "berco": "902 F5",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "MSC Meline",
-      "imo": "9702077",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "17/07/2026 03:11",
-      "data_chegada_iso": "2026-07-17T03:11:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "19/07/2026 05:15",
-      "berco": "BARRA 901",
+      "manobra": "Suspender e Sair",
+      "data_manobra": "19/07/2026 09:45",
+      "berco": "F5 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
     },
@@ -60,6 +48,18 @@
       "berco": "BARRA 902",
       "situacao": "A Confirmar",
       "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Maersk Venezia",
+      "imo": "9344681",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "17/07/2026 01:16",
+      "data_chegada_iso": "2026-07-17T01:16:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "19/07/2026 15:00",
+      "berco": "902 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
     },
     {
       "navio": "Gallia Graeca II",
