@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-07-19T15:34:12.652632",
+  "gerado_em": "2026-07-19T19:59:46.281960",
   "navios": [
     {
       "navio": "SUNNY PHOENIX",
@@ -162,16 +162,6 @@
       "posicao": "26 51,75 S / 048 31,38 W"
     },
     {
-      "navio": "ACASTOS",
-      "status": "Fundeado",
-      "data_hora_texto": "18/07/2026 - 17:56",
-      "data_hora_iso": "2026-07-18T17:56:00",
-      "calado": "9,90 EK",
-      "rota": "",
-      "berco": null,
-      "posicao": "26 56,60 S / 048 29,89 W"
-    },
-    {
       "navio": "COSTA RICA EXPRESS",
       "status": "Fundeado",
       "data_hora_texto": "18/07/2026 - 19:08",
@@ -192,6 +182,16 @@
       "posicao": "26 56,100 S / 048 31,61 W"
     },
     {
+      "navio": "ACASTOS",
+      "status": "Atracado",
+      "data_hora_texto": "19/07/2026 - 14:06",
+      "data_hora_iso": "2026-07-19T14:06:00",
+      "calado": null,
+      "rota": "",
+      "berco": "PORTO ITAJAI - 03",
+      "posicao": null
+    },
+    {
       "navio": "CBO XAVANTES",
       "status": "Atracado",
       "data_hora_texto": "19/07/2026 - 10:58",
@@ -199,16 +199,6 @@
       "calado": null,
       "rota": "",
       "berco": "BARRA DO RIO",
-      "posicao": null
-    },
-    {
-      "navio": "LAEM CHABANG EXPRESS",
-      "status": "Atracado",
-      "data_hora_texto": "19/07/2026 - 00:43",
-      "data_hora_iso": "2026-07-19T00:43:00",
-      "calado": null,
-      "rota": "",
-      "berco": "PNAVE 01",
       "posicao": null
     },
     {

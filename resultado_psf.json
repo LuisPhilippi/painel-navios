@@ -1,28 +1,16 @@
 {
-  "gerado_em": "2026-07-19T15:34:19.946133",
+  "gerado_em": "2026-07-19T19:59:53.476186",
   "navios": [
     {
       "navio": "CMA CGM Lisa Marie",
       "imo": "9729099",
       "agencia": "UNIMAR",
-      "data_chegada_texto": "19/07/2026 15:00",
-      "data_chegada_iso": "2026-07-19T15:00:00",
+      "data_chegada_texto": "19/07/2026 14:59",
+      "data_chegada_iso": "2026-07-19T14:59:00",
       "manobra": "Entrada e Atracação",
       "data_manobra": "19/07/2026 15:00",
       "berco": "BARRA 902",
-      "situacao": "A Confirmar",
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Maersk Venezia",
-      "imo": "9344681",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "17/07/2026 01:16",
-      "data_chegada_iso": "2026-07-17T01:16:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "19/07/2026 15:00",
-      "berco": "902 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
