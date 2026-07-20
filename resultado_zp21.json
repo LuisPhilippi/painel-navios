@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-07-19T22:37:43.447164",
+  "gerado_em": "2026-07-20T10:25:09.743711",
   "navios": [
     {
       "navio": "SUNNY PHOENIX",
@@ -22,30 +22,10 @@
       "posicao": null
     },
     {
-      "navio": "LI DA XING",
-      "status": "Previsto",
-      "data_hora_texto": "14/07/2026 - 08:00",
-      "data_hora_iso": "2026-07-14T08:00:00",
-      "calado": "8,80 EK",
-      "rota": "",
-      "berco": null,
-      "posicao": null
-    },
-    {
       "navio": "ESPIRITO SANTO EXPRESS",
       "status": "Previsto",
       "data_hora_texto": "14/07/2026 - 17:00",
       "data_hora_iso": "2026-07-14T17:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": null,
-      "posicao": null
-    },
-    {
-      "navio": "NC BRUMA",
-      "status": "Previsto",
-      "data_hora_texto": "20/07/2026 - 01:00",
-      "data_hora_iso": "2026-07-20T01:00:00",
       "calado": "TBC",
       "rota": "",
       "berco": null,
@@ -57,6 +37,16 @@
       "data_hora_texto": "20/07/2026 - 16:00",
       "data_hora_iso": "2026-07-20T16:00:00",
       "calado": "TBC",
+      "rota": "",
+      "berco": null,
+      "posicao": null
+    },
+    {
+      "navio": "EVER FASHION",
+      "status": "Previsto",
+      "data_hora_texto": "21/07/2026 - 02:00",
+      "data_hora_iso": "2026-07-21T02:00:00",
+      "calado": "11,60/11,70",
       "rota": "",
       "berco": null,
       "posicao": null
@@ -156,7 +146,7 @@
       "status": "Fundeado",
       "data_hora_texto": "18/07/2026 - 17:04",
       "data_hora_iso": "2026-07-18T17:04:00",
-      "calado": "TBC",
+      "calado": "9,30/11,20",
       "rota": "",
       "berco": null,
       "posicao": "26 51,75 S / 048 31,38 W"
@@ -172,10 +162,30 @@
       "posicao": "26 53,02 S / 048 29,30 W"
     },
     {
-      "navio": "MERCOSUL SUAPE",
+      "navio": "NC BRUMA",
+      "status": "Fundeado",
+      "data_hora_texto": "19/07/2026 - 20:00",
+      "data_hora_iso": "2026-07-19T20:00:00",
+      "calado": "8,30/9,40",
+      "rota": "",
+      "berco": null,
+      "posicao": "26 52,28 S / 048 30,09 W"
+    },
+    {
+      "navio": "LI DA XING",
+      "status": "Fundeado",
+      "data_hora_texto": "19/07/2026 - 23:40",
+      "data_hora_iso": "2026-07-19T23:40:00",
+      "calado": "8,60 EK",
+      "rota": "",
+      "berco": null,
+      "posicao": "26 50,09 S / 048 32,47 W"
+    },
+    {
+      "navio": "MSC LE HAVRE",
       "status": "Atracado",
-      "data_hora_texto": "19/07/2026 - 17:09",
-      "data_hora_iso": "2026-07-19T17:09:00",
+      "data_hora_texto": "20/07/2026 - 00:14",
+      "data_hora_iso": "2026-07-20T00:14:00",
       "calado": null,
       "rota": "",
       "berco": "PNAVE 01",

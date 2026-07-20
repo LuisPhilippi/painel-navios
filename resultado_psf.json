@@ -1,18 +1,6 @@
 {
-  "gerado_em": "2026-07-19T22:37:51.323095",
+  "gerado_em": "2026-07-20T10:25:15.886627",
   "navios": [
-    {
-      "navio": "Alwine",
-      "imo": "9692698",
-      "agencia": "LITORAL",
-      "data_chegada_texto": "08/07/2026 05:31",
-      "data_chegada_iso": "2026-07-08T05:31:00",
-      "manobra": "Suspender e Sair",
-      "data_manobra": "20/07/2026 06:00",
-      "berco": "F3 BARRA",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
     {
       "navio": "MSC Meline",
       "imo": "9702077",
@@ -22,7 +10,7 @@
       "manobra": "Desatracação e Saída",
       "data_manobra": "20/07/2026 06:30",
       "berco": "901 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -137,23 +125,11 @@
       "navio": "SSI Phoenix",
       "imo": "9969182",
       "agencia": "LITORAL",
-      "data_chegada_texto": "20/07/2026 10:00",
-      "data_chegada_iso": "2026-07-20T10:00:00",
+      "data_chegada_texto": "20/07/2026 15:00",
+      "data_chegada_iso": "2026-07-20T15:00:00",
       "manobra": null,
       "data_manobra": null,
       "berco": "SFS",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Maersk Karun",
-      "imo": "9624299",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "20/07/2026 23:00",
-      "data_chegada_iso": "2026-07-20T23:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Esperados"
     },
@@ -170,11 +146,11 @@
       "secao": "Navios Esperados"
     },
     {
-      "navio": "MSC Pamela",
-      "imo": "9290531",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "21/07/2026 12:00",
-      "data_chegada_iso": "2026-07-21T12:00:00",
+      "navio": "Maersk Karun",
+      "imo": "9624299",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "21/07/2026 07:00",
+      "data_chegada_iso": "2026-07-21T07:00:00",
       "manobra": null,
       "data_manobra": null,
       "berco": "ITAPOÁ",
@@ -187,6 +163,18 @@
       "agencia": "UNIMAR",
       "data_chegada_texto": "21/07/2026 14:00",
       "data_chegada_iso": "2026-07-21T14:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "MSC Pamela",
+      "imo": "9290531",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "21/07/2026 15:00",
+      "data_chegada_iso": "2026-07-21T15:00:00",
       "manobra": null,
       "data_manobra": null,
       "berco": "ITAPOÁ",
@@ -434,11 +422,11 @@
       "secao": "Navios Esperados"
     },
     {
-      "navio": "MSC Albany",
-      "imo": "9619438",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "26/07/2026 15:00",
-      "data_chegada_iso": "2026-07-26T15:00:00",
+      "navio": "Santa Ines",
+      "imo": "9444845",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "26/07/2026 23:00",
+      "data_chegada_iso": "2026-07-26T23:00:00",
       "manobra": null,
       "data_manobra": null,
       "berco": "ITAPOÁ",
@@ -446,11 +434,23 @@
       "secao": "Navios Esperados"
     },
     {
-      "navio": "Santa Ines",
-      "imo": "9444845",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "26/07/2026 23:00",
-      "data_chegada_iso": "2026-07-26T23:00:00",
+      "navio": "MSC Albany",
+      "imo": "9619438",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "27/07/2026 03:00",
+      "data_chegada_iso": "2026-07-27T03:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "CMA CGM Krypton",
+      "imo": "9996733",
+      "agencia": "UNIMAR",
+      "data_chegada_texto": "27/07/2026 11:00",
+      "data_chegada_iso": "2026-07-27T11:00:00",
       "manobra": null,
       "data_manobra": null,
       "berco": "ITAPOÁ",
@@ -554,6 +554,30 @@
       "secao": "Navios Esperados"
     },
     {
+      "navio": "Le Havre",
+      "imo": "9307243",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "30/07/2026 02:00",
+      "data_chegada_iso": "2026-07-30T02:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Vicente Pinzon",
+      "imo": "9625396",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "30/07/2026 07:00",
+      "data_chegada_iso": "2026-07-30T07:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
       "navio": "Industrial Charger",
       "imo": "9213959",
       "agencia": "ORION",
@@ -562,6 +586,18 @@
       "manobra": null,
       "data_manobra": null,
       "berco": "TESC",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "San Augustin Maersk",
+      "imo": "9622239",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "30/07/2026 13:00",
+      "data_chegada_iso": "2026-07-30T13:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Esperados"
     },
