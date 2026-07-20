@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-07-20T16:17:39.006631",
+  "gerado_em": "2026-07-20T20:56:08.716721",
   "navios": [
     {
       "navio": "SUNNY PHOENIX",
@@ -32,16 +32,6 @@
       "posicao": null
     },
     {
-      "navio": "DOVER HIGHWAY",
-      "status": "Previsto",
-      "data_hora_texto": "20/07/2026 - 16:00",
-      "data_hora_iso": "2026-07-20T16:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": null,
-      "posicao": null
-    },
-    {
       "navio": "EVER FASHION",
       "status": "Previsto",
       "data_hora_texto": "21/07/2026 - 02:00",
@@ -62,10 +52,30 @@
       "posicao": null
     },
     {
-      "navio": "ADVENTURER",
+      "navio": "SEATTLE C",
       "status": "Previsto",
-      "data_hora_texto": "24/07/2026 - 07:00",
-      "data_hora_iso": "2026-07-24T07:00:00",
+      "data_hora_texto": "21/07/2026 - 07:00",
+      "data_hora_iso": "2026-07-21T07:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": null,
+      "posicao": null
+    },
+    {
+      "navio": "CMA CGM LISA MARIE",
+      "status": "Previsto",
+      "data_hora_texto": "21/07/2026 - 15:00",
+      "data_hora_iso": "2026-07-21T15:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": null,
+      "posicao": null
+    },
+    {
+      "navio": "MYNY",
+      "status": "Previsto",
+      "data_hora_texto": "21/07/2026 - 22:00",
+      "data_hora_iso": "2026-07-21T22:00:00",
       "calado": "TBC",
       "rota": "",
       "berco": null,
@@ -86,6 +96,16 @@
       "status": "Previsto",
       "data_hora_texto": "24/07/2026 - 17:00",
       "data_hora_iso": "2026-07-24T17:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": null,
+      "posicao": null
+    },
+    {
+      "navio": "ADVENTURER",
+      "status": "Previsto",
+      "data_hora_texto": "25/07/2026 - 22:00",
+      "data_hora_iso": "2026-07-25T22:00:00",
       "calado": "TBC",
       "rota": "",
       "berco": null,
@@ -162,16 +182,6 @@
       "posicao": "26 53,02 S / 048 29,30 W"
     },
     {
-      "navio": "NC BRUMA",
-      "status": "Fundeado",
-      "data_hora_texto": "19/07/2026 - 20:00",
-      "data_hora_iso": "2026-07-19T20:00:00",
-      "calado": "8,30/9,40",
-      "rota": "",
-      "berco": null,
-      "posicao": "26 52,28 S / 048 30,09 W"
-    },
-    {
       "navio": "LI DA XING",
       "status": "Fundeado",
       "data_hora_texto": "19/07/2026 - 23:40",
@@ -180,6 +190,26 @@
       "rota": "",
       "berco": null,
       "posicao": "26 50,09 S / 048 32,47 W"
+    },
+    {
+      "navio": "DOVER HIGHWAY",
+      "status": "Atracado",
+      "data_hora_texto": "20/07/2026 - 17:15",
+      "data_hora_iso": "2026-07-20T17:15:00",
+      "calado": null,
+      "rota": "",
+      "berco": "PORTO ITAJAI - 03",
+      "posicao": null
+    },
+    {
+      "navio": "NC BRUMA",
+      "status": "Atracado",
+      "data_hora_texto": "20/07/2026 - 14:17",
+      "data_hora_iso": "2026-07-20T14:17:00",
+      "calado": null,
+      "rota": "",
+      "berco": "JBS 1",
+      "posicao": null
     },
     {
       "navio": "MSC INIYA V",
