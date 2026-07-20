@@ -1,18 +1,6 @@
 {
-  "gerado_em": "2026-07-20T10:25:15.886627",
+  "gerado_em": "2026-07-20T16:17:45.628611",
   "navios": [
-    {
-      "navio": "MSC Meline",
-      "imo": "9702077",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "17/07/2026 03:11",
-      "data_chegada_iso": "2026-07-17T03:11:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "20/07/2026 06:30",
-      "berco": "901 BARRA",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Gallia Graeca II",
       "imo": "1060136",
@@ -22,7 +10,7 @@
       "manobra": "Entrada e Atracação",
       "data_manobra": "20/07/2026 13:00",
       "berco": "BARRA 101",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -33,8 +21,8 @@
       "data_chegada_iso": "2026-07-11T14:18:00",
       "manobra": "Desatracação e Fundeio",
       "data_manobra": "20/07/2026 13:00",
-      "berco": "101 F5",
-      "situacao": "A Confirmar",
+      "berco": "101 F3",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -44,9 +32,9 @@
       "data_chegada_texto": "20/07/2026 11:00",
       "data_chegada_iso": "2026-07-20T11:00:00",
       "manobra": "Entrada e Atracação",
-      "data_manobra": "20/07/2026 13:30",
+      "data_manobra": "20/07/2026 13:45",
       "berco": "BARRA 901",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Navios Esperados"
     },
     {
@@ -125,8 +113,8 @@
       "navio": "SSI Phoenix",
       "imo": "9969182",
       "agencia": "LITORAL",
-      "data_chegada_texto": "20/07/2026 15:00",
-      "data_chegada_iso": "2026-07-20T15:00:00",
+      "data_chegada_texto": "20/07/2026 14:00",
+      "data_chegada_iso": "2026-07-20T14:00:00",
       "manobra": null,
       "data_manobra": null,
       "berco": "SFS",
@@ -137,8 +125,8 @@
       "navio": "Egret Oasis",
       "imo": "9592006",
       "agencia": "LITORAL",
-      "data_chegada_texto": "21/07/2026 00:00",
-      "data_chegada_iso": "2026-07-21T00:00:00",
+      "data_chegada_texto": "20/07/2026 15:00",
+      "data_chegada_iso": "2026-07-20T15:00:00",
       "manobra": null,
       "data_manobra": null,
       "berco": "SFS",
@@ -245,8 +233,8 @@
       "navio": "Barcaça N12",
       "imo": "9326031",
       "agencia": "WILSON SONS",
-      "data_chegada_texto": "23/07/2026 01:00",
-      "data_chegada_iso": "2026-07-23T01:00:00",
+      "data_chegada_texto": "23/07/2026 07:00",
+      "data_chegada_iso": "2026-07-23T07:00:00",
       "manobra": null,
       "data_manobra": null,
       "berco": "TESC",
@@ -295,6 +283,18 @@
       "agencia": "SEATRADE",
       "data_chegada_texto": "23/07/2026 11:00",
       "data_chegada_iso": "2026-07-23T11:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "berco": "SFS",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Chayanee Naree",
+      "imo": "9613434",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "23/07/2026 13:00",
+      "data_chegada_iso": "2026-07-23T13:00:00",
       "manobra": null,
       "data_manobra": null,
       "berco": "SFS",
@@ -353,8 +353,8 @@
       "navio": "Barcaça N11",
       "imo": "9326029",
       "agencia": "WILSON SONS",
-      "data_chegada_texto": "24/07/2026 13:00",
-      "data_chegada_iso": "2026-07-24T13:00:00",
+      "data_chegada_texto": "24/07/2026 19:00",
+      "data_chegada_iso": "2026-07-24T19:00:00",
       "manobra": null,
       "data_manobra": null,
       "berco": "TESC",
@@ -386,18 +386,6 @@
       "secao": "Navios Esperados"
     },
     {
-      "navio": "Chayanee Naree",
-      "imo": "9613434",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "25/07/2026 19:00",
-      "data_chegada_iso": "2026-07-25T19:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "berco": "SFS",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
       "navio": "Fernão de Magalhães",
       "imo": "9603221",
       "agencia": "LACHMANN",
@@ -406,6 +394,18 @@
       "manobra": null,
       "data_manobra": null,
       "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Stinger",
+      "imo": "9762871",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "26/07/2026 13:00",
+      "data_chegada_iso": "2026-07-26T13:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "berco": "TESC",
       "situacao": null,
       "secao": "Navios Esperados"
     },
@@ -554,18 +554,6 @@
       "secao": "Navios Esperados"
     },
     {
-      "navio": "Le Havre",
-      "imo": "9307243",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "30/07/2026 02:00",
-      "data_chegada_iso": "2026-07-30T02:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
       "navio": "Vicente Pinzon",
       "imo": "9625396",
       "agencia": "LACHMANN",
@@ -602,6 +590,18 @@
       "secao": "Navios Esperados"
     },
     {
+      "navio": "Le Havre",
+      "imo": "9307243",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "31/07/2026 11:00",
+      "data_chegada_iso": "2026-07-31T11:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
       "navio": "Tuju Arrow",
       "imo": "9443920",
       "agencia": "SEATRADE",
@@ -619,6 +619,18 @@
       "agencia": "ZPORT AGENCIA",
       "data_chegada_texto": "11/08/2026 12:00",
       "data_chegada_iso": "2026-08-11T12:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "berco": "SFS",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Astro Castor",
+      "imo": "9767314",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "31/08/2026 07:00",
+      "data_chegada_iso": "2026-08-31T07:00:00",
       "manobra": null,
       "data_manobra": null,
       "berco": "SFS",
