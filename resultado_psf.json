@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-07-21T11:50:25.520728",
+  "gerado_em": "2026-07-21T12:03:56.142491",
   "navios": [
     {
       "navio": "ONE Premium",
@@ -9,6 +9,7 @@
       "data_chegada_iso": "2026-07-21T14:00:00",
       "manobra": "Entrada e Fundeio",
       "data_manobra": "21/07/2026 15:30",
+      "data_manobra_iso": "2026-07-21T15:30:00",
       "berco": "BARRA F5",
       "situacao": "A Confirmar",
       "secao": "Navios Esperados"
@@ -21,6 +22,7 @@
       "data_chegada_iso": "2026-07-18T11:18:00",
       "manobra": "Desatracação e Saída",
       "data_manobra": "21/07/2026 18:15",
+      "data_manobra_iso": "2026-07-21T18:15:00",
       "berco": "302 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
@@ -33,6 +35,7 @@
       "data_chegada_iso": "2026-07-20T13:45:00",
       "manobra": "Desatracação e Fundeio",
       "data_manobra": "21/07/2026 18:30",
+      "data_manobra_iso": "2026-07-21T18:30:00",
       "berco": "901 F5",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
@@ -45,6 +48,7 @@
       "data_chegada_iso": "2026-07-21T06:40:00",
       "manobra": null,
       "data_manobra": null,
+      "data_manobra_iso": null,
       "berco": "902",
       "situacao": null,
       "secao": "Navios Atracados"
@@ -57,6 +61,7 @@
       "data_chegada_iso": "2026-07-11T14:20:00",
       "manobra": null,
       "data_manobra": null,
+      "data_manobra_iso": null,
       "berco": "101",
       "situacao": null,
       "secao": "Navios Atracados"
@@ -69,6 +74,7 @@
       "data_chegada_iso": "2026-07-15T01:24:00",
       "manobra": null,
       "data_manobra": null,
+      "data_manobra_iso": null,
       "berco": "102",
       "situacao": null,
       "secao": "Navios Atracados"
@@ -81,6 +87,7 @@
       "data_chegada_iso": "2026-07-18T10:30:00",
       "manobra": null,
       "data_manobra": null,
+      "data_manobra_iso": null,
       "berco": "201",
       "situacao": null,
       "secao": "Navios Atracados"
@@ -93,6 +100,7 @@
       "data_chegada_iso": "2026-07-08T09:49:00",
       "manobra": null,
       "data_manobra": null,
+      "data_manobra_iso": null,
       "berco": "F1",
       "situacao": null,
       "secao": "Navios Fundeados (Internos)"
@@ -105,6 +113,7 @@
       "data_chegada_iso": "2026-07-18T07:42:00",
       "manobra": null,
       "data_manobra": null,
+      "data_manobra_iso": null,
       "berco": "SFS",
       "situacao": null,
       "secao": "Navios Fundeados (Barra)"
@@ -117,6 +126,7 @@
       "data_chegada_iso": "2026-07-20T14:30:00",
       "manobra": null,
       "data_manobra": null,
+      "data_manobra_iso": null,
       "berco": "SFS",
       "situacao": null,
       "secao": "Navios Fundeados (Barra)"
@@ -129,6 +139,7 @@
       "data_chegada_iso": "2026-07-20T14:30:00",
       "manobra": null,
       "data_manobra": null,
+      "data_manobra_iso": null,
       "berco": "SFS",
       "situacao": null,
       "secao": "Navios Fundeados (Barra)"
@@ -141,6 +152,7 @@
       "data_chegada_iso": "2026-07-21T19:00:00",
       "manobra": null,
       "data_manobra": null,
+      "data_manobra_iso": null,
       "berco": "TESC",
       "situacao": null,
       "secao": "Navios Esperados"
@@ -153,6 +165,7 @@
       "data_chegada_iso": "2026-07-22T05:00:00",
       "manobra": null,
       "data_manobra": null,
+      "data_manobra_iso": null,
       "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Esperados"
@@ -165,6 +178,7 @@
       "data_chegada_iso": "2026-07-22T09:00:00",
       "manobra": null,
       "data_manobra": null,
+      "data_manobra_iso": null,
       "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Esperados"
@@ -177,6 +191,7 @@
       "data_chegada_iso": "2026-07-22T12:00:00",
       "manobra": null,
       "data_manobra": null,
+      "data_manobra_iso": null,
       "berco": "SFS",
       "situacao": null,
       "secao": "Navios Esperados"
@@ -189,6 +204,7 @@
       "data_chegada_iso": "2026-07-22T18:00:00",
       "manobra": null,
       "data_manobra": null,
+      "data_manobra_iso": null,
       "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Esperados"
@@ -201,6 +217,7 @@
       "data_chegada_iso": "2026-07-23T03:00:00",
       "manobra": null,
       "data_manobra": null,
+      "data_manobra_iso": null,
       "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Esperados"
@@ -213,6 +230,7 @@
       "data_chegada_iso": "2026-07-23T07:00:00",
       "manobra": null,
       "data_manobra": null,
+      "data_manobra_iso": null,
       "berco": "TESC",
       "situacao": null,
       "secao": "Navios Esperados"
@@ -225,6 +243,7 @@
       "data_chegada_iso": "2026-07-23T11:00:00",
       "manobra": null,
       "data_manobra": null,
+      "data_manobra_iso": null,
       "berco": "SFS",
       "situacao": null,
       "secao": "Navios Esperados"
@@ -237,6 +256,7 @@
       "data_chegada_iso": "2026-07-23T11:00:00",
       "manobra": null,
       "data_manobra": null,
+      "data_manobra_iso": null,
       "berco": "SFS",
       "situacao": null,
       "secao": "Navios Esperados"
@@ -249,6 +269,7 @@
       "data_chegada_iso": "2026-07-23T11:00:00",
       "manobra": null,
       "data_manobra": null,
+      "data_manobra_iso": null,
       "berco": "SFS",
       "situacao": null,
       "secao": "Navios Esperados"
@@ -261,6 +282,7 @@
       "data_chegada_iso": "2026-07-23T13:00:00",
       "manobra": null,
       "data_manobra": null,
+      "data_manobra_iso": null,
       "berco": "SFS",
       "situacao": null,
       "secao": "Navios Esperados"
@@ -273,6 +295,7 @@
       "data_chegada_iso": "2026-07-23T14:00:00",
       "manobra": null,
       "data_manobra": null,
+      "data_manobra_iso": null,
       "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Esperados"
@@ -285,6 +308,7 @@
       "data_chegada_iso": "2026-07-23T19:00:00",
       "manobra": null,
       "data_manobra": null,
+      "data_manobra_iso": null,
       "berco": "SFS",
       "situacao": null,
       "secao": "Navios Esperados"
@@ -297,6 +321,7 @@
       "data_chegada_iso": "2026-07-23T22:00:00",
       "manobra": null,
       "data_manobra": null,
+      "data_manobra_iso": null,
       "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Esperados"
@@ -309,6 +334,7 @@
       "data_chegada_iso": "2026-07-24T06:00:00",
       "manobra": null,
       "data_manobra": null,
+      "data_manobra_iso": null,
       "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Esperados"
@@ -321,6 +347,7 @@
       "data_chegada_iso": "2026-07-24T10:00:00",
       "manobra": null,
       "data_manobra": null,
+      "data_manobra_iso": null,
       "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Esperados"
@@ -333,6 +360,7 @@
       "data_chegada_iso": "2026-07-24T13:00:00",
       "manobra": null,
       "data_manobra": null,
+      "data_manobra_iso": null,
       "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Esperados"
@@ -345,6 +373,7 @@
       "data_chegada_iso": "2026-07-24T19:00:00",
       "manobra": null,
       "data_manobra": null,
+      "data_manobra_iso": null,
       "berco": "TESC",
       "situacao": null,
       "secao": "Navios Esperados"
@@ -357,6 +386,7 @@
       "data_chegada_iso": "2026-07-25T15:00:00",
       "manobra": null,
       "data_manobra": null,
+      "data_manobra_iso": null,
       "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Esperados"
@@ -369,6 +399,7 @@
       "data_chegada_iso": "2026-07-25T19:00:00",
       "manobra": null,
       "data_manobra": null,
+      "data_manobra_iso": null,
       "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Esperados"
@@ -381,6 +412,7 @@
       "data_chegada_iso": "2026-07-26T13:00:00",
       "manobra": null,
       "data_manobra": null,
+      "data_manobra_iso": null,
       "berco": "TESC",
       "situacao": null,
       "secao": "Navios Esperados"
@@ -393,6 +425,7 @@
       "data_chegada_iso": "2026-07-26T14:00:00",
       "manobra": null,
       "data_manobra": null,
+      "data_manobra_iso": null,
       "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Esperados"
@@ -405,6 +438,7 @@
       "data_chegada_iso": "2026-07-26T23:00:00",
       "manobra": null,
       "data_manobra": null,
+      "data_manobra_iso": null,
       "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Esperados"
@@ -417,6 +451,7 @@
       "data_chegada_iso": "2026-07-27T11:00:00",
       "manobra": null,
       "data_manobra": null,
+      "data_manobra_iso": null,
       "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Esperados"
@@ -429,6 +464,7 @@
       "data_chegada_iso": "2026-07-27T19:00:00",
       "manobra": null,
       "data_manobra": null,
+      "data_manobra_iso": null,
       "berco": "101",
       "situacao": null,
       "secao": "Navios Esperados"
@@ -441,6 +477,7 @@
       "data_chegada_iso": "2026-07-28T07:00:00",
       "manobra": null,
       "data_manobra": null,
+      "data_manobra_iso": null,
       "berco": "SFS",
       "situacao": null,
       "secao": "Navios Esperados"
@@ -453,6 +490,7 @@
       "data_chegada_iso": "2026-07-28T07:00:00",
       "manobra": null,
       "data_manobra": null,
+      "data_manobra_iso": null,
       "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Esperados"
@@ -465,6 +503,7 @@
       "data_chegada_iso": "2026-07-28T11:00:00",
       "manobra": null,
       "data_manobra": null,
+      "data_manobra_iso": null,
       "berco": "TESC",
       "situacao": null,
       "secao": "Navios Esperados"
@@ -477,6 +516,7 @@
       "data_chegada_iso": "2026-07-28T11:00:00",
       "manobra": null,
       "data_manobra": null,
+      "data_manobra_iso": null,
       "berco": "SFS",
       "situacao": null,
       "secao": "Navios Esperados"
@@ -489,6 +529,7 @@
       "data_chegada_iso": "2026-07-29T02:00:00",
       "manobra": null,
       "data_manobra": null,
+      "data_manobra_iso": null,
       "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Esperados"
@@ -501,6 +542,7 @@
       "data_chegada_iso": "2026-07-29T11:00:00",
       "manobra": null,
       "data_manobra": null,
+      "data_manobra_iso": null,
       "berco": "SFS",
       "situacao": null,
       "secao": "Navios Esperados"
@@ -513,6 +555,7 @@
       "data_chegada_iso": "2026-07-29T12:00:00",
       "manobra": null,
       "data_manobra": null,
+      "data_manobra_iso": null,
       "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Esperados"
@@ -525,6 +568,7 @@
       "data_chegada_iso": "2026-07-29T18:00:00",
       "manobra": null,
       "data_manobra": null,
+      "data_manobra_iso": null,
       "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Esperados"
@@ -537,6 +581,7 @@
       "data_chegada_iso": "2026-07-30T02:00:00",
       "manobra": null,
       "data_manobra": null,
+      "data_manobra_iso": null,
       "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Esperados"
@@ -549,6 +594,7 @@
       "data_chegada_iso": "2026-07-30T07:00:00",
       "manobra": null,
       "data_manobra": null,
+      "data_manobra_iso": null,
       "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Esperados"
@@ -561,6 +607,7 @@
       "data_chegada_iso": "2026-07-30T10:00:00",
       "manobra": null,
       "data_manobra": null,
+      "data_manobra_iso": null,
       "berco": "TESC",
       "situacao": null,
       "secao": "Navios Esperados"
@@ -573,6 +620,7 @@
       "data_chegada_iso": "2026-07-30T13:00:00",
       "manobra": null,
       "data_manobra": null,
+      "data_manobra_iso": null,
       "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Esperados"
@@ -585,6 +633,7 @@
       "data_chegada_iso": "2026-07-31T10:00:00",
       "manobra": null,
       "data_manobra": null,
+      "data_manobra_iso": null,
       "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Esperados"
@@ -597,6 +646,7 @@
       "data_chegada_iso": "2026-07-31T22:00:00",
       "manobra": null,
       "data_manobra": null,
+      "data_manobra_iso": null,
       "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Esperados"
@@ -609,6 +659,7 @@
       "data_chegada_iso": "2026-08-02T06:00:00",
       "manobra": null,
       "data_manobra": null,
+      "data_manobra_iso": null,
       "berco": "SFS",
       "situacao": null,
       "secao": "Navios Esperados"
@@ -621,6 +672,7 @@
       "data_chegada_iso": "2026-08-06T22:00:00",
       "manobra": null,
       "data_manobra": null,
+      "data_manobra_iso": null,
       "berco": "TESC",
       "situacao": null,
       "secao": "Navios Esperados"
@@ -633,6 +685,7 @@
       "data_chegada_iso": "2026-08-08T15:00:00",
       "manobra": null,
       "data_manobra": null,
+      "data_manobra_iso": null,
       "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Esperados"
@@ -645,6 +698,7 @@
       "data_chegada_iso": "2026-08-11T12:00:00",
       "manobra": null,
       "data_manobra": null,
+      "data_manobra_iso": null,
       "berco": "SFS",
       "situacao": null,
       "secao": "Navios Esperados"
@@ -657,6 +711,7 @@
       "data_chegada_iso": "2026-08-31T07:00:00",
       "manobra": null,
       "data_manobra": null,
+      "data_manobra_iso": null,
       "berco": "SFS",
       "situacao": null,
       "secao": "Navios Esperados"

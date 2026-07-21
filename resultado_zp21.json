@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-07-21T11:50:19.121881",
+  "gerado_em": "2026-07-21T12:03:49.652904",
   "navios": [
     {
       "navio": "FELIXSTOWE",
@@ -12,16 +12,6 @@
       "posicao": null
     },
     {
-      "navio": "MSC AVNI",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "21/07/2026",
-      "data_hora_iso": "2026-07-21T00:00:00",
-      "calado": "11,70/12,20",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
       "navio": "PIO GRANDE",
       "status": "ManobraPrevista",
       "data_hora_texto": "21/07/2026",
@@ -29,6 +19,16 @@
       "calado": "5,00/5,40",
       "rota": "",
       "berco": "TEPORTI",
+      "posicao": null
+    },
+    {
+      "navio": "MSC AVNI",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "21/07/2026",
+      "data_hora_iso": "2026-07-21T00:00:00",
+      "calado": "11,70/12,20",
+      "rota": "Bacia 2",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
