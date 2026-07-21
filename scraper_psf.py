@@ -101,6 +101,9 @@ def montar_registro(headers_atuais, celulas):
     data_chegada_texto = registro_bruto.get("data de chegada") or ""
     data_chegada_dt = parse_data_hora(data_chegada_texto)
 
+    data_manobra_texto = registro_bruto.get("data de manobra") or ""
+    data_manobra_dt = parse_data_hora(data_manobra_texto)
+
     return {
         "navio": nome,
         "imo": registro_bruto.get("nrº imo") or registro_bruto.get("nº imo") or registro_bruto.get("imo"),
@@ -108,7 +111,8 @@ def montar_registro(headers_atuais, celulas):
         "data_chegada_texto": data_chegada_texto or None,
         "data_chegada_iso": data_chegada_dt.isoformat() if data_chegada_dt else None,
         "manobra": registro_bruto.get("manobra") or None,
-        "data_manobra": registro_bruto.get("data de manobra") or None,
+        "data_manobra": data_manobra_texto or None,
+        "data_manobra_iso": data_manobra_dt.isoformat() if data_manobra_dt else None,
         "berco": registro_bruto.get("berço") or registro_bruto.get("berco"),
         "situacao": registro_bruto.get("situação") or registro_bruto.get("situacao") or None,
     }
