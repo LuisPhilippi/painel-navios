@@ -1,19 +1,6 @@
 {
-  "gerado_em": "2026-07-21T16:07:10.246444",
+  "gerado_em": "2026-07-21T20:50:02.001082",
   "navios": [
-    {
-      "navio": "ONE Premium",
-      "imo": "9444261",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "21/07/2026 14:00",
-      "data_chegada_iso": "2026-07-21T14:00:00",
-      "manobra": "Entrada e Fundeio",
-      "data_manobra": "21/07/2026 15:30",
-      "data_manobra_iso": "2026-07-21T15:30:00",
-      "berco": "BARRA F5",
-      "situacao": "A Confirmar",
-      "secao": "Navios Esperados"
-    },
     {
       "navio": "Jamaica Bay",
       "imo": "9610717",
@@ -21,10 +8,10 @@
       "data_chegada_texto": "18/07/2026 11:18",
       "data_chegada_iso": "2026-07-18T11:18:00",
       "manobra": "Desatracação e Saída",
-      "data_manobra": "21/07/2026 18:15",
-      "data_manobra_iso": "2026-07-21T18:15:00",
+      "data_manobra": "21/07/2026 19:30",
+      "data_manobra_iso": "2026-07-21T19:30:00",
       "berco": "302 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -34,9 +21,22 @@
       "data_chegada_texto": "20/07/2026 13:45",
       "data_chegada_iso": "2026-07-20T13:45:00",
       "manobra": "Desatracação e Fundeio",
-      "data_manobra": "21/07/2026 18:30",
-      "data_manobra_iso": "2026-07-21T18:30:00",
+      "data_manobra": "21/07/2026 19:45",
+      "data_manobra_iso": "2026-07-21T19:45:00",
       "berco": "901 F5",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "ONE Premium",
+      "imo": "9444261",
+      "agencia": "UNIMAR",
+      "data_chegada_texto": "21/07/2026 15:27",
+      "data_chegada_iso": "2026-07-21T15:27:00",
+      "manobra": "Suspender e Atracar",
+      "data_manobra": "21/07/2026 19:45",
+      "data_manobra_iso": "2026-07-21T19:45:00",
+      "berco": "F5 901",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
     },
@@ -46,12 +46,25 @@
       "agencia": "LACHMANN",
       "data_chegada_texto": "21/07/2026 06:40",
       "data_chegada_iso": "2026-07-21T06:40:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "902",
-      "situacao": null,
-      "secao": "Navios Atracados"
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "22/07/2026 05:30",
+      "data_manobra_iso": "2026-07-22T05:30:00",
+      "berco": "902 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "SSI Phoenix",
+      "imo": "9969182",
+      "agencia": "LITORAL",
+      "data_chegada_texto": "20/07/2026 14:30",
+      "data_chegada_iso": "2026-07-20T14:30:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "22/07/2026 07:30",
+      "data_manobra_iso": "2026-07-22T07:30:00",
+      "berco": "BARRA 101",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
     },
     {
       "navio": "Gallia Graeca II",
@@ -59,12 +72,38 @@
       "agencia": "ALPHAMAR",
       "data_chegada_texto": "11/07/2026 14:20",
       "data_chegada_iso": "2026-07-11T14:20:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "101",
-      "situacao": null,
-      "secao": "Navios Atracados"
+      "manobra": "Desatracação e Fundeio",
+      "data_manobra": "22/07/2026 07:30",
+      "data_manobra_iso": "2026-07-22T07:30:00",
+      "berco": "101 F3",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "MSC Pamela",
+      "imo": "9290531",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "23/07/2026 04:00",
+      "data_chegada_iso": "2026-07-23T04:00:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "22/07/2026 12:30",
+      "data_manobra_iso": "2026-07-22T12:30:00",
+      "berco": "BARRA 902",
+      "situacao": "A Confirmar",
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Babitonga Bay",
+      "imo": "9663776",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "22/07/2026 14:00",
+      "data_chegada_iso": "2026-07-22T14:00:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "22/07/2026 14:30",
+      "data_manobra_iso": "2026-07-22T14:30:00",
+      "berco": "BARRA 301",
+      "situacao": "A Confirmar",
+      "secao": "Navios Esperados"
     },
     {
       "navio": "Amoy Galaxy",
@@ -132,19 +171,6 @@
       "secao": "Navios Fundeados (Barra)"
     },
     {
-      "navio": "SSI Phoenix",
-      "imo": "9969182",
-      "agencia": "LITORAL",
-      "data_chegada_texto": "20/07/2026 14:30",
-      "data_chegada_iso": "2026-07-20T14:30:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "SFS",
-      "situacao": null,
-      "secao": "Navios Fundeados (Barra)"
-    },
-    {
       "navio": "Felixstowe",
       "imo": "9227039",
       "agencia": "ZIM DO BRASIL",
@@ -167,19 +193,6 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Babitonga Bay",
-      "imo": "9663776",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "22/07/2026 11:00",
-      "data_chegada_iso": "2026-07-22T11:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "TESC",
       "situacao": null,
       "secao": "Navios Esperados"
     },
@@ -215,19 +228,6 @@
       "agencia": "LACHMANN",
       "data_chegada_texto": "23/07/2026 03:00",
       "data_chegada_iso": "2026-07-23T03:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "MSC Pamela",
-      "imo": "9290531",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "23/07/2026 04:00",
-      "data_chegada_iso": "2026-07-23T04:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,

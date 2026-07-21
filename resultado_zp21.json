@@ -1,42 +1,12 @@
 {
-  "gerado_em": "2026-07-21T16:07:03.873065",
+  "gerado_em": "2026-07-21T20:49:55.609708",
   "navios": [
-    {
-      "navio": "FELIXSTOWE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "21/07/2026",
-      "data_hora_iso": "2026-07-21T00:00:00",
-      "calado": "9,70/11,30",
-      "rota": "",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "PIO GRANDE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "21/07/2026",
-      "data_hora_iso": "2026-07-21T00:00:00",
-      "calado": "5,00/5,40",
-      "rota": "",
-      "berco": "TEPORTI",
-      "posicao": null
-    },
-    {
-      "navio": "MSC AVNI",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "21/07/2026",
-      "data_hora_iso": "2026-07-21T00:00:00",
-      "calado": "11,70/12,20",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "COSTA RICA EXPRESS",
       "status": "ManobraPrevista",
       "data_hora_texto": "21/07/2026",
       "data_hora_iso": "2026-07-21T00:00:00",
-      "calado": "12,40 EK",
+      "calado": "12,25/12,40",
       "rota": "",
       "berco": "JBS 2",
       "posicao": null
@@ -47,16 +17,6 @@
       "data_hora_texto": "21/07/2026",
       "data_hora_iso": "2026-07-21T00:00:00",
       "calado": "7,80/9,80",
-      "rota": "Bacia 1",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "CMA CGM LISA MARIE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "21/07/2026",
-      "data_hora_iso": "2026-07-21T00:00:00",
-      "calado": "11,35 EK",
       "rota": "",
       "berco": "JBS 2",
       "posicao": null
@@ -77,28 +37,48 @@
       "data_hora_texto": "22/07/2026",
       "data_hora_iso": "2026-07-22T00:00:00",
       "calado": "8,60 EK",
-      "rota": "Bacia 1",
+      "rota": "",
       "berco": "JBS 1",
       "posicao": null
     },
     {
-      "navio": "LOG-IN ENDURANCE",
+      "navio": "CMA CGM LISA MARIE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "22/07/2026",
+      "data_hora_iso": "2026-07-22T00:00:00",
+      "calado": "11,35 EK",
+      "rota": "",
+      "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "MSC AVNI",
       "status": "ManobraPrevista",
       "data_hora_texto": "22/07/2026",
       "data_hora_iso": "2026-07-22T00:00:00",
       "calado": "TBC",
-      "rota": "Bacia 1",
+      "rota": "",
       "berco": "PNAVE 01",
       "posicao": null
     },
     {
-      "navio": "MSC DAKAR X",
+      "navio": "NAVARINO",
       "status": "ManobraPrevista",
       "data_hora_texto": "22/07/2026",
       "data_hora_iso": "2026-07-22T00:00:00",
-      "calado": "8,80/11,30",
+      "calado": "12,40 EK",
+      "rota": "Bacia 2",
+      "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
+      "navio": "PIO GRANDE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "22/07/2026",
+      "data_hora_iso": "2026-07-22T00:00:00",
+      "calado": "TBC",
       "rota": "",
-      "berco": "JBS 2",
+      "berco": "TEPORTI",
       "posicao": null
     },
     {
@@ -112,30 +92,20 @@
       "posicao": null
     },
     {
-      "navio": "SUNNY PHOENIX",
+      "navio": "LOG-IN ENDURANCE",
       "status": "ManobraPrevista",
       "data_hora_texto": "22/07/2026",
       "data_hora_iso": "2026-07-22T00:00:00",
-      "calado": "10,00/10,20",
-      "rota": "",
-      "berco": "PNAVE",
-      "posicao": null
-    },
-    {
-      "navio": "NAVARINO",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "22/07/2026",
-      "data_hora_iso": "2026-07-22T00:00:00",
-      "calado": "12,40 EK",
-      "rota": "",
-      "berco": "PNAVE",
+      "calado": "TBC",
+      "rota": "Bacia 1",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
       "navio": "EVER FASHION",
       "status": "ManobraPrevista",
-      "data_hora_texto": "23/07/2026",
-      "data_hora_iso": "2026-07-23T00:00:00",
+      "data_hora_texto": "24/07/2026",
+      "data_hora_iso": "2026-07-24T00:00:00",
       "calado": "11,60/11,70",
       "rota": "",
       "berco": "PNAVE",
@@ -162,6 +132,16 @@
       "posicao": null
     },
     {
+      "navio": "MSC DAKAR X",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "24/07/2026",
+      "data_hora_iso": "2026-07-24T00:00:00",
+      "calado": "8,80/11,30",
+      "rota": "",
+      "berco": "JBS 2",
+      "posicao": null
+    },
+    {
       "navio": "LOG-IN RESILIENTE",
       "status": "ManobraPrevista",
       "data_hora_texto": "24/07/2026",
@@ -179,6 +159,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "SUNNY PHOENIX",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "25/07/2026",
+      "data_hora_iso": "2026-07-25T00:00:00",
+      "calado": "10,00/10,20",
+      "rota": "",
+      "berco": "PNAVE",
       "posicao": null
     },
     {
