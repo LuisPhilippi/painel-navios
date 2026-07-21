@@ -1,12 +1,12 @@
 {
-  "gerado_em": "2026-07-21T12:03:49.652904",
+  "gerado_em": "2026-07-21T16:07:03.873065",
   "navios": [
     {
       "navio": "FELIXSTOWE",
       "status": "ManobraPrevista",
       "data_hora_texto": "21/07/2026",
       "data_hora_iso": "2026-07-21T00:00:00",
-      "calado": "9,30/11,50",
+      "calado": "9,70/11,30",
       "rota": "",
       "berco": "PNAVE 01",
       "posicao": null
@@ -52,16 +52,6 @@
       "posicao": null
     },
     {
-      "navio": "NC BRUMA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "21/07/2026",
-      "data_hora_iso": "2026-07-21T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS 1",
-      "posicao": null
-    },
-    {
       "navio": "CMA CGM LISA MARIE",
       "status": "ManobraPrevista",
       "data_hora_texto": "21/07/2026",
@@ -69,6 +59,16 @@
       "calado": "11,35 EK",
       "rota": "",
       "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "NC BRUMA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "22/07/2026",
+      "data_hora_iso": "2026-07-22T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS 1",
       "posicao": null
     },
     {
@@ -137,6 +137,16 @@
       "data_hora_texto": "23/07/2026",
       "data_hora_iso": "2026-07-23T00:00:00",
       "calado": "11,60/11,70",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "RUI FU",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "24/07/2026",
+      "data_hora_iso": "2026-07-24T00:00:00",
+      "calado": "6,95/7,65",
       "rota": "",
       "berco": "PNAVE",
       "posicao": null
@@ -272,10 +282,30 @@
       "posicao": null
     },
     {
+      "navio": "JAZAN",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "30/07/2026",
+      "data_hora_iso": "2026-07-30T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
       "navio": "MAERSK CHAMBAL",
       "status": "ManobraPrevista",
       "data_hora_texto": "31/07/2026",
       "data_hora_iso": "2026-07-31T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "NC BRISA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "03/08/2026",
+      "data_hora_iso": "2026-08-03T00:00:00",
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
@@ -318,7 +348,7 @@
       "data_hora_iso": "2026-07-18T19:45:00",
       "calado": null,
       "rota": "",
-      "berco": "Delegacia da Capitania dos Portos",
+      "berco": "DELEMAR",
       "posicao": null
     },
     {
