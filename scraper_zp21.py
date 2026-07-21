@@ -1,19 +1,25 @@
 """
-Scraper de status de navios - ZP21 Práticos (Itajaí/Navegantes) - v2
+Scraper de status de navios - ZP21 Práticos (Itajaí/Navegantes) - v3
 =====================================================================
 
-Agora o script lê TRÊS tabelas da página, não só uma, porque um navio
-pode estar em situações diferentes:
+Lê QUATRO tabelas da página, porque um navio pode estar em situações
+diferentes, e o que mais importa pra quem acompanha o despacho aduaneiro
+é a previsão de ATRACAÇÃO, não só a chegada na região:
 
-- "Navios Previstos"  -> ainda a caminho, com previsão de chegada (ETA)
-- "Navios Fundeados"   -> já chegou na região e está ancorado, esperando vaga
-- "Navios Atracados"   -> já está atracado no cais
+- "Manobras Previstas" -> tem a previsão REAL de atracação (a mais importante
+  para navios que já chegaram e estão fundeados esperando vaga)
+- "Navios Previstos"    -> ainda a caminho, com previsão de chegada (ETA)
+- "Navios Fundeados"    -> já chegou na região e está ancorado, esperando vaga
+- "Navios Atracados"    -> já está atracado no cais
 
-Para cada navio da lista de vocês, o script busca nas três tabelas e retorna
-o status mais concreto que encontrar (Atracado > Fundeado > Previsto).
+Para cada navio, o script busca nas quatro tabelas e prioriza a informação
+mais útil: Manobra Prevista (data real de atracação) > Atracado > Fundeado >
+Previsto - ou seja, se um navio está "Fundeado" MAS já tem uma manobra de
+atracação prevista, o painel mostra essa data de atracação, não só o fato de
+estar fundeado sem previsão nenhuma.
 
 Como usar:
-    python scraper_zp21.py navios.txt
+    python scraper_zp21.py
 
 Dependências:
     pip install requests beautifulsoup4 lxml
@@ -40,13 +46,19 @@ HEADERS = {
 
 # título exato na página -> nome do status que vamos usar no resultado
 TABELAS_ALVO = {
+    "manobras previstas": "ManobraPrevista",
     "navios previstos": "Previsto",
     "navios fundeados": "Fundeado",
     "navios atracados": "Atracado",
 }
 
-# ordem de prioridade quando um navio aparece em mais de uma tabela
-PRIORIDADE_STATUS = {"Atracado": 3, "Fundeado": 2, "Previsto": 1}
+# ordem de prioridade quando um navio aparece em mais de uma tabela -
+# Manobra Prevista (previsão real de atracação) vence tudo, porque é a
+# informação mais concreta e mais útil pra quem acompanha o despacho.
+PRIORIDADE_STATUS = {"ManobraPrevista": 4, "Atracado": 3, "Fundeado": 2, "Previsto": 1}
+
+DATA_RE = re.compile(r"(\d{2}/\d{2}/\d{4})")
+HORA_RE = re.compile(r"(\d{2}:\d{2})")
 
 
 def normalizar(texto: str) -> str:
@@ -57,14 +69,18 @@ def normalizar(texto: str) -> str:
 
 
 def parse_data_hora(texto: str):
-    """Aceita formatos 'dd/mm/aaaa - HH:MM' e retorna datetime, ou None se não bater."""
-    texto = (texto or "").strip()
-    for formato in ("%d/%m/%Y - %H:%M", "%d/%m/%Y-%H:%M"):
-        try:
-            return datetime.strptime(texto, formato)
-        except ValueError:
-            continue
-    return None
+    """Extrai data e hora de dentro do texto, em qualquer formatação (mais tolerante que um formato fixo)."""
+    if not texto:
+        return None
+    data_match = DATA_RE.search(texto)
+    if not data_match:
+        return None
+    hora_match = HORA_RE.search(texto)
+    hora_str = hora_match.group(1) if hora_match else "00:00"
+    try:
+        return datetime.strptime(f"{data_match.group(1)} {hora_str}", "%d/%m/%Y %H:%M")
+    except ValueError:
+        return None
 
 
 def extrair_tabela(soup, titulo_procurado):
@@ -90,10 +106,36 @@ def tabela_para_dicts(tabela):
     return linhas
 
 
+def encontrar_data_no_registro(registro):
+    """
+    Tenta achar a data/hora relevante do registro. Primeiro tenta nomes de
+    coluna conhecidos; se não achar, varre TODOS os valores da linha
+    procurando qualquer coisa no formato de data - assim não depende de
+    adivinhar o nome exato da coluna (que pode mudar de tabela pra tabela).
+    """
+    candidatos_conhecidos = [
+        "previsão de chegada", "previsao de chegada",
+        "data - hora", "data-hora", "data",
+        "data prevista", "data/hora prevista", "previsão", "previsao",
+        "data da manobra", "horário previsto", "horario previsto",
+    ]
+    for chave in candidatos_conhecidos:
+        if registro.get(chave):
+            return registro[chave]
+
+    # fallback: procura em qualquer célula da linha algo parecido com uma data
+    for valor in registro.values():
+        if valor and DATA_RE.search(valor):
+            return valor
+
+    return ""
+
+
 def buscar_status_navios():
     """
-    Busca as três tabelas e retorna uma lista unificada, um registro por navio,
-    já com o status mais concreto (se o navio aparecer em mais de uma tabela).
+    Busca as quatro tabelas e retorna uma lista unificada, um registro por
+    navio, já com o status mais útil (se o navio aparecer em mais de uma
+    tabela, prioriza Manobra Prevista > Atracado > Fundeado > Previsto).
     """
     resp = requests.get(URL, headers=HEADERS, timeout=20)
     resp.raise_for_status()
@@ -104,7 +146,6 @@ def buscar_status_navios():
     for titulo_procurado, status in TABELAS_ALVO.items():
         tabela = extrair_tabela(soup, titulo_procurado)
         if tabela is None:
-            # Não interrompe tudo por causa de uma tabela só; apenas avisa.
             print(f"[aviso] não encontrei a tabela '{titulo_procurado}' na página.", file=sys.stderr)
             continue
 
@@ -113,13 +154,7 @@ def buscar_status_navios():
             if not nome:
                 continue
 
-            eta_texto = (
-                registro.get("previsão de chegada")
-                or registro.get("previsao de chegada")
-                or registro.get("data - hora")
-                or registro.get("data-hora")
-                or ""
-            )
+            eta_texto = encontrar_data_no_registro(registro)
             eta_dt = parse_data_hora(eta_texto)
 
             chave = normalizar(nome)
