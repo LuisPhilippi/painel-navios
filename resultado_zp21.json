@@ -1,275 +1,305 @@
 {
-  "gerado_em": "2026-07-21T10:08:49.931741",
+  "gerado_em": "2026-07-21T11:50:19.121881",
   "navios": [
     {
-      "navio": "SUNNY PHOENIX",
-      "status": "Previsto",
-      "data_hora_texto": "29/06/2026 - 06:00",
-      "data_hora_iso": "2026-06-29T06:00:00",
-      "calado": "10,00/10,20",
+      "navio": "FELIXSTOWE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "21/07/2026",
+      "data_hora_iso": "2026-07-21T00:00:00",
+      "calado": "9,30/11,50",
       "rota": "",
-      "berco": null,
-      "posicao": null
-    },
-    {
-      "navio": "MSC DAKAR X",
-      "status": "Previsto",
-      "data_hora_texto": "13/07/2026 - 03:00",
-      "data_hora_iso": "2026-07-13T03:00:00",
-      "calado": "8,80/11,30",
-      "rota": "",
-      "berco": null,
-      "posicao": null
-    },
-    {
-      "navio": "ESPIRITO SANTO EXPRESS",
-      "status": "Previsto",
-      "data_hora_texto": "14/07/2026 - 17:00",
-      "data_hora_iso": "2026-07-14T17:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": null,
-      "posicao": null
-    },
-    {
-      "navio": "LOG-IN ENDURANCE",
-      "status": "Previsto",
-      "data_hora_texto": "21/07/2026 - 04:00",
-      "data_hora_iso": "2026-07-21T04:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": null,
-      "posicao": null
-    },
-    {
-      "navio": "SEATTLE C",
-      "status": "Previsto",
-      "data_hora_texto": "21/07/2026 - 07:00",
-      "data_hora_iso": "2026-07-21T07:00:00",
-      "calado": "7,80/9,80",
-      "rota": "",
-      "berco": null,
-      "posicao": null
-    },
-    {
-      "navio": "CMA CGM LISA MARIE",
-      "status": "Previsto",
-      "data_hora_texto": "21/07/2026 - 15:00",
-      "data_hora_iso": "2026-07-21T15:00:00",
-      "calado": "11,35 EK",
-      "rota": "",
-      "berco": null,
-      "posicao": null
-    },
-    {
-      "navio": "MYNY",
-      "status": "Previsto",
-      "data_hora_texto": "21/07/2026 - 22:00",
-      "data_hora_iso": "2026-07-21T22:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": null,
-      "posicao": null
-    },
-    {
-      "navio": "MSC SHUBA B",
-      "status": "Previsto",
-      "data_hora_texto": "22/07/2026 - 01:00",
-      "data_hora_iso": "2026-07-22T01:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": null,
-      "posicao": null
-    },
-    {
-      "navio": "NAVARINO",
-      "status": "Previsto",
-      "data_hora_texto": "22/07/2026 - 01:00",
-      "data_hora_iso": "2026-07-22T01:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": null,
-      "posicao": null
-    },
-    {
-      "navio": "MSC PAMELA",
-      "status": "Previsto",
-      "data_hora_texto": "23/07/2026 - 04:00",
-      "data_hora_iso": "2026-07-23T04:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": null,
-      "posicao": null
-    },
-    {
-      "navio": "MAERSK KARUN",
-      "status": "Previsto",
-      "data_hora_texto": "24/07/2026 - 07:00",
-      "data_hora_iso": "2026-07-24T07:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": null,
-      "posicao": null
-    },
-    {
-      "navio": "MSC MARSEILLE",
-      "status": "Previsto",
-      "data_hora_texto": "24/07/2026 - 12:00",
-      "data_hora_iso": "2026-07-24T12:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": null,
-      "posicao": null
-    },
-    {
-      "navio": "LOG-IN RESILIENTE",
-      "status": "Previsto",
-      "data_hora_texto": "24/07/2026 - 17:00",
-      "data_hora_iso": "2026-07-24T17:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": null,
-      "posicao": null
-    },
-    {
-      "navio": "ADVENTURER",
-      "status": "Previsto",
-      "data_hora_texto": "25/07/2026 - 22:00",
-      "data_hora_iso": "2026-07-25T22:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": null,
-      "posicao": null
-    },
-    {
-      "navio": "CAPE ALTIUS",
-      "status": "Previsto",
-      "data_hora_texto": "26/07/2026 - 01:00",
-      "data_hora_iso": "2026-07-26T01:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": null,
-      "posicao": null
-    },
-    {
-      "navio": "LOG-IN JATOBÁ",
-      "status": "Previsto",
-      "data_hora_texto": "26/07/2026 - 11:00",
-      "data_hora_iso": "2026-07-26T11:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": null,
-      "posicao": null
-    },
-    {
-      "navio": "NC BREDA",
-      "status": "Previsto",
-      "data_hora_texto": "27/07/2026 - 06:00",
-      "data_hora_iso": "2026-07-27T06:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": null,
-      "posicao": null
-    },
-    {
-      "navio": "XIAMEN EXPRESS",
-      "status": "Previsto",
-      "data_hora_texto": "27/07/2026 - 07:00",
-      "data_hora_iso": "2026-07-27T07:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": null,
-      "posicao": null
-    },
-    {
-      "navio": "SANTA INES",
-      "status": "Previsto",
-      "data_hora_texto": "28/07/2026 - 17:00",
-      "data_hora_iso": "2026-07-28T17:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": null,
-      "posicao": null
-    },
-    {
-      "navio": "NORWALK",
-      "status": "Previsto",
-      "data_hora_texto": "29/07/2026 - 07:00",
-      "data_hora_iso": "2026-07-29T07:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": null,
-      "posicao": null
-    },
-    {
-      "navio": "MAERSK CHAMBAL",
-      "status": "Previsto",
-      "data_hora_texto": "31/07/2026 - 07:00",
-      "data_hora_iso": "2026-07-31T07:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": null,
-      "posicao": null
-    },
-    {
-      "navio": "MAERSK LOTA",
-      "status": "Previsto",
-      "data_hora_texto": "04/08/2026 - 17:00",
-      "data_hora_iso": "2026-08-04T17:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": null,
-      "posicao": null
-    },
-    {
-      "navio": "GHIBLI",
-      "status": "Previsto",
-      "data_hora_texto": "12/08/2026 - 07:00",
-      "data_hora_iso": "2026-08-12T07:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": null,
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
       "navio": "MSC AVNI",
-      "status": "Fundeado",
-      "data_hora_texto": "17/07/2026 - 11:55",
-      "data_hora_iso": "2026-07-17T11:55:00",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "21/07/2026",
+      "data_hora_iso": "2026-07-21T00:00:00",
       "calado": "11,70/12,20",
-      "rota": "",
-      "berco": null,
-      "posicao": "26 55,01 S / 048 29,94 W"
+      "rota": "Bacia 2",
+      "berco": "PNAVE 01",
+      "posicao": null
     },
     {
       "navio": "PIO GRANDE",
-      "status": "Fundeado",
-      "data_hora_texto": "18/07/2026 - 08:52",
-      "data_hora_iso": "2026-07-18T08:52:00",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "21/07/2026",
+      "data_hora_iso": "2026-07-21T00:00:00",
       "calado": "5,00/5,40",
       "rota": "",
-      "berco": null,
-      "posicao": "26 55,26 S / 048 31,56 W"
+      "berco": "TEPORTI",
+      "posicao": null
+    },
+    {
+      "navio": "COSTA RICA EXPRESS",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "21/07/2026",
+      "data_hora_iso": "2026-07-21T00:00:00",
+      "calado": "12,40 EK",
+      "rota": "",
+      "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "SEATTLE C",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "21/07/2026",
+      "data_hora_iso": "2026-07-21T00:00:00",
+      "calado": "7,80/9,80",
+      "rota": "Bacia 1",
+      "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "NC BRUMA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "21/07/2026",
+      "data_hora_iso": "2026-07-21T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS 1",
+      "posicao": null
+    },
+    {
+      "navio": "CMA CGM LISA MARIE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "21/07/2026",
+      "data_hora_iso": "2026-07-21T00:00:00",
+      "calado": "11,35 EK",
+      "rota": "",
+      "berco": "JBS 2",
+      "posicao": null
     },
     {
       "navio": "LI DA XING",
-      "status": "Fundeado",
-      "data_hora_texto": "19/07/2026 - 23:40",
-      "data_hora_iso": "2026-07-19T23:40:00",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "22/07/2026",
+      "data_hora_iso": "2026-07-22T00:00:00",
       "calado": "8,60 EK",
+      "rota": "Bacia 1",
+      "berco": "JBS 1",
+      "posicao": null
+    },
+    {
+      "navio": "LOG-IN ENDURANCE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "22/07/2026",
+      "data_hora_iso": "2026-07-22T00:00:00",
+      "calado": "TBC",
+      "rota": "Bacia 1",
+      "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
+      "navio": "MSC DAKAR X",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "22/07/2026",
+      "data_hora_iso": "2026-07-22T00:00:00",
+      "calado": "8,80/11,30",
       "rota": "",
-      "berco": null,
-      "posicao": "26 50,09 S / 048 32,47 W"
+      "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "MYNY",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "22/07/2026",
+      "data_hora_iso": "2026-07-22T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "SUNNY PHOENIX",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "22/07/2026",
+      "data_hora_iso": "2026-07-22T00:00:00",
+      "calado": "10,00/10,20",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "NAVARINO",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "22/07/2026",
+      "data_hora_iso": "2026-07-22T00:00:00",
+      "calado": "12,40 EK",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
     },
     {
       "navio": "EVER FASHION",
-      "status": "Fundeado",
-      "data_hora_texto": "21/07/2026 - 05:36",
-      "data_hora_iso": "2026-07-21T05:36:00",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "23/07/2026",
+      "data_hora_iso": "2026-07-23T00:00:00",
       "calado": "11,60/11,70",
       "rota": "",
-      "berco": null,
-      "posicao": "26 56,78 S / 048 30,53 W"
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "MAERSK KARUN",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "24/07/2026",
+      "data_hora_iso": "2026-07-24T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "LOG-IN RESILIENTE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "24/07/2026",
+      "data_hora_iso": "2026-07-24T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "MSC MARSEILLE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "25/07/2026",
+      "data_hora_iso": "2026-07-25T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "ESPIRITO SANTO EXPRESS",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "25/07/2026",
+      "data_hora_iso": "2026-07-25T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
+      "navio": "CAPE ALTIUS",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "26/07/2026",
+      "data_hora_iso": "2026-07-26T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "MSC PAMELA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "26/07/2026",
+      "data_hora_iso": "2026-07-26T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "ADVENTURER",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "26/07/2026",
+      "data_hora_iso": "2026-07-26T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "TEPORTI",
+      "posicao": null
+    },
+    {
+      "navio": "LOG-IN JATOBÁ",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "26/07/2026",
+      "data_hora_iso": "2026-07-26T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "NC BREDA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "27/07/2026",
+      "data_hora_iso": "2026-07-27T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "XIAMEN EXPRESS",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "27/07/2026",
+      "data_hora_iso": "2026-07-27T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "MSC SHUBA B",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "27/07/2026",
+      "data_hora_iso": "2026-07-27T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "SANTA INES",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "28/07/2026",
+      "data_hora_iso": "2026-07-28T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "NORWALK",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "29/07/2026",
+      "data_hora_iso": "2026-07-29T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "MAERSK CHAMBAL",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "31/07/2026",
+      "data_hora_iso": "2026-07-31T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "MAERSK LOTA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "04/08/2026",
+      "data_hora_iso": "2026-08-04T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "GHIBLI",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "12/08/2026",
+      "data_hora_iso": "2026-08-12T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
     },
     {
       "navio": "ONE PARANA",
@@ -280,36 +310,6 @@
       "rota": "",
       "berco": null,
       "posicao": "26 54,99 S / 048 24,94 W"
-    },
-    {
-      "navio": "FELIXSTOWE",
-      "status": "Atracado",
-      "data_hora_texto": "21/07/2026 - 05:51",
-      "data_hora_iso": "2026-07-21T05:51:00",
-      "calado": null,
-      "rota": "",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "COSTA RICA EXPRESS",
-      "status": "Atracado",
-      "data_hora_texto": "21/07/2026 - 02:25",
-      "data_hora_iso": "2026-07-21T02:25:00",
-      "calado": null,
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "NC BRUMA",
-      "status": "Atracado",
-      "data_hora_texto": "20/07/2026 - 14:17",
-      "data_hora_iso": "2026-07-20T14:17:00",
-      "calado": null,
-      "rota": "",
-      "berco": "JBS 1",
-      "posicao": null
     },
     {
       "navio": "REBOCADOR TRITÃO",
