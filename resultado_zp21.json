@@ -1,32 +1,12 @@
 {
-  "gerado_em": "2026-07-21T20:49:55.609708",
+  "gerado_em": "2026-07-22T00:09:25.757566",
   "navios": [
-    {
-      "navio": "COSTA RICA EXPRESS",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "21/07/2026",
-      "data_hora_iso": "2026-07-21T00:00:00",
-      "calado": "12,25/12,40",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "SEATTLE C",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "21/07/2026",
-      "data_hora_iso": "2026-07-21T00:00:00",
-      "calado": "7,80/9,80",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
     {
       "navio": "NC BRUMA",
       "status": "ManobraPrevista",
-      "data_hora_texto": "22/07/2026",
-      "data_hora_iso": "2026-07-22T00:00:00",
-      "calado": "TBC",
+      "data_hora_texto": "21/07/2026",
+      "data_hora_iso": "2026-07-21T00:00:00",
+      "calado": "9,00/10,00",
       "rota": "",
       "berco": "JBS 1",
       "posicao": null
@@ -34,11 +14,21 @@
     {
       "navio": "LI DA XING",
       "status": "ManobraPrevista",
-      "data_hora_texto": "22/07/2026",
-      "data_hora_iso": "2026-07-22T00:00:00",
+      "data_hora_texto": "21/07/2026",
+      "data_hora_iso": "2026-07-21T00:00:00",
       "calado": "8,60 EK",
       "rota": "",
       "berco": "JBS 1",
+      "posicao": null
+    },
+    {
+      "navio": "SEATTLE C",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "22/07/2026",
+      "data_hora_iso": "2026-07-22T00:00:00",
+      "calado": "TBC",
+      "rota": "Bacia 1",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -56,7 +46,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "22/07/2026",
       "data_hora_iso": "2026-07-22T00:00:00",
-      "calado": "TBC",
+      "calado": "9,60/9,95",
       "rota": "",
       "berco": "PNAVE 01",
       "posicao": null
@@ -76,7 +66,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "22/07/2026",
       "data_hora_iso": "2026-07-22T00:00:00",
-      "calado": "TBC",
+      "calado": "5,60/5,80",
       "rota": "",
       "berco": "TEPORTI",
       "posicao": null
@@ -86,9 +76,9 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "22/07/2026",
       "data_hora_iso": "2026-07-22T00:00:00",
-      "calado": "TBC",
+      "calado": "10,25/10,95",
       "rota": "",
-      "berco": "JBS",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -102,21 +92,21 @@
       "posicao": null
     },
     {
-      "navio": "EVER FASHION",
+      "navio": "RUI FU",
       "status": "ManobraPrevista",
-      "data_hora_texto": "24/07/2026",
-      "data_hora_iso": "2026-07-24T00:00:00",
-      "calado": "11,60/11,70",
+      "data_hora_texto": "23/07/2026",
+      "data_hora_iso": "2026-07-23T00:00:00",
+      "calado": "6,95/7,65",
       "rota": "",
       "berco": "PNAVE",
       "posicao": null
     },
     {
-      "navio": "RUI FU",
+      "navio": "EVER FASHION",
       "status": "ManobraPrevista",
       "data_hora_texto": "24/07/2026",
       "data_hora_iso": "2026-07-24T00:00:00",
-      "calado": "6,95/7,65",
+      "calado": "11,60/11,70",
       "rota": "",
       "berco": "PNAVE",
       "posicao": null

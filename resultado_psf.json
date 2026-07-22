@@ -1,19 +1,6 @@
 {
-  "gerado_em": "2026-07-21T20:50:02.001082",
+  "gerado_em": "2026-07-22T00:09:32.154256",
   "navios": [
-    {
-      "navio": "Jamaica Bay",
-      "imo": "9610717",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "18/07/2026 11:18",
-      "data_chegada_iso": "2026-07-18T11:18:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "21/07/2026 19:30",
-      "data_manobra_iso": "2026-07-21T19:30:00",
-      "berco": "302 BARRA",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Cosco Shipping Brazil",
       "imo": "9945837",
@@ -23,8 +10,8 @@
       "manobra": "Desatracação e Fundeio",
       "data_manobra": "21/07/2026 19:45",
       "data_manobra_iso": "2026-07-21T19:45:00",
-      "berco": "901 F5",
-      "situacao": "A Confirmar",
+      "berco": "901 F3",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -37,20 +24,7 @@
       "data_manobra": "21/07/2026 19:45",
       "data_manobra_iso": "2026-07-21T19:45:00",
       "berco": "F5 901",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Maersk Karun",
-      "imo": "9624299",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "21/07/2026 06:40",
-      "data_chegada_iso": "2026-07-21T06:40:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "22/07/2026 05:30",
-      "data_manobra_iso": "2026-07-22T05:30:00",
-      "berco": "902 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -76,6 +50,19 @@
       "data_manobra": "22/07/2026 07:30",
       "data_manobra_iso": "2026-07-22T07:30:00",
       "berco": "101 F3",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Maersk Karun",
+      "imo": "9624299",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "21/07/2026 06:40",
+      "data_chegada_iso": "2026-07-21T06:40:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "22/07/2026 10:00",
+      "data_manobra_iso": "2026-07-22T10:00:00",
+      "berco": "902 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
     },
@@ -174,8 +161,8 @@
       "navio": "Felixstowe",
       "imo": "9227039",
       "agencia": "ZIM DO BRASIL",
-      "data_chegada_texto": "22/07/2026 05:00",
-      "data_chegada_iso": "2026-07-22T05:00:00",
+      "data_chegada_texto": "21/07/2026 22:00",
+      "data_chegada_iso": "2026-07-21T22:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
