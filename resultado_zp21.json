@@ -1,32 +1,12 @@
 {
-  "gerado_em": "2026-07-22T00:09:25.757566",
+  "gerado_em": "2026-07-22T10:08:28.860303",
   "navios": [
-    {
-      "navio": "NC BRUMA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "21/07/2026",
-      "data_hora_iso": "2026-07-21T00:00:00",
-      "calado": "9,00/10,00",
-      "rota": "",
-      "berco": "JBS 1",
-      "posicao": null
-    },
-    {
-      "navio": "LI DA XING",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "21/07/2026",
-      "data_hora_iso": "2026-07-21T00:00:00",
-      "calado": "8,60 EK",
-      "rota": "",
-      "berco": "JBS 1",
-      "posicao": null
-    },
     {
       "navio": "SEATTLE C",
       "status": "ManobraPrevista",
       "data_hora_texto": "22/07/2026",
       "data_hora_iso": "2026-07-22T00:00:00",
-      "calado": "TBC",
+      "calado": "7,00/9,70",
       "rota": "Bacia 1",
       "berco": "JBS 2",
       "posicao": null
@@ -36,7 +16,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "22/07/2026",
       "data_hora_iso": "2026-07-22T00:00:00",
-      "calado": "11,35 EK",
+      "calado": "9,30/11,35",
       "rota": "",
       "berco": "JBS 2",
       "posicao": null
@@ -72,6 +52,16 @@
       "posicao": null
     },
     {
+      "navio": "LI DA XING",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "22/07/2026",
+      "data_hora_iso": "2026-07-22T00:00:00",
+      "calado": "TBC",
+      "rota": "Bacia 1",
+      "berco": "JBS 1",
+      "posicao": null
+    },
+    {
       "navio": "MYNY",
       "status": "ManobraPrevista",
       "data_hora_texto": "22/07/2026",
@@ -86,7 +76,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "22/07/2026",
       "data_hora_iso": "2026-07-22T00:00:00",
-      "calado": "TBC",
+      "calado": "10,00 EK",
       "rota": "Bacia 1",
       "berco": "PNAVE 01",
       "posicao": null
@@ -320,6 +310,16 @@
       "rota": "",
       "berco": null,
       "posicao": "26 54,99 S / 048 24,94 W"
+    },
+    {
+      "navio": "HMM PLATINUM",
+      "status": "Fundeado",
+      "data_hora_texto": "22/07/2026 - 03:05",
+      "data_hora_iso": "2026-07-22T03:05:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": null,
+      "posicao": "26 51,67 S / 048 31,38 W"
     },
     {
       "navio": "REBOCADOR TRITÃO",

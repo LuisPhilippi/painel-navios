@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-07-22T00:09:32.154256",
+  "gerado_em": "2026-07-22T10:08:36.131900",
   "navios": [
     {
       "navio": "Cosco Shipping Brazil",
@@ -7,50 +7,11 @@
       "agencia": "UNIMAR",
       "data_chegada_texto": "20/07/2026 13:45",
       "data_chegada_iso": "2026-07-20T13:45:00",
-      "manobra": "Desatracação e Fundeio",
-      "data_manobra": "21/07/2026 19:45",
-      "data_manobra_iso": "2026-07-21T19:45:00",
-      "berco": "901 F3",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "ONE Premium",
-      "imo": "9444261",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "21/07/2026 15:27",
-      "data_chegada_iso": "2026-07-21T15:27:00",
-      "manobra": "Suspender e Atracar",
-      "data_manobra": "21/07/2026 19:45",
-      "data_manobra_iso": "2026-07-21T19:45:00",
-      "berco": "F5 901",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "SSI Phoenix",
-      "imo": "9969182",
-      "agencia": "LITORAL",
-      "data_chegada_texto": "20/07/2026 14:30",
-      "data_chegada_iso": "2026-07-20T14:30:00",
-      "manobra": "Entrada e Atracação",
+      "manobra": "Suspender e Sair",
       "data_manobra": "22/07/2026 07:30",
       "data_manobra_iso": "2026-07-22T07:30:00",
-      "berco": "BARRA 101",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Gallia Graeca II",
-      "imo": "1060136",
-      "agencia": "ALPHAMAR",
-      "data_chegada_texto": "11/07/2026 14:20",
-      "data_chegada_iso": "2026-07-11T14:20:00",
-      "manobra": "Desatracação e Fundeio",
-      "data_manobra": "22/07/2026 07:30",
-      "data_manobra_iso": "2026-07-22T07:30:00",
-      "berco": "101 F3",
-      "situacao": "A Confirmar",
+      "berco": "F3 BARRA",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -67,30 +28,56 @@
       "secao": "Movimentações"
     },
     {
-      "navio": "MSC Pamela",
-      "imo": "9290531",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "23/07/2026 04:00",
-      "data_chegada_iso": "2026-07-23T04:00:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "22/07/2026 12:30",
-      "data_manobra_iso": "2026-07-22T12:30:00",
-      "berco": "BARRA 902",
-      "situacao": "A Confirmar",
-      "secao": "Navios Esperados"
-    },
-    {
       "navio": "Babitonga Bay",
       "imo": "9663776",
       "agencia": "WILSON SONS",
       "data_chegada_texto": "22/07/2026 14:00",
       "data_chegada_iso": "2026-07-22T14:00:00",
       "manobra": "Entrada e Atracação",
-      "data_manobra": "22/07/2026 14:30",
-      "data_manobra_iso": "2026-07-22T14:30:00",
+      "data_manobra": "22/07/2026 14:15",
+      "data_manobra_iso": "2026-07-22T14:15:00",
       "berco": "BARRA 301",
       "situacao": "A Confirmar",
       "secao": "Navios Esperados"
+    },
+    {
+      "navio": "SSI Phoenix",
+      "imo": "9969182",
+      "agencia": "LITORAL",
+      "data_chegada_texto": "20/07/2026 14:30",
+      "data_chegada_iso": "2026-07-20T14:30:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "22/07/2026 14:30",
+      "data_manobra_iso": "2026-07-22T14:30:00",
+      "berco": "BARRA 101",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Gallia Graeca II",
+      "imo": "1060136",
+      "agencia": "ALPHAMAR",
+      "data_chegada_texto": "11/07/2026 14:20",
+      "data_chegada_iso": "2026-07-11T14:20:00",
+      "manobra": "Desatracação e Fundeio",
+      "data_manobra": "22/07/2026 14:30",
+      "data_manobra_iso": "2026-07-22T14:30:00",
+      "berco": "101 F3",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "ONE Premium",
+      "imo": "9444261",
+      "agencia": "UNIMAR",
+      "data_chegada_texto": "21/07/2026 15:27",
+      "data_chegada_iso": "2026-07-21T15:27:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "901",
+      "situacao": null,
+      "secao": "Navios Atracados"
     },
     {
       "navio": "Amoy Galaxy",
@@ -193,6 +180,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "SFS",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "MSC Pamela",
+      "imo": "9290531",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "22/07/2026 12:30",
+      "data_chegada_iso": "2026-07-22T12:30:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": null,
       "situacao": null,
       "secao": "Navios Esperados"
     },
