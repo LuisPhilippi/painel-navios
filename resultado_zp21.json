@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-07-22T16:08:14.922019",
+  "gerado_em": "2026-07-22T20:45:29.683313",
   "navios": [
-    {
-      "navio": "LOG-IN ENDURANCE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "22/07/2026",
-      "data_hora_iso": "2026-07-22T00:00:00",
-      "calado": "10,00 EK",
-      "rota": "Bacia 1",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "CMA CGM LISA MARIE",
       "status": "ManobraPrevista",
@@ -32,6 +22,16 @@
       "posicao": null
     },
     {
+      "navio": "LOG-IN ENDURANCE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "22/07/2026",
+      "data_hora_iso": "2026-07-22T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
       "navio": "NAVARINO",
       "status": "ManobraPrevista",
       "data_hora_texto": "22/07/2026",
@@ -46,7 +46,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "23/07/2026",
       "data_hora_iso": "2026-07-23T00:00:00",
-      "calado": "TBC",
+      "calado": "6,00/8,00",
       "rota": "Bacia 1",
       "berco": "JBS 1",
       "posicao": null
@@ -58,7 +58,7 @@
       "data_hora_iso": "2026-07-23T00:00:00",
       "calado": "6,95/7,65",
       "rota": "",
-      "berco": "PNAVE",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
@@ -74,21 +74,11 @@
     {
       "navio": "MSC UNIFIC VI",
       "status": "ManobraPrevista",
-      "data_hora_texto": "23/07/2026",
-      "data_hora_iso": "2026-07-23T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
-      "navio": "EVER FASHION",
-      "status": "ManobraPrevista",
       "data_hora_texto": "24/07/2026",
       "data_hora_iso": "2026-07-24T00:00:00",
-      "calado": "11,60/11,70",
+      "calado": "TBC",
       "rota": "",
-      "berco": "PNAVE",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -98,7 +88,7 @@
       "data_hora_iso": "2026-07-24T00:00:00",
       "calado": "TBC",
       "rota": "",
-      "berco": "JBS",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -129,6 +119,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "EVER FASHION",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "25/07/2026",
+      "data_hora_iso": "2026-07-25T00:00:00",
+      "calado": "11,60/11,70",
+      "rota": "",
+      "berco": "PNAVE",
       "posicao": null
     },
     {
