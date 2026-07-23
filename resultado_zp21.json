@@ -1,12 +1,12 @@
 {
-  "gerado_em": "2026-07-22T20:45:29.683313",
+  "gerado_em": "2026-07-23T00:16:49.118272",
   "navios": [
     {
       "navio": "CMA CGM LISA MARIE",
       "status": "ManobraPrevista",
       "data_hora_texto": "22/07/2026",
       "data_hora_iso": "2026-07-22T00:00:00",
-      "calado": "9,60/11,50",
+      "calado": "9,50/11,60",
       "rota": "Bacia 2",
       "berco": "JBS 2",
       "posicao": null
@@ -34,8 +34,8 @@
     {
       "navio": "NAVARINO",
       "status": "ManobraPrevista",
-      "data_hora_texto": "22/07/2026",
-      "data_hora_iso": "2026-07-22T00:00:00",
+      "data_hora_texto": "23/07/2026",
+      "data_hora_iso": "2026-07-23T00:00:00",
       "calado": "12,40 EK",
       "rota": "",
       "berco": "PNAVE 01",
@@ -57,7 +57,7 @@
       "data_hora_texto": "23/07/2026",
       "data_hora_iso": "2026-07-23T00:00:00",
       "calado": "6,95/7,65",
-      "rota": "",
+      "rota": "Bacia 1",
       "berco": "PNAVE 01",
       "posicao": null
     },

@@ -1,32 +1,6 @@
 {
-  "gerado_em": "2026-07-22T20:45:35.907893",
+  "gerado_em": "2026-07-23T00:16:55.480799",
   "navios": [
-    {
-      "navio": "Lori",
-      "imo": "9631125",
-      "agencia": "ROCHAMAR",
-      "data_chegada_texto": "22/07/2026 18:00",
-      "data_chegada_iso": "2026-07-22T18:00:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "22/07/2026 18:30",
-      "data_manobra_iso": "2026-07-22T18:30:00",
-      "berco": "BARRA 901",
-      "situacao": "Confirmado",
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "ONE Premium",
-      "imo": "9444261",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "21/07/2026 15:27",
-      "data_chegada_iso": "2026-07-21T15:27:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "22/07/2026 18:30",
-      "data_manobra_iso": "2026-07-22T18:30:00",
-      "berco": "901 BARRA",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Bartolomeu Dias",
       "imo": "9625384",
@@ -104,6 +78,19 @@
       "berco": "BARRA 901",
       "situacao": "A Confirmar",
       "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Lori",
+      "imo": "9631125",
+      "agencia": "ROCHAMAR",
+      "data_chegada_texto": "22/07/2026 18:30",
+      "data_chegada_iso": "2026-07-22T18:30:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "23/07/2026 13:00",
+      "data_manobra_iso": "2026-07-23T13:00:00",
+      "berco": "901 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
     },
     {
       "navio": "Amoy Galaxy",
