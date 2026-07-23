@@ -1,54 +1,14 @@
 {
-  "gerado_em": "2026-07-23T00:16:49.118272",
+  "gerado_em": "2026-07-23T10:05:55.068907",
   "navios": [
-    {
-      "navio": "CMA CGM LISA MARIE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "22/07/2026",
-      "data_hora_iso": "2026-07-22T00:00:00",
-      "calado": "9,50/11,60",
-      "rota": "Bacia 2",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "MYNY",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "22/07/2026",
-      "data_hora_iso": "2026-07-22T00:00:00",
-      "calado": "10,25/10,95",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "LOG-IN ENDURANCE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "22/07/2026",
-      "data_hora_iso": "2026-07-22T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "NAVARINO",
       "status": "ManobraPrevista",
       "data_hora_texto": "23/07/2026",
       "data_hora_iso": "2026-07-23T00:00:00",
-      "calado": "12,40 EK",
-      "rota": "",
+      "calado": "12,45 EK",
+      "rota": "Bacia 2",
       "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "LI DA XING",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "23/07/2026",
-      "data_hora_iso": "2026-07-23T00:00:00",
-      "calado": "6,00/8,00",
-      "rota": "Bacia 1",
-      "berco": "JBS 1",
       "posicao": null
     },
     {
@@ -69,6 +29,16 @@
       "calado": "5,60/5,80",
       "rota": "",
       "berco": "TEPORTI",
+      "posicao": null
+    },
+    {
+      "navio": "MYNY",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "23/07/2026",
+      "data_hora_iso": "2026-07-23T00:00:00",
+      "calado": "10,85/11,25",
+      "rota": "Bacia 2",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -106,7 +76,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "24/07/2026",
       "data_hora_iso": "2026-07-24T00:00:00",
-      "calado": "TBC",
+      "calado": "8,20/9,00",
       "rota": "",
       "berco": "PNAVE",
       "posicao": null
@@ -139,6 +109,16 @@
       "calado": "10,00/10,20",
       "rota": "",
       "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "EVER LEADING",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "25/07/2026",
+      "data_hora_iso": "2026-07-25T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
       "posicao": null
     },
     {
@@ -216,6 +196,16 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "27/07/2026",
       "data_hora_iso": "2026-07-27T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "EVER FAME",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "28/07/2026",
+      "data_hora_iso": "2026-07-28T00:00:00",
       "calado": "TBC",
       "rota": "",
       "berco": "PNAVE",
