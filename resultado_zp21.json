@@ -1,26 +1,6 @@
 {
-  "gerado_em": "2026-07-23T10:05:55.068907",
+  "gerado_em": "2026-07-23T16:16:55.999078",
   "navios": [
-    {
-      "navio": "NAVARINO",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "23/07/2026",
-      "data_hora_iso": "2026-07-23T00:00:00",
-      "calado": "12,45 EK",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "RUI FU",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "23/07/2026",
-      "data_hora_iso": "2026-07-23T00:00:00",
-      "calado": "6,95/7,65",
-      "rota": "Bacia 1",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "PIO GRANDE",
       "status": "ManobraPrevista",
@@ -46,7 +26,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "24/07/2026",
       "data_hora_iso": "2026-07-24T00:00:00",
-      "calado": "TBC",
+      "calado": "10,90/11,10",
       "rota": "",
       "berco": "JBS 2",
       "posicao": null
@@ -56,7 +36,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "24/07/2026",
       "data_hora_iso": "2026-07-24T00:00:00",
-      "calado": "TBC",
+      "calado": "7,80/10,60",
       "rota": "",
       "berco": "JBS 2",
       "posicao": null
@@ -69,6 +49,16 @@
       "calado": "8,80/11,30",
       "rota": "",
       "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "RUI FU",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "24/07/2026",
+      "data_hora_iso": "2026-07-24T00:00:00",
+      "calado": "6,95/7,65",
+      "rota": "",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
@@ -112,6 +102,16 @@
       "posicao": null
     },
     {
+      "navio": "ADVENTURER",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "25/07/2026",
+      "data_hora_iso": "2026-07-25T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "TEPORTI",
+      "posicao": null
+    },
+    {
       "navio": "EVER LEADING",
       "status": "ManobraPrevista",
       "data_hora_texto": "25/07/2026",
@@ -149,16 +149,6 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
-      "posicao": null
-    },
-    {
-      "navio": "ADVENTURER",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "26/07/2026",
-      "data_hora_iso": "2026-07-26T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "TEPORTI",
       "posicao": null
     },
     {
