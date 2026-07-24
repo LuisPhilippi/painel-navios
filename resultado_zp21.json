@@ -1,23 +1,23 @@
 {
-  "gerado_em": "2026-07-24T09:42:38.558066",
+  "gerado_em": "2026-07-24T15:18:53.294178",
   "navios": [
-    {
-      "navio": "MYNY",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "24/07/2026",
-      "data_hora_iso": "2026-07-24T00:00:00",
-      "calado": "10,70/11,00",
-      "rota": "Bacia 2",
-      "berco": "JBS 2",
-      "posicao": null
-    },
     {
       "navio": "MSC UNIFIC VI",
       "status": "ManobraPrevista",
       "data_hora_texto": "24/07/2026",
       "data_hora_iso": "2026-07-24T00:00:00",
-      "calado": "10,90/11,10",
-      "rota": "",
+      "calado": "11,30/11,60",
+      "rota": "Bacia 2",
+      "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "MAERSK KARUN",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "24/07/2026",
+      "data_hora_iso": "2026-07-24T00:00:00",
+      "calado": "7,80/10,60",
+      "rota": "Bacia 1",
       "berco": "JBS 2",
       "posicao": null
     },
@@ -29,16 +29,6 @@
       "calado": "6,95/7,65",
       "rota": "",
       "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "MAERSK KARUN",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "24/07/2026",
-      "data_hora_iso": "2026-07-24T00:00:00",
-      "calado": "7,80/10,60",
-      "rota": "Bacia 1",
-      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -54,8 +44,8 @@
     {
       "navio": "EVER FASHION",
       "status": "ManobraPrevista",
-      "data_hora_texto": "24/07/2026",
-      "data_hora_iso": "2026-07-24T00:00:00",
+      "data_hora_texto": "25/07/2026",
+      "data_hora_iso": "2026-07-25T00:00:00",
       "calado": "11,60/11,70",
       "rota": "",
       "berco": "PNAVE 01",
@@ -66,7 +56,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "25/07/2026",
       "data_hora_iso": "2026-07-25T00:00:00",
-      "calado": "TBC",
+      "calado": "12,25 EK",
       "rota": "",
       "berco": "JBS 2",
       "posicao": null
@@ -116,7 +106,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "26/07/2026",
       "data_hora_iso": "2026-07-26T00:00:00",
-      "calado": "TBC",
+      "calado": "7,80/9,10",
       "rota": "",
       "berco": "JBS",
       "posicao": null
@@ -139,6 +129,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "PARANA EXPRESS",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "26/07/2026",
+      "data_hora_iso": "2026-07-26T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
       "posicao": null
     },
     {
