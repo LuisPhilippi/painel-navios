@@ -1,18 +1,18 @@
 {
-  "gerado_em": "2026-07-24T00:14:56.040281",
+  "gerado_em": "2026-07-24T09:42:46.284294",
   "navios": [
     {
       "navio": "Maersk Monte Azul",
       "imo": "9348053",
       "agencia": "LACHMANN",
-      "data_chegada_texto": "24/07/2026 06:00",
-      "data_chegada_iso": "2026-07-24T06:00:00",
+      "data_chegada_texto": "24/07/2026 05:56",
+      "data_chegada_iso": "2026-07-24T05:56:00",
       "manobra": "Entrada e Atracação",
       "data_manobra": "24/07/2026 06:00",
       "data_manobra_iso": "2026-07-24T06:00:00",
       "berco": "BARRA 902",
-      "situacao": "A Confirmar",
-      "secao": "Navios Esperados"
+      "situacao": "Em Andamento",
+      "secao": "Movimentações"
     },
     {
       "navio": "Bartolomeu Dias",
@@ -24,21 +24,8 @@
       "data_manobra": "24/07/2026 06:00",
       "data_manobra_iso": "2026-07-24T06:00:00",
       "berco": "902 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
-    },
-    {
-      "navio": "Mercosul Fortaleza",
-      "imo": "9784661",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "24/07/2026 10:00",
-      "data_chegada_iso": "2026-07-24T10:00:00",
-      "manobra": "Entrada e Fundeio",
-      "data_manobra": "24/07/2026 08:00",
-      "data_manobra_iso": "2026-07-24T08:00:00",
-      "berco": "BARRA F5",
-      "situacao": "A Confirmar",
-      "secao": "Navios Esperados"
     },
     {
       "navio": "Barcaça N09",
@@ -50,8 +37,21 @@
       "data_manobra": "24/07/2026 08:00",
       "data_manobra_iso": "2026-07-24T08:00:00",
       "berco": "F1 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
+    },
+    {
+      "navio": "Mercosul Fortaleza",
+      "imo": "9784661",
+      "agencia": "UNIMAR",
+      "data_chegada_texto": "24/07/2026 08:00",
+      "data_chegada_iso": "2026-07-24T08:00:00",
+      "manobra": "Entrada e Fundeio",
+      "data_manobra": "24/07/2026 08:15",
+      "data_manobra_iso": "2026-07-24T08:15:00",
+      "berco": "BARRA F5",
+      "situacao": "Confirmado",
+      "secao": "Navios Esperados"
     },
     {
       "navio": "San Antonio Maersk",
@@ -184,24 +184,24 @@
       "secao": "Navios Fundeados (Barra)"
     },
     {
-      "navio": "Chayanee Naree",
-      "imo": "9613434",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "23/07/2026 13:00",
-      "data_chegada_iso": "2026-07-23T13:00:00",
+      "navio": "Cassiopeia Ocean",
+      "imo": "9837286",
+      "agencia": "CARGONAVE",
+      "data_chegada_texto": "23/07/2026 22:36",
+      "data_chegada_iso": "2026-07-23T22:36:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "SFS",
       "situacao": null,
-      "secao": "Navios Esperados"
+      "secao": "Navios Fundeados (Barra)"
     },
     {
-      "navio": "Cassiopeia Ocean",
-      "imo": "9837286",
-      "agencia": "CARGONAVE",
-      "data_chegada_texto": "23/07/2026 22:30",
-      "data_chegada_iso": "2026-07-23T22:30:00",
+      "navio": "Chayanee Naree",
+      "imo": "9613434",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "23/07/2026 13:00",
+      "data_chegada_iso": "2026-07-23T13:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,

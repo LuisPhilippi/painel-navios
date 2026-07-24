@@ -1,12 +1,12 @@
 {
-  "gerado_em": "2026-07-24T00:14:48.195475",
+  "gerado_em": "2026-07-24T09:42:38.558066",
   "navios": [
     {
       "navio": "MYNY",
       "status": "ManobraPrevista",
       "data_hora_texto": "24/07/2026",
       "data_hora_iso": "2026-07-24T00:00:00",
-      "calado": "10,85/11,25",
+      "calado": "10,70/11,00",
       "rota": "Bacia 2",
       "berco": "JBS 2",
       "posicao": null
