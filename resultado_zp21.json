@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-07-24T15:18:53.294178",
+  "gerado_em": "2026-07-24T20:46:55.405878",
   "navios": [
     {
       "navio": "MSC UNIFIC VI",
@@ -26,7 +26,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "24/07/2026",
       "data_hora_iso": "2026-07-24T00:00:00",
-      "calado": "6,95/7,65",
+      "calado": "6,75/7,54",
       "rota": "",
       "berco": "PNAVE 01",
       "posicao": null
@@ -47,7 +47,7 @@
       "data_hora_texto": "25/07/2026",
       "data_hora_iso": "2026-07-25T00:00:00",
       "calado": "11,60/11,70",
-      "rota": "",
+      "rota": "Bacia 2",
       "berco": "PNAVE 01",
       "posicao": null
     },
@@ -57,42 +57,22 @@
       "data_hora_texto": "25/07/2026",
       "data_hora_iso": "2026-07-25T00:00:00",
       "calado": "12,25 EK",
-      "rota": "",
+      "rota": "Bacia 2",
       "berco": "JBS 2",
       "posicao": null
     },
     {
-      "navio": "ADVENTURER",
+      "navio": "LOG-IN JATOBÁ",
       "status": "ManobraPrevista",
-      "data_hora_texto": "25/07/2026",
-      "data_hora_iso": "2026-07-25T00:00:00",
-      "calado": "TBC",
+      "data_hora_texto": "26/07/2026",
+      "data_hora_iso": "2026-07-26T00:00:00",
+      "calado": "11,15/11,70",
       "rota": "",
-      "berco": "TEPORTI",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
-      "navio": "MSC SHUBA B",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "25/07/2026",
-      "data_hora_iso": "2026-07-25T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE",
-      "posicao": null
-    },
-    {
-      "navio": "ESPIRITO SANTO EXPRESS",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "25/07/2026",
-      "data_hora_iso": "2026-07-25T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE",
-      "posicao": null
-    },
-    {
-      "navio": "MSC MARSEILLE",
+      "navio": "MSC DAKAR X",
       "status": "ManobraPrevista",
       "data_hora_texto": "26/07/2026",
       "data_hora_iso": "2026-07-26T00:00:00",
@@ -108,27 +88,7 @@
       "data_hora_iso": "2026-07-26T00:00:00",
       "calado": "7,80/9,10",
       "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
-      "navio": "MSC PAMELA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "26/07/2026",
-      "data_hora_iso": "2026-07-26T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
-      "navio": "MSC DAKAR X",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "26/07/2026",
-      "data_hora_iso": "2026-07-26T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS",
+      "berco": "PORTO ITAJAI - 04",
       "posicao": null
     },
     {
@@ -152,23 +112,33 @@
       "posicao": null
     },
     {
-      "navio": "LOG-IN JATOBÁ",
+      "navio": "ADVENTURER",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "26/07/2026",
+      "data_hora_iso": "2026-07-26T00:00:00",
+      "calado": "3,45/5,80",
+      "rota": "",
+      "berco": "TEPORTI",
+      "posicao": null
+    },
+    {
+      "navio": "MSC SHUBA B",
       "status": "ManobraPrevista",
       "data_hora_texto": "26/07/2026",
       "data_hora_iso": "2026-07-26T00:00:00",
       "calado": "TBC",
       "rota": "",
-      "berco": "PNAVE",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
-      "navio": "NC BREDA",
+      "navio": "MSC PAMELA",
       "status": "ManobraPrevista",
       "data_hora_texto": "27/07/2026",
       "data_hora_iso": "2026-07-27T00:00:00",
       "calado": "TBC",
       "rota": "",
-      "berco": "JBS",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -184,11 +154,31 @@
     {
       "navio": "EVER FAME",
       "status": "ManobraPrevista",
+      "data_hora_texto": "27/07/2026",
+      "data_hora_iso": "2026-07-27T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
+      "navio": "NC BREDA",
+      "status": "ManobraPrevista",
       "data_hora_texto": "28/07/2026",
       "data_hora_iso": "2026-07-28T00:00:00",
       "calado": "TBC",
       "rota": "",
-      "berco": "PNAVE",
+      "berco": "JBS 1",
+      "posicao": null
+    },
+    {
+      "navio": "MSC MARSEILLE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "28/07/2026",
+      "data_hora_iso": "2026-07-28T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -206,9 +196,19 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "29/07/2026",
       "data_hora_iso": "2026-07-29T00:00:00",
-      "calado": "TBC",
+      "calado": "9,10/10,20",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "ESPIRITO SANTO EXPRESS",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "29/07/2026",
+      "data_hora_iso": "2026-07-29T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
       "posicao": null
     },
     {
