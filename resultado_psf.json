@@ -1,58 +1,6 @@
 {
-  "gerado_em": "2026-07-24T20:47:01.729561",
+  "gerado_em": "2026-07-25T06:06:42.798556",
   "navios": [
-    {
-      "navio": "Viyada Naree",
-      "imo": "9722039",
-      "agencia": "SEATRADE",
-      "data_chegada_texto": "18/07/2026 10:30",
-      "data_chegada_iso": "2026-07-18T10:30:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "24/07/2026 22:00",
-      "data_manobra_iso": "2026-07-24T22:00:00",
-      "berco": "201 BARRA",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Chayanee Naree",
-      "imo": "9613434",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "24/07/2026 15:00",
-      "data_chegada_iso": "2026-07-24T15:00:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "24/07/2026 22:15",
-      "data_manobra_iso": "2026-07-24T22:15:00",
-      "berco": "BARRA 201",
-      "situacao": "A Confirmar",
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Scion Charlotte",
-      "imo": "1023982",
-      "agencia": "LITORAL",
-      "data_chegada_texto": "18/07/2026 07:42",
-      "data_chegada_iso": "2026-07-18T07:42:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "24/07/2026 22:20",
-      "data_manobra_iso": "2026-07-24T22:20:00",
-      "berco": "BARRA 101",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "SSI Phoenix",
-      "imo": "9969182",
-      "agencia": "LITORAL",
-      "data_chegada_texto": "20/07/2026 14:30",
-      "data_chegada_iso": "2026-07-20T14:30:00",
-      "manobra": "Desatracação e Fundeio",
-      "data_manobra": "24/07/2026 22:30",
-      "data_manobra_iso": "2026-07-24T22:30:00",
-      "berco": "101 F3",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Fernão de Magalhães",
       "imo": "9603221",
@@ -80,6 +28,32 @@
       "secao": "Movimentações"
     },
     {
+      "navio": "Scion Charlotte",
+      "imo": "1023982",
+      "agencia": "LITORAL",
+      "data_chegada_texto": "18/07/2026 07:42",
+      "data_chegada_iso": "2026-07-18T07:42:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "25/07/2026 09:45",
+      "data_manobra_iso": "2026-07-25T09:45:00",
+      "berco": "BARRA 101",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "SSI Phoenix",
+      "imo": "9969182",
+      "agencia": "LITORAL",
+      "data_chegada_texto": "20/07/2026 14:30",
+      "data_chegada_iso": "2026-07-20T14:30:00",
+      "manobra": "Desatracação e Fundeio",
+      "data_manobra": "25/07/2026 09:45",
+      "data_manobra_iso": "2026-07-25T09:45:00",
+      "berco": "101 F3",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
       "navio": "Barcaça N12",
       "imo": "9326031",
       "agencia": "WILSON SONS",
@@ -99,8 +73,8 @@
       "data_chegada_texto": "24/07/2026 09:15",
       "data_chegada_iso": "2026-07-24T09:15:00",
       "manobra": "Entrada e Atracação",
-      "data_manobra": "25/07/2026 11:45",
-      "data_manobra_iso": "2026-07-25T11:45:00",
+      "data_manobra": "25/07/2026 12:15",
+      "data_manobra_iso": "2026-07-25T12:15:00",
       "berco": "BARRA 902",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
@@ -112,8 +86,8 @@
       "data_chegada_texto": "24/07/2026 05:56",
       "data_chegada_iso": "2026-07-24T05:56:00",
       "manobra": "Desatracação e Saída",
-      "data_manobra": "25/07/2026 11:45",
-      "data_manobra_iso": "2026-07-25T11:45:00",
+      "data_manobra": "25/07/2026 12:15",
+      "data_manobra_iso": "2026-07-25T12:15:00",
       "berco": "902 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
@@ -125,11 +99,37 @@
       "data_chegada_texto": "25/07/2026 01:00",
       "data_chegada_iso": "2026-07-25T01:00:00",
       "manobra": "Entrada e Fundeio",
-      "data_manobra": "25/07/2026 13:15",
-      "data_manobra_iso": "2026-07-25T13:15:00",
+      "data_manobra": "25/07/2026 13:45",
+      "data_manobra_iso": "2026-07-25T13:45:00",
       "berco": "BARRA F4 (P1)",
       "situacao": "A Confirmar",
       "secao": "Navios Esperados"
+    },
+    {
+      "navio": "San Nicolas Maersk",
+      "imo": "9622203",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "25/07/2026 15:00",
+      "data_chegada_iso": "2026-07-25T15:00:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "25/07/2026 20:30",
+      "data_manobra_iso": "2026-07-25T20:30:00",
+      "berco": "BARRA 901",
+      "situacao": "A Confirmar",
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Babitonga Bay",
+      "imo": "9663776",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "22/07/2026 14:05",
+      "data_chegada_iso": "2026-07-22T14:05:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "25/07/2026 23:30",
+      "data_manobra_iso": "2026-07-25T23:30:00",
+      "berco": "301 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
     },
     {
       "navio": "PACIFIC GINKGO",
@@ -145,15 +145,15 @@
       "secao": "Navios Atracados"
     },
     {
-      "navio": "Babitonga Bay",
-      "imo": "9663776",
+      "navio": "Chayanee Naree",
+      "imo": "9613434",
       "agencia": "WILSON SONS",
-      "data_chegada_texto": "22/07/2026 14:05",
-      "data_chegada_iso": "2026-07-22T14:05:00",
+      "data_chegada_texto": "24/07/2026 18:00",
+      "data_chegada_iso": "2026-07-24T18:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
-      "berco": "301",
+      "berco": "201",
       "situacao": null,
       "secao": "Navios Atracados"
     },
@@ -210,19 +210,6 @@
       "secao": "Navios Esperados"
     },
     {
-      "navio": "San Nicolas Maersk",
-      "imo": "9622203",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "25/07/2026 15:00",
-      "data_chegada_iso": "2026-07-25T15:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
       "navio": "Santa Ines",
       "imo": "9444845",
       "agencia": "LACHMANN",
@@ -236,19 +223,6 @@
       "secao": "Navios Esperados"
     },
     {
-      "navio": "Stinger",
-      "imo": "9762871",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "26/07/2026 13:00",
-      "data_chegada_iso": "2026-07-26T13:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "TESC",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
       "navio": "CMA CGM Krypton",
       "imo": "9996733",
       "agencia": "UNIMAR",
@@ -258,6 +232,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Stinger",
+      "imo": "9762871",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "27/07/2026 13:00",
+      "data_chegada_iso": "2026-07-27T13:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "TESC",
       "situacao": null,
       "secao": "Navios Esperados"
     },
@@ -470,6 +457,19 @@
       "secao": "Navios Esperados"
     },
     {
+      "navio": "Le Havre",
+      "imo": "9307243",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "31/07/2026 06:00",
+      "data_chegada_iso": "2026-07-31T06:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
       "navio": "Mercosul Guarujá",
       "imo": "9539494",
       "agencia": "UNIMAR",
@@ -496,32 +496,6 @@
       "secao": "Navios Esperados"
     },
     {
-      "navio": "Le Havre",
-      "imo": "9307243",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "31/07/2026 11:00",
-      "data_chegada_iso": "2026-07-31T11:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "MSC Albany",
-      "imo": "9619438",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "31/07/2026 12:00",
-      "data_chegada_iso": "2026-07-31T12:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
       "navio": "Maersk Venezia",
       "imo": "9344681",
       "agencia": "LACHMANN",
@@ -531,6 +505,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Barcaça N09",
+      "imo": "9326005",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "01/08/2026 13:00",
+      "data_chegada_iso": "2026-08-01T13:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "TESC",
       "situacao": null,
       "secao": "Navios Esperados"
     },
@@ -613,19 +600,6 @@
       "secao": "Navios Esperados"
     },
     {
-      "navio": "Valor",
-      "imo": "9628154",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "02/08/2026 19:00",
-      "data_chegada_iso": "2026-08-02T19:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
       "navio": "Maersk Lota",
       "imo": "9526954",
       "agencia": "LACHMANN",
@@ -648,6 +622,84 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "SFS",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "MSC Albany",
+      "imo": "9619438",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "03/08/2026 07:00",
+      "data_chegada_iso": "2026-08-03T07:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Valor",
+      "imo": "9628154",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "03/08/2026 07:00",
+      "data_chegada_iso": "2026-08-03T07:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "MSC Damla",
+      "imo": "9250983",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "04/08/2026 07:00",
+      "data_chegada_iso": "2026-08-04T07:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "CMA CGM Cobalt",
+      "imo": "9996680",
+      "agencia": "UNIMAR",
+      "data_chegada_texto": "05/08/2026 11:00",
+      "data_chegada_iso": "2026-08-05T11:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Maersk La Paz",
+      "imo": "9526899",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "05/08/2026 12:00",
+      "data_chegada_iso": "2026-08-05T12:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Maersk Acadia",
+      "imo": "9928188",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "05/08/2026 18:00",
+      "data_chegada_iso": "2026-08-05T18:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Esperados"
     },
@@ -709,6 +761,19 @@
       "agencia": "CARGONAVE",
       "data_chegada_texto": "18/08/2026 11:00",
       "data_chegada_iso": "2026-08-18T11:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "SFS",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Trigon Trader",
+      "imo": "9863845",
+      "agencia": "OCEÂNICA",
+      "data_chegada_texto": "18/08/2026 19:00",
+      "data_chegada_iso": "2026-08-18T19:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,

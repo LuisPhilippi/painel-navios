@@ -1,44 +1,24 @@
 {
-  "gerado_em": "2026-07-24T20:46:55.405878",
+  "gerado_em": "2026-07-25T06:06:36.255422",
   "navios": [
     {
-      "navio": "MSC UNIFIC VI",
+      "navio": "LOG-IN RESILIENTE",
       "status": "ManobraPrevista",
-      "data_hora_texto": "24/07/2026",
-      "data_hora_iso": "2026-07-24T00:00:00",
-      "calado": "11,30/11,60",
-      "rota": "Bacia 2",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "MAERSK KARUN",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "24/07/2026",
-      "data_hora_iso": "2026-07-24T00:00:00",
-      "calado": "7,80/10,60",
-      "rota": "Bacia 1",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "RUI FU",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "24/07/2026",
-      "data_hora_iso": "2026-07-24T00:00:00",
-      "calado": "6,75/7,54",
+      "data_hora_texto": "25/07/2026",
+      "data_hora_iso": "2026-07-25T00:00:00",
+      "calado": "8,10/8,40",
       "rota": "",
       "berco": "PNAVE 01",
       "posicao": null
     },
     {
-      "navio": "LOG-IN RESILIENTE",
+      "navio": "MAERSK KARUN",
       "status": "ManobraPrevista",
-      "data_hora_texto": "24/07/2026",
-      "data_hora_iso": "2026-07-24T00:00:00",
-      "calado": "8,20/9,00",
+      "data_hora_texto": "25/07/2026",
+      "data_hora_iso": "2026-07-25T00:00:00",
+      "calado": "8,95/11,15",
       "rota": "Bacia 1",
-      "berco": "PNAVE 01",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -67,18 +47,8 @@
       "data_hora_texto": "26/07/2026",
       "data_hora_iso": "2026-07-26T00:00:00",
       "calado": "11,15/11,70",
-      "rota": "",
+      "rota": "Bacia 1",
       "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "MSC DAKAR X",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "26/07/2026",
-      "data_hora_iso": "2026-07-26T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS",
       "posicao": null
     },
     {
@@ -87,28 +57,8 @@
       "data_hora_texto": "26/07/2026",
       "data_hora_iso": "2026-07-26T00:00:00",
       "calado": "7,80/9,10",
-      "rota": "",
+      "rota": "Bacia 1",
       "berco": "PORTO ITAJAI - 04",
-      "posicao": null
-    },
-    {
-      "navio": "PARANA EXPRESS",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "26/07/2026",
-      "data_hora_iso": "2026-07-26T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE",
-      "posicao": null
-    },
-    {
-      "navio": "SUNNY PHOENIX",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "26/07/2026",
-      "data_hora_iso": "2026-07-26T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE",
       "posicao": null
     },
     {
@@ -122,6 +72,16 @@
       "posicao": null
     },
     {
+      "navio": "MSC PAMELA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "26/07/2026",
+      "data_hora_iso": "2026-07-26T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS 2",
+      "posicao": null
+    },
+    {
       "navio": "MSC SHUBA B",
       "status": "ManobraPrevista",
       "data_hora_texto": "26/07/2026",
@@ -129,26 +89,6 @@
       "calado": "TBC",
       "rota": "",
       "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "MSC PAMELA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "27/07/2026",
-      "data_hora_iso": "2026-07-27T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "XIAMEN EXPRESS",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "27/07/2026",
-      "data_hora_iso": "2026-07-27T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE",
       "posicao": null
     },
     {
@@ -162,6 +102,16 @@
       "posicao": null
     },
     {
+      "navio": "MSC MARSEILLE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "27/07/2026",
+      "data_hora_iso": "2026-07-27T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS 2",
+      "posicao": null
+    },
+    {
       "navio": "NC BREDA",
       "status": "ManobraPrevista",
       "data_hora_texto": "28/07/2026",
@@ -169,16 +119,6 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS 1",
-      "posicao": null
-    },
-    {
-      "navio": "MSC MARSEILLE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "28/07/2026",
-      "data_hora_iso": "2026-07-28T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -192,6 +132,36 @@
       "posicao": null
     },
     {
+      "navio": "PARANA EXPRESS",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "28/07/2026",
+      "data_hora_iso": "2026-07-28T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "MSC DAKAR X",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "29/07/2026",
+      "data_hora_iso": "2026-07-29T00:00:00",
+      "calado": "8,80/11,30",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "XIAMEN EXPRESS",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "29/07/2026",
+      "data_hora_iso": "2026-07-29T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
       "navio": "NORWALK",
       "status": "ManobraPrevista",
       "data_hora_texto": "29/07/2026",
@@ -199,6 +169,16 @@
       "calado": "9,10/10,20",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "SUNNY PHOENIX",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "29/07/2026",
+      "data_hora_iso": "2026-07-29T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
       "posicao": null
     },
     {
@@ -219,6 +199,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "ANNEGRET",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "30/07/2026",
+      "data_hora_iso": "2026-07-30T00:00:00",
+      "calado": "4,70/6,15",
+      "rota": "",
+      "berco": "BARRA DO RIO",
       "posicao": null
     },
     {
