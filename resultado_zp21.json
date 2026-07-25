@@ -1,22 +1,12 @@
 {
-  "gerado_em": "2026-07-25T06:06:36.255422",
+  "gerado_em": "2026-07-25T11:03:43.067240",
   "navios": [
-    {
-      "navio": "LOG-IN RESILIENTE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "25/07/2026",
-      "data_hora_iso": "2026-07-25T00:00:00",
-      "calado": "8,10/8,40",
-      "rota": "",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "MAERSK KARUN",
       "status": "ManobraPrevista",
       "data_hora_texto": "25/07/2026",
       "data_hora_iso": "2026-07-25T00:00:00",
-      "calado": "8,95/11,15",
+      "calado": "9,10/11,30",
       "rota": "Bacia 1",
       "berco": "JBS 2",
       "posicao": null
