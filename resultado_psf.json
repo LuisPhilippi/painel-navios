@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-07-25T18:09:53.997637",
+  "gerado_em": "2026-07-25T22:13:44.844449",
   "navios": [
     {
       "navio": "Barcaça N11",
@@ -7,49 +7,10 @@
       "agencia": "WILSON SONS",
       "data_chegada_texto": "25/07/2026 13:37",
       "data_chegada_iso": "2026-07-25T13:37:00",
-      "manobra": "Entrada e Fundeio",
-      "data_manobra": "25/07/2026 13:45",
-      "data_manobra_iso": "2026-07-25T13:45:00",
-      "berco": "BARRA F4 (P3)",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "San Nicolas Maersk",
-      "imo": "9622203",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "25/07/2026 10:10",
-      "data_chegada_iso": "2026-07-25T10:10:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "25/07/2026 16:30",
-      "data_manobra_iso": "2026-07-25T16:30:00",
-      "berco": "BARRA 901",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Fernão de Magalhães",
-      "imo": "9603221",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "25/07/2026 06:32",
-      "data_chegada_iso": "2026-07-25T06:32:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "25/07/2026 16:30",
-      "data_manobra_iso": "2026-07-25T16:30:00",
-      "berco": "901 BARRA",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Babitonga Bay",
-      "imo": "9663776",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "22/07/2026 14:05",
-      "data_chegada_iso": "2026-07-22T14:05:00",
-      "manobra": "Desatracação e Saída",
+      "manobra": "Suspender e Atracar",
       "data_manobra": "25/07/2026 23:30",
       "data_manobra_iso": "2026-07-25T23:30:00",
-      "berco": "301 BARRA",
+      "berco": "F4 (P3) 302",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
     },
@@ -106,14 +67,27 @@
       "secao": "Movimentações"
     },
     {
+      "navio": "Babitonga Bay",
+      "imo": "9663776",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "22/07/2026 14:05",
+      "data_chegada_iso": "2026-07-22T14:05:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "26/07/2026 17:30",
+      "data_manobra_iso": "2026-07-26T17:30:00",
+      "berco": "301 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
       "navio": "Santa Ines",
       "imo": "9444845",
       "agencia": "LACHMANN",
       "data_chegada_texto": "26/07/2026 11:00",
       "data_chegada_iso": "2026-07-26T11:00:00",
       "manobra": "Entrada e Atracação",
-      "data_manobra": "26/07/2026 16:00",
-      "data_manobra_iso": "2026-07-26T16:00:00",
+      "data_manobra": "26/07/2026 20:00",
+      "data_manobra_iso": "2026-07-26T20:00:00",
       "berco": "BARRA 902",
       "situacao": "A Confirmar",
       "secao": "Navios Esperados"
@@ -130,6 +104,19 @@
       "berco": "201 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
+    },
+    {
+      "navio": "San Nicolas Maersk",
+      "imo": "9622203",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "25/07/2026 10:10",
+      "data_chegada_iso": "2026-07-25T10:10:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "901",
+      "situacao": null,
+      "secao": "Navios Atracados"
     },
     {
       "navio": "Scion Charlotte",
@@ -557,6 +544,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Magma Tenacity",
+      "imo": "9967689",
+      "agencia": "LITORAL",
+      "data_chegada_texto": "01/08/2026 19:00",
+      "data_chegada_iso": "2026-08-01T19:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "101",
       "situacao": null,
       "secao": "Navios Esperados"
     },
