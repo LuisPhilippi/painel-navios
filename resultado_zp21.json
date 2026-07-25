@@ -1,22 +1,12 @@
 {
-  "gerado_em": "2026-07-25T14:50:40.322374",
+  "gerado_em": "2026-07-25T18:09:47.426172",
   "navios": [
-    {
-      "navio": "EVER LEADING",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "25/07/2026",
-      "data_hora_iso": "2026-07-25T00:00:00",
-      "calado": "12,25 EK",
-      "rota": "Bacia 2",
-      "berco": "JBS 2",
-      "posicao": null
-    },
     {
       "navio": "EVER FASHION",
       "status": "ManobraPrevista",
       "data_hora_texto": "26/07/2026",
       "data_hora_iso": "2026-07-26T00:00:00",
-      "calado": "10,50 EK",
+      "calado": "9,90 EK",
       "rota": "",
       "berco": "PNAVE 01",
       "posicao": null
@@ -27,7 +17,7 @@
       "data_hora_texto": "26/07/2026",
       "data_hora_iso": "2026-07-26T00:00:00",
       "calado": "11,15/11,70",
-      "rota": "Bacia 1",
+      "rota": "",
       "berco": "PNAVE 01",
       "posicao": null
     },
@@ -49,6 +39,16 @@
       "calado": "3,45/5,80",
       "rota": "",
       "berco": "TEPORTI",
+      "posicao": null
+    },
+    {
+      "navio": "EVER LEADING",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "26/07/2026",
+      "data_hora_iso": "2026-07-26T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
