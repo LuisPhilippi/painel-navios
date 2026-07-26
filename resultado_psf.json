@@ -1,32 +1,6 @@
 {
-  "gerado_em": "2026-07-26T15:47:55.738047",
+  "gerado_em": "2026-07-26T20:16:26.294121",
   "navios": [
-    {
-      "navio": "Barcaça N12",
-      "imo": "9326031",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "23/07/2026 08:07",
-      "data_chegada_iso": "2026-07-23T08:07:00",
-      "manobra": "Suspender e Sair",
-      "data_manobra": "26/07/2026 11:30",
-      "data_manobra_iso": "2026-07-26T11:30:00",
-      "berco": "F1 BARRA",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Babitonga Bay",
-      "imo": "9663776",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "22/07/2026 14:05",
-      "data_chegada_iso": "2026-07-22T14:05:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "26/07/2026 17:30",
-      "data_manobra_iso": "2026-07-26T17:30:00",
-      "berco": "301 BARRA",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Santa Ines",
       "imo": "9444845",
@@ -54,45 +28,6 @@
       "secao": "Movimentações"
     },
     {
-      "navio": "Chayanee Naree",
-      "imo": "9613434",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "24/07/2026 18:00",
-      "data_chegada_iso": "2026-07-24T18:00:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "26/07/2026 22:00",
-      "data_manobra_iso": "2026-07-26T22:00:00",
-      "berco": "201 BARRA",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Egret Oasis",
-      "imo": "9592006",
-      "agencia": "LITORAL",
-      "data_chegada_texto": "20/07/2026 14:30",
-      "data_chegada_iso": "2026-07-20T14:30:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "27/07/2026 00:00",
-      "data_manobra_iso": "2026-07-27T00:00:00",
-      "berco": "BARRA 101",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Scion Charlotte",
-      "imo": "1023982",
-      "agencia": "LITORAL",
-      "data_chegada_texto": "18/07/2026 07:42",
-      "data_chegada_iso": "2026-07-18T07:42:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "27/07/2026 00:00",
-      "data_manobra_iso": "2026-07-27T00:00:00",
-      "berco": "101 BARRA",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
       "navio": "San Nicolas Maersk",
       "imo": "9622203",
       "agencia": "LACHMANN",
@@ -106,14 +41,66 @@
       "secao": "Movimentações"
     },
     {
+      "navio": "Babitonga Bay",
+      "imo": "9663776",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "22/07/2026 14:05",
+      "data_chegada_iso": "2026-07-22T14:05:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "27/07/2026 07:30",
+      "data_manobra_iso": "2026-07-27T07:30:00",
+      "berco": "301 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Chayanee Naree",
+      "imo": "9613434",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "24/07/2026 18:00",
+      "data_chegada_iso": "2026-07-24T18:00:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "27/07/2026 10:45",
+      "data_manobra_iso": "2026-07-27T10:45:00",
+      "berco": "201 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Egret Oasis",
+      "imo": "9592006",
+      "agencia": "LITORAL",
+      "data_chegada_texto": "20/07/2026 14:30",
+      "data_chegada_iso": "2026-07-20T14:30:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "27/07/2026 11:15",
+      "data_manobra_iso": "2026-07-27T11:15:00",
+      "berco": "BARRA 101",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Scion Charlotte",
+      "imo": "1023982",
+      "agencia": "LITORAL",
+      "data_chegada_texto": "18/07/2026 07:42",
+      "data_chegada_iso": "2026-07-18T07:42:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "27/07/2026 11:15",
+      "data_manobra_iso": "2026-07-27T11:15:00",
+      "berco": "101 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
       "navio": "Genco Madeleine",
       "imo": "9705976",
       "agencia": "OCEÂNICA",
       "data_chegada_texto": "25/07/2026 12:25",
       "data_chegada_iso": "2026-07-25T12:25:00",
       "manobra": "Entrada e Fundeio",
-      "data_manobra": "27/07/2026 12:30",
-      "data_manobra_iso": "2026-07-27T12:30:00",
+      "data_manobra": "27/07/2026 13:15",
+      "data_manobra_iso": "2026-07-27T13:15:00",
       "berco": "BARRA F5",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
@@ -166,7 +153,7 @@
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
+      "berco": null,
       "situacao": null,
       "secao": "Navios Esperados"
     },
@@ -661,6 +648,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "TESC",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Anne",
+      "imo": "9593294",
+      "agencia": "LITORAL",
+      "data_chegada_texto": "07/08/2026 10:00",
+      "data_chegada_iso": "2026-08-07T10:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "SFS",
       "situacao": null,
       "secao": "Navios Esperados"
     },
