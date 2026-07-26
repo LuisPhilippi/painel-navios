@@ -1,26 +1,6 @@
 {
-  "gerado_em": "2026-07-26T11:49:26.364914",
+  "gerado_em": "2026-07-26T15:47:49.266051",
   "navios": [
-    {
-      "navio": "CAPE ALTIUS",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "26/07/2026",
-      "data_hora_iso": "2026-07-26T00:00:00",
-      "calado": "7,80/9,10",
-      "rota": "Bacia 1",
-      "berco": "PORTO ITAJAI - 04",
-      "posicao": null
-    },
-    {
-      "navio": "LOG-IN JATOBÁ",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "26/07/2026",
-      "data_hora_iso": "2026-07-26T00:00:00",
-      "calado": "11,15/11,70",
-      "rota": "",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "ADVENTURER",
       "status": "ManobraPrevista",
@@ -29,6 +9,16 @@
       "calado": "3,45/5,80",
       "rota": "",
       "berco": "TEPORTI",
+      "posicao": null
+    },
+    {
+      "navio": "LOG-IN JATOBÁ",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "26/07/2026",
+      "data_hora_iso": "2026-07-26T00:00:00",
+      "calado": "TBC",
+      "rota": "Bacia 1",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
@@ -62,11 +52,21 @@
       "posicao": null
     },
     {
+      "navio": "CAPE ALTIUS",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "27/07/2026",
+      "data_hora_iso": "2026-07-27T00:00:00",
+      "calado": "8,81/9,19",
+      "rota": "",
+      "berco": "PORTO ITAJAI - 04",
+      "posicao": null
+    },
+    {
       "navio": "EVER FAME",
       "status": "ManobraPrevista",
       "data_hora_texto": "27/07/2026",
       "data_hora_iso": "2026-07-27T00:00:00",
-      "calado": "TBC",
+      "calado": "12,02/12,15",
       "rota": "",
       "berco": "PNAVE 01",
       "posicao": null
