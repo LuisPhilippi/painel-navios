@@ -1,32 +1,6 @@
 {
-  "gerado_em": "2026-07-26T07:56:47.351761",
+  "gerado_em": "2026-07-26T11:49:33.906072",
   "navios": [
-    {
-      "navio": "Felixstowe",
-      "imo": "9227039",
-      "agencia": "ZIM DO BRASIL",
-      "data_chegada_texto": "22/07/2026 01:00",
-      "data_chegada_iso": "2026-07-22T01:00:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "26/07/2026 06:30",
-      "data_manobra_iso": "2026-07-26T06:30:00",
-      "berco": "BARRA 902",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Nordcheetah",
-      "imo": "9673630",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "24/07/2026 09:15",
-      "data_chegada_iso": "2026-07-24T09:15:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "26/07/2026 06:30",
-      "data_manobra_iso": "2026-07-26T06:30:00",
-      "berco": "902 BARRA",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
     {
       "navio": "SSI Phoenix",
       "imo": "9969182",
@@ -70,14 +44,27 @@
       "navio": "Santa Ines",
       "imo": "9444845",
       "agencia": "LACHMANN",
-      "data_chegada_texto": "26/07/2026 11:00",
-      "data_chegada_iso": "2026-07-26T11:00:00",
+      "data_chegada_texto": "26/07/2026 18:00",
+      "data_chegada_iso": "2026-07-26T18:00:00",
       "manobra": "Entrada e Atracação",
       "data_manobra": "26/07/2026 20:00",
       "data_manobra_iso": "2026-07-26T20:00:00",
       "berco": "BARRA 902",
       "situacao": "A Confirmar",
       "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Felixstowe",
+      "imo": "9227039",
+      "agencia": "ZIM DO BRASIL",
+      "data_chegada_texto": "22/07/2026 01:00",
+      "data_chegada_iso": "2026-07-22T01:00:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "26/07/2026 20:00",
+      "data_manobra_iso": "2026-07-26T20:00:00",
+      "berco": "902 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
     },
     {
       "navio": "Chayanee Naree",

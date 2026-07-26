@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-07-26T07:56:38.981836",
+  "gerado_em": "2026-07-26T11:49:26.364914",
   "navios": [
-    {
-      "navio": "EVER FASHION",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "26/07/2026",
-      "data_hora_iso": "2026-07-26T00:00:00",
-      "calado": "9,90 EK",
-      "rota": "",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "CAPE ALTIUS",
       "status": "ManobraPrevista",
@@ -22,16 +12,6 @@
       "posicao": null
     },
     {
-      "navio": "ADVENTURER",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "26/07/2026",
-      "data_hora_iso": "2026-07-26T00:00:00",
-      "calado": "3,45/5,80",
-      "rota": "",
-      "berco": "TEPORTI",
-      "posicao": null
-    },
-    {
       "navio": "LOG-IN JATOBÁ",
       "status": "ManobraPrevista",
       "data_hora_texto": "26/07/2026",
@@ -39,6 +19,16 @@
       "calado": "11,15/11,70",
       "rota": "",
       "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
+      "navio": "ADVENTURER",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "26/07/2026",
+      "data_hora_iso": "2026-07-26T00:00:00",
+      "calado": "3,45/5,80",
+      "rota": "",
+      "berco": "TEPORTI",
       "posicao": null
     },
     {
@@ -86,7 +76,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "27/07/2026",
       "data_hora_iso": "2026-07-27T00:00:00",
-      "calado": "TBC",
+      "calado": "9,30/10,00",
       "rota": "",
       "berco": "JBS 2",
       "posicao": null
@@ -232,16 +222,6 @@
       "posicao": null
     },
     {
-      "navio": "ONE PARANA",
-      "status": "Fundeado",
-      "data_hora_texto": "21/07/2026 - 06:00",
-      "data_hora_iso": "2026-07-21T06:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": null,
-      "posicao": "26 54,99 S / 048 24,94 W"
-    },
-    {
       "navio": "HMM PLATINUM",
       "status": "Fundeado",
       "data_hora_texto": "22/07/2026 - 03:05",
@@ -250,6 +230,16 @@
       "rota": "",
       "berco": null,
       "posicao": "26 51,67 S / 048 31,38 W"
+    },
+    {
+      "navio": "ONE PARANA",
+      "status": "Fundeado",
+      "data_hora_texto": "26/07/2026 - 07:33",
+      "data_hora_iso": "2026-07-26T07:33:00",
+      "calado": "11,40/11,70",
+      "rota": "",
+      "berco": null,
+      "posicao": "26 39,97 S / 048 01,39 W"
     },
     {
       "navio": "BRAM BUCCANEER",
