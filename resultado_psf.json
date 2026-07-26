@@ -1,19 +1,6 @@
 {
-  "gerado_em": "2026-07-25T22:13:44.844449",
+  "gerado_em": "2026-07-26T07:56:47.351761",
   "navios": [
-    {
-      "navio": "Barcaça N11",
-      "imo": "9326029",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "25/07/2026 13:37",
-      "data_chegada_iso": "2026-07-25T13:37:00",
-      "manobra": "Suspender e Atracar",
-      "data_manobra": "25/07/2026 23:30",
-      "data_manobra_iso": "2026-07-25T23:30:00",
-      "berco": "F4 (P3) 302",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Felixstowe",
       "imo": "9227039",
@@ -24,7 +11,7 @@
       "data_manobra": "26/07/2026 06:30",
       "data_manobra_iso": "2026-07-26T06:30:00",
       "berco": "BARRA 902",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -37,7 +24,7 @@
       "data_manobra": "26/07/2026 06:30",
       "data_manobra_iso": "2026-07-26T06:30:00",
       "berco": "902 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -141,6 +128,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "102",
+      "situacao": null,
+      "secao": "Navios Atracados"
+    },
+    {
+      "navio": "Barcaça N11",
+      "imo": "9326029",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "25/07/2026 13:37",
+      "data_chegada_iso": "2026-07-25T13:37:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "302",
       "situacao": null,
       "secao": "Navios Atracados"
     },

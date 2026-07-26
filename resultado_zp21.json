@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-07-25T22:13:38.401105",
+  "gerado_em": "2026-07-26T07:56:38.981836",
   "navios": [
     {
       "navio": "EVER FASHION",
@@ -7,16 +7,6 @@
       "data_hora_texto": "26/07/2026",
       "data_hora_iso": "2026-07-26T00:00:00",
       "calado": "9,90 EK",
-      "rota": "",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "LOG-IN JATOBÁ",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "26/07/2026",
-      "data_hora_iso": "2026-07-26T00:00:00",
-      "calado": "11,15/11,70",
       "rota": "",
       "berco": "PNAVE 01",
       "posicao": null
@@ -42,12 +32,22 @@
       "posicao": null
     },
     {
+      "navio": "LOG-IN JATOBÁ",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "26/07/2026",
+      "data_hora_iso": "2026-07-26T00:00:00",
+      "calado": "11,15/11,70",
+      "rota": "",
+      "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
       "navio": "MSC SHUBA B",
       "status": "ManobraPrevista",
       "data_hora_texto": "26/07/2026",
       "data_hora_iso": "2026-07-26T00:00:00",
       "calado": "TBC",
-      "rota": "Bacia 2",
+      "rota": "",
       "berco": "PNAVE 01",
       "posicao": null
     },
