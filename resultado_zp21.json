@@ -1,36 +1,6 @@
 {
-  "gerado_em": "2026-07-27T16:51:50.074020",
+  "gerado_em": "2026-07-27T20:57:03.754668",
   "navios": [
-    {
-      "navio": "MSC SHUBA B",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "27/07/2026",
-      "data_hora_iso": "2026-07-27T00:00:00",
-      "calado": "12,70 EK",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "MSC PAMELA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "27/07/2026",
-      "data_hora_iso": "2026-07-27T00:00:00",
-      "calado": "10,00 EK",
-      "rota": "Bacia 2",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "EVER FAME",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "27/07/2026",
-      "data_hora_iso": "2026-07-27T00:00:00",
-      "calado": "12,02/12,15",
-      "rota": "",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "MSC MARSEILLE",
       "status": "ManobraPrevista",
@@ -42,13 +12,33 @@
       "posicao": null
     },
     {
+      "navio": "MSC SHUBA B",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "28/07/2026",
+      "data_hora_iso": "2026-07-28T00:00:00",
+      "calado": "12,60 EK",
+      "rota": "",
+      "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
+      "navio": "EVER FAME",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "28/07/2026",
+      "data_hora_iso": "2026-07-28T00:00:00",
+      "calado": "12,02/12,15",
+      "rota": "",
+      "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
       "navio": "NC BREDA",
       "status": "ManobraPrevista",
       "data_hora_texto": "28/07/2026",
       "data_hora_iso": "2026-07-28T00:00:00",
       "calado": "10,00 MAX",
-      "rota": "",
-      "berco": "JBS 1",
+      "rota": "Bacia 1",
+      "berco": "PORTO ITAJAI - 04",
       "posicao": null
     },
     {
@@ -57,8 +47,18 @@
       "data_hora_texto": "28/07/2026",
       "data_hora_iso": "2026-07-28T00:00:00",
       "calado": "TBC",
+      "rota": "Bacia 2",
+      "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "ONE PARANA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "28/07/2026",
+      "data_hora_iso": "2026-07-28T00:00:00",
+      "calado": "11,40/11,70",
       "rota": "",
-      "berco": "JBS",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
@@ -68,27 +68,17 @@
       "data_hora_iso": "2026-07-29T00:00:00",
       "calado": "8,80/11,30",
       "rota": "",
-      "berco": "JBS",
+      "berco": "PORTO ITAJAI - 04",
       "posicao": null
     },
     {
-      "navio": "PARANA EXPRESS",
+      "navio": "HMM PLATINUM",
       "status": "ManobraPrevista",
       "data_hora_texto": "29/07/2026",
       "data_hora_iso": "2026-07-29T00:00:00",
-      "calado": "TBC",
+      "calado": "11,82/11,88",
       "rota": "",
-      "berco": "PNAVE",
-      "posicao": null
-    },
-    {
-      "navio": "XIAMEN EXPRESS",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "29/07/2026",
-      "data_hora_iso": "2026-07-29T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
@@ -98,7 +88,7 @@
       "data_hora_iso": "2026-07-29T00:00:00",
       "calado": "9,10/10,20",
       "rota": "",
-      "berco": "JBS",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -106,7 +96,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "29/07/2026",
       "data_hora_iso": "2026-07-29T00:00:00",
-      "calado": "TBC",
+      "calado": "10,00/10,20",
       "rota": "",
       "berco": "PNAVE",
       "posicao": null
@@ -116,6 +106,36 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "29/07/2026",
       "data_hora_iso": "2026-07-29T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "HYUNDAI VOYAGER",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "30/07/2026",
+      "data_hora_iso": "2026-07-30T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "PARANA EXPRESS",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "30/07/2026",
+      "data_hora_iso": "2026-07-30T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "XIAMEN EXPRESS",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "30/07/2026",
+      "data_hora_iso": "2026-07-30T00:00:00",
       "calado": "TBC",
       "rota": "",
       "berco": "PNAVE",
@@ -152,6 +172,16 @@
       "posicao": null
     },
     {
+      "navio": "CMA CGM KRYPTON",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "01/08/2026",
+      "data_hora_iso": "2026-08-01T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
       "navio": "NC BRISA",
       "status": "ManobraPrevista",
       "data_hora_texto": "03/08/2026",
@@ -159,6 +189,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "COSCO VALENCIA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "03/08/2026",
+      "data_hora_iso": "2026-08-03T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
       "posicao": null
     },
     {
@@ -190,26 +230,6 @@
       "rota": "",
       "berco": "JBS",
       "posicao": null
-    },
-    {
-      "navio": "HMM PLATINUM",
-      "status": "Fundeado",
-      "data_hora_texto": "22/07/2026 - 03:05",
-      "data_hora_iso": "2026-07-22T03:05:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": null,
-      "posicao": "26 51,67 S / 048 31,38 W"
-    },
-    {
-      "navio": "ONE PARANA",
-      "status": "Fundeado",
-      "data_hora_texto": "26/07/2026 - 07:33",
-      "data_hora_iso": "2026-07-26T07:33:00",
-      "calado": "11,40/11,70",
-      "rota": "",
-      "berco": null,
-      "posicao": "26 39,97 S / 048 01,39 W"
     },
     {
       "navio": "BRAM BUCCANEER",
