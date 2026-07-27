@@ -1,32 +1,6 @@
 {
-  "gerado_em": "2026-07-26T20:16:26.294121",
+  "gerado_em": "2026-07-27T09:00:08.334067",
   "navios": [
-    {
-      "navio": "Santa Ines",
-      "imo": "9444845",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "26/07/2026 18:00",
-      "data_chegada_iso": "2026-07-26T18:00:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "26/07/2026 19:30",
-      "data_manobra_iso": "2026-07-26T19:30:00",
-      "berco": "BARRA 902",
-      "situacao": "A Confirmar",
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Felixstowe",
-      "imo": "9227039",
-      "agencia": "ZIM DO BRASIL",
-      "data_chegada_texto": "22/07/2026 01:00",
-      "data_chegada_iso": "2026-07-22T01:00:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "26/07/2026 19:30",
-      "data_manobra_iso": "2026-07-26T19:30:00",
-      "berco": "902 BARRA",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
     {
       "navio": "San Nicolas Maersk",
       "imo": "9622203",
@@ -37,7 +11,7 @@
       "data_manobra": "27/07/2026 07:30",
       "data_manobra_iso": "2026-07-27T07:30:00",
       "berco": "901 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -50,7 +24,7 @@
       "data_manobra": "27/07/2026 07:30",
       "data_manobra_iso": "2026-07-27T07:30:00",
       "berco": "301 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -106,6 +80,19 @@
       "secao": "Movimentações"
     },
     {
+      "navio": "Santa Ines",
+      "imo": "9444845",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "26/07/2026 19:28",
+      "data_chegada_iso": "2026-07-26T19:28:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "902",
+      "situacao": null,
+      "secao": "Navios Atracados"
+    },
+    {
       "navio": "PACIFIC GINKGO",
       "imo": "9967184",
       "agencia": "SEATRADE",
@@ -145,19 +132,6 @@
       "secao": "Navios Fundeados (Barra)"
     },
     {
-      "navio": "CMA CGM Krypton",
-      "imo": "9996733",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "27/07/2026 09:00",
-      "data_chegada_iso": "2026-07-27T09:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": null,
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
       "navio": "Stinger",
       "imo": "9762871",
       "agencia": "WILSON SONS",
@@ -171,6 +145,19 @@
       "secao": "Navios Esperados"
     },
     {
+      "navio": "Maersk Chambal",
+      "imo": "9525376",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "27/07/2026 18:00",
+      "data_chegada_iso": "2026-07-27T18:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
       "navio": "Marla Samurai",
       "imo": "1050868",
       "agencia": "ZPORT AGENCIA",
@@ -180,6 +167,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "SFS",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "CMA CGM Krypton",
+      "imo": "9996733",
+      "agencia": "UNIMAR",
+      "data_chegada_texto": "27/07/2026 22:00",
+      "data_chegada_iso": "2026-07-27T22:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Esperados"
     },
@@ -219,19 +219,6 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "SFS",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Maersk Chambal",
-      "imo": "9525376",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "28/07/2026 07:00",
-      "data_chegada_iso": "2026-07-28T07:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Esperados"
     },
@@ -639,6 +626,19 @@
       "secao": "Navios Esperados"
     },
     {
+      "navio": "Maersk Ganges",
+      "imo": "9694581",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "06/08/2026 07:00",
+      "data_chegada_iso": "2026-08-06T07:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
       "navio": "Tuju Arrow",
       "imo": "9443920",
       "agencia": "SEATRADE",
@@ -652,6 +652,32 @@
       "secao": "Navios Esperados"
     },
     {
+      "navio": "Stephanie C",
+      "imo": "9694531",
+      "agencia": "ROCHAMAR",
+      "data_chegada_texto": "07/08/2026 04:00",
+      "data_chegada_iso": "2026-08-07T04:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "CMA CGM Santos",
+      "imo": "9649835",
+      "agencia": "UNIMAR",
+      "data_chegada_texto": "07/08/2026 08:00",
+      "data_chegada_iso": "2026-08-07T08:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
       "navio": "Anne",
       "imo": "9593294",
       "agencia": "LITORAL",
@@ -661,6 +687,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "SFS",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Nordcheetah",
+      "imo": "9673630",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "07/08/2026 20:00",
+      "data_chegada_iso": "2026-08-07T20:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Esperados"
     },
