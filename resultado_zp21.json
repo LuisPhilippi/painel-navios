@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-07-27T20:57:03.754668",
+  "gerado_em": "2026-07-28T00:13:53.871267",
   "navios": [
     {
       "navio": "MSC MARSEILLE",
@@ -22,11 +22,11 @@
       "posicao": null
     },
     {
-      "navio": "EVER FAME",
+      "navio": "ONE PARANA",
       "status": "ManobraPrevista",
       "data_hora_texto": "28/07/2026",
       "data_hora_iso": "2026-07-28T00:00:00",
-      "calado": "12,02/12,15",
+      "calado": "11,40/11,70",
       "rota": "",
       "berco": "PNAVE 01",
       "posicao": null
@@ -36,7 +36,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "28/07/2026",
       "data_hora_iso": "2026-07-28T00:00:00",
-      "calado": "10,00 MAX",
+      "calado": "9,75/10,00",
       "rota": "Bacia 1",
       "berco": "PORTO ITAJAI - 04",
       "posicao": null
@@ -52,11 +52,11 @@
       "posicao": null
     },
     {
-      "navio": "ONE PARANA",
+      "navio": "EVER FAME",
       "status": "ManobraPrevista",
       "data_hora_texto": "28/07/2026",
       "data_hora_iso": "2026-07-28T00:00:00",
-      "calado": "11,40/11,70",
+      "calado": "12,02/12,15",
       "rota": "",
       "berco": "PNAVE 01",
       "posicao": null
