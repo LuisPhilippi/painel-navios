@@ -1,44 +1,24 @@
 {
-  "gerado_em": "2026-07-28T00:13:53.871267",
+  "gerado_em": "2026-07-28T10:16:40.223217",
   "navios": [
-    {
-      "navio": "MSC MARSEILLE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "27/07/2026",
-      "data_hora_iso": "2026-07-27T00:00:00",
-      "calado": "9,30/10,00",
-      "rota": "Bacia 2",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "MSC SHUBA B",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "28/07/2026",
-      "data_hora_iso": "2026-07-28T00:00:00",
-      "calado": "12,60 EK",
-      "rota": "",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "ONE PARANA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "28/07/2026",
-      "data_hora_iso": "2026-07-28T00:00:00",
-      "calado": "11,40/11,70",
-      "rota": "",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "NC BREDA",
       "status": "ManobraPrevista",
       "data_hora_texto": "28/07/2026",
       "data_hora_iso": "2026-07-28T00:00:00",
-      "calado": "9,75/10,00",
+      "calado": "9,80/10,00",
       "rota": "Bacia 1",
       "berco": "PORTO ITAJAI - 04",
+      "posicao": null
+    },
+    {
+      "navio": "MSC MARSEILLE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "28/07/2026",
+      "data_hora_iso": "2026-07-28T00:00:00",
+      "calado": "TBC",
+      "rota": "Bacia 2",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -49,6 +29,16 @@
       "calado": "TBC",
       "rota": "Bacia 2",
       "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "ONE PARANA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "28/07/2026",
+      "data_hora_iso": "2026-07-28T00:00:00",
+      "calado": "7,40/10,90",
+      "rota": "Bacia 2",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
@@ -66,7 +56,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "29/07/2026",
       "data_hora_iso": "2026-07-29T00:00:00",
-      "calado": "8,80/11,30",
+      "calado": "8,80/12,75",
       "rota": "",
       "berco": "PORTO ITAJAI - 04",
       "posicao": null
