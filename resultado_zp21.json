@@ -1,32 +1,12 @@
 {
-  "gerado_em": "2026-07-28T10:16:40.223217",
+  "gerado_em": "2026-07-28T16:54:01.393552",
   "navios": [
-    {
-      "navio": "NC BREDA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "28/07/2026",
-      "data_hora_iso": "2026-07-28T00:00:00",
-      "calado": "9,80/10,00",
-      "rota": "Bacia 1",
-      "berco": "PORTO ITAJAI - 04",
-      "posicao": null
-    },
     {
       "navio": "MSC MARSEILLE",
       "status": "ManobraPrevista",
       "data_hora_texto": "28/07/2026",
       "data_hora_iso": "2026-07-28T00:00:00",
-      "calado": "TBC",
-      "rota": "Bacia 2",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "SANTA INES",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "28/07/2026",
-      "data_hora_iso": "2026-07-28T00:00:00",
-      "calado": "TBC",
+      "calado": "10,40/11,40",
       "rota": "Bacia 2",
       "berco": "JBS 2",
       "posicao": null
@@ -42,6 +22,16 @@
       "posicao": null
     },
     {
+      "navio": "SANTA INES",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "28/07/2026",
+      "data_hora_iso": "2026-07-28T00:00:00",
+      "calado": "10,30/10,50",
+      "rota": "Bacia 1",
+      "berco": "JBS 2",
+      "posicao": null
+    },
+    {
       "navio": "EVER FAME",
       "status": "ManobraPrevista",
       "data_hora_texto": "28/07/2026",
@@ -49,6 +39,16 @@
       "calado": "12,02/12,15",
       "rota": "",
       "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
+      "navio": "NC BREDA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "29/07/2026",
+      "data_hora_iso": "2026-07-29T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PORTO ITAJAI - 04",
       "posicao": null
     },
     {
@@ -76,7 +76,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "29/07/2026",
       "data_hora_iso": "2026-07-29T00:00:00",
-      "calado": "9,10/10,20",
+      "calado": "9,00/10,00",
       "rota": "",
       "berco": "JBS 2",
       "posicao": null
@@ -136,7 +136,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "30/07/2026",
       "data_hora_iso": "2026-07-30T00:00:00",
-      "calado": "TBC",
+      "calado": "10,20/10,30",
       "rota": "",
       "berco": "JBS",
       "posicao": null
