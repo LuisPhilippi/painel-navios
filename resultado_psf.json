@@ -1,45 +1,6 @@
 {
-  "gerado_em": "2026-07-29T10:49:40.404510",
+  "gerado_em": "2026-07-29T16:12:31.056926",
   "navios": [
-    {
-      "navio": "Maersk Leticia",
-      "imo": "9526916",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "29/07/2026 10:00",
-      "data_chegada_iso": "2026-07-29T10:00:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "29/07/2026 10:00",
-      "data_manobra_iso": "2026-07-29T10:00:00",
-      "berco": "BARRA 902",
-      "situacao": "A Confirmar",
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Maersk Chambal",
-      "imo": "9525376",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "27/07/2026 23:30",
-      "data_chegada_iso": "2026-07-27T23:30:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "29/07/2026 10:00",
-      "data_manobra_iso": "2026-07-29T10:00:00",
-      "berco": "902 BARRA",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "BH Power",
-      "imo": "1024649",
-      "agencia": "CARGONAVE",
-      "data_chegada_texto": "28/07/2026 11:00",
-      "data_chegada_iso": "2026-07-28T11:00:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "29/07/2026 12:30",
-      "data_manobra_iso": "2026-07-29T12:30:00",
-      "berco": "BARRA 301",
-      "situacao": "A Confirmar",
-      "secao": "Navios Esperados"
-    },
     {
       "navio": "Scion Charlotte",
       "imo": "1023982",
@@ -50,7 +11,7 @@
       "data_manobra": "29/07/2026 13:00",
       "data_manobra_iso": "2026-07-29T13:00:00",
       "berco": "BARRA 101",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -63,8 +24,21 @@
       "data_manobra": "29/07/2026 13:00",
       "data_manobra_iso": "2026-07-29T13:00:00",
       "berco": "101 F5",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
+    },
+    {
+      "navio": "Maersk Redwood",
+      "imo": "9943085",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "29/07/2026 18:00",
+      "data_chegada_iso": "2026-07-29T18:00:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "29/07/2026 19:00",
+      "data_manobra_iso": "2026-07-29T19:00:00",
+      "berco": "BARRA 901",
+      "situacao": "A Confirmar",
+      "secao": "Navios Esperados"
     },
     {
       "navio": "HMM Bangkok",
@@ -72,10 +46,23 @@
       "agencia": "UNIMAR",
       "data_chegada_texto": "28/07/2026 13:38",
       "data_chegada_iso": "2026-07-28T13:38:00",
+      "manobra": "Desatracação e Fundeio",
+      "data_manobra": "29/07/2026 19:00",
+      "data_manobra_iso": "2026-07-29T19:00:00",
+      "berco": "901 F5",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Maersk Leticia",
+      "imo": "9526916",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "29/07/2026 09:52",
+      "data_chegada_iso": "2026-07-29T09:52:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
-      "berco": "901",
+      "berco": "902",
       "situacao": null,
       "secao": "Navios Atracados"
     },
@@ -200,14 +187,27 @@
       "navio": "Mazowsze",
       "imo": "9386914",
       "agencia": "CARGONAVE",
-      "data_chegada_texto": "29/07/2026 11:00",
-      "data_chegada_iso": "2026-07-29T11:00:00",
+      "data_chegada_texto": "29/07/2026 10:10",
+      "data_chegada_iso": "2026-07-29T10:10:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "SFS",
       "situacao": null,
-      "secao": "Navios Esperados"
+      "secao": "Navios Fundeados (Barra)"
+    },
+    {
+      "navio": "BH Power",
+      "imo": "1024649",
+      "agencia": "CARGONAVE",
+      "data_chegada_texto": "29/07/2026 11:54",
+      "data_chegada_iso": "2026-07-29T11:54:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "TESC",
+      "situacao": null,
+      "secao": "Navios Fundeados (Barra)"
     },
     {
       "navio": "Vicente Pinzon",
@@ -236,19 +236,6 @@
       "secao": "Navios Esperados"
     },
     {
-      "navio": "Maersk Redwood",
-      "imo": "9943085",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "29/07/2026 18:00",
-      "data_chegada_iso": "2026-07-29T18:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
       "navio": "Industrial Charger",
       "imo": "9213959",
       "agencia": "ORION",
@@ -258,6 +245,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "TESC",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Marla Samurai",
+      "imo": "1050868",
+      "agencia": "ZPORT AGENCIA",
+      "data_chegada_texto": "30/07/2026 11:00",
+      "data_chegada_iso": "2026-07-30T11:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "SFS",
       "situacao": null,
       "secao": "Navios Esperados"
     },
@@ -319,19 +319,6 @@
       "agencia": "ALPHAMAR",
       "data_chegada_texto": "31/07/2026 11:00",
       "data_chegada_iso": "2026-07-31T11:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "SFS",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Marla Samurai",
-      "imo": "1050868",
-      "agencia": "ZPORT AGENCIA",
-      "data_chegada_texto": "31/07/2026 12:00",
-      "data_chegada_iso": "2026-07-31T12:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,

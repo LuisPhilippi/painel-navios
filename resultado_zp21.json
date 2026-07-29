@@ -1,24 +1,14 @@
 {
-  "gerado_em": "2026-07-29T10:49:33.957913",
+  "gerado_em": "2026-07-29T16:12:20.550898",
   "navios": [
     {
-      "navio": "NC BREDA",
+      "navio": "MSC DAKAR X",
       "status": "ManobraPrevista",
       "data_hora_texto": "29/07/2026",
       "data_hora_iso": "2026-07-29T00:00:00",
-      "calado": "10,00/10,80",
+      "calado": "12,75 EK",
       "rota": "",
       "berco": "PORTO ITAJAI - 04",
-      "posicao": null
-    },
-    {
-      "navio": "SANTA INES",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "29/07/2026",
-      "data_hora_iso": "2026-07-29T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -42,16 +32,6 @@
       "posicao": null
     },
     {
-      "navio": "MSC DAKAR X",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "29/07/2026",
-      "data_hora_iso": "2026-07-29T00:00:00",
-      "calado": "12,75 EK",
-      "rota": "",
-      "berco": "PORTO ITAJAI - 04",
-      "posicao": null
-    },
-    {
       "navio": "HMM PLATINUM",
       "status": "ManobraPrevista",
       "data_hora_texto": "29/07/2026",
@@ -67,7 +47,7 @@
       "data_hora_texto": "30/07/2026",
       "data_hora_iso": "2026-07-30T00:00:00",
       "calado": "TBC",
-      "rota": "",
+      "rota": "Bacia 2",
       "berco": "PNAVE 01",
       "posicao": null
     },
@@ -82,21 +62,11 @@
       "posicao": null
     },
     {
-      "navio": "JAZAN",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "30/07/2026",
-      "data_hora_iso": "2026-07-30T00:00:00",
-      "calado": "10,20/10,30",
-      "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
       "navio": "LOG-IN EVOLUTION",
       "status": "ManobraPrevista",
       "data_hora_texto": "30/07/2026",
       "data_hora_iso": "2026-07-30T00:00:00",
-      "calado": "8,80/9,60",
+      "calado": "8,85/9,60",
       "rota": "",
       "berco": "PNAVE",
       "posicao": null
@@ -146,7 +116,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "31/07/2026",
       "data_hora_iso": "2026-07-31T00:00:00",
-      "calado": "TBC",
+      "calado": "11,70/12,00",
       "rota": "",
       "berco": "PNAVE",
       "posicao": null
@@ -182,6 +152,16 @@
       "posicao": null
     },
     {
+      "navio": "JAZAN",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "01/08/2026",
+      "data_hora_iso": "2026-08-01T00:00:00",
+      "calado": "10,20/10,30",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
       "navio": "LE HAVRE",
       "status": "ManobraPrevista",
       "data_hora_texto": "02/08/2026",
@@ -199,6 +179,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "MSC SUSANNA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "03/08/2026",
+      "data_hora_iso": "2026-08-03T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
       "posicao": null
     },
     {
@@ -249,6 +239,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "ELVIRA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "15/08/2026",
+      "data_hora_iso": "2026-08-15T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "BRASKARNE",
       "posicao": null
     },
     {
