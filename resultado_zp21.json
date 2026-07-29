@@ -1,26 +1,6 @@
 {
-  "gerado_em": "2026-07-29T16:12:20.550898",
+  "gerado_em": "2026-07-29T20:32:54.798409",
   "navios": [
-    {
-      "navio": "MSC DAKAR X",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "29/07/2026",
-      "data_hora_iso": "2026-07-29T00:00:00",
-      "calado": "12,75 EK",
-      "rota": "",
-      "berco": "PORTO ITAJAI - 04",
-      "posicao": null
-    },
-    {
-      "navio": "NORWALK",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "29/07/2026",
-      "data_hora_iso": "2026-07-29T00:00:00",
-      "calado": "9,00/10,00",
-      "rota": "Bacia 2",
-      "berco": "JBS 2",
-      "posicao": null
-    },
     {
       "navio": "EVER FAME",
       "status": "ManobraPrevista",
@@ -36,49 +16,9 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "29/07/2026",
       "data_hora_iso": "2026-07-29T00:00:00",
-      "calado": "11,82/11,88",
+      "calado": "11,80 EK",
       "rota": "Bacia 1",
       "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "MSC MARSEILLE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "30/07/2026",
-      "data_hora_iso": "2026-07-30T00:00:00",
-      "calado": "TBC",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "MSC CAROLINA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "30/07/2026",
-      "data_hora_iso": "2026-07-30T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
-      "navio": "LOG-IN EVOLUTION",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "30/07/2026",
-      "data_hora_iso": "2026-07-30T00:00:00",
-      "calado": "8,85/9,60",
-      "rota": "",
-      "berco": "PNAVE",
-      "posicao": null
-    },
-    {
-      "navio": "ANNEGRET",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "30/07/2026",
-      "data_hora_iso": "2026-07-30T00:00:00",
-      "calado": "4,70/6,15",
-      "rota": "",
-      "berco": "BARRA DO RIO",
       "posicao": null
     },
     {
@@ -87,48 +27,28 @@
       "data_hora_texto": "30/07/2026",
       "data_hora_iso": "2026-07-30T00:00:00",
       "calado": "9,80/10,40",
-      "rota": "",
-      "berco": "PNAVE",
+      "rota": "Bacia 2",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
-      "navio": "ESPIRITO SANTO EXPRESS",
+      "navio": "NORWALK",
       "status": "ManobraPrevista",
       "data_hora_texto": "30/07/2026",
       "data_hora_iso": "2026-07-30T00:00:00",
-      "calado": "TBC",
+      "calado": "9,40/10,50",
       "rota": "",
-      "berco": "PNAVE",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
-      "navio": "HYUNDAI VOYAGER",
+      "navio": "MSC DAKAR X",
       "status": "ManobraPrevista",
-      "data_hora_texto": "31/07/2026",
-      "data_hora_iso": "2026-07-31T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE",
-      "posicao": null
-    },
-    {
-      "navio": "PARANA EXPRESS",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "31/07/2026",
-      "data_hora_iso": "2026-07-31T00:00:00",
-      "calado": "11,70/12,00",
-      "rota": "",
-      "berco": "PNAVE",
-      "posicao": null
-    },
-    {
-      "navio": "XIAMEN EXPRESS",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "31/07/2026",
-      "data_hora_iso": "2026-07-31T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE",
+      "data_hora_texto": "30/07/2026",
+      "data_hora_iso": "2026-07-30T00:00:00",
+      "calado": "12,20 EK",
+      "rota": "Bacia 2",
+      "berco": "PORTO ITAJAI - 04",
       "posicao": null
     },
     {
@@ -137,18 +57,38 @@
       "data_hora_texto": "31/07/2026",
       "data_hora_iso": "2026-07-31T00:00:00",
       "calado": "TBC",
-      "rota": "",
-      "berco": "JBS",
+      "rota": "Bacia 1",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
-      "navio": "SUNNY PHOENIX",
+      "navio": "ANNEGRET",
       "status": "ManobraPrevista",
       "data_hora_texto": "31/07/2026",
       "data_hora_iso": "2026-07-31T00:00:00",
-      "calado": "10,00/10,20",
+      "calado": "4,70/6,15",
       "rota": "",
-      "berco": "PNAVE",
+      "berco": "BARRA DO RIO",
+      "posicao": null
+    },
+    {
+      "navio": "MSC MARSEILLE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "31/07/2026",
+      "data_hora_iso": "2026-07-31T00:00:00",
+      "calado": "10,40/11,40",
+      "rota": "Bacia 2",
+      "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
+      "navio": "MSC CAROLINA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "31/07/2026",
+      "data_hora_iso": "2026-07-31T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
       "posicao": null
     },
     {
@@ -159,6 +99,66 @@
       "calado": "10,20/10,30",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "XIAMEN EXPRESS",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "01/08/2026",
+      "data_hora_iso": "2026-08-01T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "ESPIRITO SANTO EXPRESS",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "01/08/2026",
+      "data_hora_iso": "2026-08-01T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "PARANA EXPRESS",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "01/08/2026",
+      "data_hora_iso": "2026-08-01T00:00:00",
+      "calado": "11,70/12,00",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "HYUNDAI VOYAGER",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "01/08/2026",
+      "data_hora_iso": "2026-08-01T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "LOG-IN EVOLUTION",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "02/08/2026",
+      "data_hora_iso": "2026-08-02T00:00:00",
+      "calado": "8,85/9,60",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "SUNNY PHOENIX",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "02/08/2026",
+      "data_hora_iso": "2026-08-02T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
       "posicao": null
     },
     {
@@ -249,6 +249,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "BRASKARNE",
+      "posicao": null
+    },
+    {
+      "navio": "FRAGATA JERÔNIMO DE ALBUQUERQUE",
+      "status": "Atracado",
+      "data_hora_texto": "29/07/2026 - 15:26",
+      "data_hora_iso": "2026-07-29T15:26:00",
+      "calado": null,
+      "rota": "",
+      "berco": "BRASIL SUL",
       "posicao": null
     },
     {
