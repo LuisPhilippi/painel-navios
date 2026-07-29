@@ -1,25 +1,12 @@
 {
-  "gerado_em": "2026-07-28T20:58:33.619168",
+  "gerado_em": "2026-07-29T00:12:26.274690",
   "navios": [
-    {
-      "navio": "Stinger",
-      "imo": "9762871",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "28/07/2026 04:49",
-      "data_chegada_iso": "2026-07-28T04:49:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "28/07/2026 18:15",
-      "data_manobra_iso": "2026-07-28T18:15:00",
-      "berco": "BARRA 302",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Maersk Leticia",
       "imo": "9526916",
       "agencia": "LACHMANN",
-      "data_chegada_texto": "29/07/2026 12:00",
-      "data_chegada_iso": "2026-07-29T12:00:00",
+      "data_chegada_texto": "29/07/2026 10:00",
+      "data_chegada_iso": "2026-07-29T10:00:00",
       "manobra": "Entrada e Atracação",
       "data_manobra": "29/07/2026 10:00",
       "data_manobra_iso": "2026-07-29T10:00:00",
@@ -115,6 +102,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "201",
+      "situacao": null,
+      "secao": "Navios Atracados"
+    },
+    {
+      "navio": "Stinger",
+      "imo": "9762871",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "28/07/2026 04:49",
+      "data_chegada_iso": "2026-07-28T04:49:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "302",
       "situacao": null,
       "secao": "Navios Atracados"
     },

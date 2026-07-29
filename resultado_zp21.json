@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-07-28T20:58:27.116030",
+  "gerado_em": "2026-07-29T00:12:18.934069",
   "navios": [
-    {
-      "navio": "SANTA INES",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "28/07/2026",
-      "data_hora_iso": "2026-07-28T00:00:00",
-      "calado": "10,25/10,40",
-      "rota": "Bacia 1",
-      "berco": "JBS 2",
-      "posicao": null
-    },
     {
       "navio": "EVER FAME",
       "status": "ManobraPrevista",
@@ -32,6 +22,16 @@
       "posicao": null
     },
     {
+      "navio": "SANTA INES",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "29/07/2026",
+      "data_hora_iso": "2026-07-29T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS 2",
+      "posicao": null
+    },
+    {
       "navio": "NORWALK",
       "status": "ManobraPrevista",
       "data_hora_texto": "29/07/2026",
@@ -39,16 +39,6 @@
       "calado": "9,00/10,00",
       "rota": "Bacia 2",
       "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "HMM PLATINUM",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "29/07/2026",
-      "data_hora_iso": "2026-07-29T00:00:00",
-      "calado": "11,82/11,88",
-      "rota": "Bacia 1",
-      "berco": "PNAVE 01",
       "posicao": null
     },
     {
@@ -62,6 +52,16 @@
       "posicao": null
     },
     {
+      "navio": "HMM PLATINUM",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "29/07/2026",
+      "data_hora_iso": "2026-07-29T00:00:00",
+      "calado": "11,82/11,88",
+      "rota": "Bacia 1",
+      "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
       "navio": "MSC MARSEILLE",
       "status": "ManobraPrevista",
       "data_hora_texto": "30/07/2026",
@@ -69,6 +69,16 @@
       "calado": "TBC",
       "rota": "Bacia 2",
       "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
+      "navio": "MSC CAROLINA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "30/07/2026",
+      "data_hora_iso": "2026-07-30T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
       "posicao": null
     },
     {
@@ -169,6 +179,16 @@
       "calado": "10,00/10,20",
       "rota": "",
       "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "LE HAVRE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "02/08/2026",
+      "data_hora_iso": "2026-08-02T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
       "posicao": null
     },
     {
