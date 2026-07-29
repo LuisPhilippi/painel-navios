@@ -1,22 +1,12 @@
 {
-  "gerado_em": "2026-07-29T00:12:18.934069",
+  "gerado_em": "2026-07-29T10:49:33.957913",
   "navios": [
-    {
-      "navio": "EVER FAME",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "28/07/2026",
-      "data_hora_iso": "2026-07-28T00:00:00",
-      "calado": "12,02/12,15",
-      "rota": "",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "NC BREDA",
       "status": "ManobraPrevista",
       "data_hora_texto": "29/07/2026",
       "data_hora_iso": "2026-07-29T00:00:00",
-      "calado": "TBC",
+      "calado": "10,00/10,80",
       "rota": "",
       "berco": "PORTO ITAJAI - 04",
       "posicao": null
@@ -39,6 +29,16 @@
       "calado": "9,00/10,00",
       "rota": "Bacia 2",
       "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "EVER FAME",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "29/07/2026",
+      "data_hora_iso": "2026-07-29T00:00:00",
+      "calado": "10,27/10,35",
+      "rota": "Bacia 2",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
@@ -67,7 +67,7 @@
       "data_hora_texto": "30/07/2026",
       "data_hora_iso": "2026-07-30T00:00:00",
       "calado": "TBC",
-      "rota": "Bacia 2",
+      "rota": "",
       "berco": "PNAVE 01",
       "posicao": null
     },
