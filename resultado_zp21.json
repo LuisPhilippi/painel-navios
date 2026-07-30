@@ -1,23 +1,13 @@
 {
-  "gerado_em": "2026-07-29T20:32:54.798409",
+  "gerado_em": "2026-07-30T00:14:52.210815",
   "navios": [
-    {
-      "navio": "EVER FAME",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "29/07/2026",
-      "data_hora_iso": "2026-07-29T00:00:00",
-      "calado": "10,27/10,35",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "HMM PLATINUM",
       "status": "ManobraPrevista",
-      "data_hora_texto": "29/07/2026",
-      "data_hora_iso": "2026-07-29T00:00:00",
-      "calado": "11,80 EK",
-      "rota": "Bacia 1",
+      "data_hora_texto": "30/07/2026",
+      "data_hora_iso": "2026-07-30T00:00:00",
+      "calado": "11,30/11,40",
+      "rota": "",
       "berco": "PNAVE 01",
       "posicao": null
     },
@@ -26,7 +16,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "30/07/2026",
       "data_hora_iso": "2026-07-30T00:00:00",
-      "calado": "9,80/10,40",
+      "calado": "10,00/10,50",
       "rota": "Bacia 2",
       "berco": "PNAVE 01",
       "posicao": null
