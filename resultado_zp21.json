@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-07-30T10:03:24.283360",
+  "gerado_em": "2026-07-30T16:18:13.115008",
   "navios": [
-    {
-      "navio": "HMM PLATINUM",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "30/07/2026",
-      "data_hora_iso": "2026-07-30T00:00:00",
-      "calado": "11,20/11,40",
-      "rota": "",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "CMA CGM KRYPTON",
       "status": "ManobraPrevista",
@@ -34,8 +24,8 @@
     {
       "navio": "MSC DAKAR X",
       "status": "ManobraPrevista",
-      "data_hora_texto": "30/07/2026",
-      "data_hora_iso": "2026-07-30T00:00:00",
+      "data_hora_texto": "31/07/2026",
+      "data_hora_iso": "2026-07-31T00:00:00",
       "calado": "12,20 EK",
       "rota": "Bacia 2",
       "berco": "PORTO ITAJAI - 04",
@@ -96,7 +86,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "01/08/2026",
       "data_hora_iso": "2026-08-01T00:00:00",
-      "calado": "TBC",
+      "calado": "11,90/12,10",
       "rota": "",
       "berco": "PNAVE",
       "posicao": null
