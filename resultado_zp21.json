@@ -1,12 +1,12 @@
 {
-  "gerado_em": "2026-07-30T00:14:52.210815",
+  "gerado_em": "2026-07-30T10:03:24.283360",
   "navios": [
     {
       "navio": "HMM PLATINUM",
       "status": "ManobraPrevista",
       "data_hora_texto": "30/07/2026",
       "data_hora_iso": "2026-07-30T00:00:00",
-      "calado": "11,30/11,40",
+      "calado": "11,20/11,40",
       "rota": "",
       "berco": "PNAVE 01",
       "posicao": null
