@@ -1,12 +1,12 @@
 {
-  "gerado_em": "2026-07-31T16:14:30.152316",
+  "gerado_em": "2026-07-31T20:51:05.287982",
   "navios": [
     {
       "navio": "CMA CGM KRYPTON",
       "status": "ManobraPrevista",
       "data_hora_texto": "31/07/2026",
       "data_hora_iso": "2026-07-31T00:00:00",
-      "calado": "10,50 EK",
+      "calado": "9,30/10,90",
       "rota": "",
       "berco": "PNAVE 01",
       "posicao": null
@@ -16,8 +16,8 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "31/07/2026",
       "data_hora_iso": "2026-07-31T00:00:00",
-      "calado": "10,40/11,40",
-      "rota": "Bacia 2",
+      "calado": "10,30/11,20",
+      "rota": "",
       "berco": "PNAVE 01",
       "posicao": null
     },
@@ -32,22 +32,12 @@
       "posicao": null
     },
     {
-      "navio": "XIAMEN EXPRESS",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "01/08/2026",
-      "data_hora_iso": "2026-08-01T00:00:00",
-      "calado": "11,90/12,10",
-      "rota": "",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
       "navio": "JAZAN",
       "status": "ManobraPrevista",
       "data_hora_texto": "01/08/2026",
       "data_hora_iso": "2026-08-01T00:00:00",
       "calado": "10,40/11,30",
-      "rota": "",
+      "rota": "Bacia 2",
       "berco": "JBS 2",
       "posicao": null
     },
@@ -62,23 +52,23 @@
       "posicao": null
     },
     {
-      "navio": "LOG-IN EVOLUTION",
+      "navio": "XIAMEN EXPRESS",
       "status": "ManobraPrevista",
       "data_hora_texto": "01/08/2026",
       "data_hora_iso": "2026-08-01T00:00:00",
-      "calado": "8,85/9,60",
+      "calado": "11,90/12,10",
       "rota": "",
       "berco": "PNAVE 01",
       "posicao": null
     },
     {
-      "navio": "MSC CAROLINA",
+      "navio": "LOG-IN EVOLUTION",
       "status": "ManobraPrevista",
-      "data_hora_texto": "01/08/2026",
-      "data_hora_iso": "2026-08-01T00:00:00",
-      "calado": "TBC",
+      "data_hora_texto": "02/08/2026",
+      "data_hora_iso": "2026-08-02T00:00:00",
+      "calado": "8,85/9,60",
       "rota": "",
-      "berco": "JBS",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
@@ -129,6 +119,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "MSC CAROLINA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "02/08/2026",
+      "data_hora_iso": "2026-08-02T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
       "posicao": null
     },
     {
