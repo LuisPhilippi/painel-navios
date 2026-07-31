@@ -1,45 +1,6 @@
 {
-  "gerado_em": "2026-07-31T08:11:16.549169",
+  "gerado_em": "2026-07-31T16:14:36.240398",
   "navios": [
-    {
-      "navio": "Mercosul Guarujá",
-      "imo": "9539494",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "31/07/2026 08:45",
-      "data_chegada_iso": "2026-07-31T08:45:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "31/07/2026 08:45",
-      "data_manobra_iso": "2026-07-31T08:45:00",
-      "berco": "BARRA 902",
-      "situacao": "A Confirmar",
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Vicente Pinzon",
-      "imo": "9625396",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "29/07/2026 18:00",
-      "data_chegada_iso": "2026-07-29T18:00:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "31/07/2026 08:45",
-      "data_manobra_iso": "2026-07-31T08:45:00",
-      "berco": "902 BARRA",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Barcaça N09",
-      "imo": "9326005",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "31/07/2026 00:00",
-      "data_chegada_iso": "2026-07-31T00:00:00",
-      "manobra": "Entrada e Fundeio",
-      "data_manobra": "31/07/2026 08:50",
-      "data_manobra_iso": "2026-07-31T08:50:00",
-      "berco": "BARRA F4 (P3)",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Maersk Monte Alegre",
       "imo": "9348065",
@@ -47,10 +8,10 @@
       "data_chegada_texto": "31/07/2026 04:56",
       "data_chegada_iso": "2026-07-31T04:56:00",
       "manobra": "Entrada e Atracação",
-      "data_manobra": "31/07/2026 14:30",
-      "data_manobra_iso": "2026-07-31T14:30:00",
+      "data_manobra": "31/07/2026 13:00",
+      "data_manobra_iso": "2026-07-31T13:00:00",
       "berco": "BARRA 901",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -60,10 +21,10 @@
       "data_chegada_texto": "30/07/2026 12:15",
       "data_chegada_iso": "2026-07-30T12:15:00",
       "manobra": "Desatracação e Saída",
-      "data_manobra": "31/07/2026 14:30",
-      "data_manobra_iso": "2026-07-31T14:30:00",
+      "data_manobra": "31/07/2026 13:00",
+      "data_manobra_iso": "2026-07-31T13:00:00",
       "berco": "901 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -76,8 +37,21 @@
       "data_manobra": "31/07/2026 14:30",
       "data_manobra_iso": "2026-07-31T14:30:00",
       "berco": "F3 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
+    },
+    {
+      "navio": "Mercosul Guarujá",
+      "imo": "9539494",
+      "agencia": "UNIMAR",
+      "data_chegada_texto": "31/07/2026 08:44",
+      "data_chegada_iso": "2026-07-31T08:44:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "902",
+      "situacao": null,
+      "secao": "Navios Atracados"
     },
     {
       "navio": "Cassiopeia Ocean",
@@ -143,6 +117,19 @@
       "berco": "302",
       "situacao": null,
       "secao": "Navios Atracados"
+    },
+    {
+      "navio": "Barcaça N09",
+      "imo": "9326005",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "31/07/2026 00:00",
+      "data_chegada_iso": "2026-07-31T00:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "F4 (P3)",
+      "situacao": null,
+      "secao": "Navios Fundeados (Internos)"
     },
     {
       "navio": "Barcaça N11",
@@ -239,14 +226,14 @@
       "navio": "Maersk Venezia",
       "imo": "9344681",
       "agencia": "LACHMANN",
-      "data_chegada_texto": "31/07/2026 07:00",
-      "data_chegada_iso": "2026-07-31T07:00:00",
+      "data_chegada_texto": "31/07/2026 06:54",
+      "data_chegada_iso": "2026-07-31T06:54:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "ITAPOÁ",
       "situacao": null,
-      "secao": "Navios Esperados"
+      "secao": "Navios Fundeados (Barra)"
     },
     {
       "navio": "Foresight Diva",
@@ -262,11 +249,11 @@
       "secao": "Navios Esperados"
     },
     {
-      "navio": "Maersk San Vicente",
-      "imo": "9699206",
+      "navio": "Maersk San Vincent",
+      "imo": "9717228",
       "agencia": "LACHMANN",
-      "data_chegada_texto": "01/08/2026 12:00",
-      "data_chegada_iso": "2026-08-01T12:00:00",
+      "data_chegada_texto": "01/08/2026 10:00",
+      "data_chegada_iso": "2026-08-01T10:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
@@ -323,6 +310,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "101",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "XSSC Bright",
+      "imo": "9414151",
+      "agencia": "CARGONAVE",
+      "data_chegada_texto": "01/08/2026 23:45",
+      "data_chegada_iso": "2026-08-01T23:45:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "SFS",
       "situacao": null,
       "secao": "Navios Esperados"
     },
@@ -713,6 +713,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Alliance Diva",
+      "imo": "1104152",
+      "agencia": "ALPHAMAR",
+      "data_chegada_texto": "11/08/2026 12:00",
+      "data_chegada_iso": "2026-08-11T12:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "SFS",
       "situacao": null,
       "secao": "Navios Esperados"
     },

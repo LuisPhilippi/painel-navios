@@ -1,26 +1,6 @@
 {
-  "gerado_em": "2026-07-31T08:11:10.038956",
+  "gerado_em": "2026-07-31T16:14:30.152316",
   "navios": [
-    {
-      "navio": "MAERSK CHAMBAL",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "31/07/2026",
-      "data_hora_iso": "2026-07-31T00:00:00",
-      "calado": "11,70/12,00",
-      "rota": "Bacia 1",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "MSC DAKAR X",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "31/07/2026",
-      "data_hora_iso": "2026-07-31T00:00:00",
-      "calado": "12,20 EK",
-      "rota": "Bacia 2",
-      "berco": "PORTO ITAJAI - 04",
-      "posicao": null
-    },
     {
       "navio": "CMA CGM KRYPTON",
       "status": "ManobraPrevista",
@@ -42,6 +22,16 @@
       "posicao": null
     },
     {
+      "navio": "MAERSK CHAMBAL",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "31/07/2026",
+      "data_hora_iso": "2026-07-31T00:00:00",
+      "calado": "11,90 EK",
+      "rota": "",
+      "berco": "JBS 2",
+      "posicao": null
+    },
+    {
       "navio": "XIAMEN EXPRESS",
       "status": "ManobraPrevista",
       "data_hora_texto": "01/08/2026",
@@ -56,7 +46,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "01/08/2026",
       "data_hora_iso": "2026-08-01T00:00:00",
-      "calado": "10,20/10,30",
+      "calado": "10,40/11,30",
       "rota": "",
       "berco": "JBS 2",
       "posicao": null
@@ -96,7 +86,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "02/08/2026",
       "data_hora_iso": "2026-08-02T00:00:00",
-      "calado": "TBC",
+      "calado": "10,00/10,20",
       "rota": "",
       "berco": "PNAVE",
       "posicao": null
