@@ -1,13 +1,13 @@
 {
-  "gerado_em": "2026-07-30T20:47:17.422428",
+  "gerado_em": "2026-07-31T08:11:10.038956",
   "navios": [
     {
-      "navio": "NORWALK",
+      "navio": "MAERSK CHAMBAL",
       "status": "ManobraPrevista",
-      "data_hora_texto": "30/07/2026",
-      "data_hora_iso": "2026-07-30T00:00:00",
-      "calado": "9,40/10,00",
-      "rota": "",
+      "data_hora_texto": "31/07/2026",
+      "data_hora_iso": "2026-07-31T00:00:00",
+      "calado": "11,70/12,00",
+      "rota": "Bacia 1",
       "berco": "JBS 2",
       "posicao": null
     },
@@ -22,21 +22,11 @@
       "posicao": null
     },
     {
-      "navio": "MAERSK CHAMBAL",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "31/07/2026",
-      "data_hora_iso": "2026-07-31T00:00:00",
-      "calado": "11,50/11,90",
-      "rota": "Bacia 1",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
       "navio": "CMA CGM KRYPTON",
       "status": "ManobraPrevista",
       "data_hora_texto": "31/07/2026",
       "data_hora_iso": "2026-07-31T00:00:00",
-      "calado": "TBC",
+      "calado": "10,50 EK",
       "rota": "",
       "berco": "PNAVE 01",
       "posicao": null
@@ -49,16 +39,6 @@
       "calado": "10,40/11,40",
       "rota": "Bacia 2",
       "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "ANNEGRET",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "01/08/2026",
-      "data_hora_iso": "2026-08-01T00:00:00",
-      "calado": "4,70/6,15",
-      "rota": "",
-      "berco": "BARRA DO RIO",
       "posicao": null
     },
     {
@@ -79,6 +59,16 @@
       "calado": "10,20/10,30",
       "rota": "",
       "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "ANNEGRET",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "01/08/2026",
+      "data_hora_iso": "2026-08-01T00:00:00",
+      "calado": "4,70/6,15",
+      "rota": "",
+      "berco": "BARRA DO RIO",
       "posicao": null
     },
     {
