@@ -1,57 +1,18 @@
 {
-  "gerado_em": "2026-08-01T16:32:33.152010",
+  "gerado_em": "2026-08-01T20:17:00.257307",
   "navios": [
-    {
-      "navio": "Barcaça N11",
-      "imo": "9326029",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "25/07/2026 13:37",
-      "data_chegada_iso": "2026-07-25T13:37:00",
-      "manobra": "Suspender e Sair",
-      "data_manobra": "01/08/2026 12:30",
-      "data_manobra_iso": "2026-08-01T12:30:00",
-      "berco": "F1 BARRA",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Genco Madeleine",
-      "imo": "9705976",
-      "agencia": "OCEÂNICA",
-      "data_chegada_texto": "25/07/2026 12:25",
-      "data_chegada_iso": "2026-07-25T12:25:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "01/08/2026 13:00",
-      "data_manobra_iso": "2026-08-01T13:00:00",
-      "berco": "102 BARRA",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Maersk Monte Alegre",
-      "imo": "9348065",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "31/07/2026 04:56",
-      "data_chegada_iso": "2026-07-31T04:56:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "01/08/2026 13:30",
-      "data_manobra_iso": "2026-08-01T13:30:00",
-      "berco": "901 BARRA",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Maersk San Vincent",
       "imo": "9717228",
       "agencia": "LACHMANN",
-      "data_chegada_texto": "01/08/2026 10:00",
-      "data_chegada_iso": "2026-08-01T10:00:00",
+      "data_chegada_texto": "01/08/2026 15:00",
+      "data_chegada_iso": "2026-08-01T15:00:00",
       "manobra": "Entrada e Atracação",
       "data_manobra": "01/08/2026 15:00",
       "data_manobra_iso": "2026-08-01T15:00:00",
       "berco": "BARRA 901",
-      "situacao": "Confirmado",
-      "secao": "Navios Esperados"
+      "situacao": "Em Andamento",
+      "secao": "Movimentações"
     },
     {
       "navio": "Shandong Xin You",
@@ -63,7 +24,7 @@
       "data_manobra": "01/08/2026 15:15",
       "data_manobra_iso": "2026-08-01T15:15:00",
       "berco": "BARRA 101",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -76,8 +37,21 @@
       "data_manobra": "01/08/2026 15:15",
       "data_manobra_iso": "2026-08-01T15:15:00",
       "berco": "101 F3",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
+    },
+    {
+      "navio": "Américo Vespúcio",
+      "imo": "9603233",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "01/08/2026 19:00",
+      "data_chegada_iso": "2026-08-01T19:00:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "01/08/2026 20:00",
+      "data_manobra_iso": "2026-08-01T20:00:00",
+      "berco": "BARRA 902",
+      "situacao": "A Confirmar",
+      "secao": "Navios Esperados"
     },
     {
       "navio": "Maersk Venezia",
@@ -85,12 +59,12 @@
       "agencia": "LACHMANN",
       "data_chegada_texto": "31/07/2026 06:54",
       "data_chegada_iso": "2026-07-31T06:54:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "902",
-      "situacao": null,
-      "secao": "Navios Atracados"
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "01/08/2026 20:00",
+      "data_manobra_iso": "2026-08-01T20:00:00",
+      "berco": "902 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
     },
     {
       "navio": "Mazowsze",
@@ -98,12 +72,25 @@
       "agencia": "CARGONAVE",
       "data_chegada_texto": "29/07/2026 10:10",
       "data_chegada_iso": "2026-07-29T10:10:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "201",
-      "situacao": null,
-      "secao": "Navios Atracados"
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "01/08/2026 23:15",
+      "data_manobra_iso": "2026-08-01T23:15:00",
+      "berco": "201 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Marla Samurai",
+      "imo": "1050868",
+      "agencia": "ZPORT AGENCIA",
+      "data_chegada_texto": "31/07/2026 04:22",
+      "data_chegada_iso": "2026-07-31T04:22:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "01/08/2026 23:45",
+      "data_manobra_iso": "2026-08-01T23:45:00",
+      "berco": "BARRA 102",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
     },
     {
       "navio": "BH Power",
@@ -111,12 +98,12 @@
       "agencia": "CARGONAVE",
       "data_chegada_texto": "29/07/2026 11:54",
       "data_chegada_iso": "2026-07-29T11:54:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "301",
-      "situacao": null,
-      "secao": "Navios Atracados"
+      "manobra": "Desatracação e Fundeio",
+      "data_manobra": "01/08/2026 23:45",
+      "data_manobra_iso": "2026-08-01T23:45:00",
+      "berco": "301 F5",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
     },
     {
       "navio": "Barcaça N09",
@@ -184,19 +171,6 @@
       "secao": "Navios Fundeados (Barra)"
     },
     {
-      "navio": "Marla Samurai",
-      "imo": "1050868",
-      "agencia": "ZPORT AGENCIA",
-      "data_chegada_texto": "31/07/2026 04:22",
-      "data_chegada_iso": "2026-07-31T04:22:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "SFS",
-      "situacao": null,
-      "secao": "Navios Fundeados (Barra)"
-    },
-    {
       "navio": "XSSC Bright",
       "imo": "9414151",
       "agencia": "CARGONAVE",
@@ -232,19 +206,6 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "SFS",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Américo Vespúcio",
-      "imo": "9603233",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "01/08/2026 19:00",
-      "data_chegada_iso": "2026-08-01T19:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Esperados"
     },
