@@ -1,32 +1,12 @@
 {
-  "gerado_em": "2026-07-31T20:51:05.287982",
+  "gerado_em": "2026-08-01T00:14:32.343736",
   "navios": [
-    {
-      "navio": "CMA CGM KRYPTON",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "31/07/2026",
-      "data_hora_iso": "2026-07-31T00:00:00",
-      "calado": "9,30/10,90",
-      "rota": "",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "MSC MARSEILLE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "31/07/2026",
-      "data_hora_iso": "2026-07-31T00:00:00",
-      "calado": "10,30/11,20",
-      "rota": "",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "MAERSK CHAMBAL",
       "status": "ManobraPrevista",
       "data_hora_texto": "31/07/2026",
       "data_hora_iso": "2026-07-31T00:00:00",
-      "calado": "11,90 EK",
+      "calado": "11,80 EK",
       "rota": "",
       "berco": "JBS 2",
       "posicao": null
@@ -49,6 +29,16 @@
       "calado": "4,70/6,15",
       "rota": "",
       "berco": "BARRA DO RIO",
+      "posicao": null
+    },
+    {
+      "navio": "MSC MARSEILLE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "01/08/2026",
+      "data_hora_iso": "2026-08-01T00:00:00",
+      "calado": "12,10 EK",
+      "rota": "Bacia 2",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
