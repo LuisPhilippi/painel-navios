@@ -1,19 +1,6 @@
 {
-  "gerado_em": "2026-08-01T08:58:18.400570",
+  "gerado_em": "2026-08-01T12:17:48.279107",
   "navios": [
-    {
-      "navio": "Stinger",
-      "imo": "9762871",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "28/07/2026 04:49",
-      "data_chegada_iso": "2026-07-28T04:49:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "01/08/2026 04:30",
-      "data_manobra_iso": "2026-08-01T04:30:00",
-      "berco": "302 BARRA",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Barcaça N09",
       "imo": "9326005",
@@ -24,7 +11,7 @@
       "data_manobra": "01/08/2026 09:45",
       "data_manobra_iso": "2026-08-01T09:45:00",
       "berco": "F4 (P3) 302",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {

@@ -1,12 +1,12 @@
 {
-  "gerado_em": "2026-08-01T08:58:11.325096",
+  "gerado_em": "2026-08-01T12:17:41.088460",
   "navios": [
     {
       "navio": "JAZAN",
       "status": "ManobraPrevista",
       "data_hora_texto": "01/08/2026",
       "data_hora_iso": "2026-08-01T00:00:00",
-      "calado": "10,40/11,30",
+      "calado": "10,40/11,20",
       "rota": "Bacia 2",
       "berco": "JBS 2",
       "posicao": null
@@ -16,7 +16,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "01/08/2026",
       "data_hora_iso": "2026-08-01T00:00:00",
-      "calado": "4,70/6,15",
+      "calado": "5,70/5,80",
       "rota": "",
       "berco": "BARRA DO RIO",
       "posicao": null
@@ -116,7 +116,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "03/08/2026",
       "data_hora_iso": "2026-08-03T00:00:00",
-      "calado": "TBC",
+      "calado": "11,30/11,60",
       "rota": "",
       "berco": "PNAVE",
       "posicao": null
@@ -199,6 +199,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "BRASKARNE",
+      "posicao": null
+    },
+    {
+      "navio": "NAVIO PATRULHA MARACANÃ",
+      "status": "Atracado",
+      "data_hora_texto": "01/08/2026 - 08:31",
+      "data_hora_iso": "2026-08-01T08:31:00",
+      "calado": null,
+      "rota": "",
+      "berco": "Pier Turistico Itajai",
       "posicao": null
     },
     {
