@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-08-01T12:17:41.088460",
+  "gerado_em": "2026-08-01T16:32:26.914716",
   "navios": [
-    {
-      "navio": "JAZAN",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "01/08/2026",
-      "data_hora_iso": "2026-08-01T00:00:00",
-      "calado": "10,40/11,20",
-      "rota": "Bacia 2",
-      "berco": "JBS 2",
-      "posicao": null
-    },
     {
       "navio": "ANNEGRET",
       "status": "ManobraPrevista",
@@ -37,8 +27,18 @@
       "data_hora_texto": "01/08/2026",
       "data_hora_iso": "2026-08-01T00:00:00",
       "calado": "11,90/12,10",
-      "rota": "",
+      "rota": "Bacia 2",
       "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
+      "navio": "JAZAN",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "02/08/2026",
+      "data_hora_iso": "2026-08-02T00:00:00",
+      "calado": "11,11/11,61",
+      "rota": "",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -219,16 +219,6 @@
       "calado": null,
       "rota": "",
       "berco": "BRASIL SUL",
-      "posicao": null
-    },
-    {
-      "navio": "BRAM BUCCANEER",
-      "status": "Atracado",
-      "data_hora_texto": "22/01/2026 - 10:04",
-      "data_hora_iso": "2026-01-22T10:04:00",
-      "calado": null,
-      "rota": "",
-      "berco": "NAVSHIP",
       "posicao": null
     }
   ]

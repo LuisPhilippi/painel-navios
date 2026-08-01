@@ -1,19 +1,6 @@
 {
-  "gerado_em": "2026-08-01T12:17:48.279107",
+  "gerado_em": "2026-08-01T16:32:33.152010",
   "navios": [
-    {
-      "navio": "Barcaça N09",
-      "imo": "9326005",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "31/07/2026 00:00",
-      "data_chegada_iso": "2026-07-31T00:00:00",
-      "manobra": "Suspender e Atracar",
-      "data_manobra": "01/08/2026 09:45",
-      "data_manobra_iso": "2026-08-01T09:45:00",
-      "berco": "F4 (P3) 302",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Barcaça N11",
       "imo": "9326029",
@@ -24,7 +11,7 @@
       "data_manobra": "01/08/2026 12:30",
       "data_manobra_iso": "2026-08-01T12:30:00",
       "berco": "F1 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -37,7 +24,7 @@
       "data_manobra": "01/08/2026 13:00",
       "data_manobra_iso": "2026-08-01T13:00:00",
       "berco": "102 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -50,7 +37,7 @@
       "data_manobra": "01/08/2026 13:30",
       "data_manobra_iso": "2026-08-01T13:30:00",
       "berco": "901 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -63,7 +50,7 @@
       "data_manobra": "01/08/2026 15:00",
       "data_manobra_iso": "2026-08-01T15:00:00",
       "berco": "BARRA 901",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Navios Esperados"
     },
     {
@@ -128,6 +115,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "301",
+      "situacao": null,
+      "secao": "Navios Atracados"
+    },
+    {
+      "navio": "Barcaça N09",
+      "imo": "9326005",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "31/07/2026 00:00",
+      "data_chegada_iso": "2026-07-31T00:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "302",
       "situacao": null,
       "secao": "Navios Atracados"
     },
