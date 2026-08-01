@@ -1,32 +1,6 @@
 {
-  "gerado_em": "2026-08-01T00:14:44.420712",
+  "gerado_em": "2026-08-01T08:58:18.400570",
   "navios": [
-    {
-      "navio": "Maersk Venezia",
-      "imo": "9344681",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "31/07/2026 06:54",
-      "data_chegada_iso": "2026-07-31T06:54:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "01/08/2026 01:00",
-      "data_manobra_iso": "2026-08-01T01:00:00",
-      "berco": "BARRA 902",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Mercosul Guarujá",
-      "imo": "9539494",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "31/07/2026 08:44",
-      "data_chegada_iso": "2026-07-31T08:44:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "01/08/2026 01:00",
-      "data_manobra_iso": "2026-08-01T01:00:00",
-      "berco": "902 BARRA",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Stinger",
       "imo": "9762871",
@@ -37,7 +11,7 @@
       "data_manobra": "01/08/2026 04:30",
       "data_manobra_iso": "2026-08-01T04:30:00",
       "berco": "302 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -130,6 +104,19 @@
       "berco": "101 F3",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
+    },
+    {
+      "navio": "Maersk Venezia",
+      "imo": "9344681",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "31/07/2026 06:54",
+      "data_chegada_iso": "2026-07-31T06:54:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "902",
+      "situacao": null,
+      "secao": "Navios Atracados"
     },
     {
       "navio": "Mazowsze",
@@ -236,11 +223,24 @@
       "secao": "Navios Fundeados (Barra)"
     },
     {
-      "navio": "Foresight Diva",
-      "imo": "1085851",
-      "agencia": "ALPHAMAR",
-      "data_chegada_texto": "31/07/2026 11:00",
-      "data_chegada_iso": "2026-07-31T11:00:00",
+      "navio": "Gladiator",
+      "imo": "9605853",
+      "agencia": "CARGONAVE",
+      "data_chegada_texto": "01/08/2026 00:00",
+      "data_chegada_iso": "2026-08-01T00:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "SFS",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "TSHD Galileo Galilei",
+      "imo": "9872365",
+      "agencia": "LITORAL",
+      "data_chegada_texto": "01/08/2026 01:00",
+      "data_chegada_iso": "2026-08-01T01:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
@@ -258,19 +258,6 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Gladiator",
-      "imo": "9605853",
-      "agencia": "CARGONAVE",
-      "data_chegada_texto": "01/08/2026 19:00",
-      "data_chegada_iso": "2026-08-01T19:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "SFS",
       "situacao": null,
       "secao": "Navios Esperados"
     },
@@ -401,6 +388,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Foresight Diva",
+      "imo": "1085851",
+      "agencia": "ALPHAMAR",
+      "data_chegada_texto": "04/08/2026 15:00",
+      "data_chegada_iso": "2026-08-04T15:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "SFS",
       "situacao": null,
       "secao": "Navios Esperados"
     },

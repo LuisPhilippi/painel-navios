@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-08-01T00:14:32.343736",
+  "gerado_em": "2026-08-01T08:58:11.325096",
   "navios": [
-    {
-      "navio": "MAERSK CHAMBAL",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "31/07/2026",
-      "data_hora_iso": "2026-07-31T00:00:00",
-      "calado": "11,80 EK",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
     {
       "navio": "JAZAN",
       "status": "ManobraPrevista",
@@ -159,6 +149,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "KITE ARROW",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "04/08/2026",
+      "data_hora_iso": "2026-08-04T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PORTO DE ITAJAI",
       "posicao": null
     },
     {
