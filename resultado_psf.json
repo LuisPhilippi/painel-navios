@@ -1,45 +1,6 @@
 {
-  "gerado_em": "2026-08-02T15:47:17.842099",
+  "gerado_em": "2026-08-02T20:15:39.283182",
   "navios": [
-    {
-      "navio": "Barcaça N12",
-      "imo": "9326031",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "02/08/2026 13:00",
-      "data_chegada_iso": "2026-08-02T13:00:00",
-      "manobra": "Entrada e Fundeio",
-      "data_manobra": "02/08/2026 13:00",
-      "data_manobra_iso": "2026-08-02T13:00:00",
-      "berco": "BARRA F4 (P1)",
-      "situacao": "Confirmado",
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Maersk San Vincent",
-      "imo": "9717228",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "01/08/2026 15:00",
-      "data_chegada_iso": "2026-08-01T15:00:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "02/08/2026 15:45",
-      "data_manobra_iso": "2026-08-02T15:45:00",
-      "berco": "901 BARRA",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "BH Power",
-      "imo": "1024649",
-      "agencia": "CARGONAVE",
-      "data_chegada_texto": "29/07/2026 11:54",
-      "data_chegada_iso": "2026-07-29T11:54:00",
-      "manobra": "Suspender e Sair",
-      "data_manobra": "02/08/2026 15:45",
-      "data_manobra_iso": "2026-08-02T15:45:00",
-      "berco": "F5 BARRA",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Cassiopeia Ocean",
       "imo": "9837286",
@@ -50,21 +11,21 @@
       "data_manobra": "02/08/2026 15:45",
       "data_manobra_iso": "2026-08-02T15:45:00",
       "berco": "F3 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
       "navio": "Maersk Lota",
       "imo": "9526954",
       "agencia": "LACHMANN",
-      "data_chegada_texto": "02/08/2026 15:00",
-      "data_chegada_iso": "2026-08-02T15:00:00",
+      "data_chegada_texto": "02/08/2026 17:05",
+      "data_chegada_iso": "2026-08-02T17:05:00",
       "manobra": "Entrada e Atracação",
-      "data_manobra": "02/08/2026 17:15",
-      "data_manobra_iso": "2026-08-02T17:15:00",
+      "data_manobra": "02/08/2026 17:30",
+      "data_manobra_iso": "2026-08-02T17:30:00",
       "berco": "BARRA 901",
-      "situacao": "A Confirmar",
-      "secao": "Navios Esperados"
+      "situacao": "Em Andamento",
+      "secao": "Movimentações"
     },
     {
       "navio": "Cosco Valencia",
@@ -93,17 +54,69 @@
       "secao": "Movimentações"
     },
     {
+      "navio": "Barcaça N09",
+      "imo": "9326005",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "31/07/2026 00:00",
+      "data_chegada_iso": "2026-07-31T00:00:00",
+      "manobra": "Desatracação e Fundeio",
+      "data_manobra": "03/08/2026 03:00",
+      "data_manobra_iso": "2026-08-03T03:00:00",
+      "berco": "302 F1",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Barcaça N12",
+      "imo": "9326031",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "02/08/2026 12:54",
+      "data_chegada_iso": "2026-08-02T12:54:00",
+      "manobra": "Suspender e Atracar",
+      "data_manobra": "03/08/2026 05:00",
+      "data_manobra_iso": "2026-08-03T05:00:00",
+      "berco": "F4 (P1) 302",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "CMA CGM Cobalt",
+      "imo": "9996680",
+      "agencia": "UNIMAR",
+      "data_chegada_texto": "03/08/2026 10:00",
+      "data_chegada_iso": "2026-08-03T10:00:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "03/08/2026 09:45",
+      "data_manobra_iso": "2026-08-03T09:45:00",
+      "berco": "BARRA 902",
+      "situacao": "A Confirmar",
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Scythia Graeca II",
+      "imo": "1060150",
+      "agencia": "ALPHAMAR",
+      "data_chegada_texto": "28/07/2026 23:19",
+      "data_chegada_iso": "2026-07-28T23:19:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "03/08/2026 16:30",
+      "data_manobra_iso": "2026-08-03T16:30:00",
+      "berco": "BARRA 101",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
       "navio": "Shandong Xin You",
       "imo": "1026518",
       "agencia": "CARGONAVE",
       "data_chegada_texto": "28/07/2026 04:19",
       "data_chegada_iso": "2026-07-28T04:19:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "101",
-      "situacao": null,
-      "secao": "Navios Atracados"
+      "manobra": "Desatracação e Fundeio",
+      "data_manobra": "03/08/2026 16:30",
+      "data_manobra_iso": "2026-08-03T16:30:00",
+      "berco": "101 F3",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
     },
     {
       "navio": "Marla Samurai",
@@ -119,19 +132,6 @@
       "secao": "Navios Atracados"
     },
     {
-      "navio": "Barcaça N09",
-      "imo": "9326005",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "31/07/2026 00:00",
-      "data_chegada_iso": "2026-07-31T00:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "302",
-      "situacao": null,
-      "secao": "Navios Atracados"
-    },
-    {
       "navio": "Guo Hai Lian 665",
       "imo": "9591492",
       "agencia": "OCEÂNICA",
@@ -141,19 +141,6 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "TESC",
-      "situacao": null,
-      "secao": "Navios Fundeados (Barra)"
-    },
-    {
-      "navio": "Scythia Graeca II",
-      "imo": "1060150",
-      "agencia": "ALPHAMAR",
-      "data_chegada_texto": "28/07/2026 23:19",
-      "data_chegada_iso": "2026-07-28T23:19:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "SFS",
       "situacao": null,
       "secao": "Navios Fundeados (Barra)"
     },
@@ -258,19 +245,6 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "SFS",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "CMA CGM Cobalt",
-      "imo": "9996680",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "03/08/2026 10:00",
-      "data_chegada_iso": "2026-08-03T10:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Esperados"
     },
