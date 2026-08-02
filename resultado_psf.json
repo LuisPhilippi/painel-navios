@@ -1,32 +1,6 @@
 {
-  "gerado_em": "2026-08-02T11:38:39.696364",
+  "gerado_em": "2026-08-02T15:47:17.842099",
   "navios": [
-    {
-      "navio": "Loncomilla",
-      "imo": "9437385",
-      "agencia": "ZIM DO BRASIL",
-      "data_chegada_texto": "02/08/2026 01:10",
-      "data_chegada_iso": "2026-08-02T01:10:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "02/08/2026 09:00",
-      "data_manobra_iso": "2026-08-02T09:00:00",
-      "berco": "BARRA 902",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Américo Vespúcio",
-      "imo": "9603233",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "01/08/2026 19:56",
-      "data_chegada_iso": "2026-08-01T19:56:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "02/08/2026 09:00",
-      "data_manobra_iso": "2026-08-02T09:00:00",
-      "berco": "902 BARRA",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Barcaça N12",
       "imo": "9326031",
@@ -37,7 +11,7 @@
       "data_manobra": "02/08/2026 13:00",
       "data_manobra_iso": "2026-08-02T13:00:00",
       "berco": "BARRA F4 (P1)",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Navios Esperados"
     },
     {
@@ -86,8 +60,8 @@
       "data_chegada_texto": "02/08/2026 15:00",
       "data_chegada_iso": "2026-08-02T15:00:00",
       "manobra": "Entrada e Atracação",
-      "data_manobra": "02/08/2026 20:45",
-      "data_manobra_iso": "2026-08-02T20:45:00",
+      "data_manobra": "02/08/2026 17:15",
+      "data_manobra_iso": "2026-08-02T17:15:00",
       "berco": "BARRA 901",
       "situacao": "A Confirmar",
       "secao": "Navios Esperados"
@@ -102,6 +76,19 @@
       "data_manobra": "02/08/2026 21:00",
       "data_manobra_iso": "2026-08-02T21:00:00",
       "berco": "BARRA 902",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Loncomilla",
+      "imo": "9437385",
+      "agencia": "ZIM DO BRASIL",
+      "data_chegada_texto": "02/08/2026 01:10",
+      "data_chegada_iso": "2026-08-02T01:10:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "02/08/2026 21:00",
+      "data_manobra_iso": "2026-08-02T21:00:00",
+      "berco": "902 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
     },
