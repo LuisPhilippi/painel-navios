@@ -1,24 +1,24 @@
 {
-  "gerado_em": "2026-08-01T20:16:53.172666",
+  "gerado_em": "2026-08-02T06:47:34.970456",
   "navios": [
-    {
-      "navio": "XIAMEN EXPRESS",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "01/08/2026",
-      "data_hora_iso": "2026-08-01T00:00:00",
-      "calado": "11,90/12,10",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "JAZAN",
       "status": "ManobraPrevista",
       "data_hora_texto": "02/08/2026",
       "data_hora_iso": "2026-08-02T00:00:00",
-      "calado": "10,60/12,00",
+      "calado": "10,80/11,80",
       "rota": "",
       "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "XIAMEN EXPRESS",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "02/08/2026",
+      "data_hora_iso": "2026-08-02T00:00:00",
+      "calado": "12,50 MAX",
+      "rota": "",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
@@ -27,88 +27,18 @@
       "data_hora_texto": "02/08/2026",
       "data_hora_iso": "2026-08-02T00:00:00",
       "calado": "8,85/9,60",
-      "rota": "",
+      "rota": "Bacia 1",
       "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "SUNNY PHOENIX",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "02/08/2026",
-      "data_hora_iso": "2026-08-02T00:00:00",
-      "calado": "10,00/10,20",
-      "rota": "",
-      "berco": "PNAVE",
-      "posicao": null
-    },
-    {
-      "navio": "LE HAVRE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "02/08/2026",
-      "data_hora_iso": "2026-08-02T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
-      "navio": "ESPIRITO SANTO EXPRESS",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "02/08/2026",
-      "data_hora_iso": "2026-08-02T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE",
-      "posicao": null
-    },
-    {
-      "navio": "PARANA EXPRESS",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "02/08/2026",
-      "data_hora_iso": "2026-08-02T00:00:00",
-      "calado": "11,70/12,00",
-      "rota": "",
-      "berco": "PNAVE",
-      "posicao": null
-    },
-    {
-      "navio": "HYUNDAI VOYAGER",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "02/08/2026",
-      "data_hora_iso": "2026-08-02T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE",
-      "posicao": null
-    },
-    {
-      "navio": "MSC CAROLINA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "02/08/2026",
-      "data_hora_iso": "2026-08-02T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS",
       "posicao": null
     },
     {
       "navio": "LOG-IN RESILIENTE",
       "status": "ManobraPrevista",
-      "data_hora_texto": "03/08/2026",
-      "data_hora_iso": "2026-08-03T00:00:00",
+      "data_hora_texto": "02/08/2026",
+      "data_hora_iso": "2026-08-02T00:00:00",
       "calado": "11,30/11,60",
-      "rota": "",
-      "berco": "PNAVE",
-      "posicao": null
-    },
-    {
-      "navio": "MSC SUSANNA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "03/08/2026",
-      "data_hora_iso": "2026-08-03T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS",
+      "rota": "Bacia 1",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
@@ -117,8 +47,18 @@
       "data_hora_texto": "03/08/2026",
       "data_hora_iso": "2026-08-03T00:00:00",
       "calado": "TBC",
+      "rota": "Bacia 1",
+      "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "PARANA EXPRESS",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "03/08/2026",
+      "data_hora_iso": "2026-08-03T00:00:00",
+      "calado": "11,70/12,00",
       "rota": "",
-      "berco": "JBS",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
@@ -129,6 +69,36 @@
       "calado": "TBC",
       "rota": "",
       "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "SUNNY PHOENIX",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "03/08/2026",
+      "data_hora_iso": "2026-08-03T00:00:00",
+      "calado": "10,00/10,20",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "ESPIRITO SANTO EXPRESS",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "03/08/2026",
+      "data_hora_iso": "2026-08-03T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "MSC SUSANNA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "04/08/2026",
+      "data_hora_iso": "2026-08-04T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
       "posicao": null
     },
     {
@@ -152,7 +122,37 @@
       "posicao": null
     },
     {
+      "navio": "LE HAVRE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "04/08/2026",
+      "data_hora_iso": "2026-08-04T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "HYUNDAI VOYAGER",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "04/08/2026",
+      "data_hora_iso": "2026-08-04T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
       "navio": "MAERSK LOTA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "04/08/2026",
+      "data_hora_iso": "2026-08-04T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "MSC CAROLINA",
       "status": "ManobraPrevista",
       "data_hora_texto": "04/08/2026",
       "data_hora_iso": "2026-08-04T00:00:00",
