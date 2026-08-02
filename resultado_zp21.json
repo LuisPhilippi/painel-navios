@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-08-02T06:47:34.970456",
+  "gerado_em": "2026-08-02T11:38:33.464354",
   "navios": [
-    {
-      "navio": "JAZAN",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "02/08/2026",
-      "data_hora_iso": "2026-08-02T00:00:00",
-      "calado": "10,80/11,80",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
     {
       "navio": "XIAMEN EXPRESS",
       "status": "ManobraPrevista",
@@ -34,8 +24,8 @@
     {
       "navio": "LOG-IN RESILIENTE",
       "status": "ManobraPrevista",
-      "data_hora_texto": "02/08/2026",
-      "data_hora_iso": "2026-08-02T00:00:00",
+      "data_hora_texto": "03/08/2026",
+      "data_hora_iso": "2026-08-03T00:00:00",
       "calado": "11,30/11,60",
       "rota": "Bacia 1",
       "berco": "PNAVE 01",
