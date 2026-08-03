@@ -1,26 +1,6 @@
 {
-  "gerado_em": "2026-08-03T08:51:50.392858",
+  "gerado_em": "2026-08-03T17:17:34.717724",
   "navios": [
-    {
-      "navio": "LOG-IN RESILIENTE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "03/08/2026",
-      "data_hora_iso": "2026-08-03T00:00:00",
-      "calado": "11,30/11,60",
-      "rota": "Bacia 1",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "NC BRISA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "03/08/2026",
-      "data_hora_iso": "2026-08-03T00:00:00",
-      "calado": "9,70/10,20",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
     {
       "navio": "PARANA EXPRESS",
       "status": "ManobraPrevista",
@@ -52,6 +32,16 @@
       "posicao": null
     },
     {
+      "navio": "NC BRISA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "03/08/2026",
+      "data_hora_iso": "2026-08-03T00:00:00",
+      "calado": "11,30/11,40",
+      "rota": "Bacia 1",
+      "berco": "JBS 2",
+      "posicao": null
+    },
+    {
       "navio": "HYUNDAI VOYAGER",
       "status": "ManobraPrevista",
       "data_hora_texto": "04/08/2026",
@@ -66,7 +56,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "04/08/2026",
       "data_hora_iso": "2026-08-04T00:00:00",
-      "calado": "TBC",
+      "calado": "7,50/9,75",
       "rota": "",
       "berco": "PORTO DE ITAJAI",
       "posicao": null
@@ -86,7 +76,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "04/08/2026",
       "data_hora_iso": "2026-08-04T00:00:00",
-      "calado": "TBC",
+      "calado": "9,00/9,90",
       "rota": "",
       "berco": "JBS",
       "posicao": null
@@ -162,6 +152,16 @@
       "posicao": null
     },
     {
+      "navio": "BREMERHAVEN EXPRESS",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "12/08/2026",
+      "data_hora_iso": "2026-08-12T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
       "navio": "GHIBLI",
       "status": "ManobraPrevista",
       "data_hora_texto": "12/08/2026",
@@ -194,11 +194,11 @@
     {
       "navio": "NAVIO PATRULHA MARACANÃ",
       "status": "Atracado",
-      "data_hora_texto": "01/08/2026 - 08:31",
-      "data_hora_iso": "2026-08-01T08:31:00",
+      "data_hora_texto": "03/08/2026 - 11:04",
+      "data_hora_iso": "2026-08-03T11:04:00",
       "calado": null,
       "rota": "",
-      "berco": "Pier Turistico Itajai",
+      "berco": "Delegacia da Capitania dos Portos",
       "posicao": null
     },
     {
