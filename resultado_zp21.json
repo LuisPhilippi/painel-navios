@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-08-02T20:15:32.869563",
+  "gerado_em": "2026-08-03T08:51:50.392858",
   "navios": [
-    {
-      "navio": "LOG-IN EVOLUTION",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "02/08/2026",
-      "data_hora_iso": "2026-08-02T00:00:00",
-      "calado": "8,85/9,60",
-      "rota": "Bacia 1",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "LOG-IN RESILIENTE",
       "status": "ManobraPrevista",
@@ -26,8 +16,8 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "03/08/2026",
       "data_hora_iso": "2026-08-03T00:00:00",
-      "calado": "TBC",
-      "rota": "Bacia 1",
+      "calado": "9,70/10,20",
+      "rota": "",
       "berco": "JBS 2",
       "posicao": null
     },
@@ -42,6 +32,16 @@
       "posicao": null
     },
     {
+      "navio": "BRUCE KAY",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "03/08/2026",
+      "data_hora_iso": "2026-08-03T00:00:00",
+      "calado": "4,00 EK",
+      "rota": "",
+      "berco": "NAVSHIP",
+      "posicao": null
+    },
+    {
       "navio": "ANNEGRET",
       "status": "ManobraPrevista",
       "data_hora_texto": "03/08/2026",
@@ -52,22 +52,12 @@
       "posicao": null
     },
     {
-      "navio": "MSC SUSANNA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "04/08/2026",
-      "data_hora_iso": "2026-08-04T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
       "navio": "HYUNDAI VOYAGER",
       "status": "ManobraPrevista",
       "data_hora_texto": "04/08/2026",
       "data_hora_iso": "2026-08-04T00:00:00",
-      "calado": "TBC",
-      "rota": "",
+      "calado": "12,10/12,20",
+      "rota": "Bacia 1",
       "berco": "PNAVE 01",
       "posicao": null
     },
@@ -149,6 +139,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "MSC SUSANNA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "06/08/2026",
+      "data_hora_iso": "2026-08-06T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
       "posicao": null
     },
     {

@@ -1,71 +1,6 @@
 {
-  "gerado_em": "2026-08-02T20:15:39.283182",
+  "gerado_em": "2026-08-03T08:51:56.742190",
   "navios": [
-    {
-      "navio": "Cassiopeia Ocean",
-      "imo": "9837286",
-      "agencia": "CARGONAVE",
-      "data_chegada_texto": "23/07/2026 22:36",
-      "data_chegada_iso": "2026-07-23T22:36:00",
-      "manobra": "Suspender e Sair",
-      "data_manobra": "02/08/2026 15:45",
-      "data_manobra_iso": "2026-08-02T15:45:00",
-      "berco": "F3 BARRA",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Maersk Lota",
-      "imo": "9526954",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "02/08/2026 17:05",
-      "data_chegada_iso": "2026-08-02T17:05:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "02/08/2026 17:30",
-      "data_manobra_iso": "2026-08-02T17:30:00",
-      "berco": "BARRA 901",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Cosco Valencia",
-      "imo": "9484390",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "30/07/2026 23:00",
-      "data_chegada_iso": "2026-07-30T23:00:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "02/08/2026 21:00",
-      "data_manobra_iso": "2026-08-02T21:00:00",
-      "berco": "BARRA 902",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Loncomilla",
-      "imo": "9437385",
-      "agencia": "ZIM DO BRASIL",
-      "data_chegada_texto": "02/08/2026 01:10",
-      "data_chegada_iso": "2026-08-02T01:10:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "02/08/2026 21:00",
-      "data_manobra_iso": "2026-08-02T21:00:00",
-      "berco": "902 BARRA",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Barcaça N09",
-      "imo": "9326005",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "31/07/2026 00:00",
-      "data_chegada_iso": "2026-07-31T00:00:00",
-      "manobra": "Desatracação e Fundeio",
-      "data_manobra": "03/08/2026 03:00",
-      "data_manobra_iso": "2026-08-03T03:00:00",
-      "berco": "302 F1",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Barcaça N12",
       "imo": "9326031",
@@ -73,10 +8,10 @@
       "data_chegada_texto": "02/08/2026 12:54",
       "data_chegada_iso": "2026-08-02T12:54:00",
       "manobra": "Suspender e Atracar",
-      "data_manobra": "03/08/2026 05:00",
-      "data_manobra_iso": "2026-08-03T05:00:00",
+      "data_manobra": "03/08/2026 05:30",
+      "data_manobra_iso": "2026-08-03T05:30:00",
       "berco": "F4 (P1) 302",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -91,6 +26,19 @@
       "berco": "BARRA 902",
       "situacao": "A Confirmar",
       "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Cosco Valencia",
+      "imo": "9484390",
+      "agencia": "UNIMAR",
+      "data_chegada_texto": "30/07/2026 23:00",
+      "data_chegada_iso": "2026-07-30T23:00:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "03/08/2026 09:45",
+      "data_manobra_iso": "2026-08-03T09:45:00",
+      "berco": "902 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
     },
     {
       "navio": "Scythia Graeca II",
@@ -119,6 +67,19 @@
       "secao": "Movimentações"
     },
     {
+      "navio": "Maersk Lota",
+      "imo": "9526954",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "02/08/2026 17:05",
+      "data_chegada_iso": "2026-08-02T17:05:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "901",
+      "situacao": null,
+      "secao": "Navios Atracados"
+    },
+    {
       "navio": "Marla Samurai",
       "imo": "1050868",
       "agencia": "ZPORT AGENCIA",
@@ -130,6 +91,19 @@
       "berco": "102",
       "situacao": null,
       "secao": "Navios Atracados"
+    },
+    {
+      "navio": "Barcaça N09",
+      "imo": "9326005",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "31/07/2026 00:00",
+      "data_chegada_iso": "2026-07-31T00:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "F4 (P1)",
+      "situacao": null,
+      "secao": "Navios Fundeados (Internos)"
     },
     {
       "navio": "Guo Hai Lian 665",
