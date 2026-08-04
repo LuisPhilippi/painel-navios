@@ -1,32 +1,6 @@
 {
-  "gerado_em": "2026-08-04T07:48:42.480981",
+  "gerado_em": "2026-08-04T16:21:32.912762",
   "navios": [
-    {
-      "navio": "MSC Damla",
-      "imo": "9250983",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "04/08/2026 01:31",
-      "data_chegada_iso": "2026-08-04T01:31:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "04/08/2026 05:30",
-      "data_manobra_iso": "2026-08-04T05:30:00",
-      "berco": "BARRA 901",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Shandong Xin You",
-      "imo": "1026518",
-      "agencia": "CARGONAVE",
-      "data_chegada_texto": "28/07/2026 04:19",
-      "data_chegada_iso": "2026-07-28T04:19:00",
-      "manobra": "Suspender e Sair",
-      "data_manobra": "04/08/2026 05:30",
-      "data_manobra_iso": "2026-08-04T05:30:00",
-      "berco": "F3 BARRA",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Valor",
       "imo": "9628154",
@@ -37,7 +11,7 @@
       "data_manobra": "04/08/2026 14:00",
       "data_manobra_iso": "2026-08-04T14:00:00",
       "berco": "BARRA 902",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -50,6 +24,19 @@
       "data_manobra": "04/08/2026 14:00",
       "data_manobra_iso": "2026-08-04T14:00:00",
       "berco": "902 BARRA",
+      "situacao": "Confirmado",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Le Havre",
+      "imo": "9307243",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "02/08/2026 06:00",
+      "data_chegada_iso": "2026-08-02T06:00:00",
+      "manobra": "Entrada e Fundeio",
+      "data_manobra": "04/08/2026 16:30",
+      "data_manobra_iso": "2026-08-04T16:30:00",
+      "berco": "BARRA F5",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
     },
@@ -60,8 +47,8 @@
       "data_chegada_texto": "02/08/2026 12:54",
       "data_chegada_iso": "2026-08-02T12:54:00",
       "manobra": "Desatracação e Saída",
-      "data_manobra": "04/08/2026 16:30",
-      "data_manobra_iso": "2026-08-04T16:30:00",
+      "data_manobra": "04/08/2026 22:30",
+      "data_manobra_iso": "2026-08-04T22:30:00",
       "berco": "302 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
@@ -73,11 +60,24 @@
       "data_chegada_texto": "04/08/2026 04:12",
       "data_chegada_iso": "2026-08-04T04:12:00",
       "manobra": "Entrada e Atracação",
-      "data_manobra": "04/08/2026 17:00",
-      "data_manobra_iso": "2026-08-04T17:00:00",
+      "data_manobra": "05/08/2026 00:45",
+      "data_manobra_iso": "2026-08-05T00:45:00",
       "berco": "BARRA 302",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
+    },
+    {
+      "navio": "MSC Damla",
+      "imo": "9250983",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "04/08/2026 01:31",
+      "data_chegada_iso": "2026-08-04T01:31:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "901",
+      "situacao": null,
+      "secao": "Navios Atracados"
     },
     {
       "navio": "Scythia Graeca II",
@@ -184,19 +184,6 @@
       "secao": "Navios Fundeados (Barra)"
     },
     {
-      "navio": "Le Havre",
-      "imo": "9307243",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "02/08/2026 06:00",
-      "data_chegada_iso": "2026-08-02T06:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Fundeados (Barra)"
-    },
-    {
       "navio": "TSHD Galileo Galilei",
       "imo": "9872365",
       "agencia": "LITORAL",
@@ -205,7 +192,7 @@
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
-      "berco": "SFS",
+      "berco": null,
       "situacao": null,
       "secao": "Navios Esperados"
     },

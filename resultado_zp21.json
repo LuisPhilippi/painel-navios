@@ -1,26 +1,6 @@
 {
-  "gerado_em": "2026-08-04T07:48:35.318197",
+  "gerado_em": "2026-08-04T16:21:26.918304",
   "navios": [
-    {
-      "navio": "PARANA EXPRESS",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "04/08/2026",
-      "data_hora_iso": "2026-08-04T00:00:00",
-      "calado": "8,60/10,20",
-      "rota": "",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "HYUNDAI VOYAGER",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "04/08/2026",
-      "data_hora_iso": "2026-08-04T00:00:00",
-      "calado": "12,10/12,20",
-      "rota": "Bacia 1",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "KITE ARROW",
       "status": "ManobraPrevista",
@@ -52,6 +32,16 @@
       "posicao": null
     },
     {
+      "navio": "HYUNDAI VOYAGER",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "04/08/2026",
+      "data_hora_iso": "2026-08-04T00:00:00",
+      "calado": "11,40 EK",
+      "rota": "",
+      "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
       "navio": "LOG-IN JACARANDA",
       "status": "ManobraPrevista",
       "data_hora_texto": "04/08/2026",
@@ -62,16 +52,6 @@
       "posicao": null
     },
     {
-      "navio": "MSC CAROLINA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "05/08/2026",
-      "data_hora_iso": "2026-08-05T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
       "navio": "MSC ALBANY",
       "status": "ManobraPrevista",
       "data_hora_texto": "05/08/2026",
@@ -79,6 +59,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
+      "navio": "MSC CAROLINA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "05/08/2026",
+      "data_hora_iso": "2026-08-05T00:00:00",
+      "calado": "10,50/10,70",
+      "rota": "",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -142,6 +132,16 @@
       "posicao": null
     },
     {
+      "navio": "MERCOSUL SUAPE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "07/08/2026",
+      "data_hora_iso": "2026-08-07T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
       "navio": "COSCO VALENCIA",
       "status": "ManobraPrevista",
       "data_hora_texto": "07/08/2026",
@@ -159,6 +159,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "ONE AMAZON",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "08/08/2026",
+      "data_hora_iso": "2026-08-08T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
       "posicao": null
     },
     {
