@@ -1,31 +1,18 @@
 {
-  "gerado_em": "2026-08-03T21:52:39.060968",
+  "gerado_em": "2026-08-04T07:48:42.480981",
   "navios": [
-    {
-      "navio": "Maersk Lota",
-      "imo": "9526954",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "02/08/2026 17:05",
-      "data_chegada_iso": "2026-08-02T17:05:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "03/08/2026 23:00",
-      "data_manobra_iso": "2026-08-03T23:00:00",
-      "berco": "901 BARRA",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
     {
       "navio": "MSC Damla",
       "imo": "9250983",
       "agencia": "WILSON SONS",
-      "data_chegada_texto": "03/08/2026 16:00",
-      "data_chegada_iso": "2026-08-03T16:00:00",
+      "data_chegada_texto": "04/08/2026 01:31",
+      "data_chegada_iso": "2026-08-04T01:31:00",
       "manobra": "Entrada e Atracação",
       "data_manobra": "04/08/2026 05:30",
       "data_manobra_iso": "2026-08-04T05:30:00",
       "berco": "BARRA 901",
-      "situacao": "A Confirmar",
-      "secao": "Navios Esperados"
+      "situacao": "Confirmado",
+      "secao": "Movimentações"
     },
     {
       "navio": "Shandong Xin You",
@@ -37,21 +24,21 @@
       "data_manobra": "04/08/2026 05:30",
       "data_manobra_iso": "2026-08-04T05:30:00",
       "berco": "F3 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
       "navio": "Valor",
       "imo": "9628154",
       "agencia": "WILSON SONS",
-      "data_chegada_texto": "03/08/2026 14:00",
-      "data_chegada_iso": "2026-08-03T14:00:00",
+      "data_chegada_texto": "03/08/2026 23:30",
+      "data_chegada_iso": "2026-08-03T23:30:00",
       "manobra": "Entrada e Atracação",
       "data_manobra": "04/08/2026 14:00",
       "data_manobra_iso": "2026-08-04T14:00:00",
       "berco": "BARRA 902",
       "situacao": "A Confirmar",
-      "secao": "Navios Esperados"
+      "secao": "Movimentações"
     },
     {
       "navio": "CMA CGM Cobalt",
@@ -83,14 +70,14 @@
       "navio": "Jamaica Bay",
       "imo": "9610717",
       "agencia": "WILSON SONS",
-      "data_chegada_texto": "04/08/2026 04:00",
-      "data_chegada_iso": "2026-08-04T04:00:00",
+      "data_chegada_texto": "04/08/2026 04:12",
+      "data_chegada_iso": "2026-08-04T04:12:00",
       "manobra": "Entrada e Atracação",
       "data_manobra": "04/08/2026 17:00",
       "data_manobra_iso": "2026-08-04T17:00:00",
       "berco": "BARRA 302",
       "situacao": "A Confirmar",
-      "secao": "Navios Esperados"
+      "secao": "Movimentações"
     },
     {
       "navio": "Scythia Graeca II",
@@ -176,6 +163,19 @@
       "agencia": "CARGONAVE",
       "data_chegada_texto": "31/07/2026 23:00",
       "data_chegada_iso": "2026-07-31T23:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "SFS",
+      "situacao": null,
+      "secao": "Navios Fundeados (Barra)"
+    },
+    {
+      "navio": "Anne",
+      "imo": "9593294",
+      "agencia": "LITORAL",
+      "data_chegada_texto": "02/08/2026 04:15",
+      "data_chegada_iso": "2026-08-02T04:15:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
@@ -453,6 +453,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Proud Unity",
+      "imo": "9860659",
+      "agencia": "LITORAL",
+      "data_chegada_texto": "10/08/2026 12:00",
+      "data_chegada_iso": "2026-08-10T12:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "SFS",
       "situacao": null,
       "secao": "Navios Esperados"
     },
