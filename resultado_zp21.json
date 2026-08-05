@@ -1,31 +1,11 @@
 {
-  "gerado_em": "2026-08-05T19:05:54.293686",
+  "gerado_em": "2026-08-05T23:31:30.410843",
   "navios": [
-    {
-      "navio": "KITE ARROW",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "05/08/2026",
-      "data_hora_iso": "2026-08-05T00:00:00",
-      "calado": "7,20/9,40",
-      "rota": "",
-      "berco": "PORTO ITAJAI - 04",
-      "posicao": null
-    },
-    {
-      "navio": "WIDE HOTEL",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "05/08/2026",
-      "data_hora_iso": "2026-08-05T00:00:00",
-      "calado": "10,90 EK",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
     {
       "navio": "LOG-IN JACARANDA",
       "status": "ManobraPrevista",
-      "data_hora_texto": "05/08/2026",
-      "data_hora_iso": "2026-08-05T00:00:00",
+      "data_hora_texto": "06/08/2026",
+      "data_hora_iso": "2026-08-06T00:00:00",
       "calado": "TBC",
       "rota": "",
       "berco": "PNAVE 01",
@@ -42,6 +22,16 @@
       "posicao": null
     },
     {
+      "navio": "WIDE HOTEL",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "06/08/2026",
+      "data_hora_iso": "2026-08-06T00:00:00",
+      "calado": "11,20 EK",
+      "rota": "Bacia 1",
+      "berco": "JBS 2",
+      "posicao": null
+    },
+    {
       "navio": "MSC CAROLINA",
       "status": "ManobraPrevista",
       "data_hora_texto": "06/08/2026",
@@ -49,6 +39,16 @@
       "calado": "10,50/10,70",
       "rota": "",
       "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "LE HAVRE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "06/08/2026",
+      "data_hora_iso": "2026-08-06T00:00:00",
+      "calado": "TBC",
+      "rota": "Bacia 2",
+      "berco": "PORTO ITAJAI - 04",
       "posicao": null
     },
     {
@@ -64,11 +64,11 @@
     {
       "navio": "MSC DAMLA",
       "status": "ManobraPrevista",
-      "data_hora_texto": "06/08/2026",
-      "data_hora_iso": "2026-08-06T00:00:00",
+      "data_hora_texto": "07/08/2026",
+      "data_hora_iso": "2026-08-07T00:00:00",
       "calado": "TBC",
       "rota": "",
-      "berco": "JBS",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -143,16 +143,6 @@
     },
     {
       "navio": "IRENES RULE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "09/08/2026",
-      "data_hora_iso": "2026-08-09T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
-      "navio": "LE HAVRE",
       "status": "ManobraPrevista",
       "data_hora_texto": "09/08/2026",
       "data_hora_iso": "2026-08-09T00:00:00",
@@ -296,6 +286,16 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "18/08/2026",
       "data_hora_iso": "2026-08-18T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "MAERSK KARACHI",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "20/08/2026",
+      "data_hora_iso": "2026-08-20T00:00:00",
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
