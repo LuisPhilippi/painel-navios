@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-08-05T06:14:59.094381",
+  "gerado_em": "2026-08-05T13:19:01.210174",
   "navios": [
-    {
-      "navio": "HYUNDAI VOYAGER",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "05/08/2026",
-      "data_hora_iso": "2026-08-05T00:00:00",
-      "calado": "11,40 EK",
-      "rota": "",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "LOG-IN JACARANDA",
       "status": "ManobraPrevista",
@@ -26,7 +16,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "05/08/2026",
       "data_hora_iso": "2026-08-05T00:00:00",
-      "calado": "9,70 MAX",
+      "calado": "9,30/9,70",
       "rota": "",
       "berco": "JBS 2",
       "posicao": null
@@ -42,16 +32,6 @@
       "posicao": null
     },
     {
-      "navio": "MSC ALBANY",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "05/08/2026",
-      "data_hora_iso": "2026-08-05T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
       "navio": "WIDE HOTEL",
       "status": "ManobraPrevista",
       "data_hora_texto": "05/08/2026",
@@ -59,6 +39,16 @@
       "calado": "TBC",
       "rota": "Bacia 1",
       "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "MSC ALBANY",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "05/08/2026",
+      "data_hora_iso": "2026-08-05T00:00:00",
+      "calado": "8,80/10,40",
+      "rota": "Bacia 2",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
