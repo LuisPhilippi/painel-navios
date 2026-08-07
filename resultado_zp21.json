@@ -1,26 +1,6 @@
 {
-  "gerado_em": "2026-08-07T14:34:44.795130",
+  "gerado_em": "2026-08-07T17:36:37.044511",
   "navios": [
-    {
-      "navio": "MERCOSUL SUAPE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "07/08/2026",
-      "data_hora_iso": "2026-08-07T00:00:00",
-      "calado": "7,80/8,40",
-      "rota": "",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "EVER FAIR",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "07/08/2026",
-      "data_hora_iso": "2026-08-07T00:00:00",
-      "calado": "11,90 EK",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "MSC DAMLA",
       "status": "ManobraPrevista",
@@ -34,11 +14,21 @@
     {
       "navio": "EVER FAITH",
       "status": "ManobraPrevista",
-      "data_hora_texto": "07/08/2026",
-      "data_hora_iso": "2026-08-07T00:00:00",
+      "data_hora_texto": "08/08/2026",
+      "data_hora_iso": "2026-08-08T00:00:00",
       "calado": "11,90 EK",
       "rota": "",
       "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "EVER FAIR",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "08/08/2026",
+      "data_hora_iso": "2026-08-08T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {

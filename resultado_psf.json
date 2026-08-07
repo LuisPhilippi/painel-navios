@@ -1,19 +1,6 @@
 {
-  "gerado_em": "2026-08-07T14:34:52.516902",
+  "gerado_em": "2026-08-07T17:36:43.388025",
   "navios": [
-    {
-      "navio": "Stephanie C",
-      "imo": "9694531",
-      "agencia": "ROCHAMAR",
-      "data_chegada_texto": "07/08/2026 05:00",
-      "data_chegada_iso": "2026-08-07T05:00:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "07/08/2026 11:15",
-      "data_manobra_iso": "2026-08-07T11:15:00",
-      "berco": "BARRA 901",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "CMA CGM Santos",
       "imo": "9649835",
@@ -24,7 +11,7 @@
       "data_manobra": "07/08/2026 16:00",
       "data_manobra_iso": "2026-08-07T16:00:00",
       "berco": "BARRA 902",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Navios Esperados"
     },
     {
@@ -37,7 +24,7 @@
       "data_manobra": "07/08/2026 16:00",
       "data_manobra_iso": "2026-08-07T16:00:00",
       "berco": "902 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -65,6 +52,19 @@
       "berco": "101 F3",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
+    },
+    {
+      "navio": "Stephanie C",
+      "imo": "9694531",
+      "agencia": "ROCHAMAR",
+      "data_chegada_texto": "07/08/2026 05:00",
+      "data_chegada_iso": "2026-08-07T05:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "901",
+      "situacao": null,
+      "secao": "Navios Atracados"
     },
     {
       "navio": "Aracari Arrow",
