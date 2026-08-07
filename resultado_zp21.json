@@ -1,36 +1,6 @@
 {
-  "gerado_em": "2026-08-07T01:53:22.648676",
+  "gerado_em": "2026-08-07T06:13:12.845454",
   "navios": [
-    {
-      "navio": "MSC ALBANY",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "06/08/2026",
-      "data_hora_iso": "2026-08-06T00:00:00",
-      "calado": "10,60/10,90",
-      "rota": "",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "MSC CAROLINA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "07/08/2026",
-      "data_hora_iso": "2026-08-07T00:00:00",
-      "calado": "11,13/11,41",
-      "rota": "Bacia 1",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "MERCOSUL SUAPE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "07/08/2026",
-      "data_hora_iso": "2026-08-07T00:00:00",
-      "calado": "9,70/10,70",
-      "rota": "Bacia 1",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "MSC DAMLA",
       "status": "ManobraPrevista",
@@ -39,6 +9,16 @@
       "calado": "10,80/11,30",
       "rota": "",
       "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "MERCOSUL SUAPE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "07/08/2026",
+      "data_hora_iso": "2026-08-07T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
