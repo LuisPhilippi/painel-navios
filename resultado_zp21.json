@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-07T10:15:17.570273",
+  "gerado_em": "2026-08-07T14:34:44.795130",
   "navios": [
     {
       "navio": "MERCOSUL SUAPE",
@@ -56,7 +56,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "08/08/2026",
       "data_hora_iso": "2026-08-08T00:00:00",
-      "calado": "5,00/9,90",
+      "calado": "4,40/9,90",
       "rota": "",
       "berco": "PNAVE 01",
       "posicao": null
@@ -124,8 +124,8 @@
     {
       "navio": "CLEANTEC",
       "status": "ManobraPrevista",
-      "data_hora_texto": "09/08/2026",
-      "data_hora_iso": "2026-08-09T00:00:00",
+      "data_hora_texto": "10/08/2026",
+      "data_hora_iso": "2026-08-10T00:00:00",
       "calado": "5,50/5,90",
       "rota": "",
       "berco": "TEPORTI",
