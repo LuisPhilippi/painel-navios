@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-07T17:36:37.044511",
+  "gerado_em": "2026-08-07T20:04:39.507588",
   "navios": [
     {
       "navio": "MSC DAMLA",
@@ -22,16 +22,6 @@
       "posicao": null
     },
     {
-      "navio": "EVER FAIR",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "08/08/2026",
-      "data_hora_iso": "2026-08-08T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
       "navio": "LE HAVRE",
       "status": "ManobraPrevista",
       "data_hora_texto": "08/08/2026",
@@ -42,57 +32,47 @@
       "posicao": null
     },
     {
-      "navio": "ONE PARANA",
+      "navio": "EVER FAIR",
       "status": "ManobraPrevista",
       "data_hora_texto": "08/08/2026",
       "data_hora_iso": "2026-08-08T00:00:00",
-      "calado": "4,40/9,90",
+      "calado": "TBC",
       "rota": "",
       "berco": "PNAVE 01",
       "posicao": null
     },
     {
-      "navio": "MSC PAMELA",
+      "navio": "ONE PARANA",
       "status": "ManobraPrevista",
       "data_hora_texto": "08/08/2026",
       "data_hora_iso": "2026-08-08T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS",
+      "calado": "4,40/9,90",
+      "rota": "Bacia 2",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
-      "navio": "ONE AMAZON",
+      "navio": "GHIBLI",
       "status": "ManobraPrevista",
       "data_hora_texto": "08/08/2026",
       "data_hora_iso": "2026-08-08T00:00:00",
-      "calado": "TBC",
+      "calado": "8,90/9,20",
       "rota": "",
-      "berco": "PNAVE",
+      "berco": "PORTO ITAJAI - 04",
       "posicao": null
     },
     {
       "navio": "COSCO VALENCIA",
       "status": "ManobraPrevista",
-      "data_hora_texto": "08/08/2026",
-      "data_hora_iso": "2026-08-08T00:00:00",
+      "data_hora_texto": "09/08/2026",
+      "data_hora_iso": "2026-08-09T00:00:00",
       "calado": "TBC",
       "rota": "",
-      "berco": "PNAVE",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
       "navio": "MSC SUSANNA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "08/08/2026",
-      "data_hora_iso": "2026-08-08T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
-      "navio": "IRENES RULE",
       "status": "ManobraPrevista",
       "data_hora_texto": "09/08/2026",
       "data_hora_iso": "2026-08-09T00:00:00",
@@ -109,6 +89,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "MSC PAMELA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "10/08/2026",
+      "data_hora_iso": "2026-08-10T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
       "posicao": null
     },
     {
@@ -129,6 +119,16 @@
       "calado": "9,20/11,60",
       "rota": "",
       "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
+      "navio": "IRENES RULE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "10/08/2026",
+      "data_hora_iso": "2026-08-10T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PORTO ITAJAI - 04",
       "posicao": null
     },
     {
@@ -162,13 +162,13 @@
       "posicao": null
     },
     {
-      "navio": "GHIBLI",
+      "navio": "ONE AMAZON",
       "status": "ManobraPrevista",
       "data_hora_texto": "12/08/2026",
       "data_hora_iso": "2026-08-12T00:00:00",
       "calado": "TBC",
       "rota": "",
-      "berco": "JBS",
+      "berco": "PNAVE",
       "posicao": null
     },
     {

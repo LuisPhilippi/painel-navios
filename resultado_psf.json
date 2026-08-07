@@ -1,18 +1,18 @@
 {
-  "gerado_em": "2026-08-07T17:36:43.388025",
+  "gerado_em": "2026-08-07T20:04:46.778364",
   "navios": [
     {
       "navio": "CMA CGM Santos",
       "imo": "9649835",
       "agencia": "UNIMAR",
-      "data_chegada_texto": "07/08/2026 10:00",
-      "data_chegada_iso": "2026-08-07T10:00:00",
+      "data_chegada_texto": "07/08/2026 15:54",
+      "data_chegada_iso": "2026-08-07T15:54:00",
       "manobra": "Entrada e Atracação",
       "data_manobra": "07/08/2026 16:00",
       "data_manobra_iso": "2026-08-07T16:00:00",
       "berco": "BARRA 902",
-      "situacao": "Confirmado",
-      "secao": "Navios Esperados"
+      "situacao": "Em Andamento",
+      "secao": "Movimentações"
     },
     {
       "navio": "San Nicolas Maersk",
@@ -24,7 +24,7 @@
       "data_manobra": "07/08/2026 16:00",
       "data_manobra_iso": "2026-08-07T16:00:00",
       "berco": "902 BARRA",
-      "situacao": "Confirmado",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -54,17 +54,30 @@
       "secao": "Movimentações"
     },
     {
+      "navio": "Nordcheetah",
+      "imo": "9673630",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "07/08/2026 15:35",
+      "data_chegada_iso": "2026-08-07T15:35:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "08/08/2026 07:00",
+      "data_manobra_iso": "2026-08-08T07:00:00",
+      "berco": "BARRA 901",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
       "navio": "Stephanie C",
       "imo": "9694531",
       "agencia": "ROCHAMAR",
       "data_chegada_texto": "07/08/2026 05:00",
       "data_chegada_iso": "2026-08-07T05:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "901",
-      "situacao": null,
-      "secao": "Navios Atracados"
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "08/08/2026 07:00",
+      "data_manobra_iso": "2026-08-08T07:00:00",
+      "berco": "901 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
     },
     {
       "navio": "Aracari Arrow",
@@ -72,12 +85,12 @@
       "agencia": "SEATRADE",
       "data_chegada_texto": "05/08/2026 17:39",
       "data_chegada_iso": "2026-08-05T17:39:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "102",
-      "situacao": null,
-      "secao": "Navios Atracados"
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "08/08/2026 20:00",
+      "data_manobra_iso": "2026-08-08T20:00:00",
+      "berco": "102 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
     },
     {
       "navio": "Milin Kamak",
@@ -195,19 +208,6 @@
       "berco": "SFS",
       "situacao": null,
       "secao": "Navios Fundeados (Barra)"
-    },
-    {
-      "navio": "Nordcheetah",
-      "imo": "9673630",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "07/08/2026 15:00",
-      "data_chegada_iso": "2026-08-07T15:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
     },
     {
       "navio": "Babitonga Bay",
