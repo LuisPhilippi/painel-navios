@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-07T06:13:20.578209",
+  "gerado_em": "2026-08-07T10:15:23.905012",
   "navios": [
     {
       "navio": "Milin Kamak",
@@ -11,7 +11,7 @@
       "data_manobra": "07/08/2026 08:00",
       "data_manobra_iso": "2026-08-07T08:00:00",
       "berco": "BARRA 201",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Navios Esperados"
     },
     {
@@ -24,7 +24,7 @@
       "data_manobra": "07/08/2026 08:15",
       "data_manobra_iso": "2026-08-07T08:15:00",
       "berco": "BARRA 301",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -37,7 +37,7 @@
       "data_manobra": "07/08/2026 08:30",
       "data_manobra_iso": "2026-08-07T08:30:00",
       "berco": "F3 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -64,7 +64,7 @@
       "data_manobra_iso": "2026-08-07T11:00:00",
       "berco": "BARRA 901",
       "situacao": "A Confirmar",
-      "secao": "Navios Esperados"
+      "secao": "Movimentações"
     },
     {
       "navio": "CMA CGM Santos",

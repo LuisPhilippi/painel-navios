@@ -1,22 +1,12 @@
 {
-  "gerado_em": "2026-08-07T06:13:12.845454",
+  "gerado_em": "2026-08-07T10:15:17.570273",
   "navios": [
-    {
-      "navio": "MSC DAMLA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "07/08/2026",
-      "data_hora_iso": "2026-08-07T00:00:00",
-      "calado": "10,80/11,30",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
     {
       "navio": "MERCOSUL SUAPE",
       "status": "ManobraPrevista",
       "data_hora_texto": "07/08/2026",
       "data_hora_iso": "2026-08-07T00:00:00",
-      "calado": "TBC",
+      "calado": "7,80/8,40",
       "rota": "",
       "berco": "PNAVE 01",
       "posicao": null
@@ -29,6 +19,16 @@
       "calado": "11,90 EK",
       "rota": "Bacia 2",
       "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
+      "navio": "MSC DAMLA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "07/08/2026",
+      "data_hora_iso": "2026-08-07T00:00:00",
+      "calado": "11,40 EK",
+      "rota": "Bacia 2",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
