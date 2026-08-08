@@ -1,19 +1,6 @@
 {
-  "gerado_em": "2026-08-08T14:06:30.024407",
+  "gerado_em": "2026-08-08T16:01:44.984926",
   "navios": [
-    {
-      "navio": "MSC Maria Laura",
-      "imo": "1031159",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "08/08/2026 00:48",
-      "data_chegada_iso": "2026-08-08T00:48:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "08/08/2026 09:30",
-      "data_manobra_iso": "2026-08-08T09:30:00",
-      "berco": "BARRA 902",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Aracari Arrow",
       "imo": "9008706",
@@ -65,6 +52,19 @@
       "berco": "901 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
+    },
+    {
+      "navio": "MSC Maria Laura",
+      "imo": "1031159",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "08/08/2026 00:48",
+      "data_chegada_iso": "2026-08-08T00:48:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "902",
+      "situacao": null,
+      "secao": "Navios Atracados"
     },
     {
       "navio": "Elefsis",
