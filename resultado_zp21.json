@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-08-08T18:02:35.534685",
+  "gerado_em": "2026-08-08T19:59:26.639959",
   "navios": [
-    {
-      "navio": "GHIBLI",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "08/08/2026",
-      "data_hora_iso": "2026-08-08T00:00:00",
-      "calado": "8,90 EK",
-      "rota": "",
-      "berco": "PORTO ITAJAI - 04",
-      "posicao": null
-    },
     {
       "navio": "ONE PARANA",
       "status": "ManobraPrevista",
@@ -52,6 +42,16 @@
       "posicao": null
     },
     {
+      "navio": "GHIBLI",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "09/08/2026",
+      "data_hora_iso": "2026-08-09T00:00:00",
+      "calado": "TBC",
+      "rota": "Bacia 1",
+      "berco": "PORTO ITAJAI - 04",
+      "posicao": null
+    },
+    {
       "navio": "LINDE G",
       "status": "ManobraPrevista",
       "data_hora_texto": "09/08/2026",
@@ -77,8 +77,8 @@
       "data_hora_texto": "09/08/2026",
       "data_hora_iso": "2026-08-09T00:00:00",
       "calado": "11,15 EK",
-      "rota": "",
-      "berco": "PNAVE",
+      "rota": "Bacia 2",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
