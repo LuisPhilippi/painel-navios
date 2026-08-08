@@ -1,26 +1,6 @@
 {
-  "gerado_em": "2026-08-08T11:15:38.544390",
+  "gerado_em": "2026-08-08T14:06:22.889325",
   "navios": [
-    {
-      "navio": "LE HAVRE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "08/08/2026",
-      "data_hora_iso": "2026-08-08T00:00:00",
-      "calado": "9,30/9,90",
-      "rota": "Bacia 2",
-      "berco": "PORTO ITAJAI - 04",
-      "posicao": null
-    },
-    {
-      "navio": "EVER FAIR",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "08/08/2026",
-      "data_hora_iso": "2026-08-08T00:00:00",
-      "calado": "10,10/10,30",
-      "rota": "",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "ONE PARANA",
       "status": "ManobraPrevista",

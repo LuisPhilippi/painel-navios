@@ -1,19 +1,6 @@
 {
-  "gerado_em": "2026-08-08T11:15:44.635379",
+  "gerado_em": "2026-08-08T14:06:30.024407",
   "navios": [
-    {
-      "navio": "Nordcheetah",
-      "imo": "9673630",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "07/08/2026 15:35",
-      "data_chegada_iso": "2026-08-07T15:35:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "08/08/2026 07:00",
-      "data_manobra_iso": "2026-08-08T07:00:00",
-      "berco": "BARRA 901",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "MSC Maria Laura",
       "imo": "1031159",
@@ -24,33 +11,7 @@
       "data_manobra": "08/08/2026 09:30",
       "data_manobra_iso": "2026-08-08T09:30:00",
       "berco": "BARRA 902",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "CMA CGM Santos",
-      "imo": "9649835",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "07/08/2026 15:54",
-      "data_chegada_iso": "2026-08-07T15:54:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "08/08/2026 09:30",
-      "data_manobra_iso": "2026-08-08T09:30:00",
-      "berco": "902 BARRA",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Danae R",
-      "imo": "9316878",
-      "agencia": "CARGONAVE",
-      "data_chegada_texto": "28/07/2026 23:45",
-      "data_chegada_iso": "2026-07-28T23:45:00",
-      "manobra": "Suspender e Sair",
-      "data_manobra": "08/08/2026 09:30",
-      "data_manobra_iso": "2026-08-08T09:30:00",
-      "berco": "F3 BARRA",
-      "situacao": "Confirmado",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -63,19 +24,6 @@
       "data_manobra": "08/08/2026 20:00",
       "data_manobra_iso": "2026-08-08T20:00:00",
       "berco": "102 BARRA",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Milin Kamak",
-      "imo": "9841641",
-      "agencia": "AMART",
-      "data_chegada_texto": "07/08/2026 07:54",
-      "data_chegada_iso": "2026-08-07T07:54:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "08/08/2026 20:30",
-      "data_manobra_iso": "2026-08-08T20:30:00",
-      "berco": "201 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
     },
@@ -93,6 +41,32 @@
       "secao": "Movimentações"
     },
     {
+      "navio": "Spyros V",
+      "imo": "9453365",
+      "agencia": "ZIM DO BRASIL",
+      "data_chegada_texto": "07/08/2026 19:36",
+      "data_chegada_iso": "2026-08-07T19:36:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "09/08/2026 03:00",
+      "data_manobra_iso": "2026-08-09T03:00:00",
+      "berco": "BARRA 901",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Nordcheetah",
+      "imo": "9673630",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "07/08/2026 15:35",
+      "data_chegada_iso": "2026-08-07T15:35:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "09/08/2026 03:00",
+      "data_manobra_iso": "2026-08-09T03:00:00",
+      "berco": "901 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
       "navio": "Elefsis",
       "imo": "1043968",
       "agencia": "LITORAL",
@@ -102,6 +76,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "101",
+      "situacao": null,
+      "secao": "Navios Atracados"
+    },
+    {
+      "navio": "Milin Kamak",
+      "imo": "9841641",
+      "agencia": "AMART",
+      "data_chegada_texto": "07/08/2026 07:54",
+      "data_chegada_iso": "2026-08-07T07:54:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "201",
       "situacao": null,
       "secao": "Navios Atracados"
     },
@@ -202,19 +189,6 @@
       "agencia": "WILSON SONS",
       "data_chegada_texto": "07/08/2026 18:00",
       "data_chegada_iso": "2026-08-07T18:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Fundeados (Barra)"
-    },
-    {
-      "navio": "Spyros V",
-      "imo": "9453365",
-      "agencia": "ZIM DO BRASIL",
-      "data_chegada_texto": "07/08/2026 19:36",
-      "data_chegada_iso": "2026-08-07T19:36:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
