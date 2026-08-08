@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-08T10:00:07.755080",
+  "gerado_em": "2026-08-08T11:15:44.635379",
   "navios": [
     {
       "navio": "Nordcheetah",
@@ -15,19 +15,6 @@
       "secao": "Movimentações"
     },
     {
-      "navio": "Stephanie C",
-      "imo": "9694531",
-      "agencia": "ROCHAMAR",
-      "data_chegada_texto": "07/08/2026 05:00",
-      "data_chegada_iso": "2026-08-07T05:00:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "08/08/2026 07:00",
-      "data_manobra_iso": "2026-08-08T07:00:00",
-      "berco": "901 BARRA",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
       "navio": "MSC Maria Laura",
       "imo": "1031159",
       "agencia": "WILSON SONS",
@@ -37,7 +24,7 @@
       "data_manobra": "08/08/2026 09:30",
       "data_manobra_iso": "2026-08-08T09:30:00",
       "berco": "BARRA 902",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -50,7 +37,7 @@
       "data_manobra": "08/08/2026 09:30",
       "data_manobra_iso": "2026-08-08T09:30:00",
       "berco": "902 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -63,7 +50,7 @@
       "data_manobra": "08/08/2026 09:30",
       "data_manobra_iso": "2026-08-08T09:30:00",
       "berco": "F3 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
