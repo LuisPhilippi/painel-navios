@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-08T04:18:01.664527",
+  "gerado_em": "2026-08-08T07:37:12.530730",
   "navios": [
     {
       "navio": "Nordcheetah",
@@ -31,14 +31,14 @@
       "navio": "MSC Maria Laura",
       "imo": "1031159",
       "agencia": "WILSON SONS",
-      "data_chegada_texto": "08/08/2026 09:30",
-      "data_chegada_iso": "2026-08-08T09:30:00",
+      "data_chegada_texto": "08/08/2026 00:48",
+      "data_chegada_iso": "2026-08-08T00:48:00",
       "manobra": "Entrada e Atracação",
       "data_manobra": "08/08/2026 09:30",
       "data_manobra_iso": "2026-08-08T09:30:00",
       "berco": "BARRA 902",
       "situacao": "A Confirmar",
-      "secao": "Navios Esperados"
+      "secao": "Movimentações"
     },
     {
       "navio": "CMA CGM Santos",
