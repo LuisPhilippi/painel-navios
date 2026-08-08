@@ -1,26 +1,6 @@
 {
-  "gerado_em": "2026-08-07T23:03:43.984840",
+  "gerado_em": "2026-08-08T04:17:55.354811",
   "navios": [
-    {
-      "navio": "MSC DAMLA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "07/08/2026",
-      "data_hora_iso": "2026-08-07T00:00:00",
-      "calado": "11,40 EK",
-      "rota": "Bacia 2",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "EVER FAITH",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "08/08/2026",
-      "data_hora_iso": "2026-08-08T00:00:00",
-      "calado": "11,90 EK",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
     {
       "navio": "LE HAVRE",
       "status": "ManobraPrevista",
@@ -67,8 +47,18 @@
       "data_hora_texto": "09/08/2026",
       "data_hora_iso": "2026-08-09T00:00:00",
       "calado": "TBC",
-      "rota": "Bacia 2",
+      "rota": "Bacia 1",
       "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
+      "navio": "EVER FAITH",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "09/08/2026",
+      "data_hora_iso": "2026-08-09T00:00:00",
+      "calado": "11,90 EK",
+      "rota": "Bacia 2",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
