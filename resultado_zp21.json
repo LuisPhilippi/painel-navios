@@ -1,12 +1,12 @@
 {
-  "gerado_em": "2026-08-08T19:59:26.639959",
+  "gerado_em": "2026-08-08T21:15:29.051181",
   "navios": [
     {
       "navio": "ONE PARANA",
       "status": "ManobraPrevista",
       "data_hora_texto": "09/08/2026",
       "data_hora_iso": "2026-08-09T00:00:00",
-      "calado": "9,10/11,90",
+      "calado": "9,00/12,00",
       "rota": "",
       "berco": "PNAVE 01",
       "posicao": null
