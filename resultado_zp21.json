@@ -1,26 +1,6 @@
 {
-  "gerado_em": "2026-08-09T18:04:58.588360",
+  "gerado_em": "2026-08-09T20:03:08.223767",
   "navios": [
-    {
-      "navio": "MSC SUSANNA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "09/08/2026",
-      "data_hora_iso": "2026-08-09T00:00:00",
-      "calado": "11,10/11,30",
-      "rota": "Bacia 2",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "NORDCHEETAH",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "09/08/2026",
-      "data_hora_iso": "2026-08-09T00:00:00",
-      "calado": "7,45/7,95",
-      "rota": "",
-      "berco": "PORTO ITAJAI - 04",
-      "posicao": null
-    },
     {
       "navio": "COSCO VALENCIA",
       "status": "ManobraPrevista",
@@ -29,6 +9,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
+      "navio": "MSC SUSANNA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "10/08/2026",
+      "data_hora_iso": "2026-08-10T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -42,11 +32,11 @@
       "posicao": null
     },
     {
-      "navio": "MSC PAMELA",
+      "navio": "IRENES RULE",
       "status": "ManobraPrevista",
       "data_hora_texto": "10/08/2026",
       "data_hora_iso": "2026-08-10T00:00:00",
-      "calado": "10,90/11,00",
+      "calado": "TBC",
       "rota": "",
       "berco": "JBS 2",
       "posicao": null
@@ -62,12 +52,12 @@
       "posicao": null
     },
     {
-      "navio": "IRENES RULE",
+      "navio": "NORDCHEETAH",
       "status": "ManobraPrevista",
       "data_hora_texto": "10/08/2026",
       "data_hora_iso": "2026-08-10T00:00:00",
       "calado": "TBC",
-      "rota": "",
+      "rota": "Bacia 1",
       "berco": "PORTO ITAJAI - 04",
       "posicao": null
     },
@@ -78,7 +68,7 @@
       "data_hora_iso": "2026-08-10T00:00:00",
       "calado": "9,80/10,20",
       "rota": "",
-      "berco": "JBS",
+      "berco": "JBS 2",
       "posicao": null
     },
     {

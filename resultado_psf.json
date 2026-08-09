@@ -1,18 +1,18 @@
 {
-  "gerado_em": "2026-08-09T18:05:05.184998",
+  "gerado_em": "2026-08-09T20:03:16.023817",
   "navios": [
     {
       "navio": "Barcaça N11",
       "imo": "9326029",
       "agencia": "WILSON SONS",
-      "data_chegada_texto": "09/08/2026 07:00",
-      "data_chegada_iso": "2026-08-09T07:00:00",
+      "data_chegada_texto": "09/08/2026 15:55",
+      "data_chegada_iso": "2026-08-09T15:55:00",
       "manobra": "Entrada e Fundeio",
       "data_manobra": "09/08/2026 16:00",
       "data_manobra_iso": "2026-08-09T16:00:00",
       "berco": "BARRA F4 (P3)",
-      "situacao": "Confirmado",
-      "secao": "Navios Esperados"
+      "situacao": "Em Andamento",
+      "secao": "Movimentações"
     },
     {
       "navio": "Cap San Tainaro",
@@ -24,7 +24,7 @@
       "data_manobra": "09/08/2026 17:30",
       "data_manobra_iso": "2026-08-09T17:30:00",
       "berco": "BARRA 901",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -37,7 +37,7 @@
       "data_manobra": "09/08/2026 17:30",
       "data_manobra_iso": "2026-08-09T17:30:00",
       "berco": "901 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
