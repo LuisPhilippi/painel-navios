@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-08T23:03:46.598125",
+  "gerado_em": "2026-08-09T04:46:22.554356",
   "navios": [
     {
       "navio": "ONE PARANA",
@@ -8,16 +8,6 @@
       "data_hora_iso": "2026-08-09T00:00:00",
       "calado": "9,00/12,00",
       "rota": "",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "COSCO VALENCIA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "09/08/2026",
-      "data_hora_iso": "2026-08-09T00:00:00",
-      "calado": "TBC",
-      "rota": "Bacia 1",
       "berco": "PNAVE 01",
       "posicao": null
     },
@@ -32,6 +22,16 @@
       "posicao": null
     },
     {
+      "navio": "COSCO VALENCIA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "09/08/2026",
+      "data_hora_iso": "2026-08-09T00:00:00",
+      "calado": "10,50/10,70",
+      "rota": "Bacia 1",
+      "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
       "navio": "MSC SUSANNA",
       "status": "ManobraPrevista",
       "data_hora_texto": "09/08/2026",
@@ -42,16 +42,6 @@
       "posicao": null
     },
     {
-      "navio": "GHIBLI",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "09/08/2026",
-      "data_hora_iso": "2026-08-09T00:00:00",
-      "calado": "TBC",
-      "rota": "Bacia 1",
-      "berco": "PORTO ITAJAI - 04",
-      "posicao": null
-    },
-    {
       "navio": "LINDE G",
       "status": "ManobraPrevista",
       "data_hora_texto": "09/08/2026",
@@ -59,6 +49,16 @@
       "calado": "2,90 EK",
       "rota": "",
       "berco": "BARRA DO RIO",
+      "posicao": null
+    },
+    {
+      "navio": "GHIBLI",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "09/08/2026",
+      "data_hora_iso": "2026-08-09T00:00:00",
+      "calado": "TBC",
+      "rota": "Bacia 1",
+      "berco": "PORTO ITAJAI - 04",
       "posicao": null
     },
     {
@@ -74,8 +74,8 @@
     {
       "navio": "CMA CGM COBALT",
       "status": "ManobraPrevista",
-      "data_hora_texto": "09/08/2026",
-      "data_hora_iso": "2026-08-09T00:00:00",
+      "data_hora_texto": "10/08/2026",
+      "data_hora_iso": "2026-08-10T00:00:00",
       "calado": "11,15 EK",
       "rota": "Bacia 2",
       "berco": "PNAVE 01",
