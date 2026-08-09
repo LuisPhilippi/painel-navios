@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-09T10:04:48.283693",
+  "gerado_em": "2026-08-09T12:01:33.318394",
   "navios": [
     {
       "navio": "MSC Maria Laura",
@@ -11,7 +11,7 @@
       "data_manobra": "09/08/2026 08:30",
       "data_manobra_iso": "2026-08-09T08:30:00",
       "berco": "902 BARRA",
-      "situacao": "Confirmado",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -24,7 +24,7 @@
       "data_manobra": "09/08/2026 08:30",
       "data_manobra_iso": "2026-08-09T08:30:00",
       "berco": "102 BARRA",
-      "situacao": "Confirmado",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -37,7 +37,7 @@
       "data_manobra": "09/08/2026 10:30",
       "data_manobra_iso": "2026-08-09T10:30:00",
       "berco": "BARRA 302",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Navios Esperados"
     },
     {
@@ -50,7 +50,7 @@
       "data_manobra": "09/08/2026 10:30",
       "data_manobra_iso": "2026-08-09T10:30:00",
       "berco": "201 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -63,7 +63,7 @@
       "data_manobra": "09/08/2026 10:45",
       "data_manobra_iso": "2026-08-09T10:45:00",
       "berco": "BARRA 902",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
