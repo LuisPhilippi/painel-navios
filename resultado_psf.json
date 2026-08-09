@@ -1,45 +1,6 @@
 {
-  "gerado_em": "2026-08-09T07:58:21.414863",
+  "gerado_em": "2026-08-09T10:04:48.283693",
   "navios": [
-    {
-      "navio": "Spyros V",
-      "imo": "9453365",
-      "agencia": "ZIM DO BRASIL",
-      "data_chegada_texto": "07/08/2026 19:36",
-      "data_chegada_iso": "2026-08-07T19:36:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "09/08/2026 05:00",
-      "data_manobra_iso": "2026-08-09T05:00:00",
-      "berco": "BARRA 901",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Nordcheetah",
-      "imo": "9673630",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "07/08/2026 15:35",
-      "data_chegada_iso": "2026-08-07T15:35:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "09/08/2026 05:00",
-      "data_manobra_iso": "2026-08-09T05:00:00",
-      "berco": "901 BARRA",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Milin Kamak",
-      "imo": "9841641",
-      "agencia": "AMART",
-      "data_chegada_texto": "07/08/2026 07:54",
-      "data_chegada_iso": "2026-08-07T07:54:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "09/08/2026 08:00",
-      "data_manobra_iso": "2026-08-09T08:00:00",
-      "berco": "201 BARRA",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
     {
       "navio": "MSC Maria Laura",
       "imo": "1031159",
@@ -50,7 +11,7 @@
       "data_manobra": "09/08/2026 08:30",
       "data_manobra_iso": "2026-08-09T08:30:00",
       "berco": "902 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -63,33 +24,7 @@
       "data_manobra": "09/08/2026 08:30",
       "data_manobra_iso": "2026-08-09T08:30:00",
       "berco": "102 BARRA",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Anne",
-      "imo": "9593294",
-      "agencia": "LITORAL",
-      "data_chegada_texto": "02/08/2026 04:15",
-      "data_chegada_iso": "2026-08-02T04:15:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "09/08/2026 10:30",
-      "data_manobra_iso": "2026-08-09T10:30:00",
-      "berco": "BARRA 101",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Elefsis",
-      "imo": "1043968",
-      "agencia": "LITORAL",
-      "data_chegada_texto": "05/08/2026 12:06",
-      "data_chegada_iso": "2026-08-05T12:06:00",
-      "manobra": "Desatracação e Fundeio",
-      "data_manobra": "09/08/2026 10:30",
-      "data_manobra_iso": "2026-08-09T10:30:00",
-      "berco": "101 F3",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -99,11 +34,24 @@
       "data_chegada_texto": "09/08/2026 07:00",
       "data_chegada_iso": "2026-08-09T07:00:00",
       "manobra": "Entrada e Atracação",
-      "data_manobra": "09/08/2026 10:35",
-      "data_manobra_iso": "2026-08-09T10:35:00",
+      "data_manobra": "09/08/2026 10:30",
+      "data_manobra_iso": "2026-08-09T10:30:00",
       "berco": "BARRA 302",
       "situacao": "A Confirmar",
       "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Milin Kamak",
+      "imo": "9841641",
+      "agencia": "AMART",
+      "data_chegada_texto": "07/08/2026 07:54",
+      "data_chegada_iso": "2026-08-07T07:54:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "09/08/2026 10:30",
+      "data_manobra_iso": "2026-08-09T10:30:00",
+      "berco": "201 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
     },
     {
       "navio": "MSC Sabrina",
@@ -112,8 +60,8 @@
       "data_chegada_texto": "07/08/2026 18:00",
       "data_chegada_iso": "2026-08-07T18:00:00",
       "manobra": "Entrada e Atracação",
-      "data_manobra": "09/08/2026 13:30",
-      "data_manobra_iso": "2026-08-09T13:30:00",
+      "data_manobra": "09/08/2026 10:45",
+      "data_manobra_iso": "2026-08-09T10:45:00",
       "berco": "BARRA 902",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
@@ -145,15 +93,41 @@
       "secao": "Navios Esperados"
     },
     {
-      "navio": "XSSC Bright",
-      "imo": "9414151",
-      "agencia": "CARGONAVE",
-      "data_chegada_texto": "31/07/2026 15:00",
-      "data_chegada_iso": "2026-07-31T15:00:00",
+      "navio": "Spyros V",
+      "imo": "9453365",
+      "agencia": "ZIM DO BRASIL",
+      "data_chegada_texto": "07/08/2026 19:36",
+      "data_chegada_iso": "2026-08-07T19:36:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "09/08/2026 20:00",
+      "data_manobra_iso": "2026-08-09T20:00:00",
+      "berco": "901 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Anne",
+      "imo": "9593294",
+      "agencia": "LITORAL",
+      "data_chegada_texto": "02/08/2026 04:15",
+      "data_chegada_iso": "2026-08-02T04:15:00",
       "manobra": "Entrada e Atracação",
       "data_manobra": "09/08/2026 23:00",
       "data_manobra_iso": "2026-08-09T23:00:00",
-      "berco": "BARRA 301",
+      "berco": "BARRA 101",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Elefsis",
+      "imo": "1043968",
+      "agencia": "LITORAL",
+      "data_chegada_texto": "05/08/2026 12:06",
+      "data_chegada_iso": "2026-08-05T12:06:00",
+      "manobra": "Desatracação e Fundeio",
+      "data_manobra": "09/08/2026 23:00",
+      "data_manobra_iso": "2026-08-09T23:00:00",
+      "berco": "101 F3",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
     },
@@ -163,12 +137,12 @@
       "agencia": "OCEÂNICA",
       "data_chegada_texto": "28/07/2026 23:06",
       "data_chegada_iso": "2026-07-28T23:06:00",
-      "manobra": "Desatracação e Fundeio",
-      "data_manobra": "09/08/2026 23:00",
-      "data_manobra_iso": "2026-08-09T23:00:00",
-      "berco": "301 F5",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "301",
+      "situacao": null,
+      "secao": "Navios Atracados"
     },
     {
       "navio": "TSHD Galileo Galilei",
@@ -195,6 +169,19 @@
       "berco": "F4 (P1)",
       "situacao": null,
       "secao": "Navios Fundeados (Internos)"
+    },
+    {
+      "navio": "XSSC Bright",
+      "imo": "9414151",
+      "agencia": "CARGONAVE",
+      "data_chegada_texto": "31/07/2026 15:00",
+      "data_chegada_iso": "2026-07-31T15:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": null,
+      "situacao": null,
+      "secao": "Navios Fundeados (Barra)"
     },
     {
       "navio": "Gladiator",
