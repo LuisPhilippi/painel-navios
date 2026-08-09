@@ -1,45 +1,6 @@
 {
-  "gerado_em": "2026-08-09T12:01:33.318394",
+  "gerado_em": "2026-08-09T14:57:10.235923",
   "navios": [
-    {
-      "navio": "MSC Maria Laura",
-      "imo": "1031159",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "08/08/2026 00:48",
-      "data_chegada_iso": "2026-08-08T00:48:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "09/08/2026 08:30",
-      "data_manobra_iso": "2026-08-09T08:30:00",
-      "berco": "902 BARRA",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Aracari Arrow",
-      "imo": "9008706",
-      "agencia": "SEATRADE",
-      "data_chegada_texto": "05/08/2026 17:39",
-      "data_chegada_iso": "2026-08-05T17:39:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "09/08/2026 08:30",
-      "data_manobra_iso": "2026-08-09T08:30:00",
-      "berco": "102 BARRA",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Babitonga Bay",
-      "imo": "9663776",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "09/08/2026 07:00",
-      "data_chegada_iso": "2026-08-09T07:00:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "09/08/2026 10:30",
-      "data_manobra_iso": "2026-08-09T10:30:00",
-      "berco": "BARRA 302",
-      "situacao": "Confirmado",
-      "secao": "Navios Esperados"
-    },
     {
       "navio": "Milin Kamak",
       "imo": "9841641",
@@ -50,7 +11,20 @@
       "data_manobra": "09/08/2026 10:30",
       "data_manobra_iso": "2026-08-09T10:30:00",
       "berco": "201 BARRA",
-      "situacao": "Confirmado",
+      "situacao": "Em Andamento",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Babitonga Bay",
+      "imo": "9663776",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "09/08/2026 10:58",
+      "data_chegada_iso": "2026-08-09T10:58:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "09/08/2026 10:45",
+      "data_manobra_iso": "2026-08-09T10:45:00",
+      "berco": "BARRA 302",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -60,10 +34,10 @@
       "data_chegada_texto": "07/08/2026 18:00",
       "data_chegada_iso": "2026-08-07T18:00:00",
       "manobra": "Entrada e Atracação",
-      "data_manobra": "09/08/2026 10:45",
-      "data_manobra_iso": "2026-08-09T10:45:00",
+      "data_manobra": "09/08/2026 11:00",
+      "data_manobra_iso": "2026-08-09T11:00:00",
       "berco": "BARRA 902",
-      "situacao": "Confirmado",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -83,14 +57,14 @@
       "navio": "Cap San Tainaro",
       "imo": "9633965",
       "agencia": "LACHMANN",
-      "data_chegada_texto": "08/08/2026 23:00",
-      "data_chegada_iso": "2026-08-08T23:00:00",
+      "data_chegada_texto": "09/08/2026 11:00",
+      "data_chegada_iso": "2026-08-09T11:00:00",
       "manobra": "Entrada e Atracação",
-      "data_manobra": "09/08/2026 20:00",
-      "data_manobra_iso": "2026-08-09T20:00:00",
+      "data_manobra": "09/08/2026 17:30",
+      "data_manobra_iso": "2026-08-09T17:30:00",
       "berco": "BARRA 901",
       "situacao": "A Confirmar",
-      "secao": "Navios Esperados"
+      "secao": "Movimentações"
     },
     {
       "navio": "Spyros V",
@@ -99,8 +73,8 @@
       "data_chegada_texto": "07/08/2026 19:36",
       "data_chegada_iso": "2026-08-07T19:36:00",
       "manobra": "Desatracação e Saída",
-      "data_manobra": "09/08/2026 20:00",
-      "data_manobra_iso": "2026-08-09T20:00:00",
+      "data_manobra": "09/08/2026 17:30",
+      "data_manobra_iso": "2026-08-09T17:30:00",
       "berco": "901 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
