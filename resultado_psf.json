@@ -1,19 +1,6 @@
 {
-  "gerado_em": "2026-08-09T14:57:10.235923",
+  "gerado_em": "2026-08-09T16:03:42.890362",
   "navios": [
-    {
-      "navio": "Milin Kamak",
-      "imo": "9841641",
-      "agencia": "AMART",
-      "data_chegada_texto": "07/08/2026 07:54",
-      "data_chegada_iso": "2026-08-07T07:54:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "09/08/2026 10:30",
-      "data_manobra_iso": "2026-08-09T10:30:00",
-      "berco": "201 BARRA",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Babitonga Bay",
       "imo": "9663776",
@@ -223,11 +210,11 @@
       "secao": "Navios Esperados"
     },
     {
-      "navio": "CMA CGM Thorium",
-      "imo": "9996745",
+      "navio": "CMA CGM Mississipi",
+      "imo": "9679907",
       "agencia": "UNIMAR",
-      "data_chegada_texto": "09/08/2026 18:30",
-      "data_chegada_iso": "2026-08-09T18:30:00",
+      "data_chegada_texto": "09/08/2026 15:00",
+      "data_chegada_iso": "2026-08-09T15:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
@@ -236,11 +223,11 @@
       "secao": "Navios Esperados"
     },
     {
-      "navio": "CMA CGM Mississipi",
-      "imo": "9679907",
+      "navio": "CMA CGM Thorium",
+      "imo": "9996745",
       "agencia": "UNIMAR",
-      "data_chegada_texto": "09/08/2026 23:00",
-      "data_chegada_iso": "2026-08-09T23:00:00",
+      "data_chegada_texto": "09/08/2026 18:30",
+      "data_chegada_iso": "2026-08-09T18:30:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,

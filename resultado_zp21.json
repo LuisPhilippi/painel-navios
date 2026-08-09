@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-08-09T14:57:02.485715",
+  "gerado_em": "2026-08-09T16:03:36.677181",
   "navios": [
-    {
-      "navio": "COSCO VALENCIA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "09/08/2026",
-      "data_hora_iso": "2026-08-09T00:00:00",
-      "calado": "10,50/10,70",
-      "rota": "Bacia 1",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "GHIBLI",
       "status": "ManobraPrevista",
@@ -42,10 +32,20 @@
       "posicao": null
     },
     {
+      "navio": "COSCO VALENCIA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "10/08/2026",
+      "data_hora_iso": "2026-08-10T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
       "navio": "CMA CGM COBALT",
       "status": "ManobraPrevista",
-      "data_hora_texto": "09/08/2026",
-      "data_hora_iso": "2026-08-09T00:00:00",
+      "data_hora_texto": "10/08/2026",
+      "data_hora_iso": "2026-08-10T00:00:00",
       "calado": "11,15 EK",
       "rota": "",
       "berco": "PNAVE 01",
@@ -99,6 +99,16 @@
       "calado": "9,20/11,60",
       "rota": "",
       "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
+      "navio": "MSC MARIA LAURA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "10/08/2026",
+      "data_hora_iso": "2026-08-10T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
       "posicao": null
     },
     {
