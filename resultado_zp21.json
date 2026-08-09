@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-08-09T16:03:36.677181",
+  "gerado_em": "2026-08-09T18:04:58.588360",
   "navios": [
-    {
-      "navio": "GHIBLI",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "09/08/2026",
-      "data_hora_iso": "2026-08-09T00:00:00",
-      "calado": "6,40/8,00",
-      "rota": "Bacia 1",
-      "berco": "PORTO ITAJAI - 04",
-      "posicao": null
-    },
     {
       "navio": "MSC SUSANNA",
       "status": "ManobraPrevista",
@@ -47,7 +37,7 @@
       "data_hora_texto": "10/08/2026",
       "data_hora_iso": "2026-08-10T00:00:00",
       "calado": "11,15 EK",
-      "rota": "",
+      "rota": "Bacia 2",
       "berco": "PNAVE 01",
       "posicao": null
     },
@@ -62,13 +52,13 @@
       "posicao": null
     },
     {
-      "navio": "CLEANTEC",
+      "navio": "OCEAN MERMAID",
       "status": "ManobraPrevista",
       "data_hora_texto": "10/08/2026",
       "data_hora_iso": "2026-08-10T00:00:00",
-      "calado": "5,50/5,90",
+      "calado": "4,80/5,10",
       "rota": "",
-      "berco": "TEPORTI",
+      "berco": "BARRA DO RIO",
       "posicao": null
     },
     {
@@ -82,33 +72,33 @@
       "posicao": null
     },
     {
-      "navio": "OCEAN MERMAID",
+      "navio": "MSC MARIA LAURA",
       "status": "ManobraPrevista",
       "data_hora_texto": "10/08/2026",
       "data_hora_iso": "2026-08-10T00:00:00",
-      "calado": "4,80/5,10",
+      "calado": "9,80/10,20",
       "rota": "",
-      "berco": "BARRA DO RIO",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "EVER LEADING",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "11/08/2026",
+      "data_hora_iso": "2026-08-11T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
       "posicao": null
     },
     {
       "navio": "VALOR",
       "status": "ManobraPrevista",
-      "data_hora_texto": "10/08/2026",
-      "data_hora_iso": "2026-08-10T00:00:00",
+      "data_hora_texto": "11/08/2026",
+      "data_hora_iso": "2026-08-11T00:00:00",
       "calado": "9,20/11,60",
       "rota": "",
       "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "MSC MARIA LAURA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "10/08/2026",
-      "data_hora_iso": "2026-08-10T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS",
       "posicao": null
     },
     {
@@ -132,16 +122,6 @@
       "posicao": null
     },
     {
-      "navio": "EVER LEADING",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "11/08/2026",
-      "data_hora_iso": "2026-08-11T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE",
-      "posicao": null
-    },
-    {
       "navio": "BREMERHAVEN EXPRESS",
       "status": "ManobraPrevista",
       "data_hora_texto": "12/08/2026",
@@ -149,6 +129,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "CLEANTEC",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "12/08/2026",
+      "data_hora_iso": "2026-08-12T00:00:00",
+      "calado": "5,50/5,90",
+      "rota": "",
+      "berco": "TEPORTI",
       "posicao": null
     },
     {

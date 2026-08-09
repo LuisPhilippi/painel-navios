@@ -1,32 +1,6 @@
 {
-  "gerado_em": "2026-08-09T16:03:42.890362",
+  "gerado_em": "2026-08-09T18:05:05.184998",
   "navios": [
-    {
-      "navio": "Babitonga Bay",
-      "imo": "9663776",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "09/08/2026 10:58",
-      "data_chegada_iso": "2026-08-09T10:58:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "09/08/2026 10:45",
-      "data_manobra_iso": "2026-08-09T10:45:00",
-      "berco": "BARRA 302",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "MSC Sabrina",
-      "imo": "9979022",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "07/08/2026 18:00",
-      "data_chegada_iso": "2026-08-07T18:00:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "09/08/2026 11:00",
-      "data_manobra_iso": "2026-08-09T11:00:00",
-      "berco": "BARRA 902",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Barcaça N11",
       "imo": "9326029",
@@ -37,7 +11,7 @@
       "data_manobra": "09/08/2026 16:00",
       "data_manobra_iso": "2026-08-09T16:00:00",
       "berco": "BARRA F4 (P3)",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Navios Esperados"
     },
     {
@@ -80,6 +54,19 @@
       "secao": "Movimentações"
     },
     {
+      "navio": "MSC Sabrina",
+      "imo": "9979022",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "07/08/2026 18:00",
+      "data_chegada_iso": "2026-08-07T18:00:00",
+      "manobra": "Desatracação e Fundeio",
+      "data_manobra": "09/08/2026 23:00",
+      "data_manobra_iso": "2026-08-09T23:00:00",
+      "berco": "902 F5",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
       "navio": "Elefsis",
       "imo": "1043968",
       "agencia": "LITORAL",
@@ -93,6 +80,19 @@
       "secao": "Movimentações"
     },
     {
+      "navio": "CMA CGM Mississipi",
+      "imo": "9679907",
+      "agencia": "UNIMAR",
+      "data_chegada_texto": "09/08/2026 13:57",
+      "data_chegada_iso": "2026-08-09T13:57:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "10/08/2026 01:15",
+      "data_manobra_iso": "2026-08-10T01:15:00",
+      "berco": "BARRA 902",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
       "navio": "Guo Hai Lian 665",
       "imo": "9591492",
       "agencia": "OCEÂNICA",
@@ -102,6 +102,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "301",
+      "situacao": null,
+      "secao": "Navios Atracados"
+    },
+    {
+      "navio": "Babitonga Bay",
+      "imo": "9663776",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "09/08/2026 10:58",
+      "data_chegada_iso": "2026-08-09T10:58:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "302",
       "situacao": null,
       "secao": "Navios Atracados"
     },
@@ -197,37 +210,11 @@
       "secao": "Navios Fundeados (Barra)"
     },
     {
-      "navio": "Sebastião Caboto",
-      "imo": "9602875",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "08/08/2026 19:00",
-      "data_chegada_iso": "2026-08-08T19:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "CMA CGM Mississipi",
-      "imo": "9679907",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "09/08/2026 15:00",
-      "data_chegada_iso": "2026-08-09T15:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
       "navio": "CMA CGM Thorium",
       "imo": "9996745",
       "agencia": "UNIMAR",
-      "data_chegada_texto": "09/08/2026 18:30",
-      "data_chegada_iso": "2026-08-09T18:30:00",
+      "data_chegada_texto": "10/08/2026 08:00",
+      "data_chegada_iso": "2026-08-10T08:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
@@ -239,8 +226,8 @@
       "navio": "Pio Grande",
       "imo": "9647863",
       "agencia": "WILSON SONS",
-      "data_chegada_texto": "09/08/2026 23:00",
-      "data_chegada_iso": "2026-08-09T23:00:00",
+      "data_chegada_texto": "10/08/2026 08:00",
+      "data_chegada_iso": "2026-08-10T08:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
