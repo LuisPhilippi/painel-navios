@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-09T04:46:22.554356",
+  "gerado_em": "2026-08-09T07:58:14.119127",
   "navios": [
     {
       "navio": "ONE PARANA",
@@ -74,8 +74,8 @@
     {
       "navio": "CMA CGM COBALT",
       "status": "ManobraPrevista",
-      "data_hora_texto": "10/08/2026",
-      "data_hora_iso": "2026-08-10T00:00:00",
+      "data_hora_texto": "09/08/2026",
+      "data_hora_iso": "2026-08-09T00:00:00",
       "calado": "11,15 EK",
       "rota": "Bacia 2",
       "berco": "PNAVE 01",
