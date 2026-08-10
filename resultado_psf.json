@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-10T20:10:44.222796",
+  "gerado_em": "2026-08-10T23:06:56.082622",
   "navios": [
     {
       "navio": "XSSC Bright",
@@ -28,6 +28,58 @@
       "secao": "Movimentações"
     },
     {
+      "navio": "Maersk Chachai",
+      "imo": "9525388",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "11/08/2026 09:00",
+      "data_chegada_iso": "2026-08-11T09:00:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "11/08/2026 08:45",
+      "data_manobra_iso": "2026-08-11T08:45:00",
+      "berco": "BARRA 902",
+      "situacao": "A Confirmar",
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "CMA CGM Mississipi",
+      "imo": "9679907",
+      "agencia": "UNIMAR",
+      "data_chegada_texto": "09/08/2026 13:57",
+      "data_chegada_iso": "2026-08-09T13:57:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "11/08/2026 08:45",
+      "data_manobra_iso": "2026-08-11T08:45:00",
+      "berco": "902 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Industrial Charger",
+      "imo": "9213959",
+      "agencia": "ORION",
+      "data_chegada_texto": "10/08/2026 19:00",
+      "data_chegada_iso": "2026-08-10T19:00:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "11/08/2026 09:00",
+      "data_manobra_iso": "2026-08-11T09:00:00",
+      "berco": "BARRA 300",
+      "situacao": "A Confirmar",
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Elefsis",
+      "imo": "1043968",
+      "agencia": "LITORAL",
+      "data_chegada_texto": "05/08/2026 12:06",
+      "data_chegada_iso": "2026-08-05T12:06:00",
+      "manobra": "Suspender e Sair",
+      "data_manobra": "11/08/2026 12:30",
+      "data_manobra_iso": "2026-08-11T12:30:00",
+      "berco": "F5 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
       "navio": "CMA CGM Thorium",
       "imo": "9996745",
       "agencia": "UNIMAR",
@@ -37,19 +89,6 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "901",
-      "situacao": null,
-      "secao": "Navios Atracados"
-    },
-    {
-      "navio": "CMA CGM Mississipi",
-      "imo": "9679907",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "09/08/2026 13:57",
-      "data_chegada_iso": "2026-08-09T13:57:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "902",
       "situacao": null,
       "secao": "Navios Atracados"
     },
@@ -78,19 +117,6 @@
       "berco": "302",
       "situacao": null,
       "secao": "Navios Atracados"
-    },
-    {
-      "navio": "Elefsis",
-      "imo": "1043968",
-      "agencia": "LITORAL",
-      "data_chegada_texto": "05/08/2026 12:06",
-      "data_chegada_iso": "2026-08-05T12:06:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "F5",
-      "situacao": null,
-      "secao": "Navios Fundeados (Internos)"
     },
     {
       "navio": "TSHD Galileo Galilei",
@@ -197,19 +223,6 @@
       "secao": "Navios Esperados"
     },
     {
-      "navio": "Industrial Charger",
-      "imo": "9213959",
-      "agencia": "ORION",
-      "data_chegada_texto": "10/08/2026 19:00",
-      "data_chegada_iso": "2026-08-10T19:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "TESC",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
       "navio": "Tuju Arrow",
       "imo": "9443920",
       "agencia": "SEATRADE",
@@ -219,19 +232,6 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "TESC",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Maersk Chachai",
-      "imo": "9525388",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "11/08/2026 09:00",
-      "data_chegada_iso": "2026-08-11T09:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Esperados"
     },
