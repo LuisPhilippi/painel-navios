@@ -1,57 +1,18 @@
 {
-  "gerado_em": "2026-08-10T14:42:13.435554",
+  "gerado_em": "2026-08-10T18:00:18.639469",
   "navios": [
-    {
-      "navio": "Anne",
-      "imo": "9593294",
-      "agencia": "LITORAL",
-      "data_chegada_texto": "02/08/2026 04:15",
-      "data_chegada_iso": "2026-08-02T04:15:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "10/08/2026 11:30",
-      "data_manobra_iso": "2026-08-10T11:30:00",
-      "berco": "BARRA 101",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Cap San Tainaro",
-      "imo": "9633965",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "09/08/2026 11:00",
-      "data_chegada_iso": "2026-08-09T11:00:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "10/08/2026 11:30",
-      "data_manobra_iso": "2026-08-10T11:30:00",
-      "berco": "901 BARRA",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Elefsis",
-      "imo": "1043968",
-      "agencia": "LITORAL",
-      "data_chegada_texto": "05/08/2026 12:06",
-      "data_chegada_iso": "2026-08-05T12:06:00",
-      "manobra": "Desatracação e Fundeio",
-      "data_manobra": "10/08/2026 11:30",
-      "data_manobra_iso": "2026-08-10T11:30:00",
-      "berco": "101 F3",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "CMA CGM Thorium",
       "imo": "9996745",
       "agencia": "UNIMAR",
-      "data_chegada_texto": "10/08/2026 08:00",
-      "data_chegada_iso": "2026-08-10T08:00:00",
+      "data_chegada_texto": "10/08/2026 13:19",
+      "data_chegada_iso": "2026-08-10T13:19:00",
       "manobra": "Entrada e Atracação",
-      "data_manobra": "10/08/2026 13:00",
-      "data_manobra_iso": "2026-08-10T13:00:00",
+      "data_manobra": "10/08/2026 13:15",
+      "data_manobra_iso": "2026-08-10T13:15:00",
       "berco": "BARRA 901",
-      "situacao": "Confirmado",
-      "secao": "Navios Esperados"
+      "situacao": "Em Andamento",
+      "secao": "Movimentações"
     },
     {
       "navio": "XSSC Bright",
@@ -75,7 +36,7 @@
       "manobra": "Desatracação e Fundeio",
       "data_manobra": "10/08/2026 23:45",
       "data_manobra_iso": "2026-08-10T23:45:00",
-      "berco": "301 F5",
+      "berco": "301 F3",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
     },
@@ -93,6 +54,19 @@
       "secao": "Navios Atracados"
     },
     {
+      "navio": "Anne",
+      "imo": "9593294",
+      "agencia": "LITORAL",
+      "data_chegada_texto": "02/08/2026 04:15",
+      "data_chegada_iso": "2026-08-02T04:15:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "101",
+      "situacao": null,
+      "secao": "Navios Atracados"
+    },
+    {
       "navio": "Babitonga Bay",
       "imo": "9663776",
       "agencia": "WILSON SONS",
@@ -104,6 +78,19 @@
       "berco": "302",
       "situacao": null,
       "secao": "Navios Atracados"
+    },
+    {
+      "navio": "Elefsis",
+      "imo": "1043968",
+      "agencia": "LITORAL",
+      "data_chegada_texto": "05/08/2026 12:06",
+      "data_chegada_iso": "2026-08-05T12:06:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "F5",
+      "situacao": null,
+      "secao": "Navios Fundeados (Internos)"
     },
     {
       "navio": "TSHD Galileo Galilei",
