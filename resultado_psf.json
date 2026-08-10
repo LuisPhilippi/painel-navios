@@ -1,19 +1,6 @@
 {
-  "gerado_em": "2026-08-10T18:00:18.639469",
+  "gerado_em": "2026-08-10T20:10:44.222796",
   "navios": [
-    {
-      "navio": "CMA CGM Thorium",
-      "imo": "9996745",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "10/08/2026 13:19",
-      "data_chegada_iso": "2026-08-10T13:19:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "10/08/2026 13:15",
-      "data_manobra_iso": "2026-08-10T13:15:00",
-      "berco": "BARRA 901",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "XSSC Bright",
       "imo": "9414151",
@@ -39,6 +26,19 @@
       "berco": "301 F3",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
+    },
+    {
+      "navio": "CMA CGM Thorium",
+      "imo": "9996745",
+      "agencia": "UNIMAR",
+      "data_chegada_texto": "10/08/2026 13:19",
+      "data_chegada_iso": "2026-08-10T13:19:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "901",
+      "situacao": null,
+      "secao": "Navios Atracados"
     },
     {
       "navio": "CMA CGM Mississipi",
