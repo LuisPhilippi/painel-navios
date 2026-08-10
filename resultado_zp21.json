@@ -1,24 +1,14 @@
 {
-  "gerado_em": "2026-08-10T00:04:21.076802",
+  "gerado_em": "2026-08-10T06:00:49.708257",
   "navios": [
     {
       "navio": "COSCO VALENCIA",
       "status": "ManobraPrevista",
       "data_hora_texto": "10/08/2026",
       "data_hora_iso": "2026-08-10T00:00:00",
-      "calado": "8,40/9,90",
+      "calado": "8,40/9,80",
       "rota": "",
       "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "MSC SUSANNA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "10/08/2026",
-      "data_hora_iso": "2026-08-10T00:00:00",
-      "calado": "10,00 EK",
-      "rota": "",
-      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -32,11 +22,11 @@
       "posicao": null
     },
     {
-      "navio": "IRENES RULE",
+      "navio": "MSC SUSANNA",
       "status": "ManobraPrevista",
       "data_hora_texto": "10/08/2026",
       "data_hora_iso": "2026-08-10T00:00:00",
-      "calado": "TBC",
+      "calado": "10,00 EK",
       "rota": "",
       "berco": "JBS 2",
       "posicao": null
@@ -59,6 +49,16 @@
       "calado": "TBC",
       "rota": "Bacia 1",
       "berco": "PORTO ITAJAI - 04",
+      "posicao": null
+    },
+    {
+      "navio": "IRENES RULE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "10/08/2026",
+      "data_hora_iso": "2026-08-10T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS 2",
       "posicao": null
     },
     {

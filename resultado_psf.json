@@ -1,30 +1,17 @@
 {
-  "gerado_em": "2026-08-10T00:04:27.238509",
+  "gerado_em": "2026-08-10T06:00:57.567335",
   "navios": [
-    {
-      "navio": "CMA CGM Mississipi",
-      "imo": "9679907",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "09/08/2026 13:57",
-      "data_chegada_iso": "2026-08-09T13:57:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "09/08/2026 23:00",
-      "data_manobra_iso": "2026-08-09T23:00:00",
-      "berco": "BARRA 902",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
     {
       "navio": "MSC Sabrina",
       "imo": "9979022",
       "agencia": "WILSON SONS",
       "data_chegada_texto": "07/08/2026 18:00",
       "data_chegada_iso": "2026-08-07T18:00:00",
-      "manobra": "Desatracação e Fundeio",
-      "data_manobra": "09/08/2026 23:00",
-      "data_manobra_iso": "2026-08-09T23:00:00",
-      "berco": "902 F5",
-      "situacao": "Confirmado",
+      "manobra": "Suspender e Sair",
+      "data_manobra": "10/08/2026 10:00",
+      "data_manobra_iso": "2026-08-10T10:00:00",
+      "berco": "F5 BARRA",
+      "situacao": "A Confirmar",
       "secao": "Movimentações"
     },
     {
@@ -78,6 +65,19 @@
       "berco": "BARRA 901",
       "situacao": "A Confirmar",
       "secao": "Navios Esperados"
+    },
+    {
+      "navio": "CMA CGM Mississipi",
+      "imo": "9679907",
+      "agencia": "UNIMAR",
+      "data_chegada_texto": "09/08/2026 13:57",
+      "data_chegada_iso": "2026-08-09T13:57:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "902",
+      "situacao": null,
+      "secao": "Navios Atracados"
     },
     {
       "navio": "Guo Hai Lian 665",
