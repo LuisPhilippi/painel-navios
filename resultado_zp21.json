@@ -1,12 +1,12 @@
 {
-  "gerado_em": "2026-08-09T20:03:08.223767",
+  "gerado_em": "2026-08-10T00:04:21.076802",
   "navios": [
     {
       "navio": "COSCO VALENCIA",
       "status": "ManobraPrevista",
       "data_hora_texto": "10/08/2026",
       "data_hora_iso": "2026-08-10T00:00:00",
-      "calado": "TBC",
+      "calado": "8,40/9,90",
       "rota": "",
       "berco": "PNAVE 01",
       "posicao": null
@@ -16,7 +16,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "10/08/2026",
       "data_hora_iso": "2026-08-10T00:00:00",
-      "calado": "TBC",
+      "calado": "10,00 EK",
       "rota": "",
       "berco": "JBS 2",
       "posicao": null
