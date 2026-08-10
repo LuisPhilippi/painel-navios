@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-08-10T06:00:49.708257",
+  "gerado_em": "2026-08-10T10:48:08.520757",
   "navios": [
-    {
-      "navio": "COSCO VALENCIA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "10/08/2026",
-      "data_hora_iso": "2026-08-10T00:00:00",
-      "calado": "8,40/9,80",
-      "rota": "",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "CMA CGM COBALT",
       "status": "ManobraPrevista",
@@ -64,8 +54,8 @@
     {
       "navio": "MSC MARIA LAURA",
       "status": "ManobraPrevista",
-      "data_hora_texto": "10/08/2026",
-      "data_hora_iso": "2026-08-10T00:00:00",
+      "data_hora_texto": "11/08/2026",
+      "data_hora_iso": "2026-08-11T00:00:00",
       "calado": "9,80/10,20",
       "rota": "",
       "berco": "JBS 2",
