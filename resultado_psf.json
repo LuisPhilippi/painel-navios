@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-10T23:06:56.082622",
+  "gerado_em": "2026-08-11T04:51:27.178745",
   "navios": [
     {
       "navio": "XSSC Bright",
@@ -11,20 +11,7 @@
       "data_manobra": "10/08/2026 23:45",
       "data_manobra_iso": "2026-08-10T23:45:00",
       "berco": "BARRA 301",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Guo Hai Lian 665",
-      "imo": "9591492",
-      "agencia": "OCEÂNICA",
-      "data_chegada_texto": "28/07/2026 23:06",
-      "data_chegada_iso": "2026-07-28T23:06:00",
-      "manobra": "Desatracação e Fundeio",
-      "data_manobra": "10/08/2026 23:45",
-      "data_manobra_iso": "2026-08-10T23:45:00",
-      "berco": "301 F3",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -76,6 +63,19 @@
       "data_manobra": "11/08/2026 12:30",
       "data_manobra_iso": "2026-08-11T12:30:00",
       "berco": "F5 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Guo Hai Lian 665",
+      "imo": "9591492",
+      "agencia": "OCEÂNICA",
+      "data_chegada_texto": "28/07/2026 23:06",
+      "data_chegada_iso": "2026-07-28T23:06:00",
+      "manobra": "Suspender e Sair",
+      "data_manobra": "11/08/2026 12:30",
+      "data_manobra_iso": "2026-08-11T12:30:00",
+      "berco": "F3 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
     },
@@ -213,14 +213,14 @@
       "navio": "Pio Grande",
       "imo": "9647863",
       "agencia": "WILSON SONS",
-      "data_chegada_texto": "10/08/2026 08:00",
-      "data_chegada_iso": "2026-08-10T08:00:00",
+      "data_chegada_texto": "10/08/2026 15:10",
+      "data_chegada_iso": "2026-08-10T15:10:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "TESC",
       "situacao": null,
-      "secao": "Navios Esperados"
+      "secao": "Navios Fundeados (Barra)"
     },
     {
       "navio": "Tuju Arrow",

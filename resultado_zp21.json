@@ -1,26 +1,6 @@
 {
-  "gerado_em": "2026-08-10T23:06:47.858088",
+  "gerado_em": "2026-08-11T04:51:20.100133",
   "navios": [
-    {
-      "navio": "IRENES RULE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "10/08/2026",
-      "data_hora_iso": "2026-08-10T00:00:00",
-      "calado": "TBC",
-      "rota": "Bacia 1",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "MSC MARIA LAURA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "11/08/2026",
-      "data_hora_iso": "2026-08-11T00:00:00",
-      "calado": "9,80/10,20",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
     {
       "navio": "CMA CGM COBALT",
       "status": "ManobraPrevista",
@@ -36,7 +16,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "11/08/2026",
       "data_hora_iso": "2026-08-11T00:00:00",
-      "calado": "TBC",
+      "calado": "9,00/9,90",
       "rota": "Bacia 2",
       "berco": "PNAVE 01",
       "posicao": null
@@ -62,6 +42,16 @@
       "posicao": null
     },
     {
+      "navio": "MSC PAMELA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "11/08/2026",
+      "data_hora_iso": "2026-08-11T00:00:00",
+      "calado": "12,20 EK",
+      "rota": "",
+      "berco": "PORTO ITAJAI - 04",
+      "posicao": null
+    },
+    {
       "navio": "OCEAN MERMAID",
       "status": "ManobraPrevista",
       "data_hora_texto": "11/08/2026",
@@ -69,6 +59,16 @@
       "calado": "4,80/5,10",
       "rota": "",
       "berco": "BARRA DO RIO",
+      "posicao": null
+    },
+    {
+      "navio": "LOG-IN EXPERIENCE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "12/08/2026",
+      "data_hora_iso": "2026-08-12T00:00:00",
+      "calado": "TBC",
+      "rota": "Bacia 1",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
