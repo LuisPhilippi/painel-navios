@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-11T04:51:20.100133",
+  "gerado_em": "2026-08-11T08:32:04.766863",
   "navios": [
     {
       "navio": "CMA CGM COBALT",
@@ -22,12 +22,12 @@
       "posicao": null
     },
     {
-      "navio": "NYK DIANA",
+      "navio": "MSC MARIA LAURA",
       "status": "ManobraPrevista",
       "data_hora_texto": "11/08/2026",
       "data_hora_iso": "2026-08-11T00:00:00",
-      "calado": "8,50/9,30",
-      "rota": "",
+      "calado": "TBC",
+      "rota": "Bacia 2",
       "berco": "JBS 2",
       "posicao": null
     },
@@ -42,11 +42,21 @@
       "posicao": null
     },
     {
+      "navio": "NYK DIANA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "11/08/2026",
+      "data_hora_iso": "2026-08-11T00:00:00",
+      "calado": "8,50/9,30",
+      "rota": "",
+      "berco": "JBS 2",
+      "posicao": null
+    },
+    {
       "navio": "MSC PAMELA",
       "status": "ManobraPrevista",
       "data_hora_texto": "11/08/2026",
       "data_hora_iso": "2026-08-11T00:00:00",
-      "calado": "12,20 EK",
+      "calado": "12,30 EK",
       "rota": "",
       "berco": "PORTO ITAJAI - 04",
       "posicao": null
