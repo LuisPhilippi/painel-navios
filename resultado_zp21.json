@@ -1,26 +1,6 @@
 {
-  "gerado_em": "2026-08-11T15:30:42.335310",
+  "gerado_em": "2026-08-11T19:46:07.255774",
   "navios": [
-    {
-      "navio": "MSC MARIA LAURA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "11/08/2026",
-      "data_hora_iso": "2026-08-11T00:00:00",
-      "calado": "7,50/10,20",
-      "rota": "Bacia 2",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "NYK DIANA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "11/08/2026",
-      "data_hora_iso": "2026-08-11T00:00:00",
-      "calado": "8,50/9,30",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
     {
       "navio": "OCEAN MERMAID",
       "status": "ManobraPrevista",
@@ -42,11 +22,21 @@
       "posicao": null
     },
     {
+      "navio": "NYK DIANA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "12/08/2026",
+      "data_hora_iso": "2026-08-12T00:00:00",
+      "calado": "TBC",
+      "rota": "Bacia 1",
+      "berco": "JBS 2",
+      "posicao": null
+    },
+    {
       "navio": "LOG-IN EXPERIENCE",
       "status": "ManobraPrevista",
       "data_hora_texto": "12/08/2026",
       "data_hora_iso": "2026-08-12T00:00:00",
-      "calado": "8,50/9,00",
+      "calado": "8,50/9,10",
       "rota": "Bacia 1",
       "berco": "PNAVE 01",
       "posicao": null
@@ -56,19 +46,9 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "12/08/2026",
       "data_hora_iso": "2026-08-12T00:00:00",
-      "calado": "TBC",
+      "calado": "8,55/9,75",
       "rota": "",
       "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "CLEANTEC",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "12/08/2026",
-      "data_hora_iso": "2026-08-12T00:00:00",
-      "calado": "5,50/5,90",
-      "rota": "",
-      "berco": "TEPORTI",
       "posicao": null
     },
     {
@@ -82,36 +62,6 @@
       "posicao": null
     },
     {
-      "navio": "BALSA Z MAX XX + C TORMENTA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "12/08/2026",
-      "data_hora_iso": "2026-08-12T00:00:00",
-      "calado": "3,00 EK",
-      "rota": "",
-      "berco": "SEATRIUM",
-      "posicao": null
-    },
-    {
-      "navio": "MSC PAMELA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "12/08/2026",
-      "data_hora_iso": "2026-08-12T00:00:00",
-      "calado": "12,30 EK",
-      "rota": "Bacia 2",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "ONE AMAZON",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "12/08/2026",
-      "data_hora_iso": "2026-08-12T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE",
-      "posicao": null
-    },
-    {
       "navio": "VALOR",
       "status": "ManobraPrevista",
       "data_hora_texto": "12/08/2026",
@@ -119,6 +69,16 @@
       "calado": "9,40/11,80",
       "rota": "",
       "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
+      "navio": "BALSA Z MAX XX + C TORMENTA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "12/08/2026",
+      "data_hora_iso": "2026-08-12T00:00:00",
+      "calado": "3,00 EK",
+      "rota": "",
+      "berco": "SEATRIUM",
       "posicao": null
     },
     {
@@ -132,13 +92,13 @@
       "posicao": null
     },
     {
-      "navio": "BREMERHAVEN EXPRESS",
+      "navio": "MSC PAMELA",
       "status": "ManobraPrevista",
       "data_hora_texto": "12/08/2026",
       "data_hora_iso": "2026-08-12T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE 01",
+      "calado": "12,40 EK",
+      "rota": "Bacia 2",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -147,8 +107,18 @@
       "data_hora_texto": "13/08/2026",
       "data_hora_iso": "2026-08-13T00:00:00",
       "calado": "9,50/9,90",
+      "rota": "Bacia 2",
+      "berco": "JBS 1",
+      "posicao": null
+    },
+    {
+      "navio": "ONE AMAZON",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "13/08/2026",
+      "data_hora_iso": "2026-08-13T00:00:00",
+      "calado": "TBC",
       "rota": "",
-      "berco": "JBS",
+      "berco": "PNAVE",
       "posicao": null
     },
     {
@@ -162,6 +132,16 @@
       "posicao": null
     },
     {
+      "navio": "CLEANTEC",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "13/08/2026",
+      "data_hora_iso": "2026-08-13T00:00:00",
+      "calado": "5,50/5,90",
+      "rota": "",
+      "berco": "TEPORTI",
+      "posicao": null
+    },
+    {
       "navio": "SUNNY PHOENIX",
       "status": "ManobraPrevista",
       "data_hora_texto": "13/08/2026",
@@ -169,6 +149,16 @@
       "calado": "10,00/10,20",
       "rota": "",
       "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "BREMERHAVEN EXPRESS",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "13/08/2026",
+      "data_hora_iso": "2026-08-13T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
