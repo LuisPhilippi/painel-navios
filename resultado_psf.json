@@ -1,32 +1,6 @@
 {
-  "gerado_em": "2026-08-11T08:32:11.098710",
+  "gerado_em": "2026-08-11T11:32:58.886979",
   "navios": [
-    {
-      "navio": "Maersk Chachai",
-      "imo": "9525388",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "11/08/2026 09:00",
-      "data_chegada_iso": "2026-08-11T09:00:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "11/08/2026 08:45",
-      "data_manobra_iso": "2026-08-11T08:45:00",
-      "berco": "BARRA 902",
-      "situacao": "A Confirmar",
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "CMA CGM Mississippi",
-      "imo": "9679907",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "09/08/2026 13:57",
-      "data_chegada_iso": "2026-08-09T13:57:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "11/08/2026 08:45",
-      "data_manobra_iso": "2026-08-11T08:45:00",
-      "berco": "902 BARRA",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Industrial Charger",
       "imo": "9213959",
@@ -37,8 +11,34 @@
       "data_manobra": "11/08/2026 09:00",
       "data_manobra_iso": "2026-08-11T09:00:00",
       "berco": "BARRA 300",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Maersk Chachai",
+      "imo": "9525388",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "11/08/2026 09:00",
+      "data_chegada_iso": "2026-08-11T09:00:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "11/08/2026 09:15",
+      "data_manobra_iso": "2026-08-11T09:15:00",
+      "berco": "BARRA 902",
+      "situacao": "Confirmado",
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "CMA CGM Mississippi",
+      "imo": "9679907",
+      "agencia": "UNIMAR",
+      "data_chegada_texto": "09/08/2026 13:57",
+      "data_chegada_iso": "2026-08-09T13:57:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "11/08/2026 09:15",
+      "data_manobra_iso": "2026-08-11T09:15:00",
+      "berco": "902 BARRA",
+      "situacao": "Confirmado",
+      "secao": "Movimentações"
     },
     {
       "navio": "Elefsis",

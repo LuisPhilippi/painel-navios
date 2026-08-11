@@ -1,12 +1,12 @@
 {
-  "gerado_em": "2026-08-11T08:32:04.766863",
+  "gerado_em": "2026-08-11T11:32:51.356454",
   "navios": [
     {
       "navio": "CMA CGM COBALT",
       "status": "ManobraPrevista",
       "data_hora_texto": "11/08/2026",
       "data_hora_iso": "2026-08-11T00:00:00",
-      "calado": "10,90 MAX",
+      "calado": "10,90/11,00",
       "rota": "",
       "berco": "PNAVE 01",
       "posicao": null
@@ -76,7 +76,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "12/08/2026",
       "data_hora_iso": "2026-08-12T00:00:00",
-      "calado": "TBC",
+      "calado": "8,50/9,00",
       "rota": "Bacia 1",
       "berco": "PNAVE 01",
       "posicao": null
