@@ -1,6 +1,16 @@
 {
-  "gerado_em": "2026-08-12T20:04:26.349881",
+  "gerado_em": "2026-08-12T23:22:01.574057",
   "navios": [
+    {
+      "navio": "OCEAN MERMAID",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "12/08/2026",
+      "data_hora_iso": "2026-08-12T00:00:00",
+      "calado": "5,10 EK",
+      "rota": "",
+      "berco": "BARRA DO RIO",
+      "posicao": null
+    },
     {
       "navio": "CMA CGM MISSISSIPPI",
       "status": "ManobraPrevista",
@@ -9,16 +19,6 @@
       "calado": "9,45/9,80",
       "rota": "Bacia 2",
       "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "OCEAN MERMAID",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "12/08/2026",
-      "data_hora_iso": "2026-08-12T00:00:00",
-      "calado": "4,90/5,20",
-      "rota": "",
-      "berco": "BARRA DO RIO",
       "posicao": null
     },
     {
@@ -46,7 +46,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "13/08/2026",
       "data_hora_iso": "2026-08-13T00:00:00",
-      "calado": "10,85/12,15",
+      "calado": "10,65/12,15",
       "rota": "",
       "berco": "PNAVE 01",
       "posicao": null
