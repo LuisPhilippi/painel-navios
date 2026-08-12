@@ -1,56 +1,6 @@
 {
-  "gerado_em": "2026-08-12T16:12:07.468894",
+  "gerado_em": "2026-08-12T20:04:26.349881",
   "navios": [
-    {
-      "navio": "OCEAN MERMAID",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "12/08/2026",
-      "data_hora_iso": "2026-08-12T00:00:00",
-      "calado": "4,90/5,20",
-      "rota": "",
-      "berco": "BARRA DO RIO",
-      "posicao": null
-    },
-    {
-      "navio": "BALSA Z MAX XX + C TORMENTA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "12/08/2026",
-      "data_hora_iso": "2026-08-12T00:00:00",
-      "calado": "3,00 EK",
-      "rota": "",
-      "berco": "SEATRIUM",
-      "posicao": null
-    },
-    {
-      "navio": "LINDE G",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "12/08/2026",
-      "data_hora_iso": "2026-08-12T00:00:00",
-      "calado": "2,90 EK",
-      "rota": "",
-      "berco": "BARRA DO RIO",
-      "posicao": null
-    },
-    {
-      "navio": "LOG-IN EXPERIENCE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "12/08/2026",
-      "data_hora_iso": "2026-08-12T00:00:00",
-      "calado": "10,60/10,80",
-      "rota": "",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "VALOR",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "12/08/2026",
-      "data_hora_iso": "2026-08-12T00:00:00",
-      "calado": "9,40/11,80",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "CMA CGM MISSISSIPPI",
       "status": "ManobraPrevista",
@@ -62,33 +12,23 @@
       "posicao": null
     },
     {
+      "navio": "OCEAN MERMAID",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "12/08/2026",
+      "data_hora_iso": "2026-08-12T00:00:00",
+      "calado": "4,90/5,20",
+      "rota": "",
+      "berco": "BARRA DO RIO",
+      "posicao": null
+    },
+    {
       "navio": "APL SALALAH",
       "status": "ManobraPrevista",
       "data_hora_texto": "13/08/2026",
       "data_hora_iso": "2026-08-13T00:00:00",
       "calado": "9,50/9,90",
       "rota": "Bacia 2",
-      "berco": "JBS 1",
-      "posicao": null
-    },
-    {
-      "navio": "ONE AMAZON",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "13/08/2026",
-      "data_hora_iso": "2026-08-13T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE",
-      "posicao": null
-    },
-    {
-      "navio": "CAPE PIONEER",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "13/08/2026",
-      "data_hora_iso": "2026-08-13T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -102,22 +42,22 @@
       "posicao": null
     },
     {
-      "navio": "SUNNY PHOENIX",
+      "navio": "VALOR",
       "status": "ManobraPrevista",
       "data_hora_texto": "13/08/2026",
       "data_hora_iso": "2026-08-13T00:00:00",
-      "calado": "10,00/10,20",
+      "calado": "10,85/12,15",
       "rota": "",
-      "berco": "PNAVE",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
-      "navio": "BREMERHAVEN EXPRESS",
+      "navio": "ONE AMAZON",
       "status": "ManobraPrevista",
       "data_hora_texto": "13/08/2026",
       "data_hora_iso": "2026-08-13T00:00:00",
-      "calado": "TBC",
-      "rota": "",
+      "calado": "11,20/11,80",
+      "rota": "Bacia 2",
       "berco": "PNAVE 01",
       "posicao": null
     },
@@ -132,23 +72,13 @@
       "posicao": null
     },
     {
-      "navio": "ESPIRITO SANTO EXPRESS",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "13/08/2026",
-      "data_hora_iso": "2026-08-13T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE",
-      "posicao": null
-    },
-    {
       "navio": "LOG-IN JATOBÁ",
       "status": "ManobraPrevista",
       "data_hora_texto": "14/08/2026",
       "data_hora_iso": "2026-08-14T00:00:00",
       "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE",
+      "rota": "Bacia 1",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
@@ -157,8 +87,38 @@
       "data_hora_texto": "14/08/2026",
       "data_hora_iso": "2026-08-14T00:00:00",
       "calado": "TBC",
+      "rota": "Bacia 1",
+      "berco": "PORTO ITAJAI - 04",
+      "posicao": null
+    },
+    {
+      "navio": "ESPIRITO SANTO EXPRESS",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "14/08/2026",
+      "data_hora_iso": "2026-08-14T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "CAPE PIONEER",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "14/08/2026",
+      "data_hora_iso": "2026-08-14T00:00:00",
+      "calado": "TBC",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "MSC SABRINA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "14/08/2026",
+      "data_hora_iso": "2026-08-14T00:00:00",
+      "calado": "12,00 MAX",
+      "rota": "",
+      "berco": "PNAVE",
       "posicao": null
     },
     {
@@ -192,6 +152,16 @@
       "posicao": null
     },
     {
+      "navio": "SUNNY PHOENIX",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "15/08/2026",
+      "data_hora_iso": "2026-08-15T00:00:00",
+      "calado": "10,00/10,20",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
       "navio": "XIN WEI HAI",
       "status": "ManobraPrevista",
       "data_hora_texto": "15/08/2026",
@@ -222,13 +192,13 @@
       "posicao": null
     },
     {
-      "navio": "MSC SABRINA",
+      "navio": "BREMERHAVEN EXPRESS",
       "status": "ManobraPrevista",
       "data_hora_texto": "16/08/2026",
       "data_hora_iso": "2026-08-16T00:00:00",
-      "calado": "12,00 MAX",
+      "calado": "TBC",
       "rota": "",
-      "berco": "PNAVE",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
@@ -262,6 +232,26 @@
       "posicao": null
     },
     {
+      "navio": "LOG-IN ENDURANCE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "19/08/2026",
+      "data_hora_iso": "2026-08-19T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "CAPE SOUNIO",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "19/08/2026",
+      "data_hora_iso": "2026-08-19T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
       "navio": "CZECH",
       "status": "ManobraPrevista",
       "data_hora_texto": "19/08/2026",
@@ -272,6 +262,26 @@
       "posicao": null
     },
     {
+      "navio": "MSC SUSANNA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "19/08/2026",
+      "data_hora_iso": "2026-08-19T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "MSC SHANELLE V",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "20/08/2026",
+      "data_hora_iso": "2026-08-20T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
       "navio": "MAERSK KARACHI",
       "status": "ManobraPrevista",
       "data_hora_texto": "20/08/2026",
@@ -279,6 +289,46 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "MSC MAGNUM VII",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "20/08/2026",
+      "data_hora_iso": "2026-08-20T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "LOG-IN RESILIENTE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "21/08/2026",
+      "data_hora_iso": "2026-08-21T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "CMA CGM THORIUM",
+      "status": "Fundeado",
+      "data_hora_texto": "12/08/2026 - 15:19",
+      "data_hora_iso": "2026-08-12T15:19:00",
+      "calado": "10,90 EK",
+      "rota": "",
+      "berco": null,
+      "posicao": "26 52,18 S / 048 32,96 W"
+    },
+    {
+      "navio": "BALSA Z MAX XX + C TORMENTA",
+      "status": "Atracado",
+      "data_hora_texto": "12/08/2026 - 14:38",
+      "data_hora_iso": "2026-08-12T14:38:00",
+      "calado": null,
+      "rota": "",
+      "berco": "SEATRIUM",
       "posicao": null
     },
     {
