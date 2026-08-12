@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-11T22:24:20.435102",
+  "gerado_em": "2026-08-12T05:17:22.811391",
   "navios": [
     {
       "navio": "Greenhouse",
@@ -11,7 +11,7 @@
       "data_manobra": "12/08/2026 00:30",
       "data_manobra_iso": "2026-08-12T00:30:00",
       "berco": "BARRA 901",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -24,7 +24,7 @@
       "data_manobra": "12/08/2026 00:30",
       "data_manobra_iso": "2026-08-12T00:30:00",
       "berco": "901 F5",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
