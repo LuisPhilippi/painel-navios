@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-08-12T05:17:16.487795",
+  "gerado_em": "2026-08-12T09:47:23.895464",
   "navios": [
-    {
-      "navio": "NYK DIANA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "12/08/2026",
-      "data_hora_iso": "2026-08-12T00:00:00",
-      "calado": "8,40/10,00",
-      "rota": "Bacia 2",
-      "berco": "JBS 2",
-      "posicao": null
-    },
     {
       "navio": "CMA CGM MISSISSIPPI",
       "status": "ManobraPrevista",
@@ -246,7 +236,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "16/08/2026",
       "data_hora_iso": "2026-08-16T00:00:00",
-      "calado": "TBC",
+      "calado": "12,00 MAX",
       "rota": "",
       "berco": "PNAVE",
       "posicao": null

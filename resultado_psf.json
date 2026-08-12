@@ -1,32 +1,6 @@
 {
-  "gerado_em": "2026-08-12T05:17:22.811391",
+  "gerado_em": "2026-08-12T09:47:31.408308",
   "navios": [
-    {
-      "navio": "Greenhouse",
-      "imo": "9926245",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "11/08/2026 02:05",
-      "data_chegada_iso": "2026-08-11T02:05:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "12/08/2026 00:30",
-      "data_manobra_iso": "2026-08-12T00:30:00",
-      "berco": "BARRA 901",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "CMA CGM Thorium",
-      "imo": "9996745",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "10/08/2026 13:19",
-      "data_chegada_iso": "2026-08-10T13:19:00",
-      "manobra": "Desatracação e Fundeio",
-      "data_manobra": "12/08/2026 00:30",
-      "data_manobra_iso": "2026-08-12T00:30:00",
-      "berco": "901 F5",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Maersk Labrea",
       "imo": "9527063",
@@ -67,6 +41,19 @@
       "secao": "Movimentações"
     },
     {
+      "navio": "CMA CGM Thorium",
+      "imo": "9996745",
+      "agencia": "UNIMAR",
+      "data_chegada_texto": "10/08/2026 13:19",
+      "data_chegada_iso": "2026-08-10T13:19:00",
+      "manobra": "Suspender e Sair",
+      "data_manobra": "12/08/2026 10:30",
+      "data_manobra_iso": "2026-08-12T10:30:00",
+      "berco": "F5 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
       "navio": "Gladiator",
       "imo": "9605853",
       "agencia": "CARGONAVE",
@@ -91,6 +78,19 @@
       "berco": "101 F3",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
+    },
+    {
+      "navio": "Greenhouse",
+      "imo": "9926245",
+      "agencia": "UNIMAR",
+      "data_chegada_texto": "11/08/2026 02:05",
+      "data_chegada_iso": "2026-08-11T02:05:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "901",
+      "situacao": null,
+      "secao": "Navios Atracados"
     },
     {
       "navio": "XSSC Bright",
@@ -223,11 +223,24 @@
       "secao": "Navios Fundeados (Barra)"
     },
     {
+      "navio": "Bartolomeu Dias",
+      "imo": "9625384",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "12/08/2026 04:49",
+      "data_chegada_iso": "2026-08-12T04:49:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Fundeados (Barra)"
+    },
+    {
       "navio": "Alliance Diva",
       "imo": "1104152",
       "agencia": "ALPHAMAR",
-      "data_chegada_texto": "12/08/2026 11:00",
-      "data_chegada_iso": "2026-08-12T11:00:00",
+      "data_chegada_texto": "12/08/2026 16:00",
+      "data_chegada_iso": "2026-08-12T16:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
@@ -239,8 +252,8 @@
       "navio": "Blue Ridge",
       "imo": "9518177",
       "agencia": "ALPHAMAR",
-      "data_chegada_texto": "12/08/2026 11:00",
-      "data_chegada_iso": "2026-08-12T11:00:00",
+      "data_chegada_texto": "12/08/2026 16:00",
+      "data_chegada_iso": "2026-08-12T16:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
@@ -258,19 +271,6 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "SFS",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Bartolomeu Dias",
-      "imo": "9625384",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "13/08/2026 01:00",
-      "data_chegada_iso": "2026-08-13T01:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Esperados"
     },
@@ -392,19 +392,6 @@
       "secao": "Navios Esperados"
     },
     {
-      "navio": "YM Movement",
-      "imo": "9660011",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "16/08/2026 01:00",
-      "data_chegada_iso": "2026-08-16T01:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
       "navio": "San Francisca",
       "imo": "9698654",
       "agencia": "LACHMANN",
@@ -488,6 +475,19 @@
       "agencia": "WILSON SONS",
       "data_chegada_texto": "18/08/2026 02:00",
       "data_chegada_iso": "2026-08-18T02:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "YM Movement",
+      "imo": "9660011",
+      "agencia": "UNIMAR",
+      "data_chegada_texto": "18/08/2026 06:00",
+      "data_chegada_iso": "2026-08-18T06:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
@@ -661,6 +661,32 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "SFS",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Zim Usa",
+      "imo": "9945473",
+      "agencia": "ZIM DO BRASIL",
+      "data_chegada_texto": "22/08/2026 15:00",
+      "data_chegada_iso": "2026-08-22T15:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Fernão de Magalhães",
+      "imo": "9603221",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "22/08/2026 17:00",
+      "data_chegada_iso": "2026-08-22T17:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Esperados"
     },
