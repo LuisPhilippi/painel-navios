@@ -1,18 +1,18 @@
 {
-  "gerado_em": "2026-08-12T09:47:31.408308",
+  "gerado_em": "2026-08-12T12:35:24.142827",
   "navios": [
     {
       "navio": "Maersk Labrea",
       "imo": "9527063",
       "agencia": "LACHMANN",
-      "data_chegada_texto": "12/08/2026 09:00",
-      "data_chegada_iso": "2026-08-12T09:00:00",
+      "data_chegada_texto": "12/08/2026 08:52",
+      "data_chegada_iso": "2026-08-12T08:52:00",
       "manobra": "Entrada e Atracação",
       "data_manobra": "12/08/2026 09:00",
       "data_manobra_iso": "2026-08-12T09:00:00",
       "berco": "BARRA 902",
-      "situacao": "A Confirmar",
-      "secao": "Navios Esperados"
+      "situacao": "Em Andamento",
+      "secao": "Movimentações"
     },
     {
       "navio": "Maersk Chachai",
@@ -24,7 +24,7 @@
       "data_manobra": "12/08/2026 09:00",
       "data_manobra_iso": "2026-08-12T09:00:00",
       "berco": "902 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -37,7 +37,7 @@
       "data_manobra": "12/08/2026 09:00",
       "data_manobra_iso": "2026-08-12T09:00:00",
       "berco": "300 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -50,7 +50,7 @@
       "data_manobra": "12/08/2026 10:30",
       "data_manobra_iso": "2026-08-12T10:30:00",
       "berco": "F5 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -301,6 +301,19 @@
       "secao": "Navios Esperados"
     },
     {
+      "navio": "Stinger",
+      "imo": "9762871",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "14/08/2026 07:00",
+      "data_chegada_iso": "2026-08-14T07:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "TESC",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
       "navio": "CMA CGM Veracruz",
       "imo": "9418377",
       "agencia": "UNIMAR",
@@ -356,21 +369,8 @@
       "navio": "Barcaça N10",
       "imo": "9326017",
       "agencia": "WILSON SONS",
-      "data_chegada_texto": "14/08/2026 19:00",
-      "data_chegada_iso": "2026-08-14T19:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "TESC",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Stinger",
-      "imo": "9762871",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "15/08/2026 01:00",
-      "data_chegada_iso": "2026-08-15T01:00:00",
+      "data_chegada_texto": "15/08/2026 10:00",
+      "data_chegada_iso": "2026-08-15T10:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
@@ -408,8 +408,21 @@
       "navio": "MSC Amalfi",
       "imo": "9605279",
       "agencia": "WILSON SONS",
-      "data_chegada_texto": "16/08/2026 19:00",
-      "data_chegada_iso": "2026-08-16T19:00:00",
+      "data_chegada_texto": "16/08/2026 12:00",
+      "data_chegada_iso": "2026-08-16T12:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Cape Sounio",
+      "imo": "9727625",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "16/08/2026 20:00",
+      "data_chegada_iso": "2026-08-16T20:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
@@ -457,11 +470,11 @@
       "secao": "Navios Esperados"
     },
     {
-      "navio": "Cape Sounio",
-      "imo": "9727625",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "17/08/2026 21:00",
-      "data_chegada_iso": "2026-08-17T21:00:00",
+      "navio": "Mackenzie",
+      "imo": "9973688",
+      "agencia": "ZIM DO BRASIL",
+      "data_chegada_texto": "17/08/2026 19:00",
+      "data_chegada_iso": "2026-08-17T19:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
@@ -772,8 +785,8 @@
       "navio": "Astro Castor",
       "imo": "9767314",
       "agencia": "WILSON SONS",
-      "data_chegada_texto": "08/09/2026 07:00",
-      "data_chegada_iso": "2026-09-08T07:00:00",
+      "data_chegada_texto": "10/09/2026 07:00",
+      "data_chegada_iso": "2026-09-10T07:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
