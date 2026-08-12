@@ -1,14 +1,14 @@
 {
-  "gerado_em": "2026-08-12T12:35:18.070841",
+  "gerado_em": "2026-08-12T16:12:07.468894",
   "navios": [
     {
-      "navio": "FRAGATA JERÔNIMO DE ALBUQUERQUE",
+      "navio": "OCEAN MERMAID",
       "status": "ManobraPrevista",
       "data_hora_texto": "12/08/2026",
       "data_hora_iso": "2026-08-12T00:00:00",
-      "calado": "4,00 EK",
+      "calado": "4,90/5,20",
       "rota": "",
-      "berco": "BRASIL SUL",
+      "berco": "BARRA DO RIO",
       "posicao": null
     },
     {
@@ -19,16 +19,6 @@
       "calado": "3,00 EK",
       "rota": "",
       "berco": "SEATRIUM",
-      "posicao": null
-    },
-    {
-      "navio": "OCEAN MERMAID",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "12/08/2026",
-      "data_hora_iso": "2026-08-12T00:00:00",
-      "calado": "4,90/5,20",
-      "rota": "",
-      "berco": "BARRA DO RIO",
       "posicao": null
     },
     {
@@ -66,18 +56,8 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "12/08/2026",
       "data_hora_iso": "2026-08-12T00:00:00",
-      "calado": "TBC",
+      "calado": "9,45/9,80",
       "rota": "Bacia 2",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "MSC PAMELA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "13/08/2026",
-      "data_hora_iso": "2026-08-13T00:00:00",
-      "calado": "12,40 EK",
-      "rota": "",
       "berco": "JBS 2",
       "posicao": null
     },
@@ -199,6 +179,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "BRASKARNE",
+      "posicao": null
+    },
+    {
+      "navio": "MSC PAMELA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "15/08/2026",
+      "data_hora_iso": "2026-08-15T00:00:00",
+      "calado": "12,40 EK",
+      "rota": "",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
