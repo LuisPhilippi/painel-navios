@@ -1,24 +1,14 @@
 {
-  "gerado_em": "2026-08-12T23:22:01.574057",
+  "gerado_em": "2026-08-13T05:50:24.256029",
   "navios": [
     {
-      "navio": "OCEAN MERMAID",
+      "navio": "CLEANTEC",
       "status": "ManobraPrevista",
-      "data_hora_texto": "12/08/2026",
-      "data_hora_iso": "2026-08-12T00:00:00",
-      "calado": "5,10 EK",
+      "data_hora_texto": "13/08/2026",
+      "data_hora_iso": "2026-08-13T00:00:00",
+      "calado": "5,50/5,90",
       "rota": "",
-      "berco": "BARRA DO RIO",
-      "posicao": null
-    },
-    {
-      "navio": "CMA CGM MISSISSIPPI",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "12/08/2026",
-      "data_hora_iso": "2026-08-12T00:00:00",
-      "calado": "9,45/9,80",
-      "rota": "Bacia 2",
-      "berco": "JBS 2",
+      "berco": "TEPORTI",
       "posicao": null
     },
     {
@@ -29,16 +19,6 @@
       "calado": "9,50/9,90",
       "rota": "Bacia 2",
       "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "CLEANTEC",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "13/08/2026",
-      "data_hora_iso": "2026-08-13T00:00:00",
-      "calado": "5,50/5,90",
-      "rota": "",
-      "berco": "TEPORTI",
       "posicao": null
     },
     {
@@ -87,7 +67,7 @@
       "data_hora_texto": "14/08/2026",
       "data_hora_iso": "2026-08-14T00:00:00",
       "calado": "TBC",
-      "rota": "Bacia 1",
+      "rota": "",
       "berco": "PORTO ITAJAI - 04",
       "posicao": null
     },

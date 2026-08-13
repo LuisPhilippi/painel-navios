@@ -1,32 +1,6 @@
 {
-  "gerado_em": "2026-08-12T23:22:08.531058",
+  "gerado_em": "2026-08-13T05:50:30.362041",
   "navios": [
-    {
-      "navio": "Gladiator",
-      "imo": "9605853",
-      "agencia": "CARGONAVE",
-      "data_chegada_texto": "31/07/2026 23:00",
-      "data_chegada_iso": "2026-07-31T23:00:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "13/08/2026 01:00",
-      "data_manobra_iso": "2026-08-13T01:00:00",
-      "berco": "BARRA 101",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Anne",
-      "imo": "9593294",
-      "agencia": "LITORAL",
-      "data_chegada_texto": "02/08/2026 04:15",
-      "data_chegada_iso": "2026-08-02T04:15:00",
-      "manobra": "Desatracação e Fundeio",
-      "data_manobra": "13/08/2026 01:00",
-      "data_manobra_iso": "2026-08-13T01:00:00",
-      "berco": "101 F3",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Greenhouse",
       "imo": "9926245",
@@ -47,8 +21,8 @@
       "data_chegada_texto": "12/08/2026 04:49",
       "data_chegada_iso": "2026-08-12T04:49:00",
       "manobra": "Suspender e Atracar",
-      "data_manobra": "13/08/2026 07:00",
-      "data_manobra_iso": "2026-08-13T07:00:00",
+      "data_manobra": "13/08/2026 07:30",
+      "data_manobra_iso": "2026-08-13T07:30:00",
       "berco": "F5 901",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
@@ -89,6 +63,32 @@
       "data_manobra": "13/08/2026 12:00",
       "data_manobra_iso": "2026-08-13T12:00:00",
       "berco": "902 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Gladiator",
+      "imo": "9605853",
+      "agencia": "CARGONAVE",
+      "data_chegada_texto": "31/07/2026 23:00",
+      "data_chegada_iso": "2026-07-31T23:00:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "13/08/2026 14:00",
+      "data_manobra_iso": "2026-08-13T14:00:00",
+      "berco": "BARRA 101",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Anne",
+      "imo": "9593294",
+      "agencia": "LITORAL",
+      "data_chegada_texto": "02/08/2026 04:15",
+      "data_chegada_iso": "2026-08-02T04:15:00",
+      "manobra": "Desatracação e Fundeio",
+      "data_manobra": "13/08/2026 14:00",
+      "data_manobra_iso": "2026-08-13T14:00:00",
+      "berco": "101 F3",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
     },
