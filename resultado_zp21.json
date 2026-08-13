@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-13T09:47:29.272967",
+  "gerado_em": "2026-08-13T12:36:09.023374",
   "navios": [
     {
       "navio": "CLEANTEC",
@@ -9,16 +9,6 @@
       "calado": "5,50/5,90",
       "rota": "",
       "berco": "TEPORTI",
-      "posicao": null
-    },
-    {
-      "navio": "APL SALALAH",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "13/08/2026",
-      "data_hora_iso": "2026-08-13T00:00:00",
-      "calado": "9,50/9,90",
-      "rota": "Bacia 2",
-      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -32,13 +22,13 @@
       "posicao": null
     },
     {
-      "navio": "ONE AMAZON",
+      "navio": "APL SALALAH",
       "status": "ManobraPrevista",
       "data_hora_texto": "13/08/2026",
       "data_hora_iso": "2026-08-13T00:00:00",
-      "calado": "11,20/11,80",
+      "calado": "9,60/10,00",
       "rota": "Bacia 2",
-      "berco": "PNAVE 01",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -52,11 +42,21 @@
       "posicao": null
     },
     {
+      "navio": "ONE AMAZON",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "13/08/2026",
+      "data_hora_iso": "2026-08-13T00:00:00",
+      "calado": "11,20/11,80",
+      "rota": "Bacia 2",
+      "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
       "navio": "LOG-IN JATOBÁ",
       "status": "ManobraPrevista",
       "data_hora_texto": "14/08/2026",
       "data_hora_iso": "2026-08-14T00:00:00",
-      "calado": "TBC",
+      "calado": "10,20/10,80",
       "rota": "Bacia 1",
       "berco": "PNAVE 01",
       "posicao": null
@@ -66,7 +66,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "14/08/2026",
       "data_hora_iso": "2026-08-14T00:00:00",
-      "calado": "TBC",
+      "calado": "9,30/11,20",
       "rota": "",
       "berco": "PORTO ITAJAI - 04",
       "posicao": null
@@ -92,16 +92,6 @@
       "posicao": null
     },
     {
-      "navio": "MSC SABRINA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "14/08/2026",
-      "data_hora_iso": "2026-08-14T00:00:00",
-      "calado": "12,00 MAX",
-      "rota": "",
-      "berco": "PNAVE",
-      "posicao": null
-    },
-    {
       "navio": "BBC VAASA",
       "status": "ManobraPrevista",
       "data_hora_texto": "14/08/2026",
@@ -109,6 +99,16 @@
       "calado": "5,90/6,60",
       "rota": "",
       "berco": "BARRA DO RIO",
+      "posicao": null
+    },
+    {
+      "navio": "MSC SABRINA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "14/08/2026",
+      "data_hora_iso": "2026-08-14T00:00:00",
+      "calado": "12,00 MAX",
+      "rota": "",
+      "berco": "PNAVE",
       "posicao": null
     },
     {

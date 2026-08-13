@@ -1,32 +1,6 @@
 {
-  "gerado_em": "2026-08-13T09:47:37.069521",
+  "gerado_em": "2026-08-13T12:36:15.487333",
   "navios": [
-    {
-      "navio": "Greenhouse",
-      "imo": "9926245",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "11/08/2026 02:05",
-      "data_chegada_iso": "2026-08-11T02:05:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "13/08/2026 07:00",
-      "data_manobra_iso": "2026-08-13T07:00:00",
-      "berco": "901 BARRA",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Bartolomeu Dias",
-      "imo": "9625384",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "12/08/2026 04:49",
-      "data_chegada_iso": "2026-08-12T04:49:00",
-      "manobra": "Suspender e Atracar",
-      "data_manobra": "13/08/2026 07:30",
-      "data_manobra_iso": "2026-08-13T07:30:00",
-      "berco": "F5 901",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Babitonga Bay",
       "imo": "9663776",
@@ -37,7 +11,7 @@
       "data_manobra": "13/08/2026 08:30",
       "data_manobra_iso": "2026-08-13T08:30:00",
       "berco": "302 BARRA",
-      "situacao": "Confirmado",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -117,6 +91,19 @@
       "berco": "BARRA F5",
       "situacao": "A Confirmar",
       "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Bartolomeu Dias",
+      "imo": "9625384",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "12/08/2026 04:49",
+      "data_chegada_iso": "2026-08-12T04:49:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "901",
+      "situacao": null,
+      "secao": "Navios Atracados"
     },
     {
       "navio": "XSSC Bright",
