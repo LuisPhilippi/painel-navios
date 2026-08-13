@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-08-13T16:12:14.397382",
+  "gerado_em": "2026-08-13T19:58:35.766228",
   "navios": [
-    {
-      "navio": "VALOR",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "13/08/2026",
-      "data_hora_iso": "2026-08-13T00:00:00",
-      "calado": "10,65/12,25",
-      "rota": "",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "APL SALALAH",
       "status": "ManobraPrevista",
@@ -19,16 +9,6 @@
       "calado": "9,60/10,00",
       "rota": "Bacia 2",
       "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "NPaOc APA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "13/08/2026",
-      "data_hora_iso": "2026-08-13T00:00:00",
-      "calado": "3,80 EK",
-      "rota": "",
-      "berco": "DELEMAR",
       "posicao": null
     },
     {
@@ -42,16 +22,6 @@
       "posicao": null
     },
     {
-      "navio": "LOG-IN JATOBÁ",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "14/08/2026",
-      "data_hora_iso": "2026-08-14T00:00:00",
-      "calado": "10,20/10,80",
-      "rota": "Bacia 1",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
       "navio": "MAERSK CHACHAI",
       "status": "ManobraPrevista",
       "data_hora_texto": "14/08/2026",
@@ -59,6 +29,16 @@
       "calado": "9,30/11,20",
       "rota": "",
       "berco": "PORTO ITAJAI - 04",
+      "posicao": null
+    },
+    {
+      "navio": "LOG-IN JATOBÁ",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "14/08/2026",
+      "data_hora_iso": "2026-08-14T00:00:00",
+      "calado": "10,20/10,80",
+      "rota": "Bacia 1",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
@@ -92,13 +72,23 @@
       "posicao": null
     },
     {
+      "navio": "MSC PAMELA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "14/08/2026",
+      "data_hora_iso": "2026-08-14T00:00:00",
+      "calado": "12,40 EK",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
       "navio": "MSC SABRINA",
       "status": "ManobraPrevista",
       "data_hora_texto": "14/08/2026",
       "data_hora_iso": "2026-08-14T00:00:00",
       "calado": "12,00 MAX",
-      "rota": "",
-      "berco": "PNAVE",
+      "rota": "Bacia 2",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
@@ -109,16 +99,6 @@
       "calado": "TBC",
       "rota": "",
       "berco": "BRASKARNE",
-      "posicao": null
-    },
-    {
-      "navio": "MSC PAMELA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "15/08/2026",
-      "data_hora_iso": "2026-08-15T00:00:00",
-      "calado": "12,40 EK",
-      "rota": "",
-      "berco": "JBS",
       "posicao": null
     },
     {
@@ -159,6 +139,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "NPaOc APA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "16/08/2026",
+      "data_hora_iso": "2026-08-16T00:00:00",
+      "calado": "3,80 EK",
+      "rota": "",
+      "berco": "DELEMAR",
       "posicao": null
     },
     {
