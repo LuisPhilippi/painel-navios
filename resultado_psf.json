@@ -1,32 +1,6 @@
 {
-  "gerado_em": "2026-08-14T18:35:47.959229",
+  "gerado_em": "2026-08-14T20:18:02.294219",
   "navios": [
-    {
-      "navio": "Anne",
-      "imo": "9593294",
-      "agencia": "LITORAL",
-      "data_chegada_texto": "02/08/2026 04:15",
-      "data_chegada_iso": "2026-08-02T04:15:00",
-      "manobra": "Suspender e Sair",
-      "data_manobra": "14/08/2026 14:45",
-      "data_manobra_iso": "2026-08-14T14:45:00",
-      "berco": "F3 BARRA",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Equinox Galini",
-      "imo": "9503990",
-      "agencia": "ZPORT AGENCIA",
-      "data_chegada_texto": "13/08/2026 15:52",
-      "data_chegada_iso": "2026-08-13T15:52:00",
-      "manobra": "Suspender e Atracar",
-      "data_manobra": "14/08/2026 15:15",
-      "data_manobra_iso": "2026-08-14T15:15:00",
-      "berco": "F5 102",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "CMA CGM Veracruz",
       "imo": "9418377",
@@ -63,6 +37,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "101",
+      "situacao": null,
+      "secao": "Navios Atracados"
+    },
+    {
+      "navio": "Equinox Galini",
+      "imo": "9503990",
+      "agencia": "ZPORT AGENCIA",
+      "data_chegada_texto": "13/08/2026 15:52",
+      "data_chegada_iso": "2026-08-13T15:52:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "102",
       "situacao": null,
       "secao": "Navios Atracados"
     },
