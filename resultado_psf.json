@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-14T09:42:18.930210",
+  "gerado_em": "2026-08-14T12:29:34.636642",
   "navios": [
     {
       "navio": "CMA CGM Veracruz",
@@ -11,7 +11,7 @@
       "data_manobra": "14/08/2026 10:00",
       "data_manobra_iso": "2026-08-14T10:00:00",
       "berco": "BARRA 901",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Navios Esperados"
     },
     {
@@ -24,7 +24,7 @@
       "data_manobra": "14/08/2026 10:00",
       "data_manobra_iso": "2026-08-14T10:00:00",
       "berco": "901 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -37,7 +37,7 @@
       "data_manobra": "14/08/2026 10:15",
       "data_manobra_iso": "2026-08-14T10:15:00",
       "berco": "BARRA LJ Grande",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -50,7 +50,7 @@
       "data_manobra": "14/08/2026 10:15",
       "data_manobra_iso": "2026-08-14T10:15:00",
       "berco": "F4 (P1) BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
