@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-08-14T12:29:27.208825",
+  "gerado_em": "2026-08-14T15:37:58.388078",
   "navios": [
-    {
-      "navio": "ONE AMAZON",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "14/08/2026",
-      "data_hora_iso": "2026-08-14T00:00:00",
-      "calado": "8,20/9,90",
-      "rota": "",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "LOG-IN JATOBÁ",
       "status": "ManobraPrevista",
@@ -36,7 +26,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "14/08/2026",
       "data_hora_iso": "2026-08-14T00:00:00",
-      "calado": "12,00 MAX",
+      "calado": "11,70 EK",
       "rota": "",
       "berco": "PNAVE 01",
       "posicao": null
@@ -102,16 +92,6 @@
       "posicao": null
     },
     {
-      "navio": "APL SALALAH",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "15/08/2026",
-      "data_hora_iso": "2026-08-15T00:00:00",
-      "calado": "10,80/11,40",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
       "navio": "MSC BASEL V",
       "status": "ManobraPrevista",
       "data_hora_texto": "16/08/2026",
@@ -119,6 +99,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "APL SALALAH",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "16/08/2026",
+      "data_hora_iso": "2026-08-16T00:00:00",
+      "calado": "10,80/11,40",
+      "rota": "",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -176,7 +166,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "16/08/2026",
       "data_hora_iso": "2026-08-16T00:00:00",
-      "calado": "9,30/10,50",
+      "calado": "9,30/10,40",
       "rota": "",
       "berco": "PNAVE 01",
       "posicao": null
@@ -259,6 +249,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "PIO GRANDE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "20/08/2026",
+      "data_hora_iso": "2026-08-20T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "TEPORTI",
       "posicao": null
     },
     {
