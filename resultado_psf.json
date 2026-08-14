@@ -1,32 +1,6 @@
 {
-  "gerado_em": "2026-08-14T05:18:16.068218",
+  "gerado_em": "2026-08-14T09:42:18.930210",
   "navios": [
-    {
-      "navio": "Gladiator",
-      "imo": "9605853",
-      "agencia": "CARGONAVE",
-      "data_chegada_texto": "31/07/2026 23:00",
-      "data_chegada_iso": "2026-07-31T23:00:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "14/08/2026 01:45",
-      "data_manobra_iso": "2026-08-14T01:45:00",
-      "berco": "BARRA 101",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Anne",
-      "imo": "9593294",
-      "agencia": "LITORAL",
-      "data_chegada_texto": "02/08/2026 04:15",
-      "data_chegada_iso": "2026-08-02T04:15:00",
-      "manobra": "Desatracação e Fundeio",
-      "data_manobra": "14/08/2026 01:45",
-      "data_manobra_iso": "2026-08-14T01:45:00",
-      "berco": "101 F3",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "CMA CGM Veracruz",
       "imo": "9418377",
@@ -34,8 +8,8 @@
       "data_chegada_texto": "14/08/2026 08:30",
       "data_chegada_iso": "2026-08-14T08:30:00",
       "manobra": "Entrada e Atracação",
-      "data_manobra": "14/08/2026 08:30",
-      "data_manobra_iso": "2026-08-14T08:30:00",
+      "data_manobra": "14/08/2026 10:00",
+      "data_manobra_iso": "2026-08-14T10:00:00",
       "berco": "BARRA 901",
       "situacao": "A Confirmar",
       "secao": "Navios Esperados"
@@ -47,8 +21,8 @@
       "data_chegada_texto": "12/08/2026 04:49",
       "data_chegada_iso": "2026-08-12T04:49:00",
       "manobra": "Desatracação e Saída",
-      "data_manobra": "14/08/2026 08:30",
-      "data_manobra_iso": "2026-08-14T08:30:00",
+      "data_manobra": "14/08/2026 10:00",
+      "data_manobra_iso": "2026-08-14T10:00:00",
       "berco": "901 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
@@ -60,8 +34,8 @@
       "data_chegada_texto": "10/08/2026 15:10",
       "data_chegada_iso": "2026-08-10T15:10:00",
       "manobra": "Entrada e Fundeio",
-      "data_manobra": "14/08/2026 10:00",
-      "data_manobra_iso": "2026-08-14T10:00:00",
+      "data_manobra": "14/08/2026 10:15",
+      "data_manobra_iso": "2026-08-14T10:15:00",
       "berco": "BARRA LJ Grande",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
@@ -73,8 +47,8 @@
       "data_chegada_texto": "31/07/2026 00:00",
       "data_chegada_iso": "2026-07-31T00:00:00",
       "manobra": "Suspender e Sair",
-      "data_manobra": "14/08/2026 10:00",
-      "data_manobra_iso": "2026-08-14T10:00:00",
+      "data_manobra": "14/08/2026 10:15",
+      "data_manobra_iso": "2026-08-14T10:15:00",
       "berco": "F4 (P1) BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
@@ -89,6 +63,19 @@
       "data_manobra": "14/08/2026 14:45",
       "data_manobra_iso": "2026-08-14T14:45:00",
       "berco": "F5 102",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Anne",
+      "imo": "9593294",
+      "agencia": "LITORAL",
+      "data_chegada_texto": "02/08/2026 04:15",
+      "data_chegada_iso": "2026-08-02T04:15:00",
+      "manobra": "Suspender e Sair",
+      "data_manobra": "14/08/2026 14:45",
+      "data_manobra_iso": "2026-08-14T14:45:00",
+      "berco": "F3 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
     },
@@ -117,6 +104,19 @@
       "berco": "BARRA 902",
       "situacao": "A Confirmar",
       "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Gladiator",
+      "imo": "9605853",
+      "agencia": "CARGONAVE",
+      "data_chegada_texto": "31/07/2026 23:00",
+      "data_chegada_iso": "2026-07-31T23:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "101",
+      "situacao": null,
+      "secao": "Navios Atracados"
     },
     {
       "navio": "Irvine Bay",
