@@ -1,18 +1,18 @@
 {
-  "gerado_em": "2026-08-14T20:18:02.294219",
+  "gerado_em": "2026-08-14T21:53:28.347415",
   "navios": [
     {
-      "navio": "CMA CGM Veracruz",
-      "imo": "9418377",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "14/08/2026 10:00",
-      "data_chegada_iso": "2026-08-14T10:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "901",
-      "situacao": null,
-      "secao": "Navios Atracados"
+      "navio": "Maersk Fortaleza",
+      "imo": "9979278",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "14/08/2026 09:00",
+      "data_chegada_iso": "2026-08-14T09:00:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "14/08/2026 21:30",
+      "data_manobra_iso": "2026-08-14T21:30:00",
+      "berco": "BARRA 902",
+      "situacao": "A Confirmar",
+      "secao": "Navios Esperados"
     },
     {
       "navio": "Maersk San Vincent",
@@ -20,12 +20,90 @@
       "agencia": "LACHMANN",
       "data_chegada_texto": "13/08/2026 12:27",
       "data_chegada_iso": "2026-08-13T12:27:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "902",
-      "situacao": null,
-      "secao": "Navios Atracados"
+      "manobra": "Desatracação e Fundeio",
+      "data_manobra": "14/08/2026 21:30",
+      "data_manobra_iso": "2026-08-14T21:30:00",
+      "berco": "902 F5",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "CMA CGM Veracruz",
+      "imo": "9418377",
+      "agencia": "UNIMAR",
+      "data_chegada_texto": "14/08/2026 10:00",
+      "data_chegada_iso": "2026-08-14T10:00:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "15/08/2026 08:00",
+      "data_manobra_iso": "2026-08-15T08:00:00",
+      "berco": "901 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Barcaça N11",
+      "imo": "9326029",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "09/08/2026 15:55",
+      "data_chegada_iso": "2026-08-09T15:55:00",
+      "manobra": "Desatracação e Fundeio",
+      "data_manobra": "15/08/2026 09:00",
+      "data_manobra_iso": "2026-08-15T09:00:00",
+      "berco": "302 F1",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Maersk Venezia",
+      "imo": "9344681",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "13/08/2026 20:00",
+      "data_chegada_iso": "2026-08-13T20:00:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "15/08/2026 09:30",
+      "data_manobra_iso": "2026-08-15T09:30:00",
+      "berco": "BARRA 901",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Pio Grande",
+      "imo": "9647863",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "10/08/2026 15:10",
+      "data_chegada_iso": "2026-08-10T15:10:00",
+      "manobra": "Suspender e Atracar",
+      "data_manobra": "15/08/2026 11:00",
+      "data_manobra_iso": "2026-08-15T11:00:00",
+      "berco": "LJ Grande 302",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Maliakos",
+      "imo": "9464247",
+      "agencia": "ROCHAMAR",
+      "data_chegada_texto": "14/08/2026 18:00",
+      "data_chegada_iso": "2026-08-14T18:00:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "15/08/2026 12:00",
+      "data_manobra_iso": "2026-08-15T12:00:00",
+      "berco": "BARRA 902",
+      "situacao": "A Confirmar",
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Pedro Alvares Cabral",
+      "imo": "9603219",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "15/08/2026 15:00",
+      "data_chegada_iso": "2026-08-15T15:00:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "15/08/2026 20:00",
+      "data_manobra_iso": "2026-08-15T20:00:00",
+      "berco": "BARRA 901",
+      "situacao": "A Confirmar",
+      "secao": "Navios Esperados"
     },
     {
       "navio": "Gladiator",
@@ -80,19 +158,6 @@
       "secao": "Navios Atracados"
     },
     {
-      "navio": "Barcaça N11",
-      "imo": "9326029",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "09/08/2026 15:55",
-      "data_chegada_iso": "2026-08-09T15:55:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "302",
-      "situacao": null,
-      "secao": "Navios Atracados"
-    },
-    {
       "navio": "TSHD Galileo Galilei",
       "imo": "9872365",
       "agencia": "LITORAL",
@@ -102,19 +167,6 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "FUND",
-      "situacao": null,
-      "secao": "Navios Fundeados (Internos)"
-    },
-    {
-      "navio": "Pio Grande",
-      "imo": "9647863",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "10/08/2026 15:10",
-      "data_chegada_iso": "2026-08-10T15:10:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "LJ Grande",
       "situacao": null,
       "secao": "Navios Fundeados (Internos)"
     },
@@ -197,19 +249,6 @@
       "secao": "Navios Fundeados (Barra)"
     },
     {
-      "navio": "Maersk Venezia",
-      "imo": "9344681",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "13/08/2026 20:00",
-      "data_chegada_iso": "2026-08-13T20:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Fundeados (Barra)"
-    },
-    {
       "navio": "Stinger",
       "imo": "9762871",
       "agencia": "WILSON SONS",
@@ -223,19 +262,6 @@
       "secao": "Navios Esperados"
     },
     {
-      "navio": "Maersk Fortaleza",
-      "imo": "9979278",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "14/08/2026 09:00",
-      "data_chegada_iso": "2026-08-14T09:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": null,
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
       "navio": "Lefkes",
       "imo": "9658783",
       "agencia": "ZPORT AGENCIA",
@@ -245,32 +271,6 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "SFS",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Maliakos",
-      "imo": "9464247",
-      "agencia": "ROCHAMAR",
-      "data_chegada_texto": "14/08/2026 18:00",
-      "data_chegada_iso": "2026-08-14T18:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Pedro Alvares Cabral",
-      "imo": "9603219",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "15/08/2026 15:00",
-      "data_chegada_iso": "2026-08-15T15:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Esperados"
     },
