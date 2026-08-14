@@ -1,19 +1,6 @@
 {
-  "gerado_em": "2026-08-13T22:24:22.080456",
+  "gerado_em": "2026-08-14T05:18:16.068218",
   "navios": [
-    {
-      "navio": "Irvine Bay",
-      "imo": "9682928",
-      "agencia": "MASTER",
-      "data_chegada_texto": "07/08/2026 19:59",
-      "data_chegada_iso": "2026-08-07T19:59:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "13/08/2026 19:45",
-      "data_manobra_iso": "2026-08-13T19:45:00",
-      "berco": "BARRA 201",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Gladiator",
       "imo": "9605853",
@@ -24,7 +11,7 @@
       "data_manobra": "14/08/2026 01:45",
       "data_manobra_iso": "2026-08-14T01:45:00",
       "berco": "BARRA 101",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -37,7 +24,7 @@
       "data_manobra": "14/08/2026 01:45",
       "data_manobra_iso": "2026-08-14T01:45:00",
       "berco": "101 F3",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -73,8 +60,8 @@
       "data_chegada_texto": "10/08/2026 15:10",
       "data_chegada_iso": "2026-08-10T15:10:00",
       "manobra": "Entrada e Fundeio",
-      "data_manobra": "14/08/2026 08:45",
-      "data_manobra_iso": "2026-08-14T08:45:00",
+      "data_manobra": "14/08/2026 10:00",
+      "data_manobra_iso": "2026-08-14T10:00:00",
       "berco": "BARRA LJ Grande",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
@@ -130,6 +117,19 @@
       "berco": "BARRA 902",
       "situacao": "A Confirmar",
       "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Irvine Bay",
+      "imo": "9682928",
+      "agencia": "MASTER",
+      "data_chegada_texto": "07/08/2026 19:59",
+      "data_chegada_iso": "2026-08-07T19:59:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "201",
+      "situacao": null,
+      "secao": "Navios Atracados"
     },
     {
       "navio": "XSSC Bright",
@@ -236,6 +236,19 @@
       "secao": "Navios Fundeados (Barra)"
     },
     {
+      "navio": "Maersk Venezia",
+      "imo": "9344681",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "13/08/2026 20:00",
+      "data_chegada_iso": "2026-08-13T20:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Fundeados (Barra)"
+    },
+    {
       "navio": "Stinger",
       "imo": "9762871",
       "agencia": "WILSON SONS",
@@ -267,19 +280,6 @@
       "agencia": "ROCHAMAR",
       "data_chegada_texto": "14/08/2026 18:00",
       "data_chegada_iso": "2026-08-14T18:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Maersk Venezia",
-      "imo": "9344681",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "14/08/2026 20:00",
-      "data_chegada_iso": "2026-08-14T20:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
