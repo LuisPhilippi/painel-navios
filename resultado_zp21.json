@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-08-14T15:37:58.388078",
+  "gerado_em": "2026-08-14T18:35:39.985179",
   "navios": [
-    {
-      "navio": "LOG-IN JATOBÁ",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "14/08/2026",
-      "data_hora_iso": "2026-08-14T00:00:00",
-      "calado": "10,20/10,80",
-      "rota": "Bacia 1",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "BBC VAASA",
       "status": "ManobraPrevista",
@@ -22,6 +12,16 @@
       "posicao": null
     },
     {
+      "navio": "LOG-IN JATOBÁ",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "14/08/2026",
+      "data_hora_iso": "2026-08-14T00:00:00",
+      "calado": "7,20/8,50",
+      "rota": "",
+      "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
       "navio": "MSC SABRINA",
       "status": "ManobraPrevista",
       "data_hora_texto": "14/08/2026",
@@ -29,16 +29,6 @@
       "calado": "11,70 EK",
       "rota": "",
       "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "CAPE PIONEER",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "15/08/2026",
-      "data_hora_iso": "2026-08-15T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS",
       "posicao": null
     },
     {
@@ -72,13 +62,23 @@
       "posicao": null
     },
     {
+      "navio": "BREMERHAVEN EXPRESS",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "15/08/2026",
+      "data_hora_iso": "2026-08-15T00:00:00",
+      "calado": "9,30/10,40",
+      "rota": "",
+      "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
       "navio": "MSC PAMELA",
       "status": "ManobraPrevista",
       "data_hora_texto": "15/08/2026",
       "data_hora_iso": "2026-08-15T00:00:00",
       "calado": "12,40 EK",
-      "rota": "",
-      "berco": "JBS",
+      "rota": "Bacia 2",
+      "berco": "PORTO ITAJAI - 04",
       "posicao": null
     },
     {
@@ -109,6 +109,16 @@
       "calado": "10,80/11,40",
       "rota": "",
       "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "CAPE PIONEER",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "16/08/2026",
+      "data_hora_iso": "2026-08-16T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
       "posicao": null
     },
     {
@@ -162,13 +172,13 @@
       "posicao": null
     },
     {
-      "navio": "BREMERHAVEN EXPRESS",
+      "navio": "MSC AINO",
       "status": "ManobraPrevista",
       "data_hora_texto": "16/08/2026",
       "data_hora_iso": "2026-08-16T00:00:00",
-      "calado": "9,30/10,40",
+      "calado": "12,30 EK",
       "rota": "",
-      "berco": "PNAVE 01",
+      "berco": "PNAVE",
       "posicao": null
     },
     {
@@ -179,16 +189,6 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
-      "posicao": null
-    },
-    {
-      "navio": "MSC AINO",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "18/08/2026",
-      "data_hora_iso": "2026-08-18T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE",
       "posicao": null
     },
     {

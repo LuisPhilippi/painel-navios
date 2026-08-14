@@ -1,19 +1,6 @@
 {
-  "gerado_em": "2026-08-14T15:38:09.242645",
+  "gerado_em": "2026-08-14T18:35:47.959229",
   "navios": [
-    {
-      "navio": "Equinox Galini",
-      "imo": "9503990",
-      "agencia": "ZPORT AGENCIA",
-      "data_chegada_texto": "13/08/2026 15:52",
-      "data_chegada_iso": "2026-08-13T15:52:00",
-      "manobra": "Suspender e Atracar",
-      "data_manobra": "14/08/2026 14:45",
-      "data_manobra_iso": "2026-08-14T14:45:00",
-      "berco": "F5 102",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Anne",
       "imo": "9593294",
@@ -24,7 +11,20 @@
       "data_manobra": "14/08/2026 14:45",
       "data_manobra_iso": "2026-08-14T14:45:00",
       "berco": "F3 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Equinox Galini",
+      "imo": "9503990",
+      "agencia": "ZPORT AGENCIA",
+      "data_chegada_texto": "13/08/2026 15:52",
+      "data_chegada_iso": "2026-08-13T15:52:00",
+      "manobra": "Suspender e Atracar",
+      "data_manobra": "14/08/2026 15:15",
+      "data_manobra_iso": "2026-08-14T15:15:00",
+      "berco": "F5 102",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
