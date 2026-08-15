@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-08-14T23:52:18.313595",
+  "gerado_em": "2026-08-15T03:03:40.096344",
   "navios": [
-    {
-      "navio": "LOG-IN JATOBÁ",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "14/08/2026",
-      "data_hora_iso": "2026-08-14T00:00:00",
-      "calado": "7,20/8,50",
-      "rota": "",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "MSC SABRINA",
       "status": "ManobraPrevista",
@@ -129,6 +119,16 @@
       "calado": "10,00/10,20",
       "rota": "",
       "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "BALSA Z MAX XX + C TORMENTA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "16/08/2026",
+      "data_hora_iso": "2026-08-16T00:00:00",
+      "calado": "3,00 EK",
+      "rota": "",
+      "berco": "SEATRIUM",
       "posicao": null
     },
     {
@@ -300,16 +300,6 @@
       "rota": "",
       "berco": null,
       "posicao": "26 52,18 S / 048 32,96 W"
-    },
-    {
-      "navio": "BALSA Z MAX XX + C TORMENTA",
-      "status": "Atracado",
-      "data_hora_texto": "12/08/2026 - 14:38",
-      "data_hora_iso": "2026-08-12T14:38:00",
-      "calado": null,
-      "rota": "",
-      "berco": "SEATRIUM",
-      "posicao": null
     },
     {
       "navio": "BRUCE KAY",
