@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-15T13:39:56.911910",
+  "gerado_em": "2026-08-15T14:52:10.154424",
   "navios": [
     {
       "navio": "ELVIRA",
@@ -67,7 +67,7 @@
       "data_hora_texto": "15/08/2026",
       "data_hora_iso": "2026-08-15T00:00:00",
       "calado": "12,40 EK",
-      "rota": "Bacia 2",
+      "rota": "",
       "berco": "PORTO ITAJAI - 04",
       "posicao": null
     },
