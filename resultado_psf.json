@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-15T22:51:19.129595",
+  "gerado_em": "2026-08-15T23:41:00.059889",
   "navios": [
     {
       "navio": "Pedro Alvares Cabral",
@@ -24,19 +24,6 @@
       "data_manobra": "15/08/2026 23:00",
       "data_manobra_iso": "2026-08-15T23:00:00",
       "berco": "901 BARRA",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Tuju Arrow",
-      "imo": "9443920",
-      "agencia": "SEATRADE",
-      "data_chegada_texto": "11/08/2026 14:30",
-      "data_chegada_iso": "2026-08-11T14:30:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "16/08/2026 03:00",
-      "data_manobra_iso": "2026-08-16T03:00:00",
-      "berco": "BARRA 300",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
     },
@@ -193,6 +180,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "SFS",
+      "situacao": null,
+      "secao": "Navios Fundeados (Barra)"
+    },
+    {
+      "navio": "Tuju Arrow",
+      "imo": "9443920",
+      "agencia": "SEATRADE",
+      "data_chegada_texto": "11/08/2026 14:30",
+      "data_chegada_iso": "2026-08-11T14:30:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": null,
       "situacao": null,
       "secao": "Navios Fundeados (Barra)"
     },
