@@ -1,32 +1,6 @@
 {
-  "gerado_em": "2026-08-15T20:53:59.616433",
+  "gerado_em": "2026-08-15T21:43:44.574001",
   "navios": [
-    {
-      "navio": "Maliakos",
-      "imo": "9464247",
-      "agencia": "ROCHAMAR",
-      "data_chegada_texto": "15/08/2026 16:29",
-      "data_chegada_iso": "2026-08-15T16:29:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "15/08/2026 16:30",
-      "data_manobra_iso": "2026-08-15T16:30:00",
-      "berco": "BARRA 902",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Maersk Fortaleza",
-      "imo": "9979278",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "15/08/2026 00:28",
-      "data_chegada_iso": "2026-08-15T00:28:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "15/08/2026 16:30",
-      "data_manobra_iso": "2026-08-15T16:30:00",
-      "berco": "902 BARRA",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Pedro Alvares Cabral",
       "imo": "9603219",
@@ -76,6 +50,19 @@
       "data_manobra": "16/08/2026 03:00",
       "data_manobra_iso": "2026-08-16T03:00:00",
       "berco": "301 F5",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Maliakos",
+      "imo": "9464247",
+      "agencia": "ROCHAMAR",
+      "data_chegada_texto": "15/08/2026 16:29",
+      "data_chegada_iso": "2026-08-15T16:29:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "16/08/2026 08:30",
+      "data_manobra_iso": "2026-08-16T08:30:00",
+      "berco": "902 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
     },

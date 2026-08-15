@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-15T20:53:52.285012",
+  "gerado_em": "2026-08-15T21:43:37.076247",
   "navios": [
     {
       "navio": "BREMERHAVEN EXPRESS",
@@ -29,26 +29,6 @@
       "calado": "12,40 EK",
       "rota": "",
       "berco": "PORTO ITAJAI - 04",
-      "posicao": null
-    },
-    {
-      "navio": "CAPE PIONEER",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "16/08/2026",
-      "data_hora_iso": "2026-08-16T00:00:00",
-      "calado": "10,90 EK",
-      "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
-      "navio": "IRENES WISDOM",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "16/08/2026",
-      "data_hora_iso": "2026-08-16T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS",
       "posicao": null
     },
     {
@@ -117,6 +97,16 @@
       "data_hora_texto": "16/08/2026",
       "data_hora_iso": "2026-08-16T00:00:00",
       "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "CAPE PIONEER",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "16/08/2026",
+      "data_hora_iso": "2026-08-16T00:00:00",
+      "calado": "10,90 EK",
       "rota": "",
       "berco": "JBS",
       "posicao": null
@@ -213,6 +203,16 @@
     },
     {
       "navio": "MSC SUSANNA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "19/08/2026",
+      "data_hora_iso": "2026-08-19T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "IRENES WISDOM",
       "status": "ManobraPrevista",
       "data_hora_texto": "19/08/2026",
       "data_hora_iso": "2026-08-19T00:00:00",
