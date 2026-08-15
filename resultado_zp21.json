@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-08-15T10:50:44.322950",
+  "gerado_em": "2026-08-15T11:40:59.082756",
   "navios": [
-    {
-      "navio": "APL SALALAH",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "15/08/2026",
-      "data_hora_iso": "2026-08-15T00:00:00",
-      "calado": "10,80/11,40",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
     {
       "navio": "ELVIRA",
       "status": "ManobraPrevista",
@@ -22,12 +12,32 @@
       "posicao": null
     },
     {
-      "navio": "MAERSK CHACHAI",
+      "navio": "MSC SABRINA",
       "status": "ManobraPrevista",
       "data_hora_texto": "15/08/2026",
       "data_hora_iso": "2026-08-15T00:00:00",
-      "calado": "9,50/11,60",
+      "calado": "10,35/10,80",
+      "rota": "Bacia 2",
+      "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
+      "navio": "APL SALALAH",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "15/08/2026",
+      "data_hora_iso": "2026-08-15T00:00:00",
+      "calado": "10,80/11,40",
       "rota": "",
+      "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "MSC PAMELA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "15/08/2026",
+      "data_hora_iso": "2026-08-15T00:00:00",
+      "calado": "12,40 EK",
+      "rota": "Bacia 2",
       "berco": "PORTO ITAJAI - 04",
       "posicao": null
     },
@@ -42,26 +52,6 @@
       "posicao": null
     },
     {
-      "navio": "MSC SABRINA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "15/08/2026",
-      "data_hora_iso": "2026-08-15T00:00:00",
-      "calado": "10,35/10,80",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "MSC PAMELA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "15/08/2026",
-      "data_hora_iso": "2026-08-15T00:00:00",
-      "calado": "12,40 EK",
-      "rota": "Bacia 2",
-      "berco": "PORTO ITAJAI - 04",
-      "posicao": null
-    },
-    {
       "navio": "BREMERHAVEN EXPRESS",
       "status": "ManobraPrevista",
       "data_hora_texto": "15/08/2026",
@@ -72,11 +62,21 @@
       "posicao": null
     },
     {
+      "navio": "MAERSK CHACHAI",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "15/08/2026",
+      "data_hora_iso": "2026-08-15T00:00:00",
+      "calado": "9,50/11,60",
+      "rota": "Bacia 1",
+      "berco": "PORTO ITAJAI - 04",
+      "posicao": null
+    },
+    {
       "navio": "CAPE PIONEER",
       "status": "ManobraPrevista",
       "data_hora_texto": "16/08/2026",
       "data_hora_iso": "2026-08-16T00:00:00",
-      "calado": "10,70 EK",
+      "calado": "10,90 EK",
       "rota": "",
       "berco": "JBS",
       "posicao": null
@@ -136,7 +136,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "16/08/2026",
       "data_hora_iso": "2026-08-16T00:00:00",
-      "calado": "12,30 EK",
+      "calado": "12,10 EK",
       "rota": "",
       "berco": "PNAVE",
       "posicao": null
