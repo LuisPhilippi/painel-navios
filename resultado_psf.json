@@ -1,19 +1,6 @@
 {
-  "gerado_em": "2026-08-15T14:52:17.293623",
+  "gerado_em": "2026-08-15T15:43:02.847388",
   "navios": [
-    {
-      "navio": "Pio Grande",
-      "imo": "9647863",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "10/08/2026 15:10",
-      "data_chegada_iso": "2026-08-10T15:10:00",
-      "manobra": "Suspender e Atracar",
-      "data_manobra": "15/08/2026 11:00",
-      "data_manobra_iso": "2026-08-15T11:00:00",
-      "berco": "LJ Grande 302",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Maliakos",
       "imo": "9464247",
@@ -115,6 +102,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "301",
+      "situacao": null,
+      "secao": "Navios Atracados"
+    },
+    {
+      "navio": "Pio Grande",
+      "imo": "9647863",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "10/08/2026 15:10",
+      "data_chegada_iso": "2026-08-10T15:10:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "302",
       "situacao": null,
       "secao": "Navios Atracados"
     },

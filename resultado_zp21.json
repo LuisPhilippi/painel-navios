@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-15T14:52:10.154424",
+  "gerado_em": "2026-08-15T15:42:55.482946",
   "navios": [
     {
       "navio": "ELVIRA",
@@ -9,16 +9,6 @@
       "calado": "3,60/6,90",
       "rota": "",
       "berco": "BRASKARNE",
-      "posicao": null
-    },
-    {
-      "navio": "MSC SABRINA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "15/08/2026",
-      "data_hora_iso": "2026-08-15T00:00:00",
-      "calado": "10,35/10,80",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 01",
       "posicao": null
     },
     {
@@ -32,13 +22,13 @@
       "posicao": null
     },
     {
-      "navio": "BBC VAASA",
+      "navio": "MSC SABRINA",
       "status": "ManobraPrevista",
       "data_hora_texto": "15/08/2026",
       "data_hora_iso": "2026-08-15T00:00:00",
-      "calado": "5,60/6,50",
-      "rota": "",
-      "berco": "BARRA DO RIO",
+      "calado": "10,35/10,80",
+      "rota": "Bacia 2",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
@@ -119,6 +109,16 @@
       "calado": "10,00/10,20",
       "rota": "",
       "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "BBC VAASA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "16/08/2026",
+      "data_hora_iso": "2026-08-16T00:00:00",
+      "calado": "5,60/6,50",
+      "rota": "",
+      "berco": "BARRA DO RIO",
       "posicao": null
     },
     {
