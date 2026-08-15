@@ -1,12 +1,12 @@
 {
-  "gerado_em": "2026-08-15T11:40:59.082756",
+  "gerado_em": "2026-08-15T13:39:56.911910",
   "navios": [
     {
       "navio": "ELVIRA",
       "status": "ManobraPrevista",
       "data_hora_texto": "15/08/2026",
       "data_hora_iso": "2026-08-15T00:00:00",
-      "calado": "TBC",
+      "calado": "3,60/6,90",
       "rota": "",
       "berco": "BRASKARNE",
       "posicao": null
@@ -29,16 +29,6 @@
       "calado": "10,80/11,40",
       "rota": "",
       "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "MSC PAMELA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "15/08/2026",
-      "data_hora_iso": "2026-08-15T00:00:00",
-      "calado": "12,40 EK",
-      "rota": "Bacia 2",
-      "berco": "PORTO ITAJAI - 04",
       "posicao": null
     },
     {
@@ -68,6 +58,16 @@
       "data_hora_iso": "2026-08-15T00:00:00",
       "calado": "9,50/11,60",
       "rota": "Bacia 1",
+      "berco": "PORTO ITAJAI - 04",
+      "posicao": null
+    },
+    {
+      "navio": "MSC PAMELA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "15/08/2026",
+      "data_hora_iso": "2026-08-15T00:00:00",
+      "calado": "12,40 EK",
+      "rota": "Bacia 2",
       "berco": "PORTO ITAJAI - 04",
       "posicao": null
     },

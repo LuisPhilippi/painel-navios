@@ -1,45 +1,6 @@
 {
-  "gerado_em": "2026-08-15T11:41:05.903538",
+  "gerado_em": "2026-08-15T13:40:03.785470",
   "navios": [
-    {
-      "navio": "CMA CGM Veracruz",
-      "imo": "9418377",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "14/08/2026 10:00",
-      "data_chegada_iso": "2026-08-14T10:00:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "15/08/2026 08:00",
-      "data_manobra_iso": "2026-08-15T08:00:00",
-      "berco": "901 BARRA",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Maersk San Vincent",
-      "imo": "9717228",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "13/08/2026 12:27",
-      "data_chegada_iso": "2026-08-13T12:27:00",
-      "manobra": "Suspender e Sair",
-      "data_manobra": "15/08/2026 08:00",
-      "data_manobra_iso": "2026-08-15T08:00:00",
-      "berco": "F5 BARRA",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Barcaça N11",
-      "imo": "9326029",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "09/08/2026 15:55",
-      "data_chegada_iso": "2026-08-09T15:55:00",
-      "manobra": "Desatracação e Fundeio",
-      "data_manobra": "15/08/2026 09:00",
-      "data_manobra_iso": "2026-08-15T09:00:00",
-      "berco": "302 F4 (P2)",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Maersk Venezia",
       "imo": "9344681",
@@ -50,7 +11,7 @@
       "data_manobra": "15/08/2026 09:30",
       "data_manobra_iso": "2026-08-15T09:30:00",
       "berco": "BARRA 901",
-      "situacao": "Confirmado",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -63,7 +24,7 @@
       "data_manobra": "15/08/2026 11:00",
       "data_manobra_iso": "2026-08-15T11:00:00",
       "berco": "LJ Grande 302",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -73,8 +34,8 @@
       "data_chegada_texto": "14/08/2026 18:00",
       "data_chegada_iso": "2026-08-14T18:00:00",
       "manobra": "Entrada e Atracação",
-      "data_manobra": "15/08/2026 12:00",
-      "data_manobra_iso": "2026-08-15T12:00:00",
+      "data_manobra": "15/08/2026 16:30",
+      "data_manobra_iso": "2026-08-15T16:30:00",
       "berco": "BARRA 902",
       "situacao": "A Confirmar",
       "secao": "Navios Esperados"
@@ -86,8 +47,8 @@
       "data_chegada_texto": "15/08/2026 00:28",
       "data_chegada_iso": "2026-08-15T00:28:00",
       "manobra": "Desatracação e Saída",
-      "data_manobra": "15/08/2026 12:00",
-      "data_manobra_iso": "2026-08-15T12:00:00",
+      "data_manobra": "15/08/2026 16:30",
+      "data_manobra_iso": "2026-08-15T16:30:00",
       "berco": "902 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
@@ -99,8 +60,8 @@
       "data_chegada_texto": "15/08/2026 15:00",
       "data_chegada_iso": "2026-08-15T15:00:00",
       "manobra": "Entrada e Atracação",
-      "data_manobra": "15/08/2026 20:00",
-      "data_manobra_iso": "2026-08-15T20:00:00",
+      "data_manobra": "15/08/2026 23:00",
+      "data_manobra_iso": "2026-08-15T23:00:00",
       "berco": "BARRA 901",
       "situacao": "A Confirmar",
       "secao": "Navios Esperados"
@@ -167,6 +128,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "FUND",
+      "situacao": null,
+      "secao": "Navios Fundeados (Internos)"
+    },
+    {
+      "navio": "Barcaça N11",
+      "imo": "9326029",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "09/08/2026 15:55",
+      "data_chegada_iso": "2026-08-09T15:55:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "F4 (P2)",
       "situacao": null,
       "secao": "Navios Fundeados (Internos)"
     },
