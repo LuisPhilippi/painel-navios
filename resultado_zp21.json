@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-15T15:42:55.482946",
+  "gerado_em": "2026-08-15T16:54:49.494124",
   "navios": [
     {
       "navio": "ELVIRA",
@@ -54,8 +54,8 @@
     {
       "navio": "MSC PAMELA",
       "status": "ManobraPrevista",
-      "data_hora_texto": "15/08/2026",
-      "data_hora_iso": "2026-08-15T00:00:00",
+      "data_hora_texto": "16/08/2026",
+      "data_hora_iso": "2026-08-16T00:00:00",
       "calado": "12,40 EK",
       "rota": "",
       "berco": "PORTO ITAJAI - 04",
