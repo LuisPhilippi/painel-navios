@@ -1,19 +1,6 @@
 {
-  "gerado_em": "2026-08-15T05:01:23.469876",
+  "gerado_em": "2026-08-15T07:19:08.215983",
   "navios": [
-    {
-      "navio": "Maersk Fortaleza",
-      "imo": "9979278",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "15/08/2026 00:28",
-      "data_chegada_iso": "2026-08-15T00:28:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "15/08/2026 00:30",
-      "data_manobra_iso": "2026-08-15T00:30:00",
-      "berco": "BARRA 902",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "CMA CGM Veracruz",
       "imo": "9418377",
@@ -91,6 +78,19 @@
       "berco": "BARRA 902",
       "situacao": "A Confirmar",
       "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Maersk Fortaleza",
+      "imo": "9979278",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "15/08/2026 00:28",
+      "data_chegada_iso": "2026-08-15T00:28:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "15/08/2026 12:00",
+      "data_manobra_iso": "2026-08-15T12:00:00",
+      "berco": "902 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
     },
     {
       "navio": "Pedro Alvares Cabral",

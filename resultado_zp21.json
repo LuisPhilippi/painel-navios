@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-15T05:01:16.141320",
+  "gerado_em": "2026-08-15T07:18:58.093875",
   "navios": [
     {
       "navio": "ELVIRA",
@@ -36,7 +36,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "15/08/2026",
       "data_hora_iso": "2026-08-15T00:00:00",
-      "calado": "10,60 EK",
+      "calado": "10,35/10,80",
       "rota": "Bacia 2",
       "berco": "PNAVE 01",
       "posicao": null
