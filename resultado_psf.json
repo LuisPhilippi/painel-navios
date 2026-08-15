@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-15T09:53:46.876567",
+  "gerado_em": "2026-08-15T10:50:52.259886",
   "navios": [
     {
       "navio": "CMA CGM Veracruz",
@@ -37,7 +37,7 @@
       "data_manobra": "15/08/2026 09:00",
       "data_manobra_iso": "2026-08-15T09:00:00",
       "berco": "302 F4 (P2)",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -50,7 +50,7 @@
       "data_manobra": "15/08/2026 09:30",
       "data_manobra_iso": "2026-08-15T09:30:00",
       "berco": "BARRA 901",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {

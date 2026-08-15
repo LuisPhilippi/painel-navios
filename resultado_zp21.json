@@ -1,6 +1,16 @@
 {
-  "gerado_em": "2026-08-15T09:53:40.589187",
+  "gerado_em": "2026-08-15T10:50:44.322950",
   "navios": [
+    {
+      "navio": "APL SALALAH",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "15/08/2026",
+      "data_hora_iso": "2026-08-15T00:00:00",
+      "calado": "10,80/11,40",
+      "rota": "",
+      "berco": "JBS 2",
+      "posicao": null
+    },
     {
       "navio": "ELVIRA",
       "status": "ManobraPrevista",
@@ -59,16 +69,6 @@
       "calado": "9,30/10,40",
       "rota": "",
       "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "APL SALALAH",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "16/08/2026",
-      "data_hora_iso": "2026-08-16T00:00:00",
-      "calado": "10,80/11,40",
-      "rota": "",
-      "berco": "JBS 2",
       "posicao": null
     },
     {
