@@ -1,18 +1,18 @@
 {
-  "gerado_em": "2026-08-15T19:01:39.571897",
+  "gerado_em": "2026-08-15T20:53:59.616433",
   "navios": [
     {
       "navio": "Maliakos",
       "imo": "9464247",
       "agencia": "ROCHAMAR",
-      "data_chegada_texto": "14/08/2026 18:00",
-      "data_chegada_iso": "2026-08-14T18:00:00",
+      "data_chegada_texto": "15/08/2026 16:29",
+      "data_chegada_iso": "2026-08-15T16:29:00",
       "manobra": "Entrada e Atracação",
       "data_manobra": "15/08/2026 16:30",
       "data_manobra_iso": "2026-08-15T16:30:00",
       "berco": "BARRA 902",
-      "situacao": "Confirmado",
-      "secao": "Navios Esperados"
+      "situacao": "Em Andamento",
+      "secao": "Movimentações"
     },
     {
       "navio": "Maersk Fortaleza",
@@ -24,7 +24,7 @@
       "data_manobra": "15/08/2026 16:30",
       "data_manobra_iso": "2026-08-15T16:30:00",
       "berco": "902 BARRA",
-      "situacao": "Confirmado",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -54,17 +54,82 @@
       "secao": "Movimentações"
     },
     {
+      "navio": "Tuju Arrow",
+      "imo": "9443920",
+      "agencia": "SEATRADE",
+      "data_chegada_texto": "11/08/2026 14:30",
+      "data_chegada_iso": "2026-08-11T14:30:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "16/08/2026 03:00",
+      "data_manobra_iso": "2026-08-16T03:00:00",
+      "berco": "BARRA 300",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "XSSC Bright",
+      "imo": "9414151",
+      "agencia": "CARGONAVE",
+      "data_chegada_texto": "31/07/2026 15:00",
+      "data_chegada_iso": "2026-07-31T15:00:00",
+      "manobra": "Desatracação e Fundeio",
+      "data_manobra": "16/08/2026 03:00",
+      "data_manobra_iso": "2026-08-16T03:00:00",
+      "berco": "301 F5",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Maersk Lamanai",
+      "imo": "9527051",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "16/08/2026 23:00",
+      "data_chegada_iso": "2026-08-16T23:00:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "16/08/2026 08:45",
+      "data_manobra_iso": "2026-08-16T08:45:00",
+      "berco": "BARRA 902",
+      "situacao": "A Confirmar",
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Barcaça N09",
+      "imo": "9326005",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "31/07/2026 00:00",
+      "data_chegada_iso": "2026-07-31T00:00:00",
+      "manobra": "Suspender e Sair",
+      "data_manobra": "16/08/2026 09:00",
+      "data_manobra_iso": "2026-08-16T09:00:00",
+      "berco": "F4 (P1) BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Magma Tenacity",
+      "imo": "9967689",
+      "agencia": "LITORAL",
+      "data_chegada_texto": "07/08/2026 10:03",
+      "data_chegada_iso": "2026-08-07T10:03:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "16/08/2026 16:15",
+      "data_manobra_iso": "2026-08-16T16:15:00",
+      "berco": "BARRA 101",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
       "navio": "Gladiator",
       "imo": "9605853",
       "agencia": "CARGONAVE",
       "data_chegada_texto": "31/07/2026 23:00",
       "data_chegada_iso": "2026-07-31T23:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "101",
-      "situacao": null,
-      "secao": "Navios Atracados"
+      "manobra": "Desatracação e Fundeio",
+      "data_manobra": "16/08/2026 16:15",
+      "data_manobra_iso": "2026-08-16T16:15:00",
+      "berco": "101 F3",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
     },
     {
       "navio": "Equinox Galini",
@@ -89,19 +154,6 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "201",
-      "situacao": null,
-      "secao": "Navios Atracados"
-    },
-    {
-      "navio": "XSSC Bright",
-      "imo": "9414151",
-      "agencia": "CARGONAVE",
-      "data_chegada_texto": "31/07/2026 15:00",
-      "data_chegada_iso": "2026-07-31T15:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "301",
       "situacao": null,
       "secao": "Navios Atracados"
     },
@@ -145,32 +197,6 @@
       "secao": "Navios Fundeados (Internos)"
     },
     {
-      "navio": "Barcaça N09",
-      "imo": "9326005",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "31/07/2026 00:00",
-      "data_chegada_iso": "2026-07-31T00:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "F4 (P1)",
-      "situacao": null,
-      "secao": "Navios Fundeados (Internos)"
-    },
-    {
-      "navio": "Magma Tenacity",
-      "imo": "9967689",
-      "agencia": "LITORAL",
-      "data_chegada_texto": "07/08/2026 10:03",
-      "data_chegada_iso": "2026-08-07T10:03:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "SFS",
-      "situacao": null,
-      "secao": "Navios Fundeados (Barra)"
-    },
-    {
       "navio": "Proud Unity",
       "imo": "9860659",
       "agencia": "LITORAL",
@@ -180,19 +206,6 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "SFS",
-      "situacao": null,
-      "secao": "Navios Fundeados (Barra)"
-    },
-    {
-      "navio": "Tuju Arrow",
-      "imo": "9443920",
-      "agencia": "SEATRADE",
-      "data_chegada_texto": "11/08/2026 14:30",
-      "data_chegada_iso": "2026-08-11T14:30:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "TESC",
       "situacao": null,
       "secao": "Navios Fundeados (Barra)"
     },
@@ -267,19 +280,6 @@
       "agencia": "WILSON SONS",
       "data_chegada_texto": "16/08/2026 21:00",
       "data_chegada_iso": "2026-08-16T21:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Maersk Lamanai",
-      "imo": "9527051",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "16/08/2026 23:00",
-      "data_chegada_iso": "2026-08-16T23:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
