@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-08-15T03:03:40.096344",
+  "gerado_em": "2026-08-15T05:01:16.141320",
   "navios": [
-    {
-      "navio": "MSC SABRINA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "14/08/2026",
-      "data_hora_iso": "2026-08-14T00:00:00",
-      "calado": "11,70 EK",
-      "rota": "",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "ELVIRA",
       "status": "ManobraPrevista",
@@ -39,6 +29,16 @@
       "calado": "5,60/6,50",
       "rota": "",
       "berco": "BARRA DO RIO",
+      "posicao": null
+    },
+    {
+      "navio": "MSC SABRINA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "15/08/2026",
+      "data_hora_iso": "2026-08-15T00:00:00",
+      "calado": "10,60 EK",
+      "rota": "Bacia 2",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
