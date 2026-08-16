@@ -1,6 +1,16 @@
 {
-  "gerado_em": "2026-08-15T23:40:53.812425",
+  "gerado_em": "2026-08-16T03:16:04.690413",
   "navios": [
+    {
+      "navio": "BREMERHAVEN EXPRESS",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "16/08/2026",
+      "data_hora_iso": "2026-08-16T00:00:00",
+      "calado": "10,00 EK",
+      "rota": "Bacia 2",
+      "berco": "PNAVE 01",
+      "posicao": null
+    },
     {
       "navio": "MAERSK CHACHAI",
       "status": "ManobraPrevista",
@@ -12,23 +22,13 @@
       "posicao": null
     },
     {
-      "navio": "MSC PAMELA",
+      "navio": "NPaOc APA",
       "status": "ManobraPrevista",
       "data_hora_texto": "16/08/2026",
       "data_hora_iso": "2026-08-16T00:00:00",
-      "calado": "12,40 EK",
+      "calado": "3,80 EK",
       "rota": "",
-      "berco": "PORTO ITAJAI - 04",
-      "posicao": null
-    },
-    {
-      "navio": "BREMERHAVEN EXPRESS",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "16/08/2026",
-      "data_hora_iso": "2026-08-16T00:00:00",
-      "calado": "9,70/10,70",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 01",
+      "berco": "DELEMAR",
       "posicao": null
     },
     {
@@ -39,16 +39,6 @@
       "calado": "10,55/10,85",
       "rota": "Bacia 1",
       "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "NPaOc APA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "16/08/2026",
-      "data_hora_iso": "2026-08-16T00:00:00",
-      "calado": "3,80 EK",
-      "rota": "",
-      "berco": "DELEMAR",
       "posicao": null
     },
     {
@@ -82,11 +72,11 @@
       "posicao": null
     },
     {
-      "navio": "CAPE PIONEER",
+      "navio": "MSC PAMELA",
       "status": "ManobraPrevista",
-      "data_hora_texto": "16/08/2026",
-      "data_hora_iso": "2026-08-16T00:00:00",
-      "calado": "10,90 EK",
+      "data_hora_texto": "17/08/2026",
+      "data_hora_iso": "2026-08-17T00:00:00",
+      "calado": "12,40 EK",
       "rota": "",
       "berco": "PORTO ITAJAI - 04",
       "posicao": null
@@ -119,6 +109,16 @@
       "calado": "6,60 EK",
       "rota": "",
       "berco": "TEPORTI",
+      "posicao": null
+    },
+    {
+      "navio": "CAPE PIONEER",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "17/08/2026",
+      "data_hora_iso": "2026-08-17T00:00:00",
+      "calado": "10,90 EK",
+      "rota": "",
+      "berco": "PORTO ITAJAI - 04",
       "posicao": null
     },
     {
@@ -159,16 +159,6 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
-      "posicao": null
-    },
-    {
-      "navio": "SUNNY PHOENIX",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "18/08/2026",
-      "data_hora_iso": "2026-08-18T00:00:00",
-      "calado": "10,00/10,20",
-      "rota": "",
-      "berco": "PNAVE",
       "posicao": null
     },
     {
@@ -300,6 +290,16 @@
       "rota": "",
       "berco": null,
       "posicao": "26 52,18 S / 048 32,96 W"
+    },
+    {
+      "navio": "AGIOS PORFYRIOS",
+      "status": "Fundeado",
+      "data_hora_texto": "15/08/2026 - 22:09",
+      "data_hora_iso": "2026-08-15T22:09:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": null,
+      "posicao": "26 52,64 S / 048 31,29 W"
     },
     {
       "navio": "BRUCE KAY",
