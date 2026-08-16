@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-08-16T20:17:59.362162",
+  "gerado_em": "2026-08-16T21:17:01.973896",
   "navios": [
-    {
-      "navio": "BREMERHAVEN EXPRESS",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "16/08/2026",
-      "data_hora_iso": "2026-08-16T00:00:00",
-      "calado": "10,00 EK",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "MAERSK CHACHAI",
       "status": "ManobraPrevista",
