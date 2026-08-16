@@ -1,38 +1,12 @@
 {
-  "gerado_em": "2026-08-16T03:16:10.967889",
+  "gerado_em": "2026-08-16T05:06:03.220272",
   "navios": [
-    {
-      "navio": "Pedro Alvares Cabral",
-      "imo": "9603219",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "15/08/2026 22:59",
-      "data_chegada_iso": "2026-08-15T22:59:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "15/08/2026 23:00",
-      "data_manobra_iso": "2026-08-15T23:00:00",
-      "berco": "BARRA 901",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Maersk Venezia",
-      "imo": "9344681",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "13/08/2026 20:00",
-      "data_chegada_iso": "2026-08-13T20:00:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "15/08/2026 23:00",
-      "data_manobra_iso": "2026-08-15T23:00:00",
-      "berco": "901 BARRA",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Maersk Lamanai",
       "imo": "9527051",
       "agencia": "LACHMANN",
-      "data_chegada_texto": "16/08/2026 23:00",
-      "data_chegada_iso": "2026-08-16T23:00:00",
+      "data_chegada_texto": "16/08/2026 08:45",
+      "data_chegada_iso": "2026-08-16T08:45:00",
       "manobra": "Entrada e Atracação",
       "data_manobra": "16/08/2026 08:45",
       "data_manobra_iso": "2026-08-16T08:45:00",
@@ -89,6 +63,19 @@
       "data_manobra": "16/08/2026 11:00",
       "data_manobra_iso": "2026-08-16T11:00:00",
       "berco": "301 F5",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Pedro Alvares Cabral",
+      "imo": "9603219",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "15/08/2026 22:59",
+      "data_chegada_iso": "2026-08-15T22:59:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "16/08/2026 13:30",
+      "data_manobra_iso": "2026-08-16T13:30:00",
+      "berco": "901 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
     },
