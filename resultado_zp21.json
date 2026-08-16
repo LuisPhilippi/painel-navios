@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-08-16T22:17:12.812224",
+  "gerado_em": "2026-08-16T23:16:17.991015",
   "navios": [
-    {
-      "navio": "APL SALALAH",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "17/08/2026",
-      "data_hora_iso": "2026-08-17T00:00:00",
-      "calado": "10,80/11,40",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
     {
       "navio": "FRAGATA JERÔNIMO DE ALBUQUERQUE",
       "status": "ManobraPrevista",
@@ -19,26 +9,6 @@
       "calado": "4,00 EK",
       "rota": "",
       "berco": "DELEMAR",
-      "posicao": null
-    },
-    {
-      "navio": "BBC VAASA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "17/08/2026",
-      "data_hora_iso": "2026-08-17T00:00:00",
-      "calado": "5,60/6,50",
-      "rota": "",
-      "berco": "BARRA DO RIO",
-      "posicao": null
-    },
-    {
-      "navio": "BALSA Z MAX XX + C TORMENTA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "17/08/2026",
-      "data_hora_iso": "2026-08-17T00:00:00",
-      "calado": "3,00 EK",
-      "rota": "",
-      "berco": "SEATRIUM",
       "posicao": null
     },
     {
@@ -62,10 +32,50 @@
       "posicao": null
     },
     {
-      "navio": "MSC AINO",
+      "navio": "APL SALALAH",
       "status": "ManobraPrevista",
       "data_hora_texto": "17/08/2026",
       "data_hora_iso": "2026-08-17T00:00:00",
+      "calado": "10,80/11,40",
+      "rota": "",
+      "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "BBC VAASA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "17/08/2026",
+      "data_hora_iso": "2026-08-17T00:00:00",
+      "calado": "5,60/6,50",
+      "rota": "",
+      "berco": "BARRA DO RIO",
+      "posicao": null
+    },
+    {
+      "navio": "BALSA Z MAX XX + C TORMENTA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "17/08/2026",
+      "data_hora_iso": "2026-08-17T00:00:00",
+      "calado": "3,00 EK",
+      "rota": "",
+      "berco": "SEATRIUM",
+      "posicao": null
+    },
+    {
+      "navio": "MSC BASEL V",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "17/08/2026",
+      "data_hora_iso": "2026-08-17T00:00:00",
+      "calado": "9,10/9,50",
+      "rota": "",
+      "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "MSC AINO",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "18/08/2026",
+      "data_hora_iso": "2026-08-18T00:00:00",
       "calado": "12,10 EK",
       "rota": "",
       "berco": "PNAVE",
@@ -79,16 +89,6 @@
       "calado": "TBC",
       "rota": "",
       "berco": "PORTO ITAJAI - 04",
-      "posicao": null
-    },
-    {
-      "navio": "MSC BASEL V",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "18/08/2026",
-      "data_hora_iso": "2026-08-18T00:00:00",
-      "calado": "9,10/9,50",
-      "rota": "",
-      "berco": "JBS",
       "posicao": null
     },
     {
@@ -232,16 +232,6 @@
       "posicao": null
     },
     {
-      "navio": "CMA CGM THORIUM",
-      "status": "Fundeado",
-      "data_hora_texto": "12/08/2026 - 15:19",
-      "data_hora_iso": "2026-08-12T15:19:00",
-      "calado": "10,90 EK",
-      "rota": "",
-      "berco": null,
-      "posicao": "26 52,18 S / 048 32,96 W"
-    },
-    {
       "navio": "AGIOS PORFYRIOS",
       "status": "Fundeado",
       "data_hora_texto": "15/08/2026 - 22:09",
@@ -250,6 +240,16 @@
       "rota": "",
       "berco": null,
       "posicao": "26 52,64 S / 048 31,29 W"
+    },
+    {
+      "navio": "CMA CGM THORIUM",
+      "status": "Fundeado",
+      "data_hora_texto": "16/08/2026 - 20:07",
+      "data_hora_iso": "2026-08-16T20:07:00",
+      "calado": "10,90 EK",
+      "rota": "",
+      "berco": null,
+      "posicao": "26 53,04 S / 048 32,48 W"
     },
     {
       "navio": "BRUCE KAY",
