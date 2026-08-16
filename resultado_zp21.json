@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-08-16T18:22:53.546628",
+  "gerado_em": "2026-08-16T19:19:11.420437",
   "navios": [
-    {
-      "navio": "FRAGATA JERÔNIMO DE ALBUQUERQUE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "16/08/2026",
-      "data_hora_iso": "2026-08-16T00:00:00",
-      "calado": "4,00 EK",
-      "rota": "",
-      "berco": "DELEMAR",
-      "posicao": null
-    },
     {
       "navio": "BREMERHAVEN EXPRESS",
       "status": "ManobraPrevista",
@@ -42,13 +32,13 @@
       "posicao": null
     },
     {
-      "navio": "ESPIRITO SANTO EXPRESS",
+      "navio": "FRAGATA JERÔNIMO DE ALBUQUERQUE",
       "status": "ManobraPrevista",
       "data_hora_texto": "17/08/2026",
       "data_hora_iso": "2026-08-17T00:00:00",
-      "calado": "TBC",
+      "calado": "4,00 EK",
       "rota": "",
-      "berco": "PNAVE",
+      "berco": "DELEMAR",
       "posicao": null
     },
     {
