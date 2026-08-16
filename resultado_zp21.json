@@ -1,6 +1,26 @@
 {
-  "gerado_em": "2026-08-16T09:01:19.739117",
+  "gerado_em": "2026-08-16T10:51:47.021217",
   "navios": [
+    {
+      "navio": "NPaOc APA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "16/08/2026",
+      "data_hora_iso": "2026-08-16T00:00:00",
+      "calado": "3,80 EK",
+      "rota": "",
+      "berco": "DELEMAR",
+      "posicao": null
+    },
+    {
+      "navio": "FRAGATA JERÔNIMO DE ALBUQUERQUE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "16/08/2026",
+      "data_hora_iso": "2026-08-16T00:00:00",
+      "calado": "4,00 EK",
+      "rota": "",
+      "berco": "DELEMAR",
+      "posicao": null
+    },
     {
       "navio": "BREMERHAVEN EXPRESS",
       "status": "ManobraPrevista",
@@ -22,36 +42,6 @@
       "posicao": null
     },
     {
-      "navio": "NPaOc APA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "16/08/2026",
-      "data_hora_iso": "2026-08-16T00:00:00",
-      "calado": "3,80 EK",
-      "rota": "",
-      "berco": "DELEMAR",
-      "posicao": null
-    },
-    {
-      "navio": "MERCOSUL SUAPE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "16/08/2026",
-      "data_hora_iso": "2026-08-16T00:00:00",
-      "calado": "10,55/10,85",
-      "rota": "Bacia 1",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "FRAGATA JERÔNIMO DE ALBUQUERQUE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "16/08/2026",
-      "data_hora_iso": "2026-08-16T00:00:00",
-      "calado": "4,00 EK",
-      "rota": "",
-      "berco": "DELEMAR",
-      "posicao": null
-    },
-    {
       "navio": "BBC VAASA",
       "status": "ManobraPrevista",
       "data_hora_texto": "16/08/2026",
@@ -62,13 +52,13 @@
       "posicao": null
     },
     {
-      "navio": "BALSA Z MAX XX + C TORMENTA",
+      "navio": "MERCOSUL SUAPE",
       "status": "ManobraPrevista",
       "data_hora_texto": "16/08/2026",
       "data_hora_iso": "2026-08-16T00:00:00",
-      "calado": "3,00 EK",
-      "rota": "",
-      "berco": "SEATRIUM",
+      "calado": "10,55/10,85",
+      "rota": "Bacia 1",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
@@ -109,6 +99,16 @@
       "calado": "6,60 EK",
       "rota": "",
       "berco": "TEPORTI",
+      "posicao": null
+    },
+    {
+      "navio": "BALSA Z MAX XX + C TORMENTA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "17/08/2026",
+      "data_hora_iso": "2026-08-17T00:00:00",
+      "calado": "3,00 EK",
+      "rota": "",
+      "berco": "SEATRIUM",
       "posicao": null
     },
     {
