@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-16T15:18:05.769478",
+  "gerado_em": "2026-08-16T16:20:08.841623",
   "navios": [
     {
       "navio": "NPaOc APA",
@@ -22,16 +22,6 @@
       "posicao": null
     },
     {
-      "navio": "MAERSK CHACHAI",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "16/08/2026",
-      "data_hora_iso": "2026-08-16T00:00:00",
-      "calado": "9,50/11,60",
-      "rota": "Bacia 1",
-      "berco": "PORTO ITAJAI - 04",
-      "posicao": null
-    },
-    {
       "navio": "BREMERHAVEN EXPRESS",
       "status": "ManobraPrevista",
       "data_hora_texto": "16/08/2026",
@@ -39,6 +29,16 @@
       "calado": "10,00 EK",
       "rota": "Bacia 2",
       "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
+      "navio": "MAERSK CHACHAI",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "16/08/2026",
+      "data_hora_iso": "2026-08-16T00:00:00",
+      "calado": "9,50/11,60",
+      "rota": "Bacia 1",
+      "berco": "PORTO ITAJAI - 04",
       "posicao": null
     },
     {
