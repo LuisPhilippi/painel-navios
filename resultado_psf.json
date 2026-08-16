@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-16T16:20:15.208911",
+  "gerado_em": "2026-08-16T17:16:27.138333",
   "navios": [
     {
       "navio": "Maersk Lamanai",
@@ -11,7 +11,7 @@
       "data_manobra": "16/08/2026 13:45",
       "data_manobra_iso": "2026-08-16T13:45:00",
       "berco": "BARRA 902",
-      "situacao": "Confirmado",
+      "situacao": "A Confirmar",
       "secao": "Navios Esperados"
     },
     {
@@ -24,7 +24,7 @@
       "data_manobra": "16/08/2026 13:45",
       "data_manobra_iso": "2026-08-16T13:45:00",
       "berco": "902 BARRA",
-      "situacao": "Confirmado",
+      "situacao": "A Confirmar",
       "secao": "Movimentações"
     },
     {
