@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-08-16T21:17:01.973896",
+  "gerado_em": "2026-08-16T22:17:12.812224",
   "navios": [
-    {
-      "navio": "MAERSK CHACHAI",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "16/08/2026",
-      "data_hora_iso": "2026-08-16T00:00:00",
-      "calado": "9,50/11,50",
-      "rota": "Bacia 1",
-      "berco": "PORTO ITAJAI - 04",
-      "posicao": null
-    },
     {
       "navio": "APL SALALAH",
       "status": "ManobraPrevista",

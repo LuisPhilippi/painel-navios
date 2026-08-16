@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-16T21:17:09.301117",
+  "gerado_em": "2026-08-16T22:17:20.641344",
   "navios": [
     {
       "navio": "XSSC Bright",
@@ -225,7 +225,7 @@
     {
       "navio": "Sofia",
       "imo": "9302750",
-      "agencia": "CARGONAVE",
+      "agencia": "ZPORT AGENCIA",
       "data_chegada_texto": "16/08/2026 12:36",
       "data_chegada_iso": "2026-08-16T12:36:00",
       "manobra": null,
