@@ -1,6 +1,19 @@
 {
-  "gerado_em": "2026-08-17T12:37:12.708078",
+  "gerado_em": "2026-08-17T13:36:53.888121",
   "navios": [
+    {
+      "navio": "MSC Amalfi",
+      "imo": "9605279",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "17/08/2026 12:00",
+      "data_chegada_iso": "2026-08-17T12:00:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "17/08/2026 14:30",
+      "data_manobra_iso": "2026-08-17T14:30:00",
+      "berco": "BARRA 902",
+      "situacao": "A Confirmar",
+      "secao": "Navios Esperados"
+    },
     {
       "navio": "Maersk Lamanai",
       "imo": "9527051",
@@ -8,22 +21,35 @@
       "data_chegada_texto": "17/08/2026 05:50",
       "data_chegada_iso": "2026-08-17T05:50:00",
       "manobra": "Entrada e Atracação",
-      "data_manobra": "17/08/2026 11:00",
-      "data_manobra_iso": "2026-08-17T11:00:00",
+      "data_manobra": "17/08/2026 15:00",
+      "data_manobra_iso": "2026-08-17T15:00:00",
       "berco": "BARRA 901",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
     },
     {
-      "navio": "XSSC Bright",
-      "imo": "9414151",
-      "agencia": "CARGONAVE",
-      "data_chegada_texto": "31/07/2026 15:00",
-      "data_chegada_iso": "2026-07-31T15:00:00",
-      "manobra": "Suspender e Sair",
-      "data_manobra": "17/08/2026 11:45",
-      "data_manobra_iso": "2026-08-17T11:45:00",
-      "berco": "F5 BARRA",
+      "navio": "Pio Grande",
+      "imo": "9647863",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "10/08/2026 15:10",
+      "data_chegada_iso": "2026-08-10T15:10:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "17/08/2026 15:00",
+      "data_manobra_iso": "2026-08-17T15:00:00",
+      "berco": "302 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Stinger",
+      "imo": "9762871",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "14/08/2026 21:18",
+      "data_chegada_iso": "2026-08-14T21:18:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "17/08/2026 16:45",
+      "data_manobra_iso": "2026-08-17T16:45:00",
+      "berco": "BARRA 302",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
     },
@@ -80,17 +106,17 @@
       "secao": "Navios Atracados"
     },
     {
-      "navio": "Pio Grande",
-      "imo": "9647863",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "10/08/2026 15:10",
-      "data_chegada_iso": "2026-08-10T15:10:00",
+      "navio": "XSSC Bright",
+      "imo": "9414151",
+      "agencia": "CARGONAVE",
+      "data_chegada_texto": "31/07/2026 15:00",
+      "data_chegada_iso": "2026-07-31T15:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
-      "berco": "302",
+      "berco": "F5",
       "situacao": null,
-      "secao": "Navios Atracados"
+      "secao": "Navios Fundeados (Internos)"
     },
     {
       "navio": "TSHD Galileo Galilei",
@@ -171,19 +197,6 @@
       "secao": "Navios Fundeados (Barra)"
     },
     {
-      "navio": "Stinger",
-      "imo": "9762871",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "14/08/2026 21:18",
-      "data_chegada_iso": "2026-08-14T21:18:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "TESC",
-      "situacao": null,
-      "secao": "Navios Fundeados (Barra)"
-    },
-    {
       "navio": "Lefkes",
       "imo": "9658783",
       "agencia": "ZPORT AGENCIA",
@@ -208,19 +221,6 @@
       "berco": "SFS",
       "situacao": null,
       "secao": "Navios Fundeados (Barra)"
-    },
-    {
-      "navio": "MSC Amalfi",
-      "imo": "9605279",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "17/08/2026 12:00",
-      "data_chegada_iso": "2026-08-17T12:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
     },
     {
       "navio": "Mackenzie",
@@ -356,8 +356,8 @@
       "navio": "Jamaica Bay",
       "imo": "9610717",
       "agencia": "WILSON SONS",
-      "data_chegada_texto": "19/08/2026 19:00",
-      "data_chegada_iso": "2026-08-19T19:00:00",
+      "data_chegada_texto": "20/08/2026 01:00",
+      "data_chegada_iso": "2026-08-20T01:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
@@ -384,19 +384,6 @@
       "agencia": "LACHMANN",
       "data_chegada_texto": "20/08/2026 07:00",
       "data_chegada_iso": "2026-08-20T07:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Cape Sounio",
-      "imo": "9727625",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "20/08/2026 12:00",
-      "data_chegada_iso": "2026-08-20T12:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
@@ -457,6 +444,19 @@
       "secao": "Navios Esperados"
     },
     {
+      "navio": "Cape Sounio",
+      "imo": "9727625",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "22/08/2026 07:00",
+      "data_chegada_iso": "2026-08-22T07:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
       "navio": "Um Imabari",
       "imo": "9969015",
       "agencia": "SEATRADE",
@@ -509,24 +509,24 @@
       "secao": "Navios Esperados"
     },
     {
-      "navio": "WL Palekh",
-      "imo": "9674397",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "23/08/2026 01:00",
-      "data_chegada_iso": "2026-08-23T01:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "TESC",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
       "navio": "Navios Amarillo",
       "imo": "9324849",
       "agencia": "ZIM DO BRASIL",
       "data_chegada_texto": "23/08/2026 05:00",
       "data_chegada_iso": "2026-08-23T05:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Barcaça N09",
+      "imo": "9326005",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "23/08/2026 07:00",
+      "data_chegada_iso": "2026-08-23T07:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
@@ -566,6 +566,19 @@
       "agencia": "UNIMAR",
       "data_chegada_texto": "24/08/2026 11:00",
       "data_chegada_iso": "2026-08-24T11:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Babitonga Bay",
+      "imo": "9663776",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "24/08/2026 13:00",
+      "data_chegada_iso": "2026-08-24T13:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
@@ -626,6 +639,19 @@
       "secao": "Navios Esperados"
     },
     {
+      "navio": "WL Palekh",
+      "imo": "9674397",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "27/08/2026 01:00",
+      "data_chegada_iso": "2026-08-27T01:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "TESC",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
       "navio": "Maersk Ganges",
       "imo": "9694581",
       "agencia": "LACHMANN",
@@ -660,7 +686,7 @@
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
-      "berco": "TESC",
+      "berco": "SFS",
       "situacao": null,
       "secao": "Navios Esperados"
     },

@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-17T12:37:05.588661",
+  "gerado_em": "2026-08-17T13:36:46.271432",
   "navios": [
     {
       "navio": "FRAGATA JERÔNIMO DE ALBUQUERQUE",
@@ -22,16 +22,6 @@
       "posicao": null
     },
     {
-      "navio": "MERCOSUL SUAPE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "17/08/2026",
-      "data_hora_iso": "2026-08-17T00:00:00",
-      "calado": "10,55/10,85",
-      "rota": "Bacia 1",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
       "navio": "APL SALALAH",
       "status": "ManobraPrevista",
       "data_hora_texto": "17/08/2026",
@@ -39,6 +29,16 @@
       "calado": "10,80/11,40",
       "rota": "",
       "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "CMA CGM THORIUM",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "17/08/2026",
+      "data_hora_iso": "2026-08-17T00:00:00",
+      "calado": "10,90 EK",
+      "rota": "",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
@@ -69,6 +69,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "MERCOSUL SUAPE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "18/08/2026",
+      "data_hora_iso": "2026-08-18T00:00:00",
+      "calado": "10,55/10,85",
+      "rota": "",
+      "berco": "PNAVE",
       "posicao": null
     },
     {
@@ -109,16 +119,6 @@
       "calado": "3,00 EK",
       "rota": "",
       "berco": "SEATRIUM",
-      "posicao": null
-    },
-    {
-      "navio": "CMA CGM THORIUM",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "18/08/2026",
-      "data_hora_iso": "2026-08-18T00:00:00",
-      "calado": "10,90 EK",
-      "rota": "",
-      "berco": "PNAVE",
       "posicao": null
     },
     {
@@ -242,6 +242,16 @@
       "posicao": null
     },
     {
+      "navio": "NC BRUMA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "24/08/2026",
+      "data_hora_iso": "2026-08-24T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
       "navio": "COPIAPO",
       "status": "ManobraPrevista",
       "data_hora_texto": "24/08/2026",
@@ -249,16 +259,6 @@
       "calado": "TBC",
       "rota": "",
       "berco": "PNAVE",
-      "posicao": null
-    },
-    {
-      "navio": "NC BRUMA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "25/08/2026",
-      "data_hora_iso": "2026-08-25T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS",
       "posicao": null
     },
     {
