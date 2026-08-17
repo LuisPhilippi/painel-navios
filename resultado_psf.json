@@ -1,19 +1,6 @@
 {
-  "gerado_em": "2026-08-17T07:50:22.787217",
+  "gerado_em": "2026-08-17T08:39:11.735899",
   "navios": [
-    {
-      "navio": "Tuju Arrow",
-      "imo": "9443920",
-      "agencia": "SEATRADE",
-      "data_chegada_texto": "11/08/2026 14:30",
-      "data_chegada_iso": "2026-08-11T14:30:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "17/08/2026 01:30",
-      "data_manobra_iso": "2026-08-17T01:30:00",
-      "berco": "BARRA 300",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Maersk Lamanai",
       "imo": "9527051",
@@ -76,6 +63,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "201",
+      "situacao": null,
+      "secao": "Navios Atracados"
+    },
+    {
+      "navio": "Tuju Arrow",
+      "imo": "9443920",
+      "agencia": "SEATRADE",
+      "data_chegada_texto": "11/08/2026 14:30",
+      "data_chegada_iso": "2026-08-11T14:30:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "300",
       "situacao": null,
       "secao": "Navios Atracados"
     },
