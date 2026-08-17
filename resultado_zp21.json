@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-08-17T14:23:50.244177",
+  "gerado_em": "2026-08-17T15:21:54.484151",
   "navios": [
-    {
-      "navio": "FRAGATA JERÔNIMO DE ALBUQUERQUE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "17/08/2026",
-      "data_hora_iso": "2026-08-17T00:00:00",
-      "calado": "4,00 EK",
-      "rota": "",
-      "berco": "DELEMAR",
-      "posicao": null
-    },
     {
       "navio": "CAPE PIONEER",
       "status": "ManobraPrevista",
@@ -129,6 +119,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "BOSPORUS HIGHWAY",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "19/08/2026",
+      "data_hora_iso": "2026-08-19T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PORTO ITAJAI - 03",
       "posicao": null
     },
     {
