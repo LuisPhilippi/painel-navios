@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-17T20:22:39.370081",
+  "gerado_em": "2026-08-17T21:22:51.658456",
   "navios": [
     {
       "navio": "Stinger",
@@ -50,7 +50,7 @@
       "data_manobra": "17/08/2026 17:00",
       "data_manobra_iso": "2026-08-17T17:00:00",
       "berco": "101 F3",
-      "situacao": "Confirmado",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -67,6 +67,71 @@
       "secao": "Movimentações"
     },
     {
+      "navio": "Lefkes",
+      "imo": "9658783",
+      "agencia": "ZPORT AGENCIA",
+      "data_chegada_texto": "14/08/2026 22:30",
+      "data_chegada_iso": "2026-08-14T22:30:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "18/08/2026 00:45",
+      "data_manobra_iso": "2026-08-18T00:45:00",
+      "berco": "BARRA 201",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Irvine Bay",
+      "imo": "9682928",
+      "agencia": "MASTER",
+      "data_chegada_texto": "07/08/2026 19:59",
+      "data_chegada_iso": "2026-08-07T19:59:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "18/08/2026 00:45",
+      "data_manobra_iso": "2026-08-18T00:45:00",
+      "berco": "201 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "MSC Amalfi",
+      "imo": "9605279",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "17/08/2026 14:28",
+      "data_chegada_iso": "2026-08-17T14:28:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "18/08/2026 12:15",
+      "data_manobra_iso": "2026-08-18T12:15:00",
+      "berco": "902 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "XSSC Bright",
+      "imo": "9414151",
+      "agencia": "CARGONAVE",
+      "data_chegada_texto": "31/07/2026 15:00",
+      "data_chegada_iso": "2026-07-31T15:00:00",
+      "manobra": "Suspender e Sair",
+      "data_manobra": "18/08/2026 12:15",
+      "data_manobra_iso": "2026-08-18T12:15:00",
+      "berco": "F5 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "San Francisca",
+      "imo": "9698654",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "17/08/2026 23:00",
+      "data_chegada_iso": "2026-08-17T23:00:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "18/08/2026 14:00",
+      "data_manobra_iso": "2026-08-18T14:00:00",
+      "berco": "BARRA 902",
+      "situacao": "A Confirmar",
+      "secao": "Navios Esperados"
+    },
+    {
       "navio": "Maersk Lamanai",
       "imo": "9527051",
       "agencia": "LACHMANN",
@@ -76,19 +141,6 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "901",
-      "situacao": null,
-      "secao": "Navios Atracados"
-    },
-    {
-      "navio": "MSC Amalfi",
-      "imo": "9605279",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "17/08/2026 14:28",
-      "data_chegada_iso": "2026-08-17T14:28:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "902",
       "situacao": null,
       "secao": "Navios Atracados"
     },
@@ -104,32 +156,6 @@
       "berco": "102",
       "situacao": null,
       "secao": "Navios Atracados"
-    },
-    {
-      "navio": "Irvine Bay",
-      "imo": "9682928",
-      "agencia": "MASTER",
-      "data_chegada_texto": "07/08/2026 19:59",
-      "data_chegada_iso": "2026-08-07T19:59:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "201",
-      "situacao": null,
-      "secao": "Navios Atracados"
-    },
-    {
-      "navio": "XSSC Bright",
-      "imo": "9414151",
-      "agencia": "CARGONAVE",
-      "data_chegada_texto": "31/07/2026 15:00",
-      "data_chegada_iso": "2026-07-31T15:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "F5",
-      "situacao": null,
-      "secao": "Navios Fundeados (Internos)"
     },
     {
       "navio": "TSHD Galileo Galilei",
@@ -197,19 +223,6 @@
       "secao": "Navios Fundeados (Barra)"
     },
     {
-      "navio": "Lefkes",
-      "imo": "9658783",
-      "agencia": "ZPORT AGENCIA",
-      "data_chegada_texto": "14/08/2026 22:30",
-      "data_chegada_iso": "2026-08-14T22:30:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "SFS",
-      "situacao": null,
-      "secao": "Navios Fundeados (Barra)"
-    },
-    {
       "navio": "Sofia",
       "imo": "9302750",
       "agencia": "ZPORT AGENCIA",
@@ -228,19 +241,6 @@
       "agencia": "ZIM DO BRASIL",
       "data_chegada_texto": "17/08/2026 19:00",
       "data_chegada_iso": "2026-08-17T19:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "San Francisca",
-      "imo": "9698654",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "17/08/2026 23:00",
-      "data_chegada_iso": "2026-08-17T23:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,

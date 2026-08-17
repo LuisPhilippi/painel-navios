@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-08-17T20:22:32.994424",
+  "gerado_em": "2026-08-17T21:22:43.169649",
   "navios": [
-    {
-      "navio": "MSC BASEL V",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "17/08/2026",
-      "data_hora_iso": "2026-08-17T00:00:00",
-      "calado": "9,10/9,50",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
     {
       "navio": "MERCOSUL SUAPE",
       "status": "ManobraPrevista",
@@ -18,7 +8,17 @@
       "data_hora_iso": "2026-08-18T00:00:00",
       "calado": "10,55/10,85",
       "rota": "Bacia 1",
-      "berco": "PNAVE 02",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "MSC BASEL V",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "18/08/2026",
+      "data_hora_iso": "2026-08-18T00:00:00",
+      "calado": "8,70/9,20",
+      "rota": "",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -52,16 +52,6 @@
       "posicao": null
     },
     {
-      "navio": "BBC VAASA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "18/08/2026",
-      "data_hora_iso": "2026-08-18T00:00:00",
-      "calado": "5,60/6,50",
-      "rota": "",
-      "berco": "BARRA DO RIO",
-      "posicao": null
-    },
-    {
       "navio": "MSC AINO",
       "status": "ManobraPrevista",
       "data_hora_texto": "18/08/2026",
@@ -72,22 +62,12 @@
       "posicao": null
     },
     {
-      "navio": "BALSA Z MAX XX + C TORMENTA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "18/08/2026",
-      "data_hora_iso": "2026-08-18T00:00:00",
-      "calado": "3,00 EK",
-      "rota": "",
-      "berco": "SEATRIUM",
-      "posicao": null
-    },
-    {
       "navio": "CMA CGM THORIUM",
       "status": "ManobraPrevista",
       "data_hora_texto": "18/08/2026",
       "data_hora_iso": "2026-08-18T00:00:00",
       "calado": "10,20/10,30",
-      "rota": "",
+      "rota": "Bacia 2",
       "berco": "PNAVE 01",
       "posicao": null
     },
@@ -98,37 +78,17 @@
       "data_hora_iso": "2026-08-18T00:00:00",
       "calado": "TBC",
       "rota": "Bacia 1",
-      "berco": "PNAVE 01",
+      "berco": "PNAVE",
       "posicao": null
     },
     {
       "navio": "HYUNDAI PRESTIGE",
       "status": "ManobraPrevista",
-      "data_hora_texto": "18/08/2026",
-      "data_hora_iso": "2026-08-18T00:00:00",
+      "data_hora_texto": "19/08/2026",
+      "data_hora_iso": "2026-08-19T00:00:00",
       "calado": "12,00/12,15",
       "rota": "",
       "berco": "PNAVE",
-      "posicao": null
-    },
-    {
-      "navio": "BOSPORUS HIGHWAY",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "19/08/2026",
-      "data_hora_iso": "2026-08-19T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PORTO ITAJAI - 03",
-      "posicao": null
-    },
-    {
-      "navio": "CAPE SOUNIO",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "19/08/2026",
-      "data_hora_iso": "2026-08-19T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS",
       "posicao": null
     },
     {
@@ -139,6 +99,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "BRASIL SUL",
+      "posicao": null
+    },
+    {
+      "navio": "BOSPORUS HIGHWAY",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "19/08/2026",
+      "data_hora_iso": "2026-08-19T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PORTO ITAJAI - 03",
       "posicao": null
     },
     {
@@ -162,7 +132,7 @@
       "posicao": null
     },
     {
-      "navio": "IRENES WISDOM",
+      "navio": "CAPE SOUNIO",
       "status": "ManobraPrevista",
       "data_hora_texto": "19/08/2026",
       "data_hora_iso": "2026-08-19T00:00:00",
@@ -172,10 +142,30 @@
       "posicao": null
     },
     {
-      "navio": "MSC SHANELLE V",
+      "navio": "BBC VAASA",
       "status": "ManobraPrevista",
-      "data_hora_texto": "20/08/2026",
-      "data_hora_iso": "2026-08-20T00:00:00",
+      "data_hora_texto": "19/08/2026",
+      "data_hora_iso": "2026-08-19T00:00:00",
+      "calado": "5,60/6,50",
+      "rota": "",
+      "berco": "BARRA DO RIO",
+      "posicao": null
+    },
+    {
+      "navio": "BALSA Z MAX XX + C TORMENTA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "19/08/2026",
+      "data_hora_iso": "2026-08-19T00:00:00",
+      "calado": "3,00 EK",
+      "rota": "",
+      "berco": "SEATRIUM",
+      "posicao": null
+    },
+    {
+      "navio": "IRENES WISDOM",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "19/08/2026",
+      "data_hora_iso": "2026-08-19T00:00:00",
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
@@ -239,6 +229,16 @@
       "calado": "9,50 MAX",
       "rota": "",
       "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "MSC SHANELLE V",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "23/08/2026",
+      "data_hora_iso": "2026-08-23T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
       "posicao": null
     },
     {
