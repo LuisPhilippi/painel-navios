@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-16T23:16:17.991015",
+  "gerado_em": "2026-08-17T01:02:59.087363",
   "navios": [
     {
       "navio": "FRAGATA JERÔNIMO DE ALBUQUERQUE",
@@ -39,26 +39,6 @@
       "calado": "10,80/11,40",
       "rota": "",
       "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "BBC VAASA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "17/08/2026",
-      "data_hora_iso": "2026-08-17T00:00:00",
-      "calado": "5,60/6,50",
-      "rota": "",
-      "berco": "BARRA DO RIO",
-      "posicao": null
-    },
-    {
-      "navio": "BALSA Z MAX XX + C TORMENTA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "17/08/2026",
-      "data_hora_iso": "2026-08-17T00:00:00",
-      "calado": "3,00 EK",
-      "rota": "",
-      "berco": "SEATRIUM",
       "posicao": null
     },
     {
@@ -102,6 +82,16 @@
       "posicao": null
     },
     {
+      "navio": "BBC VAASA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "18/08/2026",
+      "data_hora_iso": "2026-08-18T00:00:00",
+      "calado": "5,60/6,50",
+      "rota": "",
+      "berco": "BARRA DO RIO",
+      "posicao": null
+    },
+    {
       "navio": "CLEANTEC",
       "status": "ManobraPrevista",
       "data_hora_texto": "18/08/2026",
@@ -109,6 +99,16 @@
       "calado": "6,60 EK",
       "rota": "",
       "berco": "TEPORTI",
+      "posicao": null
+    },
+    {
+      "navio": "BALSA Z MAX XX + C TORMENTA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "18/08/2026",
+      "data_hora_iso": "2026-08-18T00:00:00",
+      "calado": "3,00 EK",
+      "rota": "",
+      "berco": "SEATRIUM",
       "posicao": null
     },
     {
