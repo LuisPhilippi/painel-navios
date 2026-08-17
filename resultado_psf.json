@@ -1,32 +1,6 @@
 {
-  "gerado_em": "2026-08-17T19:24:57.402027",
+  "gerado_em": "2026-08-17T20:22:39.370081",
   "navios": [
-    {
-      "navio": "MSC Amalfi",
-      "imo": "9605279",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "17/08/2026 14:28",
-      "data_chegada_iso": "2026-08-17T14:28:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "17/08/2026 14:30",
-      "data_manobra_iso": "2026-08-17T14:30:00",
-      "berco": "BARRA 902",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Maersk Lamanai",
-      "imo": "9527051",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "17/08/2026 05:50",
-      "data_chegada_iso": "2026-08-17T05:50:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "17/08/2026 14:45",
-      "data_manobra_iso": "2026-08-17T14:45:00",
-      "berco": "BARRA 901",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Stinger",
       "imo": "9762871",
@@ -37,7 +11,7 @@
       "data_manobra": "17/08/2026 16:45",
       "data_manobra_iso": "2026-08-17T16:45:00",
       "berco": "BARRA 302",
-      "situacao": "Confirmado",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -50,7 +24,7 @@
       "data_manobra": "17/08/2026 16:45",
       "data_manobra_iso": "2026-08-17T16:45:00",
       "berco": "302 BARRA",
-      "situacao": "Confirmado",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -63,7 +37,7 @@
       "data_manobra": "17/08/2026 17:00",
       "data_manobra_iso": "2026-08-17T17:00:00",
       "berco": "BARRA 101",
-      "situacao": "Confirmado",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -78,6 +52,45 @@
       "berco": "101 F3",
       "situacao": "Confirmado",
       "secao": "Movimentações"
+    },
+    {
+      "navio": "Tuju Arrow",
+      "imo": "9443920",
+      "agencia": "SEATRADE",
+      "data_chegada_texto": "11/08/2026 14:30",
+      "data_chegada_iso": "2026-08-11T14:30:00",
+      "manobra": "Mudança de Berço",
+      "data_manobra": "17/08/2026 23:00",
+      "data_manobra_iso": "2026-08-17T23:00:00",
+      "berco": "300 301",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Maersk Lamanai",
+      "imo": "9527051",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "17/08/2026 05:50",
+      "data_chegada_iso": "2026-08-17T05:50:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "901",
+      "situacao": null,
+      "secao": "Navios Atracados"
+    },
+    {
+      "navio": "MSC Amalfi",
+      "imo": "9605279",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "17/08/2026 14:28",
+      "data_chegada_iso": "2026-08-17T14:28:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "902",
+      "situacao": null,
+      "secao": "Navios Atracados"
     },
     {
       "navio": "Equinox Galini",
@@ -102,19 +115,6 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "201",
-      "situacao": null,
-      "secao": "Navios Atracados"
-    },
-    {
-      "navio": "Tuju Arrow",
-      "imo": "9443920",
-      "agencia": "SEATRADE",
-      "data_chegada_texto": "11/08/2026 14:30",
-      "data_chegada_iso": "2026-08-11T14:30:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "300",
       "situacao": null,
       "secao": "Navios Atracados"
     },
