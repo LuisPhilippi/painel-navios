@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-08-17T18:33:52.223096",
+  "gerado_em": "2026-08-17T19:24:51.007129",
   "navios": [
-    {
-      "navio": "CMA CGM THORIUM",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "17/08/2026",
-      "data_hora_iso": "2026-08-17T00:00:00",
-      "calado": "10,90 EK",
-      "rota": "",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "APL SALALAH",
       "status": "ManobraPrevista",
@@ -34,8 +24,8 @@
     {
       "navio": "MERCOSUL SUAPE",
       "status": "ManobraPrevista",
-      "data_hora_texto": "17/08/2026",
-      "data_hora_iso": "2026-08-17T00:00:00",
+      "data_hora_texto": "18/08/2026",
+      "data_hora_iso": "2026-08-18T00:00:00",
       "calado": "10,55/10,85",
       "rota": "Bacia 1",
       "berco": "PNAVE 02",
@@ -46,7 +36,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "18/08/2026",
       "data_hora_iso": "2026-08-18T00:00:00",
-      "calado": "TBC",
+      "calado": "11,40/11,50",
       "rota": "",
       "berco": "PORTO ITAJAI - 04",
       "posicao": null
@@ -82,16 +72,6 @@
       "posicao": null
     },
     {
-      "navio": "CLEANTEC",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "18/08/2026",
-      "data_hora_iso": "2026-08-18T00:00:00",
-      "calado": "6,60 EK",
-      "rota": "",
-      "berco": "TEPORTI",
-      "posicao": null
-    },
-    {
       "navio": "MSC AINO",
       "status": "ManobraPrevista",
       "data_hora_texto": "18/08/2026",
@@ -109,6 +89,16 @@
       "calado": "3,00 EK",
       "rota": "",
       "berco": "SEATRIUM",
+      "posicao": null
+    },
+    {
+      "navio": "CMA CGM THORIUM",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "18/08/2026",
+      "data_hora_iso": "2026-08-18T00:00:00",
+      "calado": "10,90 EK",
+      "rota": "",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
@@ -149,6 +139,16 @@
       "calado": "12,00/12,15",
       "rota": "",
       "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "CLEANTEC",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "19/08/2026",
+      "data_hora_iso": "2026-08-19T00:00:00",
+      "calado": "6,60 EK",
+      "rota": "",
+      "berco": "TEPORTI",
       "posicao": null
     },
     {
@@ -252,6 +252,16 @@
       "posicao": null
     },
     {
+      "navio": "LOG-IN JATOBÁ",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "24/08/2026",
+      "data_hora_iso": "2026-08-24T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
       "navio": "COPIAPO",
       "status": "ManobraPrevista",
       "data_hora_texto": "24/08/2026",
@@ -259,6 +269,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "MAERSK PANGANI",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "28/08/2026",
+      "data_hora_iso": "2026-08-28T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
       "posicao": null
     },
     {
