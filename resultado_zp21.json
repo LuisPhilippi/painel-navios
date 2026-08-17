@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-17T21:22:43.169649",
+  "gerado_em": "2026-08-17T22:20:38.556544",
   "navios": [
     {
       "navio": "MERCOSUL SUAPE",
@@ -7,8 +7,8 @@
       "data_hora_texto": "18/08/2026",
       "data_hora_iso": "2026-08-18T00:00:00",
       "calado": "10,55/10,85",
-      "rota": "Bacia 1",
-      "berco": "PNAVE",
+      "rota": "",
+      "berco": "PNAVE 02",
       "posicao": null
     },
     {
@@ -17,7 +17,7 @@
       "data_hora_texto": "18/08/2026",
       "data_hora_iso": "2026-08-18T00:00:00",
       "calado": "8,70/9,20",
-      "rota": "",
+      "rota": "Bacia 2",
       "berco": "JBS 2",
       "posicao": null
     },
@@ -27,18 +27,8 @@
       "data_hora_texto": "18/08/2026",
       "data_hora_iso": "2026-08-18T00:00:00",
       "calado": "11,40/11,50",
-      "rota": "",
+      "rota": "Bacia 2",
       "berco": "PORTO ITAJAI - 04",
-      "posicao": null
-    },
-    {
-      "navio": "MAERSK LAMANAI",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "18/08/2026",
-      "data_hora_iso": "2026-08-18T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS",
       "posicao": null
     },
     {
@@ -52,16 +42,6 @@
       "posicao": null
     },
     {
-      "navio": "MSC AINO",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "18/08/2026",
-      "data_hora_iso": "2026-08-18T00:00:00",
-      "calado": "12,10 EK",
-      "rota": "",
-      "berco": "PNAVE",
-      "posicao": null
-    },
-    {
       "navio": "CMA CGM THORIUM",
       "status": "ManobraPrevista",
       "data_hora_texto": "18/08/2026",
@@ -69,16 +49,6 @@
       "calado": "10,20/10,30",
       "rota": "Bacia 2",
       "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "LOG-IN ENDURANCE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "18/08/2026",
-      "data_hora_iso": "2026-08-18T00:00:00",
-      "calado": "TBC",
-      "rota": "Bacia 1",
-      "berco": "PNAVE",
       "posicao": null
     },
     {
@@ -109,6 +79,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "PORTO ITAJAI - 03",
+      "posicao": null
+    },
+    {
+      "navio": "MSC AINO",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "19/08/2026",
+      "data_hora_iso": "2026-08-19T00:00:00",
+      "calado": "12,10 EK",
+      "rota": "",
+      "berco": "PNAVE",
       "posicao": null
     },
     {
@@ -222,6 +202,16 @@
       "posicao": null
     },
     {
+      "navio": "LOG-IN ENDURANCE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "21/08/2026",
+      "data_hora_iso": "2026-08-21T00:00:00",
+      "calado": "TBC",
+      "rota": "Bacia 1",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
       "navio": "MSC AMALFI",
       "status": "ManobraPrevista",
       "data_hora_texto": "21/08/2026",
@@ -229,6 +219,16 @@
       "calado": "9,50 MAX",
       "rota": "",
       "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "MAERSK LAMANAI",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "22/08/2026",
+      "data_hora_iso": "2026-08-22T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
       "posicao": null
     },
     {
