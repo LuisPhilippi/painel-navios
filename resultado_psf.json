@@ -1,19 +1,6 @@
 {
-  "gerado_em": "2026-08-17T03:49:16.977641",
+  "gerado_em": "2026-08-17T04:38:11.061782",
   "navios": [
-    {
-      "navio": "Pedro Alvares Cabral",
-      "imo": "9603219",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "15/08/2026 22:59",
-      "data_chegada_iso": "2026-08-15T22:59:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "17/08/2026 00:00",
-      "data_manobra_iso": "2026-08-17T00:00:00",
-      "berco": "901 BARRA",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "XSSC Bright",
       "imo": "9414151",
@@ -24,7 +11,7 @@
       "data_manobra": "17/08/2026 01:15",
       "data_manobra_iso": "2026-08-17T01:15:00",
       "berco": "301 F5",
-      "situacao": "Confirmado",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -37,7 +24,7 @@
       "data_manobra": "17/08/2026 01:30",
       "data_manobra_iso": "2026-08-17T01:30:00",
       "berco": "BARRA 300",
-      "situacao": "Confirmado",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {

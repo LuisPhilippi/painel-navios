@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-17T03:49:10.776946",
+  "gerado_em": "2026-08-17T04:38:04.394412",
   "navios": [
     {
       "navio": "FRAGATA JERÔNIMO DE ALBUQUERQUE",
@@ -42,6 +42,16 @@
       "posicao": null
     },
     {
+      "navio": "MSC AINO",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "17/08/2026",
+      "data_hora_iso": "2026-08-17T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
       "navio": "MSC BASEL V",
       "status": "ManobraPrevista",
       "data_hora_texto": "17/08/2026",
@@ -49,16 +59,6 @@
       "calado": "9,10/9,50",
       "rota": "",
       "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "MSC AINO",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "18/08/2026",
-      "data_hora_iso": "2026-08-18T00:00:00",
-      "calado": "12,10 EK",
-      "rota": "",
-      "berco": "PNAVE",
       "posicao": null
     },
     {
