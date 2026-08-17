@@ -1,18 +1,18 @@
 {
-  "gerado_em": "2026-08-17T17:24:15.056356",
+  "gerado_em": "2026-08-17T18:33:58.718127",
   "navios": [
     {
       "navio": "MSC Amalfi",
       "imo": "9605279",
       "agencia": "WILSON SONS",
-      "data_chegada_texto": "17/08/2026 12:00",
-      "data_chegada_iso": "2026-08-17T12:00:00",
+      "data_chegada_texto": "17/08/2026 14:28",
+      "data_chegada_iso": "2026-08-17T14:28:00",
       "manobra": "Entrada e Atracação",
       "data_manobra": "17/08/2026 14:30",
       "data_manobra_iso": "2026-08-17T14:30:00",
       "berco": "BARRA 902",
-      "situacao": "Confirmado",
-      "secao": "Navios Esperados"
+      "situacao": "Em Andamento",
+      "secao": "Movimentações"
     },
     {
       "navio": "Maersk Lamanai",
@@ -24,7 +24,7 @@
       "data_manobra": "17/08/2026 14:45",
       "data_manobra_iso": "2026-08-17T14:45:00",
       "berco": "BARRA 901",
-      "situacao": "Confirmado",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -37,7 +37,7 @@
       "data_manobra": "17/08/2026 15:00",
       "data_manobra_iso": "2026-08-17T15:00:00",
       "berco": "302 BARRA",
-      "situacao": "Confirmado",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {

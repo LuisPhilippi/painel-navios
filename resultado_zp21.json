@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-17T17:24:07.213338",
+  "gerado_em": "2026-08-17T18:33:52.223096",
   "navios": [
     {
       "navio": "CMA CGM THORIUM",
@@ -32,7 +32,17 @@
       "posicao": null
     },
     {
-      "navio": "NC BRAVO",
+      "navio": "MERCOSUL SUAPE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "17/08/2026",
+      "data_hora_iso": "2026-08-17T00:00:00",
+      "calado": "10,55/10,85",
+      "rota": "Bacia 1",
+      "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
+      "navio": "CAPE PIONEER",
       "status": "ManobraPrevista",
       "data_hora_texto": "18/08/2026",
       "data_hora_iso": "2026-08-18T00:00:00",
@@ -52,23 +62,13 @@
       "posicao": null
     },
     {
-      "navio": "CAPE PIONEER",
+      "navio": "NC BRAVO",
       "status": "ManobraPrevista",
       "data_hora_texto": "18/08/2026",
       "data_hora_iso": "2026-08-18T00:00:00",
       "calado": "TBC",
       "rota": "",
-      "berco": "PORTO ITAJAI - 04",
-      "posicao": null
-    },
-    {
-      "navio": "MERCOSUL SUAPE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "18/08/2026",
-      "data_hora_iso": "2026-08-18T00:00:00",
-      "calado": "10,55/10,85",
-      "rota": "",
-      "berco": "PNAVE",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -114,11 +114,11 @@
     {
       "navio": "LOG-IN ENDURANCE",
       "status": "ManobraPrevista",
-      "data_hora_texto": "19/08/2026",
-      "data_hora_iso": "2026-08-19T00:00:00",
+      "data_hora_texto": "18/08/2026",
+      "data_hora_iso": "2026-08-18T00:00:00",
       "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE",
+      "rota": "Bacia 1",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
