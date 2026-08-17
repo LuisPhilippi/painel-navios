@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-17T11:21:43.419606",
+  "gerado_em": "2026-08-17T12:37:12.708078",
   "navios": [
     {
       "navio": "Maersk Lamanai",
@@ -15,32 +15,6 @@
       "secao": "Movimentações"
     },
     {
-      "navio": "Magma Tenacity",
-      "imo": "9967689",
-      "agencia": "LITORAL",
-      "data_chegada_texto": "07/08/2026 10:03",
-      "data_chegada_iso": "2026-08-07T10:03:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "17/08/2026 11:45",
-      "data_manobra_iso": "2026-08-17T11:45:00",
-      "berco": "BARRA 101",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Gladiator",
-      "imo": "9605853",
-      "agencia": "CARGONAVE",
-      "data_chegada_texto": "31/07/2026 23:00",
-      "data_chegada_iso": "2026-07-31T23:00:00",
-      "manobra": "Desatracação e Fundeio",
-      "data_manobra": "17/08/2026 11:45",
-      "data_manobra_iso": "2026-08-17T11:45:00",
-      "berco": "101 F3",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
       "navio": "XSSC Bright",
       "imo": "9414151",
       "agencia": "CARGONAVE",
@@ -52,6 +26,19 @@
       "berco": "F5 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
+    },
+    {
+      "navio": "Gladiator",
+      "imo": "9605853",
+      "agencia": "CARGONAVE",
+      "data_chegada_texto": "31/07/2026 23:00",
+      "data_chegada_iso": "2026-07-31T23:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "101",
+      "situacao": null,
+      "secao": "Navios Atracados"
     },
     {
       "navio": "Equinox Galini",
@@ -130,6 +117,19 @@
       "berco": "F4 (P2)",
       "situacao": null,
       "secao": "Navios Fundeados (Internos)"
+    },
+    {
+      "navio": "Magma Tenacity",
+      "imo": "9967689",
+      "agencia": "LITORAL",
+      "data_chegada_texto": "07/08/2026 10:03",
+      "data_chegada_iso": "2026-08-07T10:03:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": null,
+      "situacao": null,
+      "secao": "Navios Fundeados (Barra)"
     },
     {
       "navio": "Proud Unity",

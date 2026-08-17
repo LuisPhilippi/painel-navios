@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-17T11:21:37.199943",
+  "gerado_em": "2026-08-17T12:37:05.588661",
   "navios": [
     {
       "navio": "FRAGATA JERÔNIMO DE ALBUQUERQUE",
@@ -152,16 +152,6 @@
       "posicao": null
     },
     {
-      "navio": "CZECH",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "19/08/2026",
-      "data_hora_iso": "2026-08-19T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE",
-      "posicao": null
-    },
-    {
       "navio": "MSC SUSANNA",
       "status": "ManobraPrevista",
       "data_hora_texto": "19/08/2026",
@@ -249,6 +239,26 @@
       "calado": "9,50 MAX",
       "rota": "",
       "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "COPIAPO",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "24/08/2026",
+      "data_hora_iso": "2026-08-24T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "NC BRUMA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "25/08/2026",
+      "data_hora_iso": "2026-08-25T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
       "posicao": null
     },
     {
