@@ -1,45 +1,6 @@
 {
-  "gerado_em": "2026-08-17T22:20:45.959708",
+  "gerado_em": "2026-08-17T23:19:45.056909",
   "navios": [
-    {
-      "navio": "Stinger",
-      "imo": "9762871",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "14/08/2026 21:18",
-      "data_chegada_iso": "2026-08-14T21:18:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "17/08/2026 16:45",
-      "data_manobra_iso": "2026-08-17T16:45:00",
-      "berco": "BARRA 302",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Magma Tenacity",
-      "imo": "9967689",
-      "agencia": "LITORAL",
-      "data_chegada_texto": "07/08/2026 10:03",
-      "data_chegada_iso": "2026-08-07T10:03:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "17/08/2026 17:00",
-      "data_manobra_iso": "2026-08-17T17:00:00",
-      "berco": "BARRA 101",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Gladiator",
-      "imo": "9605853",
-      "agencia": "CARGONAVE",
-      "data_chegada_texto": "31/07/2026 23:00",
-      "data_chegada_iso": "2026-07-31T23:00:00",
-      "manobra": "Desatracação e Fundeio",
-      "data_manobra": "17/08/2026 17:00",
-      "data_manobra_iso": "2026-08-17T17:00:00",
-      "berco": "101 F3",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Tuju Arrow",
       "imo": "9443920",
@@ -106,6 +67,19 @@
       "secao": "Movimentações"
     },
     {
+      "navio": "Gladiator",
+      "imo": "9605853",
+      "agencia": "CARGONAVE",
+      "data_chegada_texto": "31/07/2026 23:00",
+      "data_chegada_iso": "2026-07-31T23:00:00",
+      "manobra": "Suspender e Sair",
+      "data_manobra": "18/08/2026 12:15",
+      "data_manobra_iso": "2026-08-18T12:15:00",
+      "berco": "F3 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
       "navio": "San Francisca",
       "imo": "9698654",
       "agencia": "LACHMANN",
@@ -132,6 +106,19 @@
       "secao": "Navios Atracados"
     },
     {
+      "navio": "Magma Tenacity",
+      "imo": "9967689",
+      "agencia": "LITORAL",
+      "data_chegada_texto": "07/08/2026 10:03",
+      "data_chegada_iso": "2026-08-07T10:03:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "101",
+      "situacao": null,
+      "secao": "Navios Atracados"
+    },
+    {
       "navio": "Equinox Galini",
       "imo": "9503990",
       "agencia": "ZPORT AGENCIA",
@@ -141,6 +128,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "102",
+      "situacao": null,
+      "secao": "Navios Atracados"
+    },
+    {
+      "navio": "Stinger",
+      "imo": "9762871",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "14/08/2026 21:18",
+      "data_chegada_iso": "2026-08-14T21:18:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "302",
       "situacao": null,
       "secao": "Navios Atracados"
     },
