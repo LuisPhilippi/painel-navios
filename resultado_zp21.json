@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-17T01:02:59.087363",
+  "gerado_em": "2026-08-17T02:56:29.194550",
   "navios": [
     {
       "navio": "FRAGATA JERÔNIMO DE ALBUQUERQUE",
@@ -112,6 +112,16 @@
       "posicao": null
     },
     {
+      "navio": "CMA CGM THORIUM",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "18/08/2026",
+      "data_hora_iso": "2026-08-18T00:00:00",
+      "calado": "10,90 EK",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
       "navio": "LOG-IN ENDURANCE",
       "status": "ManobraPrevista",
       "data_hora_texto": "19/08/2026",
@@ -129,6 +139,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "HYUNDAI PRESTIGE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "19/08/2026",
+      "data_hora_iso": "2026-08-19T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
       "posicao": null
     },
     {
@@ -240,16 +260,6 @@
       "rota": "",
       "berco": null,
       "posicao": "26 52,64 S / 048 31,29 W"
-    },
-    {
-      "navio": "CMA CGM THORIUM",
-      "status": "Fundeado",
-      "data_hora_texto": "16/08/2026 - 20:07",
-      "data_hora_iso": "2026-08-16T20:07:00",
-      "calado": "10,90 EK",
-      "rota": "",
-      "berco": null,
-      "posicao": "26 53,04 S / 048 32,48 W"
     },
     {
       "navio": "BRUCE KAY",
