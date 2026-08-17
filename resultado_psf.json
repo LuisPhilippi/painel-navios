@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-17T15:22:00.869004",
+  "gerado_em": "2026-08-17T16:22:55.928282",
   "navios": [
     {
       "navio": "MSC Amalfi",
@@ -21,8 +21,8 @@
       "data_chegada_texto": "17/08/2026 05:50",
       "data_chegada_iso": "2026-08-17T05:50:00",
       "manobra": "Entrada e Atracação",
-      "data_manobra": "17/08/2026 15:00",
-      "data_manobra_iso": "2026-08-17T15:00:00",
+      "data_manobra": "17/08/2026 14:45",
+      "data_manobra_iso": "2026-08-17T14:45:00",
       "berco": "BARRA 901",
       "situacao": "Confirmado",
       "secao": "Movimentações"
@@ -50,7 +50,7 @@
       "data_manobra": "17/08/2026 16:45",
       "data_manobra_iso": "2026-08-17T16:45:00",
       "berco": "BARRA 302",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -63,7 +63,7 @@
       "data_manobra": "17/08/2026 17:00",
       "data_manobra_iso": "2026-08-17T17:00:00",
       "berco": "BARRA 101",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -76,7 +76,7 @@
       "data_manobra": "17/08/2026 17:00",
       "data_manobra_iso": "2026-08-17T17:00:00",
       "berco": "101 F3",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
