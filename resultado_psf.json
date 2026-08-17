@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-17T10:28:36.214780",
+  "gerado_em": "2026-08-17T11:21:43.419606",
   "navios": [
     {
       "navio": "Maersk Lamanai",
@@ -37,6 +37,19 @@
       "data_manobra": "17/08/2026 11:45",
       "data_manobra_iso": "2026-08-17T11:45:00",
       "berco": "101 F3",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "XSSC Bright",
+      "imo": "9414151",
+      "agencia": "CARGONAVE",
+      "data_chegada_texto": "31/07/2026 15:00",
+      "data_chegada_iso": "2026-07-31T15:00:00",
+      "manobra": "Suspender e Sair",
+      "data_manobra": "17/08/2026 11:45",
+      "data_manobra_iso": "2026-08-17T11:45:00",
+      "berco": "F5 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
     },
@@ -91,19 +104,6 @@
       "berco": "302",
       "situacao": null,
       "secao": "Navios Atracados"
-    },
-    {
-      "navio": "XSSC Bright",
-      "imo": "9414151",
-      "agencia": "CARGONAVE",
-      "data_chegada_texto": "31/07/2026 15:00",
-      "data_chegada_iso": "2026-07-31T15:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "F5",
-      "situacao": null,
-      "secao": "Navios Fundeados (Internos)"
     },
     {
       "navio": "TSHD Galileo Galilei",
