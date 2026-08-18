@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-08-18T16:27:34.131035",
+  "gerado_em": "2026-08-18T17:23:34.000215",
   "navios": [
-    {
-      "navio": "MSC BASEL V",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "18/08/2026",
-      "data_hora_iso": "2026-08-18T00:00:00",
-      "calado": "8,70/9,30",
-      "rota": "Bacia 2",
-      "berco": "JBS 2",
-      "posicao": null
-    },
     {
       "navio": "CMA CGM THORIUM",
       "status": "ManobraPrevista",
@@ -219,16 +209,6 @@
       "calado": "9,50 MAX",
       "rota": "",
       "berco": "PNAVE",
-      "posicao": null
-    },
-    {
-      "navio": "MAERSK LAMANAI",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "22/08/2026",
-      "data_hora_iso": "2026-08-22T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS",
       "posicao": null
     },
     {
