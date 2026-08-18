@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-18T18:33:59.438342",
+  "gerado_em": "2026-08-18T19:26:15.312142",
   "navios": [
     {
       "navio": "Maersk Lamanai",
@@ -210,6 +210,19 @@
       "secao": "Navios Fundeados (Barra)"
     },
     {
+      "navio": "Diamond Star II",
+      "imo": "9449273",
+      "agencia": "OCEÂNICA",
+      "data_chegada_texto": "18/08/2026 15:30",
+      "data_chegada_iso": "2026-08-18T15:30:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "SFS",
+      "situacao": null,
+      "secao": "Navios Fundeados (Barra)"
+    },
+    {
       "navio": "Mackenzie",
       "imo": "9973688",
       "agencia": "ZIM DO BRASIL",
@@ -232,19 +245,6 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": null,
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Diamond Star II",
-      "imo": "9449273",
-      "agencia": "OCEÂNICA",
-      "data_chegada_texto": "18/08/2026 12:00",
-      "data_chegada_iso": "2026-08-18T12:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "SFS",
       "situacao": null,
       "secao": "Navios Esperados"
     },
