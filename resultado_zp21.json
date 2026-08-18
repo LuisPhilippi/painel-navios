@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-18T22:19:29.507026",
+  "gerado_em": "2026-08-18T23:18:33.116323",
   "navios": [
     {
       "navio": "CAPE PIONEER",
@@ -7,7 +7,7 @@
       "data_hora_texto": "19/08/2026",
       "data_hora_iso": "2026-08-19T00:00:00",
       "calado": "11,40/11,50",
-      "rota": "Bacia 2",
+      "rota": "Bacia 1",
       "berco": "PORTO ITAJAI - 04",
       "posicao": null
     },
@@ -22,36 +22,6 @@
       "posicao": null
     },
     {
-      "navio": "MSC AINO",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "19/08/2026",
-      "data_hora_iso": "2026-08-19T00:00:00",
-      "calado": "12,10 EK",
-      "rota": "",
-      "berco": "PNAVE",
-      "posicao": null
-    },
-    {
-      "navio": "CLEANTEC",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "19/08/2026",
-      "data_hora_iso": "2026-08-19T00:00:00",
-      "calado": "6,60 EK",
-      "rota": "",
-      "berco": "TEPORTI",
-      "posicao": null
-    },
-    {
-      "navio": "MSC SUSANNA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "19/08/2026",
-      "data_hora_iso": "2026-08-19T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
       "navio": "NC BRAVO",
       "status": "ManobraPrevista",
       "data_hora_texto": "19/08/2026",
@@ -62,23 +32,13 @@
       "posicao": null
     },
     {
-      "navio": "CAPE SOUNIO",
+      "navio": "MSC AINO",
       "status": "ManobraPrevista",
       "data_hora_texto": "19/08/2026",
       "data_hora_iso": "2026-08-19T00:00:00",
-      "calado": "TBC",
+      "calado": "12,10 EK",
       "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
-      "navio": "HMM PRESTIGE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "19/08/2026",
-      "data_hora_iso": "2026-08-19T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE 01",
+      "berco": "PNAVE 02",
       "posicao": null
     },
     {
@@ -92,33 +52,23 @@
       "posicao": null
     },
     {
-      "navio": "IRENES WISDOM",
+      "navio": "HMM PRESTIGE",
       "status": "ManobraPrevista",
       "data_hora_texto": "19/08/2026",
       "data_hora_iso": "2026-08-19T00:00:00",
       "calado": "TBC",
-      "rota": "",
-      "berco": "JBS",
+      "rota": "Bacia 1",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
-      "navio": "NAVIOS VERMILION",
+      "navio": "LOG-IN ENDURANCE",
       "status": "ManobraPrevista",
       "data_hora_texto": "19/08/2026",
       "data_hora_iso": "2026-08-19T00:00:00",
       "calado": "TBC",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "PIO GRANDE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "20/08/2026",
-      "data_hora_iso": "2026-08-20T00:00:00",
-      "calado": "4,65/6,20",
-      "rota": "",
-      "berco": "TEPORTI",
+      "rota": "Bacia 1",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
@@ -132,6 +82,16 @@
       "posicao": null
     },
     {
+      "navio": "PIO GRANDE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "20/08/2026",
+      "data_hora_iso": "2026-08-20T00:00:00",
+      "calado": "4,65/6,20",
+      "rota": "",
+      "berco": "TEPORTI",
+      "posicao": null
+    },
+    {
       "navio": "FRAGATA JERÔNIMO DE ALBUQUERQUE",
       "status": "ManobraPrevista",
       "data_hora_texto": "20/08/2026",
@@ -139,6 +99,46 @@
       "calado": "TBC",
       "rota": "",
       "berco": "BRASIL SUL",
+      "posicao": null
+    },
+    {
+      "navio": "NAVIOS VERMILION",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "20/08/2026",
+      "data_hora_iso": "2026-08-20T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "CLEANTEC",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "20/08/2026",
+      "data_hora_iso": "2026-08-20T00:00:00",
+      "calado": "6,60 EK",
+      "rota": "",
+      "berco": "TEPORTI",
+      "posicao": null
+    },
+    {
+      "navio": "MSC SUSANNA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "20/08/2026",
+      "data_hora_iso": "2026-08-20T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "CAPE SOUNIO",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "20/08/2026",
+      "data_hora_iso": "2026-08-20T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
       "posicao": null
     },
     {
@@ -182,6 +182,16 @@
       "posicao": null
     },
     {
+      "navio": "IRENES WISDOM",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "20/08/2026",
+      "data_hora_iso": "2026-08-20T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
       "navio": "ELVIRA",
       "status": "ManobraPrevista",
       "data_hora_texto": "21/08/2026",
@@ -198,16 +208,6 @@
       "data_hora_iso": "2026-08-21T00:00:00",
       "calado": "TBC",
       "rota": "",
-      "berco": "PNAVE",
-      "posicao": null
-    },
-    {
-      "navio": "LOG-IN ENDURANCE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "21/08/2026",
-      "data_hora_iso": "2026-08-21T00:00:00",
-      "calado": "TBC",
-      "rota": "Bacia 1",
       "berco": "PNAVE",
       "posicao": null
     },
