@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-18T19:26:07.929040",
+  "gerado_em": "2026-08-18T20:19:47.308237",
   "navios": [
     {
       "navio": "CMA CGM THORIUM",
@@ -172,6 +172,16 @@
       "posicao": null
     },
     {
+      "navio": "HMM CLOVER",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "20/08/2026",
+      "data_hora_iso": "2026-08-20T00:00:00",
+      "calado": "12,00/12,10",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
       "navio": "ELVIRA",
       "status": "ManobraPrevista",
       "data_hora_texto": "21/08/2026",
@@ -300,16 +310,6 @@
       "rota": "",
       "berco": null,
       "posicao": "26 52,64 S / 048 31,29 W"
-    },
-    {
-      "navio": "HMM CLOVER",
-      "status": "Fundeado",
-      "data_hora_texto": "18/08/2026 - 10:00",
-      "data_hora_iso": "2026-08-18T10:00:00",
-      "calado": "11,80/12,40",
-      "rota": "",
-      "berco": null,
-      "posicao": "26 51,11 S / 048 31,65 W"
     },
     {
       "navio": "BRUCE KAY",
