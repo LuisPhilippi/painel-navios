@@ -1,45 +1,6 @@
 {
-  "gerado_em": "2026-08-17T23:19:45.056909",
+  "gerado_em": "2026-08-18T01:01:41.319685",
   "navios": [
-    {
-      "navio": "Tuju Arrow",
-      "imo": "9443920",
-      "agencia": "SEATRADE",
-      "data_chegada_texto": "11/08/2026 14:30",
-      "data_chegada_iso": "2026-08-11T14:30:00",
-      "manobra": "Mudança de Berço",
-      "data_manobra": "17/08/2026 23:00",
-      "data_manobra_iso": "2026-08-17T23:00:00",
-      "berco": "300 301",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Lefkes",
-      "imo": "9658783",
-      "agencia": "ZPORT AGENCIA",
-      "data_chegada_texto": "14/08/2026 22:30",
-      "data_chegada_iso": "2026-08-14T22:30:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "18/08/2026 00:45",
-      "data_manobra_iso": "2026-08-18T00:45:00",
-      "berco": "BARRA 201",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Irvine Bay",
-      "imo": "9682928",
-      "agencia": "MASTER",
-      "data_chegada_texto": "07/08/2026 19:59",
-      "data_chegada_iso": "2026-08-07T19:59:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "18/08/2026 00:45",
-      "data_manobra_iso": "2026-08-18T00:45:00",
-      "berco": "201 BARRA",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
     {
       "navio": "MSC Amalfi",
       "imo": "9605279",
@@ -132,6 +93,32 @@
       "secao": "Navios Atracados"
     },
     {
+      "navio": "Irvine Bay",
+      "imo": "9682928",
+      "agencia": "MASTER",
+      "data_chegada_texto": "07/08/2026 19:59",
+      "data_chegada_iso": "2026-08-07T19:59:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "201",
+      "situacao": null,
+      "secao": "Navios Atracados"
+    },
+    {
+      "navio": "Tuju Arrow",
+      "imo": "9443920",
+      "agencia": "SEATRADE",
+      "data_chegada_texto": "11/08/2026 14:30",
+      "data_chegada_iso": "2026-08-11T14:30:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "300",
+      "situacao": null,
+      "secao": "Navios Atracados"
+    },
+    {
       "navio": "Stinger",
       "imo": "9762871",
       "agencia": "WILSON SONS",
@@ -206,6 +193,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "SFS",
+      "situacao": null,
+      "secao": "Navios Fundeados (Barra)"
+    },
+    {
+      "navio": "Lefkes",
+      "imo": "9658783",
+      "agencia": "ZPORT AGENCIA",
+      "data_chegada_texto": "14/08/2026 22:30",
+      "data_chegada_iso": "2026-08-14T22:30:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": null,
       "situacao": null,
       "secao": "Navios Fundeados (Barra)"
     },

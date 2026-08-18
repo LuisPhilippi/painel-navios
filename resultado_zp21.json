@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-17T23:19:38.084319",
+  "gerado_em": "2026-08-18T01:01:35.135283",
   "navios": [
     {
       "navio": "MERCOSUL SUAPE",
@@ -16,7 +16,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "18/08/2026",
       "data_hora_iso": "2026-08-18T00:00:00",
-      "calado": "8,70/9,20",
+      "calado": "8,70/9,30",
       "rota": "Bacia 2",
       "berco": "JBS 2",
       "posicao": null
