@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-18T08:32:33.365215",
+  "gerado_em": "2026-08-18T09:29:02.703226",
   "navios": [
     {
       "navio": "MERCOSUL SUAPE",
@@ -32,16 +32,6 @@
       "posicao": null
     },
     {
-      "navio": "NC BRAVO",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "18/08/2026",
-      "data_hora_iso": "2026-08-18T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
       "navio": "CMA CGM THORIUM",
       "status": "ManobraPrevista",
       "data_hora_texto": "18/08/2026",
@@ -49,6 +39,16 @@
       "calado": "10,20/10,30",
       "rota": "Bacia 2",
       "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
+      "navio": "NC BRAVO",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "18/08/2026",
+      "data_hora_iso": "2026-08-18T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
