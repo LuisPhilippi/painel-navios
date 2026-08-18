@@ -1,32 +1,6 @@
 {
-  "gerado_em": "2026-08-18T17:23:40.122337",
+  "gerado_em": "2026-08-18T18:33:59.438342",
   "navios": [
-    {
-      "navio": "San Francisca",
-      "imo": "9698654",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "17/08/2026 23:00",
-      "data_chegada_iso": "2026-08-17T23:00:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "18/08/2026 16:15",
-      "data_manobra_iso": "2026-08-18T16:15:00",
-      "berco": "BARRA 902",
-      "situacao": "A Confirmar",
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "MSC Amalfi",
-      "imo": "9605279",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "17/08/2026 14:28",
-      "data_chegada_iso": "2026-08-17T14:28:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "18/08/2026 16:15",
-      "data_manobra_iso": "2026-08-18T16:15:00",
-      "berco": "902 BARRA",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Maersk Lamanai",
       "imo": "9527051",
@@ -37,6 +11,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "901",
+      "situacao": null,
+      "secao": "Navios Atracados"
+    },
+    {
+      "navio": "MSC Amalfi",
+      "imo": "9605279",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "17/08/2026 14:28",
+      "data_chegada_iso": "2026-08-17T14:28:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "902",
       "situacao": null,
       "secao": "Navios Atracados"
     },
@@ -232,6 +219,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "San Francisca",
+      "imo": "9698654",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "17/08/2026 23:00",
+      "data_chegada_iso": "2026-08-17T23:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": null,
       "situacao": null,
       "secao": "Navios Esperados"
     },
