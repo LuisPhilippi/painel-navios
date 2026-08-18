@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-08-18T20:19:47.308237",
+  "gerado_em": "2026-08-18T21:21:08.229310",
   "navios": [
-    {
-      "navio": "CMA CGM THORIUM",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "18/08/2026",
-      "data_hora_iso": "2026-08-18T00:00:00",
-      "calado": "10,20/10,30",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "HMM PRESTIGE",
       "status": "ManobraPrevista",
@@ -32,13 +22,13 @@
       "posicao": null
     },
     {
-      "navio": "NC BRAVO",
+      "navio": "CAPE PIONEER",
       "status": "ManobraPrevista",
       "data_hora_texto": "19/08/2026",
       "data_hora_iso": "2026-08-19T00:00:00",
-      "calado": "10,60/10,80",
-      "rota": "",
-      "berco": "JBS 2",
+      "calado": "11,40/11,50",
+      "rota": "Bacia 2",
+      "berco": "PORTO ITAJAI - 04",
       "posicao": null
     },
     {
@@ -52,13 +42,13 @@
       "posicao": null
     },
     {
-      "navio": "CAPE PIONEER",
+      "navio": "NC BRAVO",
       "status": "ManobraPrevista",
       "data_hora_texto": "19/08/2026",
       "data_hora_iso": "2026-08-19T00:00:00",
-      "calado": "11,40/11,50",
-      "rota": "Bacia 2",
-      "berco": "PORTO ITAJAI - 04",
+      "calado": "10,60/10,80",
+      "rota": "",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -67,8 +57,8 @@
       "data_hora_texto": "19/08/2026",
       "data_hora_iso": "2026-08-19T00:00:00",
       "calado": "9,00 EK",
-      "rota": "",
-      "berco": "PORTO ITAJAI - 03",
+      "rota": "Bacia 1",
+      "berco": "PORTO ITAJAI - 04",
       "posicao": null
     },
     {
@@ -139,6 +129,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "NAVIOS VERMILION",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "19/08/2026",
+      "data_hora_iso": "2026-08-19T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
