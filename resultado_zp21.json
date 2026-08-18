@@ -1,26 +1,6 @@
 {
-  "gerado_em": "2026-08-18T21:21:08.229310",
+  "gerado_em": "2026-08-18T22:19:29.507026",
   "navios": [
-    {
-      "navio": "HMM PRESTIGE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "18/08/2026",
-      "data_hora_iso": "2026-08-18T00:00:00",
-      "calado": "12,00/12,15",
-      "rota": "",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "MERCOSUL SUAPE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "19/08/2026",
-      "data_hora_iso": "2026-08-19T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
     {
       "navio": "CAPE PIONEER",
       "status": "ManobraPrevista",
@@ -32,33 +12,13 @@
       "posicao": null
     },
     {
-      "navio": "FRAGATA JERÔNIMO DE ALBUQUERQUE",
+      "navio": "MERCOSUL SUAPE",
       "status": "ManobraPrevista",
       "data_hora_texto": "19/08/2026",
       "data_hora_iso": "2026-08-19T00:00:00",
       "calado": "TBC",
-      "rota": "",
-      "berco": "BRASIL SUL",
-      "posicao": null
-    },
-    {
-      "navio": "NC BRAVO",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "19/08/2026",
-      "data_hora_iso": "2026-08-19T00:00:00",
-      "calado": "10,60/10,80",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "BOSPORUS HIGHWAY",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "19/08/2026",
-      "data_hora_iso": "2026-08-19T00:00:00",
-      "calado": "9,00 EK",
       "rota": "Bacia 1",
-      "berco": "PORTO ITAJAI - 04",
+      "berco": "PNAVE 02",
       "posicao": null
     },
     {
@@ -92,6 +52,16 @@
       "posicao": null
     },
     {
+      "navio": "NC BRAVO",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "19/08/2026",
+      "data_hora_iso": "2026-08-19T00:00:00",
+      "calado": "10,60/10,80",
+      "rota": "",
+      "berco": "JBS 2",
+      "posicao": null
+    },
+    {
       "navio": "CAPE SOUNIO",
       "status": "ManobraPrevista",
       "data_hora_texto": "19/08/2026",
@@ -102,23 +72,23 @@
       "posicao": null
     },
     {
-      "navio": "BBC VAASA",
+      "navio": "HMM PRESTIGE",
       "status": "ManobraPrevista",
       "data_hora_texto": "19/08/2026",
       "data_hora_iso": "2026-08-19T00:00:00",
-      "calado": "5,60/6,50",
+      "calado": "TBC",
       "rota": "",
-      "berco": "BARRA DO RIO",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
-      "navio": "BALSA Z MAX XX + C TORMENTA",
+      "navio": "BOSPORUS HIGHWAY",
       "status": "ManobraPrevista",
       "data_hora_texto": "19/08/2026",
       "data_hora_iso": "2026-08-19T00:00:00",
-      "calado": "3,00 EK",
-      "rota": "",
-      "berco": "SEATRIUM",
+      "calado": "9,00 EK",
+      "rota": "Bacia 1",
+      "berco": "PORTO ITAJAI - 04",
       "posicao": null
     },
     {
@@ -162,6 +132,26 @@
       "posicao": null
     },
     {
+      "navio": "FRAGATA JERÔNIMO DE ALBUQUERQUE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "20/08/2026",
+      "data_hora_iso": "2026-08-20T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "BRASIL SUL",
+      "posicao": null
+    },
+    {
+      "navio": "BBC VAASA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "20/08/2026",
+      "data_hora_iso": "2026-08-20T00:00:00",
+      "calado": "5,60/6,50",
+      "rota": "",
+      "berco": "BARRA DO RIO",
+      "posicao": null
+    },
+    {
       "navio": "MSC MAGNUM VII",
       "status": "ManobraPrevista",
       "data_hora_texto": "20/08/2026",
@@ -169,6 +159,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "BALSA Z MAX XX + C TORMENTA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "20/08/2026",
+      "data_hora_iso": "2026-08-20T00:00:00",
+      "calado": "3,00 EK",
+      "rota": "",
+      "berco": "SEATRIUM",
       "posicao": null
     },
     {

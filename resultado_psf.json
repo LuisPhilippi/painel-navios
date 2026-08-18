@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-18T21:21:15.726905",
+  "gerado_em": "2026-08-18T22:19:35.656759",
   "navios": [
     {
       "navio": "Tuju Arrow",
@@ -8,8 +8,8 @@
       "data_chegada_texto": "11/08/2026 14:30",
       "data_chegada_iso": "2026-08-11T14:30:00",
       "manobra": "Mudança de Berço",
-      "data_manobra": "18/08/2026 23:30",
-      "data_manobra_iso": "2026-08-18T23:30:00",
+      "data_manobra": "19/08/2026 00:15",
+      "data_manobra_iso": "2026-08-19T00:15:00",
       "berco": "300 301",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
@@ -21,8 +21,8 @@
       "data_chegada_texto": "14/08/2026 22:30",
       "data_chegada_iso": "2026-08-14T22:30:00",
       "manobra": "Entrada e Atracação",
-      "data_manobra": "19/08/2026 00:30",
-      "data_manobra_iso": "2026-08-19T00:30:00",
+      "data_manobra": "19/08/2026 01:30",
+      "data_manobra_iso": "2026-08-19T01:30:00",
       "berco": "BARRA 201",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
@@ -34,8 +34,8 @@
       "data_chegada_texto": "07/08/2026 19:59",
       "data_chegada_iso": "2026-08-07T19:59:00",
       "manobra": "Desatracação e Saída",
-      "data_manobra": "19/08/2026 00:30",
-      "data_manobra_iso": "2026-08-19T00:30:00",
+      "data_manobra": "19/08/2026 01:30",
+      "data_manobra_iso": "2026-08-19T01:30:00",
       "berco": "201 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
