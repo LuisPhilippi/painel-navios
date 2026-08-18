@@ -1,12 +1,12 @@
 {
-  "gerado_em": "2026-08-18T12:38:25.027544",
+  "gerado_em": "2026-08-18T13:39:24.621938",
   "navios": [
     {
       "navio": "MERCOSUL SUAPE",
       "status": "ManobraPrevista",
       "data_hora_texto": "18/08/2026",
       "data_hora_iso": "2026-08-18T00:00:00",
-      "calado": "10,55/10,85",
+      "calado": "10,55/10,80",
       "rota": "",
       "berco": "PNAVE 02",
       "posicao": null
@@ -32,6 +32,16 @@
       "posicao": null
     },
     {
+      "navio": "HYUNDAI PRESTIGE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "18/08/2026",
+      "data_hora_iso": "2026-08-18T00:00:00",
+      "calado": "12,00/12,15",
+      "rota": "",
+      "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
       "navio": "NC BRAVO",
       "status": "ManobraPrevista",
       "data_hora_texto": "18/08/2026",
@@ -49,16 +59,6 @@
       "calado": "11,40/11,50",
       "rota": "Bacia 2",
       "berco": "PORTO ITAJAI - 04",
-      "posicao": null
-    },
-    {
-      "navio": "HYUNDAI PRESTIGE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "19/08/2026",
-      "data_hora_iso": "2026-08-19T00:00:00",
-      "calado": "12,00/12,15",
-      "rota": "",
-      "berco": "PNAVE",
       "posicao": null
     },
     {
@@ -310,6 +310,16 @@
       "rota": "",
       "berco": null,
       "posicao": "26 52,64 S / 048 31,29 W"
+    },
+    {
+      "navio": "HMM CLOVER",
+      "status": "Fundeado",
+      "data_hora_texto": "18/08/2026 - 10:00",
+      "data_hora_iso": "2026-08-18T10:00:00",
+      "calado": "11,80/12,40",
+      "rota": "",
+      "berco": null,
+      "posicao": "26 51,11 S / 048 31,65 W"
     },
     {
       "navio": "BRUCE KAY",
