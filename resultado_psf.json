@@ -1,32 +1,6 @@
 {
-  "gerado_em": "2026-08-19T14:29:50.847900",
+  "gerado_em": "2026-08-19T17:23:42.561021",
   "navios": [
-    {
-      "navio": "San Francisca",
-      "imo": "9698654",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "18/08/2026 23:34",
-      "data_chegada_iso": "2026-08-18T23:34:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "19/08/2026 10:30",
-      "data_manobra_iso": "2026-08-19T10:30:00",
-      "berco": "BARRA 902",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "MSC Amalfi",
-      "imo": "9605279",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "17/08/2026 14:28",
-      "data_chegada_iso": "2026-08-17T14:28:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "19/08/2026 10:30",
-      "data_manobra_iso": "2026-08-19T10:30:00",
-      "berco": "902 BARRA",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Maersk Lamanai",
       "imo": "9527051",
@@ -37,7 +11,7 @@
       "data_manobra": "19/08/2026 13:00",
       "data_manobra_iso": "2026-08-19T13:00:00",
       "berco": "901 BARRA",
-      "situacao": "Confirmado",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -50,7 +24,7 @@
       "data_manobra": "19/08/2026 13:00",
       "data_manobra_iso": "2026-08-19T13:00:00",
       "berco": "F5 BARRA",
-      "situacao": "Confirmado",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -63,7 +37,7 @@
       "data_manobra": "19/08/2026 13:00",
       "data_manobra_iso": "2026-08-19T13:00:00",
       "berco": "F3 BARRA",
-      "situacao": "Confirmado",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -76,7 +50,7 @@
       "data_manobra": "19/08/2026 14:45",
       "data_manobra_iso": "2026-08-19T14:45:00",
       "berco": "BARRA F5",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -86,10 +60,10 @@
       "data_chegada_texto": "19/08/2026 07:00",
       "data_chegada_iso": "2026-08-19T07:00:00",
       "manobra": "Entrada e Fundeio",
-      "data_manobra": "19/08/2026 16:00",
-      "data_manobra_iso": "2026-08-19T16:00:00",
+      "data_manobra": "19/08/2026 15:00",
+      "data_manobra_iso": "2026-08-19T15:00:00",
       "berco": "BARRA F4 (P1)",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Navios Esperados"
     },
     {
@@ -130,6 +104,19 @@
       "berco": "101 F3",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
+    },
+    {
+      "navio": "San Francisca",
+      "imo": "9698654",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "18/08/2026 23:34",
+      "data_chegada_iso": "2026-08-18T23:34:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "902",
+      "situacao": null,
+      "secao": "Navios Atracados"
     },
     {
       "navio": "Equinox Galini",
@@ -288,6 +275,19 @@
       "secao": "Navios Esperados"
     },
     {
+      "navio": "Cap San Tainaro",
+      "imo": "9633965",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "19/08/2026 16:00",
+      "data_chegada_iso": "2026-08-19T16:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
       "navio": "Evagelia",
       "imo": "1085992",
       "agencia": "ZPORT AGENCIA",
@@ -336,19 +336,6 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "SFS",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Cap San Tainaro",
-      "imo": "9633965",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "20/08/2026 14:00",
-      "data_chegada_iso": "2026-08-20T14:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Esperados"
     },

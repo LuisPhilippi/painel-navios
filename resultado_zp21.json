@@ -1,26 +1,6 @@
 {
-  "gerado_em": "2026-08-19T14:29:43.203348",
+  "gerado_em": "2026-08-19T17:23:34.063587",
   "navios": [
-    {
-      "navio": "CAPE PIONEER",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "19/08/2026",
-      "data_hora_iso": "2026-08-19T00:00:00",
-      "calado": "11,40 EK",
-      "rota": "Bacia 1",
-      "berco": "PORTO ITAJAI - 04",
-      "posicao": null
-    },
-    {
-      "navio": "MERCOSUL SUAPE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "19/08/2026",
-      "data_hora_iso": "2026-08-19T00:00:00",
-      "calado": "10,50/11,10",
-      "rota": "Bacia 1",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
     {
       "navio": "NC BRAVO",
       "status": "ManobraPrevista",
@@ -46,9 +26,19 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "19/08/2026",
       "data_hora_iso": "2026-08-19T00:00:00",
-      "calado": "9,00 EK",
+      "calado": "9,15 EK",
       "rota": "Bacia 1",
       "berco": "JBS 4",
+      "posicao": null
+    },
+    {
+      "navio": "FRAGATA JERÔNIMO DE ALBUQUERQUE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "19/08/2026",
+      "data_hora_iso": "2026-08-19T00:00:00",
+      "calado": "4,00 EK",
+      "rota": "",
+      "berco": "DELEMAR",
       "posicao": null
     },
     {
@@ -57,16 +47,6 @@
       "data_hora_texto": "19/08/2026",
       "data_hora_iso": "2026-08-19T00:00:00",
       "calado": "11,20/11,40",
-      "rota": "Bacia 1",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "LOG-IN ENDURANCE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "19/08/2026",
-      "data_hora_iso": "2026-08-19T00:00:00",
-      "calado": "10,10 EK",
       "rota": "Bacia 1",
       "berco": "PNAVE 01",
       "posicao": null
@@ -82,6 +62,16 @@
       "posicao": null
     },
     {
+      "navio": "LOG-IN ENDURANCE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "20/08/2026",
+      "data_hora_iso": "2026-08-20T00:00:00",
+      "calado": "10,10 EK",
+      "rota": "Bacia 1",
+      "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
       "navio": "MAERSK KARACHI",
       "status": "ManobraPrevista",
       "data_hora_texto": "20/08/2026",
@@ -89,16 +79,6 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
-      "posicao": null
-    },
-    {
-      "navio": "FRAGATA JERÔNIMO DE ALBUQUERQUE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "20/08/2026",
-      "data_hora_iso": "2026-08-20T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "BRASIL SUL",
       "posicao": null
     },
     {
@@ -216,7 +196,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "21/08/2026",
       "data_hora_iso": "2026-08-21T00:00:00",
-      "calado": "9,50 MAX",
+      "calado": "6,90/9,75",
       "rota": "",
       "berco": "PNAVE",
       "posicao": null
