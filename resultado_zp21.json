@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-18T23:18:33.116323",
+  "gerado_em": "2026-08-19T01:02:26.380328",
   "navios": [
     {
       "navio": "CAPE PIONEER",
@@ -56,7 +56,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "19/08/2026",
       "data_hora_iso": "2026-08-19T00:00:00",
-      "calado": "TBC",
+      "calado": "11,20/11,40",
       "rota": "Bacia 1",
       "berco": "PNAVE 01",
       "posicao": null
