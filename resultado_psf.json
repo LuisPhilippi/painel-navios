@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-19T21:24:05.783153",
+  "gerado_em": "2026-08-19T22:21:02.716701",
   "navios": [
     {
       "navio": "Maersk Everglades",
@@ -234,19 +234,6 @@
       "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Fundeados (Barra)"
-    },
-    {
-      "navio": "YM Movement",
-      "imo": "9660011",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "19/08/2026 14:00",
-      "data_chegada_iso": "2026-08-19T14:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
     },
     {
       "navio": "Evagelia",
