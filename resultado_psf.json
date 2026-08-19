@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-19T13:41:43.682133",
+  "gerado_em": "2026-08-19T14:29:50.847900",
   "navios": [
     {
       "navio": "San Francisca",
@@ -37,7 +37,7 @@
       "data_manobra": "19/08/2026 13:00",
       "data_manobra_iso": "2026-08-19T13:00:00",
       "berco": "901 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -50,7 +50,7 @@
       "data_manobra": "19/08/2026 13:00",
       "data_manobra_iso": "2026-08-19T13:00:00",
       "berco": "F5 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -63,7 +63,7 @@
       "data_manobra": "19/08/2026 13:00",
       "data_manobra_iso": "2026-08-19T13:00:00",
       "berco": "F3 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -124,12 +124,12 @@
       "agencia": "LITORAL",
       "data_chegada_texto": "07/08/2026 10:03",
       "data_chegada_iso": "2026-08-07T10:03:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "101",
-      "situacao": null,
-      "secao": "Navios Atracados"
+      "manobra": "Desatracação e Fundeio",
+      "data_manobra": "19/08/2026 18:30",
+      "data_manobra_iso": "2026-08-19T18:30:00",
+      "berco": "101 F3",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
     },
     {
       "navio": "Equinox Galini",
