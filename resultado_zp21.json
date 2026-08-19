@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-08-19T18:33:41.716080",
+  "gerado_em": "2026-08-19T19:21:59.829031",
   "navios": [
-    {
-      "navio": "MSC AINO",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "19/08/2026",
-      "data_hora_iso": "2026-08-19T00:00:00",
-      "calado": "12,10 EK",
-      "rota": "",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
     {
       "navio": "BOSPORUS HIGHWAY",
       "status": "ManobraPrevista",
@@ -59,16 +49,6 @@
       "calado": "10,10 EK",
       "rota": "Bacia 1",
       "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "MAERSK KARACHI",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "20/08/2026",
-      "data_hora_iso": "2026-08-20T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS",
       "posicao": null
     },
     {
@@ -142,6 +122,16 @@
       "posicao": null
     },
     {
+      "navio": "MSC AINO",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "20/08/2026",
+      "data_hora_iso": "2026-08-20T00:00:00",
+      "calado": "9,10/9,50",
+      "rota": "Bacia 2",
+      "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
       "navio": "HMM CLOVER",
       "status": "ManobraPrevista",
       "data_hora_texto": "20/08/2026",
@@ -189,6 +179,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "MAERSK KARACHI",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "21/08/2026",
+      "data_hora_iso": "2026-08-21T00:00:00",
+      "calado": "10,50/10,70",
+      "rota": "",
+      "berco": "JBS",
       "posicao": null
     },
     {
