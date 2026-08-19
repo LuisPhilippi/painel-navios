@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-19T12:40:02.507540",
+  "gerado_em": "2026-08-19T13:41:43.682133",
   "navios": [
     {
       "navio": "San Francisca",
@@ -11,7 +11,7 @@
       "data_manobra": "19/08/2026 10:30",
       "data_manobra_iso": "2026-08-19T10:30:00",
       "berco": "BARRA 902",
-      "situacao": "Confirmado",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -24,7 +24,7 @@
       "data_manobra": "19/08/2026 10:30",
       "data_manobra_iso": "2026-08-19T10:30:00",
       "berco": "902 BARRA",
-      "situacao": "Confirmado",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -86,11 +86,37 @@
       "data_chegada_texto": "19/08/2026 07:00",
       "data_chegada_iso": "2026-08-19T07:00:00",
       "manobra": "Entrada e Fundeio",
-      "data_manobra": "19/08/2026 17:15",
-      "data_manobra_iso": "2026-08-19T17:15:00",
+      "data_manobra": "19/08/2026 16:00",
+      "data_manobra_iso": "2026-08-19T16:00:00",
       "berco": "BARRA F4 (P1)",
       "situacao": "A Confirmar",
       "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Maersk Everglades",
+      "imo": "9928205",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "19/08/2026 18:00",
+      "data_chegada_iso": "2026-08-19T18:00:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "19/08/2026 17:00",
+      "data_manobra_iso": "2026-08-19T17:00:00",
+      "berco": "BARRA 901",
+      "situacao": "A Confirmar",
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Proud Unity",
+      "imo": "9860659",
+      "agencia": "LITORAL",
+      "data_chegada_texto": "08/08/2026 22:54",
+      "data_chegada_iso": "2026-08-08T22:54:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "19/08/2026 18:30",
+      "data_manobra_iso": "2026-08-19T18:30:00",
+      "berco": "BARRA 101",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
     },
     {
       "navio": "Magma Tenacity",
@@ -184,19 +210,6 @@
       "secao": "Navios Fundeados (Internos)"
     },
     {
-      "navio": "Proud Unity",
-      "imo": "9860659",
-      "agencia": "LITORAL",
-      "data_chegada_texto": "08/08/2026 22:54",
-      "data_chegada_iso": "2026-08-08T22:54:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "SFS",
-      "situacao": null,
-      "secao": "Navios Fundeados (Barra)"
-    },
-    {
       "navio": "Blue Ridge",
       "imo": "9518177",
       "agencia": "ALPHAMAR",
@@ -262,37 +275,11 @@
       "secao": "Navios Fundeados (Barra)"
     },
     {
-      "navio": "San Raphael Maersk",
-      "imo": "9622253",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "19/08/2026 12:00",
-      "data_chegada_iso": "2026-08-19T12:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": null,
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
       "navio": "YM Movement",
       "imo": "9660011",
       "agencia": "UNIMAR",
       "data_chegada_texto": "19/08/2026 14:00",
       "data_chegada_iso": "2026-08-19T14:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Maersk Everglades",
-      "imo": "9928205",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "19/08/2026 18:00",
-      "data_chegada_iso": "2026-08-19T18:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
@@ -466,19 +453,6 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "SFS",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Fernão de Magalhães",
-      "imo": "9603221",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "22/08/2026 17:00",
-      "data_chegada_iso": "2026-08-22T17:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Esperados"
     },

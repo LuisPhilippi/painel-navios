@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-19T12:39:51.804618",
+  "gerado_em": "2026-08-19T13:41:37.340179",
   "navios": [
     {
       "navio": "CAPE PIONEER",
@@ -64,11 +64,21 @@
     {
       "navio": "LOG-IN ENDURANCE",
       "status": "ManobraPrevista",
-      "data_hora_texto": "20/08/2026",
-      "data_hora_iso": "2026-08-20T00:00:00",
+      "data_hora_texto": "19/08/2026",
+      "data_hora_iso": "2026-08-19T00:00:00",
       "calado": "10,10 EK",
       "rota": "Bacia 1",
       "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
+      "navio": "BBC VAASA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "20/08/2026",
+      "data_hora_iso": "2026-08-20T00:00:00",
+      "calado": "5,60/6,50",
+      "rota": "",
+      "berco": "BARRA DO RIO",
       "posicao": null
     },
     {
@@ -129,16 +139,6 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
-      "posicao": null
-    },
-    {
-      "navio": "BBC VAASA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "20/08/2026",
-      "data_hora_iso": "2026-08-20T00:00:00",
-      "calado": "5,60/6,50",
-      "rota": "",
-      "berco": "BARRA DO RIO",
       "posicao": null
     },
     {
@@ -222,6 +222,16 @@
       "posicao": null
     },
     {
+      "navio": "SAO PAULO EXPRESS",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "22/08/2026",
+      "data_hora_iso": "2026-08-22T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
       "navio": "MSC SHANELLE V",
       "status": "ManobraPrevista",
       "data_hora_texto": "23/08/2026",
@@ -289,16 +299,6 @@
       "calado": "2,35/6,85",
       "rota": "",
       "berco": "BRASKARNE",
-      "posicao": null
-    },
-    {
-      "navio": "SAO PAULO EXPRESS",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "22/08/2028",
-      "data_hora_iso": "2028-08-22T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE",
       "posicao": null
     },
     {
