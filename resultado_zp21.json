@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-19T22:20:55.129359",
+  "gerado_em": "2026-08-19T23:19:47.290079",
   "navios": [
     {
       "navio": "BBC VAASA",
@@ -17,7 +17,7 @@
       "data_hora_texto": "20/08/2026",
       "data_hora_iso": "2026-08-20T00:00:00",
       "calado": "11,20/11,30",
-      "rota": "Bacia 2",
+      "rota": "Bacia 1",
       "berco": "PNAVE 01",
       "posicao": null
     },
@@ -32,16 +32,6 @@
       "posicao": null
     },
     {
-      "navio": "BOSPORUS HIGHWAY",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "20/08/2026",
-      "data_hora_iso": "2026-08-20T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS 4",
-      "posicao": null
-    },
-    {
       "navio": "LOG-IN ENDURANCE",
       "status": "ManobraPrevista",
       "data_hora_texto": "20/08/2026",
@@ -49,6 +39,26 @@
       "calado": "10,10 EK",
       "rota": "Bacia 1",
       "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
+      "navio": "FRAGATA JERÔNIMO DE ALBUQUERQUE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "20/08/2026",
+      "data_hora_iso": "2026-08-20T00:00:00",
+      "calado": "4,00 EK",
+      "rota": "",
+      "berco": "BRASIL SUL",
+      "posicao": null
+    },
+    {
+      "navio": "BOSPORUS HIGHWAY",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "20/08/2026",
+      "data_hora_iso": "2026-08-20T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS 4",
       "posicao": null
     },
     {
@@ -69,36 +79,6 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "FRAGATA JERÔNIMO DE ALBUQUERQUE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "20/08/2026",
-      "data_hora_iso": "2026-08-20T00:00:00",
-      "calado": "4,00 EK",
-      "rota": "",
-      "berco": "BRASIL SUL",
-      "posicao": null
-    },
-    {
-      "navio": "MSC SUSANNA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "20/08/2026",
-      "data_hora_iso": "2026-08-20T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
-      "navio": "CAPE SOUNIO",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "20/08/2026",
-      "data_hora_iso": "2026-08-20T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS",
       "posicao": null
     },
     {
@@ -149,6 +129,26 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "MSC SUSANNA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "21/08/2026",
+      "data_hora_iso": "2026-08-21T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "CAPE SOUNIO",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "21/08/2026",
+      "data_hora_iso": "2026-08-21T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
       "posicao": null
     },
     {
@@ -259,6 +259,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "INDUSTRIAL SONG",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "27/08/2026",
+      "data_hora_iso": "2026-08-27T00:00:00",
+      "calado": "5,00/6,60",
+      "rota": "",
+      "berco": "BARRA DO RIO",
       "posicao": null
     },
     {

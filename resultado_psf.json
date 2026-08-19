@@ -1,19 +1,6 @@
 {
-  "gerado_em": "2026-08-19T22:21:02.716701",
+  "gerado_em": "2026-08-19T23:19:53.388037",
   "navios": [
-    {
-      "navio": "Maersk Everglades",
-      "imo": "9928205",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "19/08/2026 16:45",
-      "data_chegada_iso": "2026-08-19T16:45:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "19/08/2026 16:45",
-      "data_manobra_iso": "2026-08-19T16:45:00",
-      "berco": "BARRA 901",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Proud Unity",
       "imo": "9860659",
@@ -130,6 +117,19 @@
       "berco": "BARRA F5",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
+    },
+    {
+      "navio": "Maersk Everglades",
+      "imo": "9928205",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "19/08/2026 16:45",
+      "data_chegada_iso": "2026-08-19T16:45:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "901",
+      "situacao": null,
+      "secao": "Navios Atracados"
     },
     {
       "navio": "Irvine Bay",
