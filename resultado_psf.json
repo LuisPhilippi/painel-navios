@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-19T20:24:08.297316",
+  "gerado_em": "2026-08-19T21:24:05.783153",
   "navios": [
     {
       "navio": "Maersk Everglades",
@@ -15,17 +15,17 @@
       "secao": "Movimentações"
     },
     {
-      "navio": "San Francisca",
-      "imo": "9698654",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "18/08/2026 23:34",
-      "data_chegada_iso": "2026-08-18T23:34:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "902",
-      "situacao": null,
-      "secao": "Navios Atracados"
+      "navio": "Proud Unity",
+      "imo": "9860659",
+      "agencia": "LITORAL",
+      "data_chegada_texto": "08/08/2026 22:54",
+      "data_chegada_iso": "2026-08-08T22:54:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "20/08/2026 01:30",
+      "data_manobra_iso": "2026-08-20T01:30:00",
+      "berco": "BARRA 101",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
     },
     {
       "navio": "Magma Tenacity",
@@ -33,12 +33,77 @@
       "agencia": "LITORAL",
       "data_chegada_texto": "07/08/2026 10:03",
       "data_chegada_iso": "2026-08-07T10:03:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "101",
-      "situacao": null,
-      "secao": "Navios Atracados"
+      "manobra": "Desatracação e Fundeio",
+      "data_manobra": "20/08/2026 01:30",
+      "data_manobra_iso": "2026-08-20T01:30:00",
+      "berco": "101 F3",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Tuju Arrow",
+      "imo": "9443920",
+      "agencia": "SEATRADE",
+      "data_chegada_texto": "11/08/2026 14:30",
+      "data_chegada_iso": "2026-08-11T14:30:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "20/08/2026 06:45",
+      "data_manobra_iso": "2026-08-20T06:45:00",
+      "berco": "300 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Sofia",
+      "imo": "9302750",
+      "agencia": "ZPORT AGENCIA",
+      "data_chegada_texto": "16/08/2026 12:36",
+      "data_chegada_iso": "2026-08-16T12:36:00",
+      "manobra": "Suspender e Atracar",
+      "data_manobra": "20/08/2026 06:45",
+      "data_manobra_iso": "2026-08-20T06:45:00",
+      "berco": "F5 301",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Vicente Pinzon",
+      "imo": "9625396",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "18/08/2026 20:35",
+      "data_chegada_iso": "2026-08-18T20:35:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "20/08/2026 08:30",
+      "data_manobra_iso": "2026-08-20T08:30:00",
+      "berco": "BARRA 902",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "San Francisca",
+      "imo": "9698654",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "18/08/2026 23:34",
+      "data_chegada_iso": "2026-08-18T23:34:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "20/08/2026 08:30",
+      "data_manobra_iso": "2026-08-20T08:30:00",
+      "berco": "902 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Lefkes",
+      "imo": "9658783",
+      "agencia": "ZPORT AGENCIA",
+      "data_chegada_texto": "14/08/2026 22:30",
+      "data_chegada_iso": "2026-08-14T22:30:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "20/08/2026 12:00",
+      "data_manobra_iso": "2026-08-20T12:00:00",
+      "berco": "BARRA 102",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
     },
     {
       "navio": "Equinox Galini",
@@ -46,12 +111,25 @@
       "agencia": "ZPORT AGENCIA",
       "data_chegada_texto": "13/08/2026 15:52",
       "data_chegada_iso": "2026-08-13T15:52:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "102",
-      "situacao": null,
-      "secao": "Navios Atracados"
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "20/08/2026 12:00",
+      "data_manobra_iso": "2026-08-20T12:00:00",
+      "berco": "102 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Diamond Star II",
+      "imo": "9449273",
+      "agencia": "OCEÂNICA",
+      "data_chegada_texto": "18/08/2026 15:30",
+      "data_chegada_iso": "2026-08-18T15:30:00",
+      "manobra": "Entrada e Fundeio",
+      "data_manobra": "20/08/2026 14:00",
+      "data_manobra_iso": "2026-08-20T14:00:00",
+      "berco": "BARRA F5",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
     },
     {
       "navio": "Irvine Bay",
@@ -67,19 +145,6 @@
       "secao": "Navios Atracados"
     },
     {
-      "navio": "Tuju Arrow",
-      "imo": "9443920",
-      "agencia": "SEATRADE",
-      "data_chegada_texto": "11/08/2026 14:30",
-      "data_chegada_iso": "2026-08-11T14:30:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "300",
-      "situacao": null,
-      "secao": "Navios Atracados"
-    },
-    {
       "navio": "Stinger",
       "imo": "9762871",
       "agencia": "WILSON SONS",
@@ -91,19 +156,6 @@
       "berco": "302",
       "situacao": null,
       "secao": "Navios Atracados"
-    },
-    {
-      "navio": "Sofia",
-      "imo": "9302750",
-      "agencia": "ZPORT AGENCIA",
-      "data_chegada_texto": "16/08/2026 12:36",
-      "data_chegada_iso": "2026-08-16T12:36:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "F5",
-      "situacao": null,
-      "secao": "Navios Fundeados (Internos)"
     },
     {
       "navio": "TSHD Galileo Galilei",
@@ -145,19 +197,6 @@
       "secao": "Navios Fundeados (Internos)"
     },
     {
-      "navio": "Proud Unity",
-      "imo": "9860659",
-      "agencia": "LITORAL",
-      "data_chegada_texto": "08/08/2026 22:54",
-      "data_chegada_iso": "2026-08-08T22:54:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": null,
-      "situacao": null,
-      "secao": "Navios Fundeados (Barra)"
-    },
-    {
       "navio": "Blue Ridge",
       "imo": "9518177",
       "agencia": "ALPHAMAR",
@@ -180,45 +219,6 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "SFS",
-      "situacao": null,
-      "secao": "Navios Fundeados (Barra)"
-    },
-    {
-      "navio": "Lefkes",
-      "imo": "9658783",
-      "agencia": "ZPORT AGENCIA",
-      "data_chegada_texto": "14/08/2026 22:30",
-      "data_chegada_iso": "2026-08-14T22:30:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": null,
-      "situacao": null,
-      "secao": "Navios Fundeados (Barra)"
-    },
-    {
-      "navio": "Diamond Star II",
-      "imo": "9449273",
-      "agencia": "OCEÂNICA",
-      "data_chegada_texto": "18/08/2026 15:30",
-      "data_chegada_iso": "2026-08-18T15:30:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "SFS",
-      "situacao": null,
-      "secao": "Navios Fundeados (Barra)"
-    },
-    {
-      "navio": "Vicente Pinzon",
-      "imo": "9625396",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "18/08/2026 20:35",
-      "data_chegada_iso": "2026-08-18T20:35:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Fundeados (Barra)"
     },
