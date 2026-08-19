@@ -1,45 +1,6 @@
 {
-  "gerado_em": "2026-08-19T17:23:42.561021",
+  "gerado_em": "2026-08-19T18:33:49.825989",
   "navios": [
-    {
-      "navio": "Maersk Lamanai",
-      "imo": "9527051",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "17/08/2026 05:50",
-      "data_chegada_iso": "2026-08-17T05:50:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "19/08/2026 13:00",
-      "data_manobra_iso": "2026-08-19T13:00:00",
-      "berco": "901 BARRA",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "XSSC Bright",
-      "imo": "9414151",
-      "agencia": "CARGONAVE",
-      "data_chegada_texto": "31/07/2026 15:00",
-      "data_chegada_iso": "2026-07-31T15:00:00",
-      "manobra": "Suspender e Sair",
-      "data_manobra": "19/08/2026 13:00",
-      "data_manobra_iso": "2026-08-19T13:00:00",
-      "berco": "F5 BARRA",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Gladiator",
-      "imo": "9605853",
-      "agencia": "CARGONAVE",
-      "data_chegada_texto": "31/07/2026 23:00",
-      "data_chegada_iso": "2026-07-31T23:00:00",
-      "manobra": "Suspender e Sair",
-      "data_manobra": "19/08/2026 13:00",
-      "data_manobra_iso": "2026-08-19T13:00:00",
-      "berco": "F3 BARRA",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Sofia",
       "imo": "9302750",
@@ -50,21 +11,21 @@
       "data_manobra": "19/08/2026 14:45",
       "data_manobra_iso": "2026-08-19T14:45:00",
       "berco": "BARRA F5",
-      "situacao": "Confirmado",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
       "navio": "Barcaça N10",
       "imo": "9326017",
       "agencia": "WILSON SONS",
-      "data_chegada_texto": "19/08/2026 07:00",
-      "data_chegada_iso": "2026-08-19T07:00:00",
+      "data_chegada_texto": "19/08/2026 14:58",
+      "data_chegada_iso": "2026-08-19T14:58:00",
       "manobra": "Entrada e Fundeio",
       "data_manobra": "19/08/2026 15:00",
       "data_manobra_iso": "2026-08-19T15:00:00",
       "berco": "BARRA F4 (P1)",
-      "situacao": "Confirmado",
-      "secao": "Navios Esperados"
+      "situacao": "Em Andamento",
+      "secao": "Movimentações"
     },
     {
       "navio": "Maersk Everglades",
@@ -76,34 +37,8 @@
       "data_manobra": "19/08/2026 17:00",
       "data_manobra_iso": "2026-08-19T17:00:00",
       "berco": "BARRA 901",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Proud Unity",
-      "imo": "9860659",
-      "agencia": "LITORAL",
-      "data_chegada_texto": "08/08/2026 22:54",
-      "data_chegada_iso": "2026-08-08T22:54:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "19/08/2026 18:30",
-      "data_manobra_iso": "2026-08-19T18:30:00",
-      "berco": "BARRA 101",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Magma Tenacity",
-      "imo": "9967689",
-      "agencia": "LITORAL",
-      "data_chegada_texto": "07/08/2026 10:03",
-      "data_chegada_iso": "2026-08-07T10:03:00",
-      "manobra": "Desatracação e Fundeio",
-      "data_manobra": "19/08/2026 18:30",
-      "data_manobra_iso": "2026-08-19T18:30:00",
-      "berco": "101 F3",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
     },
     {
       "navio": "San Francisca",
@@ -115,6 +50,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "902",
+      "situacao": null,
+      "secao": "Navios Atracados"
+    },
+    {
+      "navio": "Magma Tenacity",
+      "imo": "9967689",
+      "agencia": "LITORAL",
+      "data_chegada_texto": "07/08/2026 10:03",
+      "data_chegada_iso": "2026-08-07T10:03:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "101",
       "situacao": null,
       "secao": "Navios Atracados"
     },
@@ -195,6 +143,19 @@
       "berco": "F4 (P2)",
       "situacao": null,
       "secao": "Navios Fundeados (Internos)"
+    },
+    {
+      "navio": "Proud Unity",
+      "imo": "9860659",
+      "agencia": "LITORAL",
+      "data_chegada_texto": "08/08/2026 22:54",
+      "data_chegada_iso": "2026-08-08T22:54:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": null,
+      "situacao": null,
+      "secao": "Navios Fundeados (Barra)"
     },
     {
       "navio": "Blue Ridge",

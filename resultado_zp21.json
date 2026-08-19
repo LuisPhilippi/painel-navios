@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-08-19T17:23:34.063587",
+  "gerado_em": "2026-08-19T18:33:41.716080",
   "navios": [
-    {
-      "navio": "NC BRAVO",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "19/08/2026",
-      "data_hora_iso": "2026-08-19T00:00:00",
-      "calado": "10,60/10,80",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
     {
       "navio": "MSC AINO",
       "status": "ManobraPrevista",
@@ -169,6 +159,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "NC BRAVO",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "20/08/2026",
+      "data_hora_iso": "2026-08-20T00:00:00",
+      "calado": "11,00 EK",
+      "rota": "Bacia 1",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
