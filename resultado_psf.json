@@ -1,44 +1,18 @@
 {
-  "gerado_em": "2026-08-19T19:22:06.052783",
+  "gerado_em": "2026-08-19T20:24:08.297316",
   "navios": [
-    {
-      "navio": "Sofia",
-      "imo": "9302750",
-      "agencia": "ZPORT AGENCIA",
-      "data_chegada_texto": "16/08/2026 12:36",
-      "data_chegada_iso": "2026-08-16T12:36:00",
-      "manobra": "Entrada e Fundeio",
-      "data_manobra": "19/08/2026 14:45",
-      "data_manobra_iso": "2026-08-19T14:45:00",
-      "berco": "BARRA F5",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Barcaça N10",
-      "imo": "9326017",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "19/08/2026 14:58",
-      "data_chegada_iso": "2026-08-19T14:58:00",
-      "manobra": "Entrada e Fundeio",
-      "data_manobra": "19/08/2026 15:00",
-      "data_manobra_iso": "2026-08-19T15:00:00",
-      "berco": "BARRA F4 (P1)",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Maersk Everglades",
       "imo": "9928205",
       "agencia": "LACHMANN",
-      "data_chegada_texto": "19/08/2026 18:00",
-      "data_chegada_iso": "2026-08-19T18:00:00",
+      "data_chegada_texto": "19/08/2026 16:45",
+      "data_chegada_iso": "2026-08-19T16:45:00",
       "manobra": "Entrada e Atracação",
-      "data_manobra": "19/08/2026 17:00",
-      "data_manobra_iso": "2026-08-19T17:00:00",
+      "data_manobra": "19/08/2026 16:45",
+      "data_manobra_iso": "2026-08-19T16:45:00",
       "berco": "BARRA 901",
-      "situacao": "Confirmado",
-      "secao": "Navios Esperados"
+      "situacao": "Em Andamento",
+      "secao": "Movimentações"
     },
     {
       "navio": "San Francisca",
@@ -119,6 +93,19 @@
       "secao": "Navios Atracados"
     },
     {
+      "navio": "Sofia",
+      "imo": "9302750",
+      "agencia": "ZPORT AGENCIA",
+      "data_chegada_texto": "16/08/2026 12:36",
+      "data_chegada_iso": "2026-08-16T12:36:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "F5",
+      "situacao": null,
+      "secao": "Navios Fundeados (Internos)"
+    },
+    {
       "navio": "TSHD Galileo Galilei",
       "imo": "9872365",
       "agencia": "LITORAL",
@@ -141,6 +128,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "F4 (P2)",
+      "situacao": null,
+      "secao": "Navios Fundeados (Internos)"
+    },
+    {
+      "navio": "Barcaça N10",
+      "imo": "9326017",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "19/08/2026 14:58",
+      "data_chegada_iso": "2026-08-19T14:58:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "F4 (P1)",
       "situacao": null,
       "secao": "Navios Fundeados (Internos)"
     },
