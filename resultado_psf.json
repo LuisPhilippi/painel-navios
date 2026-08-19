@@ -1,45 +1,6 @@
 {
-  "gerado_em": "2026-08-19T01:02:32.950448",
+  "gerado_em": "2026-08-19T02:56:37.135478",
   "navios": [
-    {
-      "navio": "Tuju Arrow",
-      "imo": "9443920",
-      "agencia": "SEATRADE",
-      "data_chegada_texto": "11/08/2026 14:30",
-      "data_chegada_iso": "2026-08-11T14:30:00",
-      "manobra": "Mudança de Berço",
-      "data_manobra": "19/08/2026 00:15",
-      "data_manobra_iso": "2026-08-19T00:15:00",
-      "berco": "300 301",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Lefkes",
-      "imo": "9658783",
-      "agencia": "ZPORT AGENCIA",
-      "data_chegada_texto": "14/08/2026 22:30",
-      "data_chegada_iso": "2026-08-14T22:30:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "19/08/2026 01:30",
-      "data_manobra_iso": "2026-08-19T01:30:00",
-      "berco": "BARRA 201",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Irvine Bay",
-      "imo": "9682928",
-      "agencia": "MASTER",
-      "data_chegada_texto": "07/08/2026 19:59",
-      "data_chegada_iso": "2026-08-07T19:59:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "19/08/2026 01:30",
-      "data_manobra_iso": "2026-08-19T01:30:00",
-      "berco": "201 BARRA",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
     {
       "navio": "MSC Amalfi",
       "imo": "9605279",
@@ -83,14 +44,14 @@
       "navio": "San Francisca",
       "imo": "9698654",
       "agencia": "LACHMANN",
-      "data_chegada_texto": "17/08/2026 23:00",
-      "data_chegada_iso": "2026-08-17T23:00:00",
+      "data_chegada_texto": "18/08/2026 23:34",
+      "data_chegada_iso": "2026-08-18T23:34:00",
       "manobra": "Entrada e Atracação",
       "data_manobra": "19/08/2026 08:00",
       "data_manobra_iso": "2026-08-19T08:00:00",
       "berco": "BARRA 902",
       "situacao": "A Confirmar",
-      "secao": "Navios Esperados"
+      "secao": "Movimentações"
     },
     {
       "navio": "Sofia",
@@ -167,6 +128,32 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "102",
+      "situacao": null,
+      "secao": "Navios Atracados"
+    },
+    {
+      "navio": "Irvine Bay",
+      "imo": "9682928",
+      "agencia": "MASTER",
+      "data_chegada_texto": "07/08/2026 19:59",
+      "data_chegada_iso": "2026-08-07T19:59:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "201",
+      "situacao": null,
+      "secao": "Navios Atracados"
+    },
+    {
+      "navio": "Tuju Arrow",
+      "imo": "9443920",
+      "agencia": "SEATRADE",
+      "data_chegada_texto": "11/08/2026 14:30",
+      "data_chegada_iso": "2026-08-11T14:30:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "300",
       "situacao": null,
       "secao": "Navios Atracados"
     },
@@ -249,6 +236,19 @@
       "secao": "Navios Fundeados (Barra)"
     },
     {
+      "navio": "Lefkes",
+      "imo": "9658783",
+      "agencia": "ZPORT AGENCIA",
+      "data_chegada_texto": "14/08/2026 22:30",
+      "data_chegada_iso": "2026-08-14T22:30:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": null,
+      "situacao": null,
+      "secao": "Navios Fundeados (Barra)"
+    },
+    {
       "navio": "Diamond Star II",
       "imo": "9449273",
       "agencia": "OCEÂNICA",
@@ -258,6 +258,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "SFS",
+      "situacao": null,
+      "secao": "Navios Fundeados (Barra)"
+    },
+    {
+      "navio": "Vicente Pinzon",
+      "imo": "9625396",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "18/08/2026 20:35",
+      "data_chegada_iso": "2026-08-18T20:35:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Fundeados (Barra)"
     },
@@ -343,8 +356,8 @@
       "navio": "Cap San Tainaro",
       "imo": "9633965",
       "agencia": "LACHMANN",
-      "data_chegada_texto": "20/08/2026 13:00",
-      "data_chegada_iso": "2026-08-20T13:00:00",
+      "data_chegada_texto": "20/08/2026 14:00",
+      "data_chegada_iso": "2026-08-20T14:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
@@ -410,6 +423,19 @@
       "agencia": "ZIM DO BRASIL",
       "data_chegada_texto": "22/08/2026 07:00",
       "data_chegada_iso": "2026-08-22T07:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Ever Lider",
+      "imo": "9595503",
+      "agencia": "SEATRADE",
+      "data_chegada_texto": "22/08/2026 12:00",
+      "data_chegada_iso": "2026-08-22T12:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
@@ -587,6 +613,19 @@
       "secao": "Navios Esperados"
     },
     {
+      "navio": "Seaspan Empire",
+      "imo": "9407160",
+      "agencia": "ROCHAMAR",
+      "data_chegada_texto": "26/08/2026 18:00",
+      "data_chegada_iso": "2026-08-26T18:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
       "navio": "WL Palekh",
       "imo": "9674397",
       "agencia": "WILSON SONS",
@@ -626,19 +665,6 @@
       "secao": "Navios Esperados"
     },
     {
-      "navio": "Seaspan Empire",
-      "imo": "9407160",
-      "agencia": "ROCHAMAR",
-      "data_chegada_texto": "27/08/2026 18:00",
-      "data_chegada_iso": "2026-08-27T18:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
       "navio": "Star Hansa",
       "imo": "9103128",
       "agencia": "SEATRADE",
@@ -665,6 +691,32 @@
       "secao": "Navios Esperados"
     },
     {
+      "navio": "Wieland",
+      "imo": "9654464",
+      "agencia": "ROCHAMAR",
+      "data_chegada_texto": "28/08/2026 04:00",
+      "data_chegada_iso": "2026-08-28T04:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Mercosul Guarujá",
+      "imo": "9539494",
+      "agencia": "UNIMAR",
+      "data_chegada_texto": "28/08/2026 08:00",
+      "data_chegada_iso": "2026-08-28T08:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
       "navio": "Apiradee Naree",
       "imo": "9613410",
       "agencia": "ORION",
@@ -678,11 +730,76 @@
       "secao": "Navios Esperados"
     },
     {
+      "navio": "Maersk Venezia",
+      "imo": "9344681",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "28/08/2026 20:00",
+      "data_chegada_iso": "2026-08-28T20:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "MSC Bianca",
+      "imo": "9770749",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "29/08/2026 02:00",
+      "data_chegada_iso": "2026-08-29T02:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
       "navio": "Seastar Viking",
       "imo": "9690896",
       "agencia": "CARGONAVE",
       "data_chegada_texto": "29/08/2026 12:00",
       "data_chegada_iso": "2026-08-29T12:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "SFS",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "San Lorenzo Maersk",
+      "imo": "9622227",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "29/08/2026 15:00",
+      "data_chegada_iso": "2026-08-29T15:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Américo Vespúcio",
+      "imo": "9603233",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "29/08/2026 17:00",
+      "data_chegada_iso": "2026-08-29T17:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Port Kyoto",
+      "imo": "9942093",
+      "agencia": "SEATRADE",
+      "data_chegada_texto": "07/09/2026 12:00",
+      "data_chegada_iso": "2026-09-07T12:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
