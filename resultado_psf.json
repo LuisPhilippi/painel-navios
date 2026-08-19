@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-19T11:21:48.532061",
+  "gerado_em": "2026-08-19T12:40:02.507540",
   "navios": [
     {
       "navio": "San Francisca",
@@ -11,7 +11,7 @@
       "data_manobra": "19/08/2026 10:30",
       "data_manobra_iso": "2026-08-19T10:30:00",
       "berco": "BARRA 902",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -24,7 +24,7 @@
       "data_manobra": "19/08/2026 10:30",
       "data_manobra_iso": "2026-08-19T10:30:00",
       "berco": "902 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -73,24 +73,11 @@
       "data_chegada_texto": "16/08/2026 12:36",
       "data_chegada_iso": "2026-08-16T12:36:00",
       "manobra": "Entrada e Fundeio",
-      "data_manobra": "19/08/2026 16:00",
-      "data_manobra_iso": "2026-08-19T16:00:00",
+      "data_manobra": "19/08/2026 14:45",
+      "data_manobra_iso": "2026-08-19T14:45:00",
       "berco": "BARRA F5",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
-    },
-    {
-      "navio": "San Raphael Maersk",
-      "imo": "9622253",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "19/08/2026 12:00",
-      "data_chegada_iso": "2026-08-19T12:00:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "19/08/2026 17:00",
-      "data_manobra_iso": "2026-08-19T17:00:00",
-      "berco": "BARRA 901",
-      "situacao": "A Confirmar",
-      "secao": "Navios Esperados"
     },
     {
       "navio": "Barcaça N10",
@@ -273,6 +260,19 @@
       "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Fundeados (Barra)"
+    },
+    {
+      "navio": "San Raphael Maersk",
+      "imo": "9622253",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "19/08/2026 12:00",
+      "data_chegada_iso": "2026-08-19T12:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": null,
+      "situacao": null,
+      "secao": "Navios Esperados"
     },
     {
       "navio": "YM Movement",

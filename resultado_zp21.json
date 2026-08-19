@@ -1,12 +1,12 @@
 {
-  "gerado_em": "2026-08-19T11:21:42.437465",
+  "gerado_em": "2026-08-19T12:39:51.804618",
   "navios": [
     {
       "navio": "CAPE PIONEER",
       "status": "ManobraPrevista",
       "data_hora_texto": "19/08/2026",
       "data_hora_iso": "2026-08-19T00:00:00",
-      "calado": "11,40/11,50",
+      "calado": "11,40 EK",
       "rota": "Bacia 1",
       "berco": "PORTO ITAJAI - 04",
       "posicao": null
@@ -16,7 +16,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "19/08/2026",
       "data_hora_iso": "2026-08-19T00:00:00",
-      "calado": "TBC",
+      "calado": "10,50/11,10",
       "rota": "Bacia 1",
       "berco": "PNAVE 02",
       "posicao": null
@@ -48,7 +48,7 @@
       "data_hora_iso": "2026-08-19T00:00:00",
       "calado": "9,00 EK",
       "rota": "Bacia 1",
-      "berco": "PORTO ITAJAI - 04",
+      "berco": "JBS 4",
       "posicao": null
     },
     {
@@ -64,9 +64,9 @@
     {
       "navio": "LOG-IN ENDURANCE",
       "status": "ManobraPrevista",
-      "data_hora_texto": "19/08/2026",
-      "data_hora_iso": "2026-08-19T00:00:00",
-      "calado": "TBC",
+      "data_hora_texto": "20/08/2026",
+      "data_hora_iso": "2026-08-20T00:00:00",
+      "calado": "10,10 EK",
       "rota": "Bacia 1",
       "berco": "PNAVE 01",
       "posicao": null
@@ -79,16 +79,6 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
-      "posicao": null
-    },
-    {
-      "navio": "PIO GRANDE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "20/08/2026",
-      "data_hora_iso": "2026-08-20T00:00:00",
-      "calado": "4,65/6,20",
-      "rota": "",
-      "berco": "TEPORTI",
       "posicao": null
     },
     {
@@ -159,6 +149,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "PIO GRANDE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "20/08/2026",
+      "data_hora_iso": "2026-08-20T00:00:00",
+      "calado": "4,65/6,20",
+      "rota": "",
+      "berco": "TEPORTI",
       "posicao": null
     },
     {
