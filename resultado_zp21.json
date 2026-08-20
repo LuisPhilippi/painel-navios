@@ -1,26 +1,6 @@
 {
-  "gerado_em": "2026-08-20T13:43:14.093136",
+  "gerado_em": "2026-08-20T14:35:53.182777",
   "navios": [
-    {
-      "navio": "FRAGATA JERÔNIMO DE ALBUQUERQUE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "20/08/2026",
-      "data_hora_iso": "2026-08-20T00:00:00",
-      "calado": "4,00 EK",
-      "rota": "",
-      "berco": "BRASIL SUL",
-      "posicao": null
-    },
-    {
-      "navio": "LOG-IN ENDURANCE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "20/08/2026",
-      "data_hora_iso": "2026-08-20T00:00:00",
-      "calado": "10,10 EK",
-      "rota": "Bacia 1",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "BOSPORUS HIGHWAY",
       "status": "ManobraPrevista",
@@ -89,6 +69,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "LOG-IN ENDURANCE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "21/08/2026",
+      "data_hora_iso": "2026-08-21T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
@@ -212,6 +202,16 @@
       "posicao": null
     },
     {
+      "navio": "MSC FLORENTINA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "23/08/2026",
+      "data_hora_iso": "2026-08-23T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
       "navio": "NC BRUMA",
       "status": "ManobraPrevista",
       "data_hora_texto": "24/08/2026",
@@ -262,6 +262,16 @@
       "posicao": null
     },
     {
+      "navio": "PALENA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "27/08/2026",
+      "data_hora_iso": "2026-08-27T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
       "navio": "MAERSK PANGANI",
       "status": "ManobraPrevista",
       "data_hora_texto": "28/08/2026",
@@ -282,16 +292,6 @@
       "posicao": null
     },
     {
-      "navio": "PALENA",
-      "status": "Previsto",
-      "data_hora_texto": "27/08/2026 - 10:00",
-      "data_hora_iso": "2026-08-27T10:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": null,
-      "posicao": null
-    },
-    {
       "navio": "AGIOS PORFYRIOS",
       "status": "Fundeado",
       "data_hora_texto": "15/08/2026 - 22:09",
@@ -300,6 +300,16 @@
       "rota": "",
       "berco": null,
       "posicao": "26 52,64 S / 048 31,29 W"
+    },
+    {
+      "navio": "FRAGATA JERÔNIMO DE ALBUQUERQUE",
+      "status": "Atracado",
+      "data_hora_texto": "20/08/2026 - 11:23",
+      "data_hora_iso": "2026-08-20T11:23:00",
+      "calado": null,
+      "rota": "",
+      "berco": "BRASIL SUL",
+      "posicao": null
     },
     {
       "navio": "BRUCE KAY",

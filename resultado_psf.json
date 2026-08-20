@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-20T13:43:20.732547",
+  "gerado_em": "2026-08-20T14:36:01.192387",
   "navios": [
     {
       "navio": "Lefkes",
@@ -11,7 +11,7 @@
       "data_manobra": "20/08/2026 11:30",
       "data_manobra_iso": "2026-08-20T11:30:00",
       "berco": "BARRA 102",
-      "situacao": "Confirmado",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -219,6 +219,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "SFS",
+      "situacao": null,
+      "secao": "Navios Fundeados (Barra)"
+    },
+    {
+      "navio": "YM Movement",
+      "imo": "9660011",
+      "agencia": "UNIMAR",
+      "data_chegada_texto": "19/08/2026 18:32",
+      "data_chegada_iso": "2026-08-19T18:32:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Fundeados (Barra)"
     },
