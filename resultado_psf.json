@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-20T08:34:00.085227",
+  "gerado_em": "2026-08-20T09:30:40.960077",
   "navios": [
     {
       "navio": "Vicente Pinzon",
@@ -218,7 +218,7 @@
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
-      "berco": null,
+      "berco": "SFS",
       "situacao": null,
       "secao": "Navios Fundeados (Barra)"
     },
@@ -241,6 +241,19 @@
       "agencia": "ZPORT AGENCIA",
       "data_chegada_texto": "19/08/2026 21:55",
       "data_chegada_iso": "2026-08-19T21:55:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "SFS",
+      "situacao": null,
+      "secao": "Navios Fundeados (Barra)"
+    },
+    {
+      "navio": "Nikos N",
+      "imo": "9412646",
+      "agencia": "LITORAL",
+      "data_chegada_texto": "20/08/2026 06:21",
+      "data_chegada_iso": "2026-08-20T06:21:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
