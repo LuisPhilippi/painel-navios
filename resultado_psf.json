@@ -1,32 +1,6 @@
 {
-  "gerado_em": "2026-08-20T05:26:46.730091",
+  "gerado_em": "2026-08-20T06:39:31.207137",
   "navios": [
-    {
-      "navio": "Proud Unity",
-      "imo": "9860659",
-      "agencia": "LITORAL",
-      "data_chegada_texto": "08/08/2026 22:54",
-      "data_chegada_iso": "2026-08-08T22:54:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "20/08/2026 01:30",
-      "data_manobra_iso": "2026-08-20T01:30:00",
-      "berco": "BARRA 101",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Magma Tenacity",
-      "imo": "9967689",
-      "agencia": "LITORAL",
-      "data_chegada_texto": "07/08/2026 10:03",
-      "data_chegada_iso": "2026-08-07T10:03:00",
-      "manobra": "Desatracação e Fundeio",
-      "data_manobra": "20/08/2026 01:30",
-      "data_manobra_iso": "2026-08-20T01:30:00",
-      "berco": "101 F3",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Tuju Arrow",
       "imo": "9443920",
@@ -106,6 +80,19 @@
       "secao": "Movimentações"
     },
     {
+      "navio": "Magma Tenacity",
+      "imo": "9967689",
+      "agencia": "LITORAL",
+      "data_chegada_texto": "07/08/2026 10:03",
+      "data_chegada_iso": "2026-08-07T10:03:00",
+      "manobra": "Suspender e Sair",
+      "data_manobra": "20/08/2026 13:45",
+      "data_manobra_iso": "2026-08-20T13:45:00",
+      "berco": "F3 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
       "navio": "Maersk Everglades",
       "imo": "9928205",
       "agencia": "LACHMANN",
@@ -115,6 +102,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "901",
+      "situacao": null,
+      "secao": "Navios Atracados"
+    },
+    {
+      "navio": "Proud Unity",
+      "imo": "9860659",
+      "agencia": "LITORAL",
+      "data_chegada_texto": "08/08/2026 22:54",
+      "data_chegada_iso": "2026-08-08T22:54:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "101",
       "situacao": null,
       "secao": "Navios Atracados"
     },
