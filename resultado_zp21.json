@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-08-20T14:35:53.182777",
+  "gerado_em": "2026-08-20T15:30:09.394391",
   "navios": [
-    {
-      "navio": "BOSPORUS HIGHWAY",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "20/08/2026",
-      "data_hora_iso": "2026-08-20T00:00:00",
-      "calado": "8,85 EK",
-      "rota": "",
-      "berco": "JBS 4",
-      "posicao": null
-    },
     {
       "navio": "IRENES WISDOM",
       "status": "ManobraPrevista",
@@ -42,41 +32,11 @@
       "posicao": null
     },
     {
-      "navio": "MSC AINO",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "20/08/2026",
-      "data_hora_iso": "2026-08-20T00:00:00",
-      "calado": "9,10/9,50",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
-      "navio": "HMM CLOVER",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "20/08/2026",
-      "data_hora_iso": "2026-08-20T00:00:00",
-      "calado": "12,00/12,10",
-      "rota": "",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
-      "navio": "MSC MAGNUM VII",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "20/08/2026",
-      "data_hora_iso": "2026-08-20T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
       "navio": "LOG-IN ENDURANCE",
       "status": "ManobraPrevista",
       "data_hora_texto": "21/08/2026",
       "data_hora_iso": "2026-08-21T00:00:00",
-      "calado": "TBC",
+      "calado": "11,60 MAX",
       "rota": "",
       "berco": "PNAVE 01",
       "posicao": null
@@ -89,6 +49,36 @@
       "calado": "12,00/12,05",
       "rota": "",
       "berco": "JBS 4",
+      "posicao": null
+    },
+    {
+      "navio": "MSC AINO",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "21/08/2026",
+      "data_hora_iso": "2026-08-21T00:00:00",
+      "calado": "9,10/9,50",
+      "rota": "Bacia 2",
+      "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
+      "navio": "HMM CLOVER",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "21/08/2026",
+      "data_hora_iso": "2026-08-21T00:00:00",
+      "calado": "12,00/12,10",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "MSC MAGNUM VII",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "21/08/2026",
+      "data_hora_iso": "2026-08-21T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -176,7 +166,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "22/08/2026",
       "data_hora_iso": "2026-08-22T00:00:00",
-      "calado": "TBC",
+      "calado": "12,02 MAX",
       "rota": "",
       "berco": "PNAVE",
       "posicao": null
