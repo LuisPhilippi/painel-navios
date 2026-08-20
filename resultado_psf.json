@@ -1,32 +1,6 @@
 {
-  "gerado_em": "2026-08-20T17:25:34.771106",
+  "gerado_em": "2026-08-20T18:33:56.119281",
   "navios": [
-    {
-      "navio": "Tuju Arrow",
-      "imo": "9443920",
-      "agencia": "SEATRADE",
-      "data_chegada_texto": "11/08/2026 14:30",
-      "data_chegada_iso": "2026-08-11T14:30:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "20/08/2026 13:45",
-      "data_manobra_iso": "2026-08-20T13:45:00",
-      "berco": "300 BARRA",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Magma Tenacity",
-      "imo": "9967689",
-      "agencia": "LITORAL",
-      "data_chegada_texto": "07/08/2026 10:03",
-      "data_chegada_iso": "2026-08-07T10:03:00",
-      "manobra": "Suspender e Sair",
-      "data_manobra": "20/08/2026 13:45",
-      "data_manobra_iso": "2026-08-20T13:45:00",
-      "berco": "F3 BARRA",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Sofia",
       "imo": "9302750",
@@ -265,14 +239,14 @@
       "navio": "Jamaica Bay",
       "imo": "9610717",
       "agencia": "WILSON SONS",
-      "data_chegada_texto": "20/08/2026 14:00",
-      "data_chegada_iso": "2026-08-20T14:00:00",
+      "data_chegada_texto": "20/08/2026 14:27",
+      "data_chegada_iso": "2026-08-20T14:27:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "TESC",
       "situacao": null,
-      "secao": "Navios Esperados"
+      "secao": "Navios Fundeados (Barra)"
     },
     {
       "navio": "Cape Sounio",
