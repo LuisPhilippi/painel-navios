@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-20T03:43:14.212594",
+  "gerado_em": "2026-08-20T04:33:58.312568",
   "navios": [
     {
       "navio": "Proud Unity",
@@ -11,7 +11,7 @@
       "data_manobra": "20/08/2026 01:30",
       "data_manobra_iso": "2026-08-20T01:30:00",
       "berco": "BARRA 101",
-      "situacao": "Confirmado",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
