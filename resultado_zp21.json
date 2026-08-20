@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-19T23:19:47.290079",
+  "gerado_em": "2026-08-20T01:02:17.074448",
   "navios": [
     {
       "navio": "BBC VAASA",
@@ -32,16 +32,6 @@
       "posicao": null
     },
     {
-      "navio": "LOG-IN ENDURANCE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "20/08/2026",
-      "data_hora_iso": "2026-08-20T00:00:00",
-      "calado": "10,10 EK",
-      "rota": "Bacia 1",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
       "navio": "FRAGATA JERÔNIMO DE ALBUQUERQUE",
       "status": "ManobraPrevista",
       "data_hora_texto": "20/08/2026",
@@ -49,6 +39,16 @@
       "calado": "4,00 EK",
       "rota": "",
       "berco": "BRASIL SUL",
+      "posicao": null
+    },
+    {
+      "navio": "LOG-IN ENDURANCE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "20/08/2026",
+      "data_hora_iso": "2026-08-20T00:00:00",
+      "calado": "10,10 EK",
+      "rota": "Bacia 1",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
@@ -66,7 +66,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "20/08/2026",
       "data_hora_iso": "2026-08-20T00:00:00",
-      "calado": "TBC",
+      "calado": "9,20/10,00",
       "rota": "",
       "berco": "JBS 4",
       "posicao": null
@@ -76,19 +76,9 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "20/08/2026",
       "data_hora_iso": "2026-08-20T00:00:00",
-      "calado": "TBC",
+      "calado": "10,00/10,40",
       "rota": "",
       "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "CLEANTEC",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "20/08/2026",
-      "data_hora_iso": "2026-08-20T00:00:00",
-      "calado": "5,18/6,50",
-      "rota": "",
-      "berco": "TEPORTI",
       "posicao": null
     },
     {
@@ -99,6 +89,16 @@
       "calado": "3,00 EK",
       "rota": "",
       "berco": "SEATRIUM",
+      "posicao": null
+    },
+    {
+      "navio": "CLEANTEC",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "20/08/2026",
+      "data_hora_iso": "2026-08-20T00:00:00",
+      "calado": "5,18/6,50",
+      "rota": "",
+      "berco": "TEPORTI",
       "posicao": null
     },
     {
