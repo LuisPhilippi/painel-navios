@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-20T04:33:58.312568",
+  "gerado_em": "2026-08-20T05:26:46.730091",
   "navios": [
     {
       "navio": "Proud Unity",
@@ -24,7 +24,7 @@
       "data_manobra": "20/08/2026 01:30",
       "data_manobra_iso": "2026-08-20T01:30:00",
       "berco": "101 F3",
-      "situacao": "Confirmado",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -34,35 +34,22 @@
       "data_chegada_texto": "11/08/2026 14:30",
       "data_chegada_iso": "2026-08-11T14:30:00",
       "manobra": "Desatracação e Saída",
-      "data_manobra": "20/08/2026 06:00",
-      "data_manobra_iso": "2026-08-20T06:00:00",
+      "data_manobra": "20/08/2026 06:45",
+      "data_manobra_iso": "2026-08-20T06:45:00",
       "berco": "300 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
     },
     {
-      "navio": "Lefkes",
-      "imo": "9658783",
+      "navio": "Sofia",
+      "imo": "9302750",
       "agencia": "ZPORT AGENCIA",
-      "data_chegada_texto": "14/08/2026 22:30",
-      "data_chegada_iso": "2026-08-14T22:30:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "20/08/2026 06:15",
-      "data_manobra_iso": "2026-08-20T06:15:00",
-      "berco": "BARRA 201",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Irvine Bay",
-      "imo": "9682928",
-      "agencia": "MASTER",
-      "data_chegada_texto": "07/08/2026 19:59",
-      "data_chegada_iso": "2026-08-07T19:59:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "20/08/2026 06:15",
-      "data_manobra_iso": "2026-08-20T06:15:00",
-      "berco": "201 BARRA",
+      "data_chegada_texto": "16/08/2026 12:36",
+      "data_chegada_iso": "2026-08-16T12:36:00",
+      "manobra": "Suspender e Atracar",
+      "data_manobra": "20/08/2026 06:45",
+      "data_manobra_iso": "2026-08-20T06:45:00",
+      "berco": "F5 301",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
     },
@@ -93,41 +80,28 @@
       "secao": "Movimentações"
     },
     {
+      "navio": "Lefkes",
+      "imo": "9658783",
+      "agencia": "ZPORT AGENCIA",
+      "data_chegada_texto": "14/08/2026 22:30",
+      "data_chegada_iso": "2026-08-14T22:30:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "20/08/2026 12:00",
+      "data_manobra_iso": "2026-08-20T12:00:00",
+      "berco": "BARRA 102",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
       "navio": "Equinox Galini",
       "imo": "9503990",
       "agencia": "ZPORT AGENCIA",
       "data_chegada_texto": "13/08/2026 15:52",
       "data_chegada_iso": "2026-08-13T15:52:00",
       "manobra": "Desatracação e Saída",
-      "data_manobra": "20/08/2026 13:45",
-      "data_manobra_iso": "2026-08-20T13:45:00",
+      "data_manobra": "20/08/2026 12:00",
+      "data_manobra_iso": "2026-08-20T12:00:00",
       "berco": "102 BARRA",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Sofia",
-      "imo": "9302750",
-      "agencia": "ZPORT AGENCIA",
-      "data_chegada_texto": "16/08/2026 12:36",
-      "data_chegada_iso": "2026-08-16T12:36:00",
-      "manobra": "Suspender e Atracar",
-      "data_manobra": "20/08/2026 14:00",
-      "data_manobra_iso": "2026-08-20T14:00:00",
-      "berco": "F5 301",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Diamond Star II",
-      "imo": "9449273",
-      "agencia": "OCEÂNICA",
-      "data_chegada_texto": "18/08/2026 15:30",
-      "data_chegada_iso": "2026-08-18T15:30:00",
-      "manobra": "Entrada e Fundeio",
-      "data_manobra": "20/08/2026 15:30",
-      "data_manobra_iso": "2026-08-20T15:30:00",
-      "berco": "BARRA F5",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
     },
@@ -141,6 +115,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "901",
+      "situacao": null,
+      "secao": "Navios Atracados"
+    },
+    {
+      "navio": "Irvine Bay",
+      "imo": "9682928",
+      "agencia": "MASTER",
+      "data_chegada_texto": "07/08/2026 19:59",
+      "data_chegada_iso": "2026-08-07T19:59:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "201",
       "situacao": null,
       "secao": "Navios Atracados"
     },
@@ -219,6 +206,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "SFS",
+      "situacao": null,
+      "secao": "Navios Fundeados (Barra)"
+    },
+    {
+      "navio": "Diamond Star II",
+      "imo": "9449273",
+      "agencia": "OCEÂNICA",
+      "data_chegada_texto": "18/08/2026 15:30",
+      "data_chegada_iso": "2026-08-18T15:30:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": null,
       "situacao": null,
       "secao": "Navios Fundeados (Barra)"
     },
