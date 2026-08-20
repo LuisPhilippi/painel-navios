@@ -1,19 +1,6 @@
 {
-  "gerado_em": "2026-08-20T16:30:55.522813",
+  "gerado_em": "2026-08-20T17:25:34.771106",
   "navios": [
-    {
-      "navio": "Lefkes",
-      "imo": "9658783",
-      "agencia": "ZPORT AGENCIA",
-      "data_chegada_texto": "14/08/2026 22:30",
-      "data_chegada_iso": "2026-08-14T22:30:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "20/08/2026 11:30",
-      "data_manobra_iso": "2026-08-20T11:30:00",
-      "berco": "BARRA 102",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Tuju Arrow",
       "imo": "9443920",
@@ -24,7 +11,7 @@
       "data_manobra": "20/08/2026 13:45",
       "data_manobra_iso": "2026-08-20T13:45:00",
       "berco": "300 BARRA",
-      "situacao": "Confirmado",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -37,7 +24,7 @@
       "data_manobra": "20/08/2026 13:45",
       "data_manobra_iso": "2026-08-20T13:45:00",
       "berco": "F3 BARRA",
-      "situacao": "Confirmado",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -50,7 +37,7 @@
       "data_manobra": "20/08/2026 14:00",
       "data_manobra_iso": "2026-08-20T14:00:00",
       "berco": "F5 301",
-      "situacao": "Confirmado",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -60,8 +47,8 @@
       "data_chegada_texto": "19/08/2026 15:15",
       "data_chegada_iso": "2026-08-19T15:15:00",
       "manobra": "Entrada e Atracação",
-      "data_manobra": "20/08/2026 18:00",
-      "data_manobra_iso": "2026-08-20T18:00:00",
+      "data_manobra": "20/08/2026 19:00",
+      "data_manobra_iso": "2026-08-20T19:00:00",
       "berco": "BARRA 901",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
@@ -73,8 +60,8 @@
       "data_chegada_texto": "19/08/2026 16:45",
       "data_chegada_iso": "2026-08-19T16:45:00",
       "manobra": "Desatracação e Saída",
-      "data_manobra": "20/08/2026 18:00",
-      "data_manobra_iso": "2026-08-20T18:00:00",
+      "data_manobra": "20/08/2026 19:00",
+      "data_manobra_iso": "2026-08-20T19:00:00",
       "berco": "901 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
@@ -102,6 +89,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "101",
+      "situacao": null,
+      "secao": "Navios Atracados"
+    },
+    {
+      "navio": "Lefkes",
+      "imo": "9658783",
+      "agencia": "ZPORT AGENCIA",
+      "data_chegada_texto": "14/08/2026 22:30",
+      "data_chegada_iso": "2026-08-14T22:30:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "102",
       "situacao": null,
       "secao": "Navios Atracados"
     },
@@ -319,19 +319,6 @@
       "agencia": "LACHMANN",
       "data_chegada_texto": "21/08/2026 12:00",
       "data_chegada_iso": "2026-08-21T12:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "MSC Magnum VII",
-      "imo": "9252541",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "21/08/2026 15:00",
-      "data_chegada_iso": "2026-08-21T15:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
