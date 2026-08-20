@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-08-20T12:40:42.744706",
+  "gerado_em": "2026-08-20T13:43:14.093136",
   "navios": [
-    {
-      "navio": "NC BRAVO",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "20/08/2026",
-      "data_hora_iso": "2026-08-20T00:00:00",
-      "calado": "11,00 EK",
-      "rota": "Bacia 1",
-      "berco": "JBS 2",
-      "posicao": null
-    },
     {
       "navio": "FRAGATA JERÔNIMO DE ALBUQUERQUE",
       "status": "ManobraPrevista",
@@ -172,16 +162,6 @@
       "posicao": null
     },
     {
-      "navio": "MAERSK KARACHI",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "21/08/2026",
-      "data_hora_iso": "2026-08-21T00:00:00",
-      "calado": "10,50/10,70",
-      "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
       "navio": "MSC AMALFI",
       "status": "ManobraPrevista",
       "data_hora_texto": "21/08/2026",
@@ -189,6 +169,16 @@
       "calado": "6,90/9,75",
       "rota": "",
       "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "MAERSK KARACHI",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "22/08/2026",
+      "data_hora_iso": "2026-08-22T00:00:00",
+      "calado": "10,50/10,70",
+      "rota": "",
+      "berco": "JBS",
       "posicao": null
     },
     {
@@ -289,6 +279,16 @@
       "calado": "2,35/6,85",
       "rota": "",
       "berco": "BRASKARNE",
+      "posicao": null
+    },
+    {
+      "navio": "PALENA",
+      "status": "Previsto",
+      "data_hora_texto": "27/08/2026 - 10:00",
+      "data_hora_iso": "2026-08-27T10:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": null,
       "posicao": null
     },
     {
