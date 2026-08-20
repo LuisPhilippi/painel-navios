@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-20T20:24:21.612158",
+  "gerado_em": "2026-08-20T21:24:26.028085",
   "navios": [
     {
       "navio": "IRENES WISDOM",
@@ -22,23 +22,13 @@
       "posicao": null
     },
     {
-      "navio": "LOG-IN ENDURANCE",
+      "navio": "NAVIOS VERMILION",
       "status": "ManobraPrevista",
       "data_hora_texto": "21/08/2026",
       "data_hora_iso": "2026-08-21T00:00:00",
-      "calado": "11,60 MAX",
+      "calado": "8,60/10,90",
       "rota": "",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "HMM CLOVER",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "21/08/2026",
-      "data_hora_iso": "2026-08-21T00:00:00",
-      "calado": "12,00/12,10",
-      "rota": "",
-      "berco": "PNAVE",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -52,6 +42,16 @@
       "posicao": null
     },
     {
+      "navio": "HMM CLOVER",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "21/08/2026",
+      "data_hora_iso": "2026-08-21T00:00:00",
+      "calado": "12,00/12,10",
+      "rota": "Bacia 2",
+      "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
       "navio": "ELVIRA",
       "status": "ManobraPrevista",
       "data_hora_texto": "21/08/2026",
@@ -62,33 +62,13 @@
       "posicao": null
     },
     {
-      "navio": "MSC SUSANNA",
+      "navio": "LOG-IN ENDURANCE",
       "status": "ManobraPrevista",
       "data_hora_texto": "21/08/2026",
       "data_hora_iso": "2026-08-21T00:00:00",
-      "calado": "TBC",
+      "calado": "11,60 MAX",
       "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
-      "navio": "NAVIOS VERMILION",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "21/08/2026",
-      "data_hora_iso": "2026-08-21T00:00:00",
-      "calado": "8,60/10,90",
-      "rota": "Bacia 1",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "CAPE SOUNIO",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "21/08/2026",
-      "data_hora_iso": "2026-08-21T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
@@ -102,63 +82,33 @@
       "posicao": null
     },
     {
-      "navio": "PIO GRANDE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "21/08/2026",
-      "data_hora_iso": "2026-08-21T00:00:00",
-      "calado": "4,65/6,20",
-      "rota": "",
-      "berco": "TEPORTI",
-      "posicao": null
-    },
-    {
-      "navio": "SANTA VANESSA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "21/08/2026",
-      "data_hora_iso": "2026-08-21T00:00:00",
-      "calado": "11,55/11,75",
-      "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
-      "navio": "LOG-IN RESILIENTE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "21/08/2026",
-      "data_hora_iso": "2026-08-21T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE",
-      "posicao": null
-    },
-    {
-      "navio": "MAERSK KARACHI",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "21/08/2026",
-      "data_hora_iso": "2026-08-21T00:00:00",
-      "calado": "10,50/10,70",
-      "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
       "navio": "MSC AMALFI",
       "status": "ManobraPrevista",
       "data_hora_texto": "21/08/2026",
       "data_hora_iso": "2026-08-21T00:00:00",
       "calado": "6,90/9,75",
-      "rota": "",
-      "berco": "PNAVE",
+      "rota": "Bacia 2",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
-      "navio": "SAO PAULO EXPRESS",
+      "navio": "MAERSK KARACHI",
       "status": "ManobraPrevista",
       "data_hora_texto": "22/08/2026",
       "data_hora_iso": "2026-08-22T00:00:00",
-      "calado": "12,02 MAX",
+      "calado": "10,50/10,70",
       "rota": "",
-      "berco": "PNAVE",
+      "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "SANTA VANESSA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "22/08/2026",
+      "data_hora_iso": "2026-08-22T00:00:00",
+      "calado": "11,55/11,75",
+      "rota": "",
+      "berco": "JBS",
       "posicao": null
     },
     {
@@ -169,6 +119,16 @@
       "calado": "3,00 EK",
       "rota": "",
       "berco": "SEATRIUM",
+      "posicao": null
+    },
+    {
+      "navio": "SAO PAULO EXPRESS",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "22/08/2026",
+      "data_hora_iso": "2026-08-22T00:00:00",
+      "calado": "12,02 MAX",
+      "rota": "",
+      "berco": "PNAVE",
       "posicao": null
     },
     {
@@ -189,6 +149,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "PIO GRANDE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "23/08/2026",
+      "data_hora_iso": "2026-08-23T00:00:00",
+      "calado": "4,65/6,20",
+      "rota": "",
+      "berco": "TEPORTI",
       "posicao": null
     },
     {
@@ -222,6 +192,16 @@
       "posicao": null
     },
     {
+      "navio": "MSC SUSANNA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "24/08/2026",
+      "data_hora_iso": "2026-08-24T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
       "navio": "COPIAPO",
       "status": "ManobraPrevista",
       "data_hora_texto": "24/08/2026",
@@ -229,6 +209,26 @@
       "calado": "TBC",
       "rota": "",
       "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "LOG-IN RESILIENTE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "24/08/2026",
+      "data_hora_iso": "2026-08-24T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "CAPE SOUNIO",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "25/08/2026",
+      "data_hora_iso": "2026-08-25T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
       "posicao": null
     },
     {
