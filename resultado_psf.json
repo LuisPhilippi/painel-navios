@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-20T01:02:24.451574",
+  "gerado_em": "2026-08-20T02:53:41.738279",
   "navios": [
     {
       "navio": "Proud Unity",
@@ -239,14 +239,14 @@
       "navio": "Evagelia",
       "imo": "1085992",
       "agencia": "ZPORT AGENCIA",
-      "data_chegada_texto": "19/08/2026 19:00",
-      "data_chegada_iso": "2026-08-19T19:00:00",
+      "data_chegada_texto": "19/08/2026 21:55",
+      "data_chegada_iso": "2026-08-19T21:55:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "SFS",
       "situacao": null,
-      "secao": "Navios Esperados"
+      "secao": "Navios Fundeados (Barra)"
     },
     {
       "navio": "Jamaica Bay",
