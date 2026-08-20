@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-20T19:28:23.937692",
+  "gerado_em": "2026-08-20T20:24:28.011739",
   "navios": [
     {
       "navio": "Cap San Tainaro",
@@ -11,7 +11,7 @@
       "data_manobra": "20/08/2026 19:00",
       "data_manobra_iso": "2026-08-20T19:00:00",
       "berco": "BARRA 901",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -24,7 +24,7 @@
       "data_manobra": "20/08/2026 19:00",
       "data_manobra_iso": "2026-08-20T19:00:00",
       "berco": "901 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -33,12 +33,38 @@
       "agencia": "LACHMANN",
       "data_chegada_texto": "18/08/2026 20:35",
       "data_chegada_iso": "2026-08-18T20:35:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "902",
-      "situacao": null,
-      "secao": "Navios Atracados"
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "21/08/2026 07:00",
+      "data_manobra_iso": "2026-08-21T07:00:00",
+      "berco": "902 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Mercosul Fortaleza",
+      "imo": "9784661",
+      "agencia": "UNIMAR",
+      "data_chegada_texto": "21/08/2026 10:00",
+      "data_chegada_iso": "2026-08-21T10:00:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "21/08/2026 10:00",
+      "data_manobra_iso": "2026-08-21T10:00:00",
+      "berco": "BARRA 902",
+      "situacao": "A Confirmar",
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Blue Ridge",
+      "imo": "9518177",
+      "agencia": "ALPHAMAR",
+      "data_chegada_texto": "12/08/2026 13:42",
+      "data_chegada_iso": "2026-08-12T13:42:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "21/08/2026 14:15",
+      "data_manobra_iso": "2026-08-21T14:15:00",
+      "berco": "BARRA 101",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
     },
     {
       "navio": "Proud Unity",
@@ -46,12 +72,25 @@
       "agencia": "LITORAL",
       "data_chegada_texto": "08/08/2026 22:54",
       "data_chegada_iso": "2026-08-08T22:54:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "101",
-      "situacao": null,
-      "secao": "Navios Atracados"
+      "manobra": "Desatracação e Fundeio",
+      "data_manobra": "21/08/2026 14:15",
+      "data_manobra_iso": "2026-08-21T14:15:00",
+      "berco": "101 F3",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Maersk Frankfurt",
+      "imo": "9969065",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "21/08/2026 02:30",
+      "data_chegada_iso": "2026-08-21T02:30:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "21/08/2026 16:30",
+      "data_manobra_iso": "2026-08-21T16:30:00",
+      "berco": "BARRA 901",
+      "situacao": "A Confirmar",
+      "secao": "Navios Esperados"
     },
     {
       "navio": "Lefkes",
@@ -143,19 +182,6 @@
       "berco": "F4 (P1)",
       "situacao": null,
       "secao": "Navios Fundeados (Internos)"
-    },
-    {
-      "navio": "Blue Ridge",
-      "imo": "9518177",
-      "agencia": "ALPHAMAR",
-      "data_chegada_texto": "12/08/2026 13:42",
-      "data_chegada_iso": "2026-08-12T13:42:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "SFS",
-      "situacao": null,
-      "secao": "Navios Fundeados (Barra)"
     },
     {
       "navio": "Alliance Diva",
@@ -254,32 +280,6 @@
       "agencia": "WILSON SONS",
       "data_chegada_texto": "20/08/2026 22:00",
       "data_chegada_iso": "2026-08-20T22:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Maersk Frankfurt",
-      "imo": "9969065",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "21/08/2026 02:30",
-      "data_chegada_iso": "2026-08-21T02:30:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Mercosul Fortaleza",
-      "imo": "9784661",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "21/08/2026 07:00",
-      "data_chegada_iso": "2026-08-21T07:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
