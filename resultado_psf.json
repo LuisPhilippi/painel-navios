@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-20T11:23:37.426609",
+  "gerado_em": "2026-08-20T12:40:49.983522",
   "navios": [
     {
       "navio": "Vicente Pinzon",
@@ -11,7 +11,7 @@
       "data_manobra": "20/08/2026 09:00",
       "data_manobra_iso": "2026-08-20T09:00:00",
       "berco": "BARRA 902",
-      "situacao": "Confirmado",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -24,7 +24,7 @@
       "data_manobra": "20/08/2026 09:00",
       "data_manobra_iso": "2026-08-20T09:00:00",
       "berco": "902 BARRA",
-      "situacao": "Confirmado",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -37,7 +37,7 @@
       "data_manobra": "20/08/2026 11:30",
       "data_manobra_iso": "2026-08-20T11:30:00",
       "berco": "BARRA 102",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -265,14 +265,14 @@
       "navio": "Tokyo Queen",
       "imo": "9841287",
       "agencia": "LITORAL",
-      "data_chegada_texto": "20/08/2026 08:00",
-      "data_chegada_iso": "2026-08-20T08:00:00",
+      "data_chegada_texto": "20/08/2026 08:18",
+      "data_chegada_iso": "2026-08-20T08:18:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "SFS",
       "situacao": null,
-      "secao": "Navios Esperados"
+      "secao": "Navios Fundeados (Barra)"
     },
     {
       "navio": "Jamaica Bay",
