@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-20T09:30:40.960077",
+  "gerado_em": "2026-08-20T10:26:05.874084",
   "navios": [
     {
       "navio": "Vicente Pinzon",
@@ -11,7 +11,7 @@
       "data_manobra": "20/08/2026 08:30",
       "data_manobra_iso": "2026-08-20T08:30:00",
       "berco": "BARRA 902",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -24,7 +24,7 @@
       "data_manobra": "20/08/2026 08:30",
       "data_manobra_iso": "2026-08-20T08:30:00",
       "berco": "902 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -262,41 +262,28 @@
       "secao": "Navios Fundeados (Barra)"
     },
     {
-      "navio": "Jamaica Bay",
-      "imo": "9610717",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "20/08/2026 01:00",
-      "data_chegada_iso": "2026-08-20T01:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "TESC",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Cape Sounio",
-      "imo": "9727625",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "20/08/2026 05:00",
-      "data_chegada_iso": "2026-08-20T05:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
       "navio": "Tokyo Queen",
       "imo": "9841287",
       "agencia": "LITORAL",
-      "data_chegada_texto": "20/08/2026 06:00",
-      "data_chegada_iso": "2026-08-20T06:00:00",
+      "data_chegada_texto": "20/08/2026 08:00",
+      "data_chegada_iso": "2026-08-20T08:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "SFS",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Jamaica Bay",
+      "imo": "9610717",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "20/08/2026 13:00",
+      "data_chegada_iso": "2026-08-20T13:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "TESC",
       "situacao": null,
       "secao": "Navios Esperados"
     },
@@ -332,6 +319,19 @@
       "agencia": "LACHMANN",
       "data_chegada_texto": "21/08/2026 12:00",
       "data_chegada_iso": "2026-08-21T12:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Cape Sounio",
+      "imo": "9727625",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "21/08/2026 15:00",
+      "data_chegada_iso": "2026-08-21T15:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
@@ -535,6 +535,19 @@
       "secao": "Navios Esperados"
     },
     {
+      "navio": "Beijing 2008",
+      "imo": "9442744",
+      "agencia": "CARGONAVE",
+      "data_chegada_texto": "26/08/2026 11:00",
+      "data_chegada_iso": "2026-08-26T11:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "TESC",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
       "navio": "Seaspan Empire",
       "imo": "9407160",
       "agencia": "ROCHAMAR",
@@ -608,7 +621,7 @@
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
-      "berco": "101",
+      "berco": "SFS",
       "situacao": null,
       "secao": "Navios Esperados"
     },
@@ -735,6 +748,19 @@
       "agencia": "MASTER",
       "data_chegada_texto": "31/08/2026 13:00",
       "data_chegada_iso": "2026-08-31T13:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "SFS",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Lyra M",
+      "imo": "9668063",
+      "agencia": "ZPORT AGENCIA",
+      "data_chegada_texto": "07/09/2026 12:00",
+      "data_chegada_iso": "2026-09-07T12:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
