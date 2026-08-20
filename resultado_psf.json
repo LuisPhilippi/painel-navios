@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-20T15:30:16.138035",
+  "gerado_em": "2026-08-20T16:30:55.522813",
   "navios": [
     {
       "navio": "Lefkes",
@@ -11,19 +11,6 @@
       "data_manobra": "20/08/2026 11:30",
       "data_manobra_iso": "2026-08-20T11:30:00",
       "berco": "BARRA 102",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Equinox Galini",
-      "imo": "9503990",
-      "agencia": "ZPORT AGENCIA",
-      "data_chegada_texto": "13/08/2026 15:52",
-      "data_chegada_iso": "2026-08-13T15:52:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "20/08/2026 12:00",
-      "data_manobra_iso": "2026-08-20T12:00:00",
-      "berco": "102 BARRA",
       "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
