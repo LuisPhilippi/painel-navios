@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-20T10:26:05.874084",
+  "gerado_em": "2026-08-20T11:23:37.426609",
   "navios": [
     {
       "navio": "Vicente Pinzon",
@@ -8,8 +8,8 @@
       "data_chegada_texto": "18/08/2026 20:35",
       "data_chegada_iso": "2026-08-18T20:35:00",
       "manobra": "Entrada e Atracação",
-      "data_manobra": "20/08/2026 08:30",
-      "data_manobra_iso": "2026-08-20T08:30:00",
+      "data_manobra": "20/08/2026 09:00",
+      "data_manobra_iso": "2026-08-20T09:00:00",
       "berco": "BARRA 902",
       "situacao": "Confirmado",
       "secao": "Movimentações"
@@ -21,8 +21,8 @@
       "data_chegada_texto": "18/08/2026 23:34",
       "data_chegada_iso": "2026-08-18T23:34:00",
       "manobra": "Desatracação e Saída",
-      "data_manobra": "20/08/2026 08:30",
-      "data_manobra_iso": "2026-08-20T08:30:00",
+      "data_manobra": "20/08/2026 09:00",
+      "data_manobra_iso": "2026-08-20T09:00:00",
       "berco": "902 BARRA",
       "situacao": "Confirmado",
       "secao": "Movimentações"

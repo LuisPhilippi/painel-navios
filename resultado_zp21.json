@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-08-20T10:25:58.723608",
+  "gerado_em": "2026-08-20T11:23:27.360734",
   "navios": [
-    {
-      "navio": "BBC VAASA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "20/08/2026",
-      "data_hora_iso": "2026-08-20T00:00:00",
-      "calado": "5,65/6,60",
-      "rota": "",
-      "berco": "BARRA DO RIO",
-      "posicao": null
-    },
     {
       "navio": "HMM PRESTIGE",
       "status": "ManobraPrevista",
