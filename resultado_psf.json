@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-20T21:24:32.192009",
+  "gerado_em": "2026-08-20T22:23:13.963149",
   "navios": [
     {
       "navio": "Cap San Tainaro",
@@ -11,7 +11,7 @@
       "data_manobra": "20/08/2026 19:00",
       "data_manobra_iso": "2026-08-20T19:00:00",
       "berco": "BARRA 901",
-      "situacao": "Confirmado",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -24,7 +24,7 @@
       "data_manobra": "20/08/2026 19:00",
       "data_manobra_iso": "2026-08-20T19:00:00",
       "berco": "901 BARRA",
-      "situacao": "Confirmado",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
