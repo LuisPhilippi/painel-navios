@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-20T18:33:49.948538",
+  "gerado_em": "2026-08-20T19:28:17.464072",
   "navios": [
     {
       "navio": "CLEANTEC",
@@ -9,36 +9,6 @@
       "calado": "5,18/6,50",
       "rota": "",
       "berco": "TEPORTI",
-      "posicao": null
-    },
-    {
-      "navio": "IRENES WISDOM",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "21/08/2026",
-      "data_hora_iso": "2026-08-21T00:00:00",
-      "calado": "10,50/10,60",
-      "rota": "Bacia 1",
-      "berco": "JBS 4",
-      "posicao": null
-    },
-    {
-      "navio": "NAVIOS VERMILION",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "21/08/2026",
-      "data_hora_iso": "2026-08-21T00:00:00",
-      "calado": "TBC",
-      "rota": "Bacia 1",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "MACKENZIE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "21/08/2026",
-      "data_hora_iso": "2026-08-21T00:00:00",
-      "calado": "12,00/12,05",
-      "rota": "",
-      "berco": "JBS 4",
       "posicao": null
     },
     {
@@ -72,6 +42,16 @@
       "posicao": null
     },
     {
+      "navio": "IRENES WISDOM",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "21/08/2026",
+      "data_hora_iso": "2026-08-21T00:00:00",
+      "calado": "10,30 EK",
+      "rota": "Bacia 1",
+      "berco": "JBS 4",
+      "posicao": null
+    },
+    {
       "navio": "MSC MAGNUM VII",
       "status": "ManobraPrevista",
       "data_hora_texto": "21/08/2026",
@@ -102,6 +82,16 @@
       "posicao": null
     },
     {
+      "navio": "NAVIOS VERMILION",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "21/08/2026",
+      "data_hora_iso": "2026-08-21T00:00:00",
+      "calado": "8,60/10,90",
+      "rota": "Bacia 1",
+      "berco": "JBS 2",
+      "posicao": null
+    },
+    {
       "navio": "CAPE SOUNIO",
       "status": "ManobraPrevista",
       "data_hora_texto": "21/08/2026",
@@ -109,6 +99,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "MACKENZIE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "21/08/2026",
+      "data_hora_iso": "2026-08-21T00:00:00",
+      "calado": "12,00/12,05",
+      "rota": "",
+      "berco": "JBS 4",
       "posicao": null
     },
     {
@@ -189,6 +189,26 @@
       "calado": "TBC",
       "rota": "",
       "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "NAVIOS AMARILLO",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "23/08/2026",
+      "data_hora_iso": "2026-08-23T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "FAITH",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "24/08/2026",
+      "data_hora_iso": "2026-08-24T00:00:00",
+      "calado": "4,50/6,10",
+      "rota": "",
+      "berco": "TEPORTI",
       "posicao": null
     },
     {

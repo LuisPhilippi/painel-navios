@@ -1,19 +1,6 @@
 {
-  "gerado_em": "2026-08-20T18:33:56.119281",
+  "gerado_em": "2026-08-20T19:28:23.937692",
   "navios": [
-    {
-      "navio": "Sofia",
-      "imo": "9302750",
-      "agencia": "ZPORT AGENCIA",
-      "data_chegada_texto": "16/08/2026 12:36",
-      "data_chegada_iso": "2026-08-16T12:36:00",
-      "manobra": "Suspender e Atracar",
-      "data_manobra": "20/08/2026 14:00",
-      "data_manobra_iso": "2026-08-20T14:00:00",
-      "berco": "F5 301",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Cap San Tainaro",
       "imo": "9633965",
@@ -89,6 +76,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "201",
+      "situacao": null,
+      "secao": "Navios Atracados"
+    },
+    {
+      "navio": "Sofia",
+      "imo": "9302750",
+      "agencia": "ZPORT AGENCIA",
+      "data_chegada_texto": "16/08/2026 12:36",
+      "data_chegada_iso": "2026-08-16T12:36:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "301",
       "situacao": null,
       "secao": "Navios Atracados"
     },
