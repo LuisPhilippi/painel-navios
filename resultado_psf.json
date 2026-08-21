@@ -1,19 +1,6 @@
 {
-  "gerado_em": "2026-08-20T23:22:07.707484",
+  "gerado_em": "2026-08-21T01:05:27.065999",
   "navios": [
-    {
-      "navio": "Cap San Tainaro",
-      "imo": "9633965",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "19/08/2026 15:15",
-      "data_chegada_iso": "2026-08-19T15:15:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "20/08/2026 19:00",
-      "data_manobra_iso": "2026-08-20T19:00:00",
-      "berco": "BARRA 901",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Vicente Pinzon",
       "imo": "9625396",
@@ -78,6 +65,19 @@
       "berco": "BARRA 901",
       "situacao": "A Confirmar",
       "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Cap San Tainaro",
+      "imo": "9633965",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "19/08/2026 15:15",
+      "data_chegada_iso": "2026-08-19T15:15:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "21/08/2026 16:30",
+      "data_manobra_iso": "2026-08-21T16:30:00",
+      "berco": "901 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
     },
     {
       "navio": "Lefkes",

@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-20T23:22:01.550889",
+  "gerado_em": "2026-08-21T01:05:20.088922",
   "navios": [
     {
       "navio": "IRENES WISDOM",
@@ -39,16 +39,6 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "PIO GRANDE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "21/08/2026",
-      "data_hora_iso": "2026-08-21T00:00:00",
-      "calado": "4,65/6,20",
-      "rota": "",
-      "berco": "TEPORTI",
       "posicao": null
     },
     {
@@ -119,6 +109,16 @@
       "calado": "11,55/11,75",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "PIO GRANDE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "22/08/2026",
+      "data_hora_iso": "2026-08-22T00:00:00",
+      "calado": "5,00/5,40",
+      "rota": "",
+      "berco": "TEPORTI",
       "posicao": null
     },
     {
