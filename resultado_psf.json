@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-21T08:36:26.212104",
+  "gerado_em": "2026-08-21T09:33:25.911357",
   "navios": [
     {
       "navio": "Mercosul Fortaleza",
@@ -57,14 +57,14 @@
       "navio": "Maersk Frankfurt",
       "imo": "9969065",
       "agencia": "LACHMANN",
-      "data_chegada_texto": "21/08/2026 02:30",
-      "data_chegada_iso": "2026-08-21T02:30:00",
+      "data_chegada_texto": "21/08/2026 05:42",
+      "data_chegada_iso": "2026-08-21T05:42:00",
       "manobra": "Entrada e Atracação",
       "data_manobra": "21/08/2026 16:30",
       "data_manobra_iso": "2026-08-21T16:30:00",
       "berco": "BARRA 901",
       "situacao": "A Confirmar",
-      "secao": "Navios Esperados"
+      "secao": "Movimentações"
     },
     {
       "navio": "Cap San Tainaro",
