@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-21T01:05:20.088922",
+  "gerado_em": "2026-08-21T02:59:21.366318",
   "navios": [
     {
       "navio": "IRENES WISDOM",
@@ -42,6 +42,16 @@
       "posicao": null
     },
     {
+      "navio": "LOG-IN ENDURANCE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "21/08/2026",
+      "data_hora_iso": "2026-08-21T00:00:00",
+      "calado": "11,60 MAX",
+      "rota": "",
+      "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
       "navio": "HMM CLOVER",
       "status": "ManobraPrevista",
       "data_hora_texto": "21/08/2026",
@@ -59,16 +69,6 @@
       "calado": "TBC",
       "rota": "Bacia 1",
       "berco": "BRASKARNE",
-      "posicao": null
-    },
-    {
-      "navio": "LOG-IN ENDURANCE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "21/08/2026",
-      "data_hora_iso": "2026-08-21T00:00:00",
-      "calado": "11,60 MAX",
-      "rota": "",
-      "berco": "PNAVE 01",
       "posicao": null
     },
     {
