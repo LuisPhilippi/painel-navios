@@ -1,18 +1,18 @@
 {
-  "gerado_em": "2026-08-21T12:40:06.049871",
+  "gerado_em": "2026-08-21T13:42:23.906543",
   "navios": [
     {
       "navio": "Mercosul Fortaleza",
       "imo": "9784661",
       "agencia": "UNIMAR",
-      "data_chegada_texto": "21/08/2026 10:00",
-      "data_chegada_iso": "2026-08-21T10:00:00",
+      "data_chegada_texto": "21/08/2026 09:59",
+      "data_chegada_iso": "2026-08-21T09:59:00",
       "manobra": "Entrada e Atracação",
       "data_manobra": "21/08/2026 10:00",
       "data_manobra_iso": "2026-08-21T10:00:00",
       "berco": "BARRA 902",
-      "situacao": "Confirmado",
-      "secao": "Navios Esperados"
+      "situacao": "Em Andamento",
+      "secao": "Movimentações"
     },
     {
       "navio": "Vicente Pinzon",
@@ -24,7 +24,7 @@
       "data_manobra": "21/08/2026 10:00",
       "data_manobra_iso": "2026-08-21T10:00:00",
       "berco": "902 BARRA",
-      "situacao": "Confirmado",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
