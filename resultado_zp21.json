@@ -1,12 +1,12 @@
 {
-  "gerado_em": "2026-08-21T06:39:52.690026",
+  "gerado_em": "2026-08-21T07:39:55.648263",
   "navios": [
     {
       "navio": "IRENES WISDOM",
       "status": "ManobraPrevista",
       "data_hora_texto": "21/08/2026",
       "data_hora_iso": "2026-08-21T00:00:00",
-      "calado": "10,30 EK",
+      "calado": "10,30/10,50",
       "rota": "Bacia 1",
       "berco": "JBS 4",
       "posicao": null
@@ -26,7 +26,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "21/08/2026",
       "data_hora_iso": "2026-08-21T00:00:00",
-      "calado": "8,60/10,90",
+      "calado": "8,80/10,90",
       "rota": "Bacia 1",
       "berco": "JBS 2",
       "posicao": null
