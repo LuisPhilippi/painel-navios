@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-08-21T14:31:29.865515",
+  "gerado_em": "2026-08-21T15:29:00.759007",
   "navios": [
-    {
-      "navio": "LOG-IN ENDURANCE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "21/08/2026",
-      "data_hora_iso": "2026-08-21T00:00:00",
-      "calado": "11,50 EK",
-      "rota": "",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "HMM CLOVER",
       "status": "ManobraPrevista",
@@ -56,7 +46,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "21/08/2026",
       "data_hora_iso": "2026-08-21T00:00:00",
-      "calado": "10,56/11,28",
+      "calado": "10,60/11,30",
       "rota": "Bacia 2",
       "berco": "JBS 2",
       "posicao": null
@@ -192,16 +182,6 @@
       "posicao": null
     },
     {
-      "navio": "AGIOS PORFYRIOS",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "24/08/2026",
-      "data_hora_iso": "2026-08-24T00:00:00",
-      "calado": "3,67/5,11",
-      "rota": "",
-      "berco": "BRASKARNE",
-      "posicao": null
-    },
-    {
       "navio": "CAPE SOUNIO",
       "status": "ManobraPrevista",
       "data_hora_texto": "25/08/2026",
@@ -219,6 +199,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "AGIOS PORFYRIOS",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "26/08/2026",
+      "data_hora_iso": "2026-08-26T00:00:00",
+      "calado": "3,67/5,11",
+      "rota": "",
+      "berco": "BRASKARNE",
       "posicao": null
     },
     {
