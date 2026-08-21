@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-21T18:31:44.861173",
+  "gerado_em": "2026-08-21T19:23:44.168971",
   "navios": [
     {
       "navio": "MACKENZIE",
@@ -26,7 +26,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "22/08/2026",
       "data_hora_iso": "2026-08-22T00:00:00",
-      "calado": "11,11/11,80",
+      "calado": "11,66 EK",
       "rota": "Bacia 2",
       "berco": "JBS 2",
       "posicao": null
@@ -102,6 +102,16 @@
       "posicao": null
     },
     {
+      "navio": "LOG-IN JATOBÁ",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "23/08/2026",
+      "data_hora_iso": "2026-08-23T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
       "navio": "MSC SUSANNA",
       "status": "ManobraPrevista",
       "data_hora_texto": "23/08/2026",
@@ -122,6 +132,16 @@
       "posicao": null
     },
     {
+      "navio": "KOTA SALAM",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "24/08/2026",
+      "data_hora_iso": "2026-08-24T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
       "navio": "FAITH",
       "status": "ManobraPrevista",
       "data_hora_texto": "24/08/2026",
@@ -139,16 +159,6 @@
       "calado": "3,00 EK",
       "rota": "",
       "berco": "SEATRIUM",
-      "posicao": null
-    },
-    {
-      "navio": "LOG-IN JATOBÁ",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "24/08/2026",
-      "data_hora_iso": "2026-08-24T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE",
       "posicao": null
     },
     {
