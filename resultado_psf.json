@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-21T09:33:25.911357",
+  "gerado_em": "2026-08-21T10:26:37.025603",
   "navios": [
     {
       "navio": "Mercosul Fortaleza",
@@ -349,19 +349,6 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "TESC",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Copiapo",
-      "imo": "9687526",
-      "agencia": "ROCHAMAR",
-      "data_chegada_texto": "23/08/2026 13:00",
-      "data_chegada_iso": "2026-08-23T13:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Esperados"
     },
