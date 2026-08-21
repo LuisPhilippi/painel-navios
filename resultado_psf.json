@@ -1,19 +1,6 @@
 {
-  "gerado_em": "2026-08-21T07:40:02.992329",
+  "gerado_em": "2026-08-21T08:36:26.212104",
   "navios": [
-    {
-      "navio": "Vicente Pinzon",
-      "imo": "9625396",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "18/08/2026 20:35",
-      "data_chegada_iso": "2026-08-18T20:35:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "21/08/2026 07:00",
-      "data_manobra_iso": "2026-08-21T07:00:00",
-      "berco": "902 BARRA",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Mercosul Fortaleza",
       "imo": "9784661",
@@ -26,6 +13,19 @@
       "berco": "BARRA 902",
       "situacao": "A Confirmar",
       "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Vicente Pinzon",
+      "imo": "9625396",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "18/08/2026 20:35",
+      "data_chegada_iso": "2026-08-18T20:35:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "21/08/2026 10:00",
+      "data_manobra_iso": "2026-08-21T10:00:00",
+      "berco": "902 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
     },
     {
       "navio": "Blue Ridge",
@@ -267,19 +267,6 @@
       "agencia": "WILSON SONS",
       "data_chegada_texto": "20/08/2026 22:00",
       "data_chegada_iso": "2026-08-20T22:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Nordcheetah",
-      "imo": "9673630",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "21/08/2026 12:00",
-      "data_chegada_iso": "2026-08-21T12:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
