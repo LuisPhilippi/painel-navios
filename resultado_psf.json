@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-21T15:29:08.100124",
+  "gerado_em": "2026-08-21T16:29:19.971992",
   "navios": [
     {
       "navio": "Maersk Frankfurt",
@@ -11,7 +11,7 @@
       "data_manobra": "21/08/2026 15:00",
       "data_manobra_iso": "2026-08-21T15:00:00",
       "berco": "BARRA 901",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -24,7 +24,7 @@
       "data_manobra": "21/08/2026 15:00",
       "data_manobra_iso": "2026-08-21T15:00:00",
       "berco": "901 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -683,6 +683,19 @@
       "agencia": "WILSON SONS",
       "data_chegada_texto": "10/09/2026 07:00",
       "data_chegada_iso": "2026-09-10T07:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "SFS",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Aquitania",
+      "imo": "9300491",
+      "agencia": "CARGONAVE",
+      "data_chegada_texto": "12/09/2026 10:00",
+      "data_chegada_iso": "2026-09-12T10:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,

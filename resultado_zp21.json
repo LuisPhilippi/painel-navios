@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-21T15:29:00.759007",
+  "gerado_em": "2026-08-21T16:29:13.768168",
   "navios": [
     {
       "navio": "HMM CLOVER",
@@ -16,7 +16,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "21/08/2026",
       "data_hora_iso": "2026-08-21T00:00:00",
-      "calado": "TBC",
+      "calado": "8,20 EK",
       "rota": "Bacia 1",
       "berco": "BRASKARNE",
       "posicao": null
@@ -212,16 +212,6 @@
       "posicao": null
     },
     {
-      "navio": "INDUSTRIAL SONG",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "27/08/2026",
-      "data_hora_iso": "2026-08-27T00:00:00",
-      "calado": "5,00/6,60",
-      "rota": "",
-      "berco": "BARRA DO RIO",
-      "posicao": null
-    },
-    {
       "navio": "PALENA",
       "status": "ManobraPrevista",
       "data_hora_texto": "27/08/2026",
@@ -239,6 +229,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "INDUSTRIAL SONG",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "30/08/2026",
+      "data_hora_iso": "2026-08-30T00:00:00",
+      "calado": "5,00/6,60",
+      "rota": "",
+      "berco": "BARRA DO RIO",
       "posicao": null
     },
     {
