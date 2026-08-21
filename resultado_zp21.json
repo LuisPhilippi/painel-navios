@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-08-21T21:20:36.369934",
+  "gerado_em": "2026-08-21T22:20:27.893701",
   "navios": [
-    {
-      "navio": "MSC AMALFI",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "21/08/2026",
-      "data_hora_iso": "2026-08-21T00:00:00",
-      "calado": "6,90/9,75",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "MSC MAGNUM VII",
       "status": "ManobraPrevista",
@@ -69,6 +59,16 @@
       "calado": "11,55/11,75",
       "rota": "",
       "berco": "JBS 4",
+      "posicao": null
+    },
+    {
+      "navio": "MSC AMALFI",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "22/08/2026",
+      "data_hora_iso": "2026-08-22T00:00:00",
+      "calado": "8,10/9,70",
+      "rota": "",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
