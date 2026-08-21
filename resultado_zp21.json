@@ -1,26 +1,6 @@
 {
-  "gerado_em": "2026-08-21T11:21:55.578598",
+  "gerado_em": "2026-08-21T12:39:58.466513",
   "navios": [
-    {
-      "navio": "MSC AINO",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "21/08/2026",
-      "data_hora_iso": "2026-08-21T00:00:00",
-      "calado": "9,10/9,50",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
-      "navio": "NAVIOS VERMILION",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "21/08/2026",
-      "data_hora_iso": "2026-08-21T00:00:00",
-      "calado": "8,80/10,90",
-      "rota": "Bacia 1",
-      "berco": "JBS 2",
-      "posicao": null
-    },
     {
       "navio": "MSC MAGNUM VII",
       "status": "ManobraPrevista",
@@ -36,7 +16,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "21/08/2026",
       "data_hora_iso": "2026-08-21T00:00:00",
-      "calado": "11,60 MAX",
+      "calado": "11,50 EK",
       "rota": "",
       "berco": "PNAVE 01",
       "posicao": null
@@ -102,16 +82,6 @@
       "posicao": null
     },
     {
-      "navio": "PIO GRANDE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "22/08/2026",
-      "data_hora_iso": "2026-08-22T00:00:00",
-      "calado": "5,00/5,40",
-      "rota": "",
-      "berco": "TEPORTI",
-      "posicao": null
-    },
-    {
       "navio": "BALSA Z MAX XX + C TORMENTA",
       "status": "ManobraPrevista",
       "data_hora_texto": "22/08/2026",
@@ -129,6 +99,16 @@
       "calado": "12,02 MAX",
       "rota": "",
       "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "PIO GRANDE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "22/08/2026",
+      "data_hora_iso": "2026-08-22T00:00:00",
+      "calado": "5,00/5,40",
+      "rota": "",
+      "berco": "TEPORTI",
       "posicao": null
     },
     {
@@ -212,6 +192,16 @@
       "posicao": null
     },
     {
+      "navio": "AGIOS PORFYRIOS",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "24/08/2026",
+      "data_hora_iso": "2026-08-24T00:00:00",
+      "calado": "3,67/5,11",
+      "rota": "",
+      "berco": "BRASKARNE",
+      "posicao": null
+    },
+    {
       "navio": "CAPE SOUNIO",
       "status": "ManobraPrevista",
       "data_hora_texto": "25/08/2026",
@@ -270,16 +260,6 @@
       "rota": "",
       "berco": "BRASKARNE",
       "posicao": null
-    },
-    {
-      "navio": "AGIOS PORFYRIOS",
-      "status": "Fundeado",
-      "data_hora_texto": "15/08/2026 - 22:09",
-      "data_hora_iso": "2026-08-15T22:09:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": null,
-      "posicao": "26 52,64 S / 048 31,29 W"
     },
     {
       "navio": "FRAGATA JERÔNIMO DE ALBUQUERQUE",
