@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-22T01:01:42.419580",
+  "gerado_em": "2026-08-22T02:51:10.819063",
   "navios": [
     {
       "navio": "MSC MAGNUM VII",
@@ -19,6 +19,16 @@
       "calado": "9,80/10,50",
       "rota": "",
       "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "PIO GRANDE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "22/08/2026",
+      "data_hora_iso": "2026-08-22T00:00:00",
+      "calado": "5,00/5,40",
+      "rota": "",
+      "berco": "TEPORTI",
       "posicao": null
     },
     {
@@ -76,7 +86,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "22/08/2026",
       "data_hora_iso": "2026-08-22T00:00:00",
-      "calado": "TBC",
+      "calado": "10,20/10,30",
       "rota": "Bacia 1",
       "berco": "PNAVE 01",
       "posicao": null
@@ -159,16 +169,6 @@
       "calado": "3,00 EK",
       "rota": "",
       "berco": "SEATRIUM",
-      "posicao": null
-    },
-    {
-      "navio": "PIO GRANDE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "24/08/2026",
-      "data_hora_iso": "2026-08-24T00:00:00",
-      "calado": "5,00/5,40",
-      "rota": "",
-      "berco": "TEPORTI",
       "posicao": null
     },
     {
