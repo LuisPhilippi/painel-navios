@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-22T21:18:26.507727",
+  "gerado_em": "2026-08-22T22:18:19.679083",
   "navios": [
     {
       "navio": "YM Movement",
@@ -336,6 +336,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "SFS",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "RDO Endeavour",
+      "imo": "9302102",
+      "agencia": "UNIMAR",
+      "data_chegada_texto": "25/08/2026 15:00",
+      "data_chegada_iso": "2026-08-25T15:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Esperados"
     },

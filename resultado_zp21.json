@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-22T21:18:20.075054",
+  "gerado_em": "2026-08-22T22:18:12.185475",
   "navios": [
     {
       "navio": "HMM CLOVER",
@@ -47,7 +47,7 @@
       "data_hora_texto": "23/08/2026",
       "data_hora_iso": "2026-08-23T00:00:00",
       "calado": "10,30/11,10",
-      "rota": "Bacia 1",
+      "rota": "Bacia 2",
       "berco": "JBS 4",
       "posicao": null
     },
@@ -87,7 +87,7 @@
       "data_hora_texto": "23/08/2026",
       "data_hora_iso": "2026-08-23T00:00:00",
       "calado": "TBC",
-      "rota": "",
+      "rota": "Bacia 1",
       "berco": "PNAVE 02",
       "posicao": null
     },
@@ -97,7 +97,7 @@
       "data_hora_texto": "23/08/2026",
       "data_hora_iso": "2026-08-23T00:00:00",
       "calado": "7,00/9,70",
-      "rota": "",
+      "rota": "Bacia 2",
       "berco": "PNAVE 01",
       "posicao": null
     },
@@ -107,8 +107,8 @@
       "data_hora_texto": "23/08/2026",
       "data_hora_iso": "2026-08-23T00:00:00",
       "calado": "10,50/11,50",
-      "rota": "",
-      "berco": "JBS",
+      "rota": "Bacia 2",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -118,17 +118,7 @@
       "data_hora_iso": "2026-08-23T00:00:00",
       "calado": "TBC",
       "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
-      "navio": "NC BRUMA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "23/08/2026",
-      "data_hora_iso": "2026-08-23T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -137,8 +127,18 @@
       "data_hora_texto": "24/08/2026",
       "data_hora_iso": "2026-08-24T00:00:00",
       "calado": "TBC",
-      "rota": "",
+      "rota": "Bacia 1",
       "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
+      "navio": "BALSA Z MAX XX + C TORMENTA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "24/08/2026",
+      "data_hora_iso": "2026-08-24T00:00:00",
+      "calado": "3,00 EK",
+      "rota": "",
+      "berco": "SEATRIUM",
       "posicao": null
     },
     {
@@ -152,13 +152,13 @@
       "posicao": null
     },
     {
-      "navio": "BALSA Z MAX XX + C TORMENTA",
+      "navio": "NC BRUMA",
       "status": "ManobraPrevista",
       "data_hora_texto": "24/08/2026",
       "data_hora_iso": "2026-08-24T00:00:00",
-      "calado": "3,00 EK",
+      "calado": "TBC",
       "rota": "",
-      "berco": "SEATRIUM",
+      "berco": "JBS",
       "posicao": null
     },
     {
