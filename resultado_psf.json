@@ -1,32 +1,6 @@
 {
-  "gerado_em": "2026-08-22T19:20:13.165949",
+  "gerado_em": "2026-08-22T20:18:41.183288",
   "navios": [
-    {
-      "navio": "Evagelia",
-      "imo": "1085992",
-      "agencia": "ZPORT AGENCIA",
-      "data_chegada_texto": "19/08/2026 21:55",
-      "data_chegada_iso": "2026-08-19T21:55:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "22/08/2026 15:00",
-      "data_manobra_iso": "2026-08-22T15:00:00",
-      "berco": "BARRA 201",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Irvine Bay",
-      "imo": "9682928",
-      "agencia": "MASTER",
-      "data_chegada_texto": "07/08/2026 19:59",
-      "data_chegada_iso": "2026-08-07T19:59:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "22/08/2026 15:00",
-      "data_manobra_iso": "2026-08-22T15:00:00",
-      "berco": "201 BARRA",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "YM Movement",
       "imo": "9660011",
@@ -106,6 +80,32 @@
       "secao": "Movimentações"
     },
     {
+      "navio": "Zim Usa",
+      "imo": "9945473",
+      "agencia": "ZIM DO BRASIL",
+      "data_chegada_texto": "22/08/2026 07:00",
+      "data_chegada_iso": "2026-08-22T07:00:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "23/08/2026 14:00",
+      "data_manobra_iso": "2026-08-23T14:00:00",
+      "berco": "BARRA 902",
+      "situacao": "A Confirmar",
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Maersk Leon",
+      "imo": "9526966",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "23/08/2026 23:00",
+      "data_chegada_iso": "2026-08-23T23:00:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "23/08/2026 23:30",
+      "data_manobra_iso": "2026-08-23T23:30:00",
+      "berco": "BARRA 901",
+      "situacao": "A Confirmar",
+      "secao": "Navios Esperados"
+    },
+    {
       "navio": "Lefkes",
       "imo": "9658783",
       "agencia": "ZPORT AGENCIA",
@@ -115,6 +115,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "102",
+      "situacao": null,
+      "secao": "Navios Atracados"
+    },
+    {
+      "navio": "Evagelia",
+      "imo": "1085992",
+      "agencia": "ZPORT AGENCIA",
+      "data_chegada_texto": "19/08/2026 21:55",
+      "data_chegada_iso": "2026-08-19T21:55:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "201",
       "situacao": null,
       "secao": "Navios Atracados"
     },
@@ -210,19 +223,6 @@
       "secao": "Navios Fundeados (Barra)"
     },
     {
-      "navio": "Zim Usa",
-      "imo": "9945473",
-      "agencia": "ZIM DO BRASIL",
-      "data_chegada_texto": "22/08/2026 07:00",
-      "data_chegada_iso": "2026-08-22T07:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": null,
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
       "navio": "Navios Amarillo",
       "imo": "9324849",
       "agencia": "ZIM DO BRASIL",
@@ -265,19 +265,6 @@
       "navio": "Mackenzie",
       "imo": "9973688",
       "agencia": "ZIM DO BRASIL",
-      "data_chegada_texto": "23/08/2026 23:00",
-      "data_chegada_iso": "2026-08-23T23:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Maersk Leon",
-      "imo": "9526966",
-      "agencia": "LACHMANN",
       "data_chegada_texto": "23/08/2026 23:00",
       "data_chegada_iso": "2026-08-23T23:00:00",
       "manobra": null,
