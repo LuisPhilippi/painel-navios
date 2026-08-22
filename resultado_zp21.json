@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-22T22:18:12.185475",
+  "gerado_em": "2026-08-22T23:17:30.843220",
   "navios": [
     {
       "navio": "HMM CLOVER",
@@ -132,16 +132,6 @@
       "posicao": null
     },
     {
-      "navio": "BALSA Z MAX XX + C TORMENTA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "24/08/2026",
-      "data_hora_iso": "2026-08-24T00:00:00",
-      "calado": "3,00 EK",
-      "rota": "",
-      "berco": "SEATRIUM",
-      "posicao": null
-    },
-    {
       "navio": "FAITH",
       "status": "ManobraPrevista",
       "data_hora_texto": "24/08/2026",
@@ -189,6 +179,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "BALSA Z MAX XX + C TORMENTA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "25/08/2026",
+      "data_hora_iso": "2026-08-25T00:00:00",
+      "calado": "3,00 EK",
+      "rota": "",
+      "berco": "SEATRIUM",
       "posicao": null
     },
     {
