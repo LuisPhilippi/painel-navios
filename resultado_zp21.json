@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-21T23:20:34.533306",
+  "gerado_em": "2026-08-22T01:01:42.419580",
   "navios": [
     {
       "navio": "MSC MAGNUM VII",
@@ -36,7 +36,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "22/08/2026",
       "data_hora_iso": "2026-08-22T00:00:00",
-      "calado": "11,00/11,50",
+      "calado": "10,30/11,10",
       "rota": "Bacia 1",
       "berco": "JBS 4",
       "posicao": null
