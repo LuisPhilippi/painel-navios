@@ -1,19 +1,6 @@
 {
-  "gerado_em": "2026-08-22T16:19:25.425390",
+  "gerado_em": "2026-08-22T17:17:48.248152",
   "navios": [
-    {
-      "navio": "Barcaça N11",
-      "imo": "9326029",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "09/08/2026 15:55",
-      "data_chegada_iso": "2026-08-09T15:55:00",
-      "manobra": "Suspender e Sair",
-      "data_manobra": "22/08/2026 13:00",
-      "data_manobra_iso": "2026-08-22T13:00:00",
-      "berco": "F4 (P2) BARRA",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Evagelia",
       "imo": "1085992",
