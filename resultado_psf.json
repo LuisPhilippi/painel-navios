@@ -1,19 +1,6 @@
 {
-  "gerado_em": "2026-08-22T10:19:23.763116",
+  "gerado_em": "2026-08-22T11:17:52.162445",
   "navios": [
-    {
-      "navio": "Stinger",
-      "imo": "9762871",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "14/08/2026 21:18",
-      "data_chegada_iso": "2026-08-14T21:18:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "22/08/2026 06:15",
-      "data_manobra_iso": "2026-08-22T06:15:00",
-      "berco": "302 BARRA",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Cape Sounio",
       "imo": "9727625",
@@ -60,10 +47,10 @@
       "data_chegada_texto": "19/08/2026 14:58",
       "data_chegada_iso": "2026-08-19T14:58:00",
       "manobra": "Suspender e Atracar",
-      "data_manobra": "22/08/2026 09:30",
-      "data_manobra_iso": "2026-08-22T09:30:00",
+      "data_manobra": "22/08/2026 09:45",
+      "data_manobra_iso": "2026-08-22T09:45:00",
       "berco": "F4 (P1) 302",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-22T10:19:17.619529",
+  "gerado_em": "2026-08-22T11:17:44.419302",
   "navios": [
     {
       "navio": "MAERSK KARACHI",
@@ -22,16 +22,6 @@
       "posicao": null
     },
     {
-      "navio": "HMM CLOVER",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "22/08/2026",
-      "data_hora_iso": "2026-08-22T00:00:00",
-      "calado": "9,50/11,30",
-      "rota": "",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
       "navio": "MACKENZIE",
       "status": "ManobraPrevista",
       "data_hora_texto": "22/08/2026",
@@ -39,6 +29,16 @@
       "calado": "10,30/11,10",
       "rota": "Bacia 1",
       "berco": "JBS 4",
+      "posicao": null
+    },
+    {
+      "navio": "HMM CLOVER",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "22/08/2026",
+      "data_hora_iso": "2026-08-22T00:00:00",
+      "calado": "9,50/11,30",
+      "rota": "",
+      "berco": "PNAVE 02",
       "posicao": null
     },
     {
