@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-22T13:28:41.604000",
+  "gerado_em": "2026-08-22T14:17:58.858799",
   "navios": [
     {
       "navio": "PIO GRANDE",
@@ -22,6 +22,16 @@
       "posicao": null
     },
     {
+      "navio": "SANTA VANESSA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "22/08/2026",
+      "data_hora_iso": "2026-08-22T00:00:00",
+      "calado": "11,55/11,75",
+      "rota": "",
+      "berco": "JBS 4",
+      "posicao": null
+    },
+    {
       "navio": "HMM CLOVER",
       "status": "ManobraPrevista",
       "data_hora_texto": "22/08/2026",
@@ -39,16 +49,6 @@
       "calado": "12,02 MAX",
       "rota": "",
       "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
-      "navio": "SANTA VANESSA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "22/08/2026",
-      "data_hora_iso": "2026-08-22T00:00:00",
-      "calado": "11,55/11,75",
-      "rota": "",
-      "berco": "JBS 4",
       "posicao": null
     },
     {
@@ -106,7 +106,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "23/08/2026",
       "data_hora_iso": "2026-08-23T00:00:00",
-      "calado": "TBC",
+      "calado": "10,50/11,50",
       "rota": "",
       "berco": "JBS",
       "posicao": null

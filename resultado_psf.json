@@ -1,58 +1,6 @@
 {
-  "gerado_em": "2026-08-22T13:28:47.773301",
+  "gerado_em": "2026-08-22T14:18:05.716397",
   "navios": [
-    {
-      "navio": "Cape Sounio",
-      "imo": "9727625",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "21/08/2026 18:00",
-      "data_chegada_iso": "2026-08-21T18:00:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "22/08/2026 08:30",
-      "data_manobra_iso": "2026-08-22T08:30:00",
-      "berco": "BARRA 901",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Maersk Frankfurt",
-      "imo": "9969065",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "21/08/2026 05:42",
-      "data_chegada_iso": "2026-08-21T05:42:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "22/08/2026 08:30",
-      "data_manobra_iso": "2026-08-22T08:30:00",
-      "berco": "901 BARRA",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Proud Unity",
-      "imo": "9860659",
-      "agencia": "LITORAL",
-      "data_chegada_texto": "08/08/2026 22:54",
-      "data_chegada_iso": "2026-08-08T22:54:00",
-      "manobra": "Suspender e Sair",
-      "data_manobra": "22/08/2026 08:30",
-      "data_manobra_iso": "2026-08-22T08:30:00",
-      "berco": "F3 BARRA",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Barcaça N10",
-      "imo": "9326017",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "19/08/2026 14:58",
-      "data_chegada_iso": "2026-08-19T14:58:00",
-      "manobra": "Suspender e Atracar",
-      "data_manobra": "22/08/2026 09:45",
-      "data_manobra_iso": "2026-08-22T09:45:00",
-      "berco": "F4 (P1) 302",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Barcaça N11",
       "imo": "9326029",
@@ -63,7 +11,7 @@
       "data_manobra": "22/08/2026 13:00",
       "data_manobra_iso": "2026-08-22T13:00:00",
       "berco": "F4 (P2) BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -119,6 +67,19 @@
       "secao": "Movimentações"
     },
     {
+      "navio": "Cape Sounio",
+      "imo": "9727625",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "21/08/2026 18:00",
+      "data_chegada_iso": "2026-08-21T18:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "901",
+      "situacao": null,
+      "secao": "Navios Atracados"
+    },
+    {
       "navio": "Blue Ridge",
       "imo": "9518177",
       "agencia": "ALPHAMAR",
@@ -154,6 +115,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "301",
+      "situacao": null,
+      "secao": "Navios Atracados"
+    },
+    {
+      "navio": "Barcaça N10",
+      "imo": "9326017",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "19/08/2026 14:58",
+      "data_chegada_iso": "2026-08-19T14:58:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "302",
       "situacao": null,
       "secao": "Navios Atracados"
     },
