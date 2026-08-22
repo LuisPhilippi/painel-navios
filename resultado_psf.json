@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-22T14:18:05.716397",
+  "gerado_em": "2026-08-22T15:17:13.225384",
   "navios": [
     {
       "navio": "Barcaça N11",
@@ -41,19 +41,6 @@
       "secao": "Movimentações"
     },
     {
-      "navio": "Zim Usa",
-      "imo": "9945473",
-      "agencia": "ZIM DO BRASIL",
-      "data_chegada_texto": "22/08/2026 07:00",
-      "data_chegada_iso": "2026-08-22T07:00:00",
-      "manobra": "Entrada e Fundeio",
-      "data_manobra": "22/08/2026 17:00",
-      "data_manobra_iso": "2026-08-22T17:00:00",
-      "berco": "BARRA F5",
-      "situacao": "A Confirmar",
-      "secao": "Navios Esperados"
-    },
-    {
       "navio": "Nordcheetah",
       "imo": "9673630",
       "agencia": "LACHMANN",
@@ -65,6 +52,19 @@
       "berco": "902 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
+    },
+    {
+      "navio": "Zim Usa",
+      "imo": "9945473",
+      "agencia": "ZIM DO BRASIL",
+      "data_chegada_texto": "22/08/2026 07:00",
+      "data_chegada_iso": "2026-08-22T07:00:00",
+      "manobra": "Suspender e Atracar",
+      "data_manobra": "22/08/2026 19:30",
+      "data_manobra_iso": "2026-08-22T19:30:00",
+      "berco": "F5 902",
+      "situacao": "A Confirmar",
+      "secao": "Navios Esperados"
     },
     {
       "navio": "Cape Sounio",
