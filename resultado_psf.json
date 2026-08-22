@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-22T20:18:41.183288",
+  "gerado_em": "2026-08-22T21:18:26.507727",
   "navios": [
     {
       "navio": "YM Movement",
@@ -11,7 +11,7 @@
       "data_manobra": "22/08/2026 19:30",
       "data_manobra_iso": "2026-08-22T19:30:00",
       "berco": "BARRA 902",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -24,7 +24,7 @@
       "data_manobra": "22/08/2026 19:30",
       "data_manobra_iso": "2026-08-22T19:30:00",
       "berco": "902 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
