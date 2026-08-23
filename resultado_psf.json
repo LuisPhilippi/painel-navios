@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-23T12:33:05.482015",
+  "gerado_em": "2026-08-23T13:29:14.097618",
   "navios": [
     {
       "navio": "Zim Usa",
@@ -37,6 +37,19 @@
       "data_manobra": "23/08/2026 16:00",
       "data_manobra_iso": "2026-08-23T16:00:00",
       "berco": "901 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Diamond Star II",
+      "imo": "9449273",
+      "agencia": "OCEÂNICA",
+      "data_chegada_texto": "18/08/2026 15:30",
+      "data_chegada_iso": "2026-08-18T15:30:00",
+      "manobra": "Entrada e Fundeio",
+      "data_manobra": "23/08/2026 16:00",
+      "data_manobra_iso": "2026-08-23T16:00:00",
+      "berco": "BARRA F5",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
     },
@@ -145,19 +158,6 @@
       "secao": "Navios Fundeados (Internos)"
     },
     {
-      "navio": "Diamond Star II",
-      "imo": "9449273",
-      "agencia": "OCEÂNICA",
-      "data_chegada_texto": "18/08/2026 15:30",
-      "data_chegada_iso": "2026-08-18T15:30:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "SFS",
-      "situacao": null,
-      "secao": "Navios Fundeados (Barra)"
-    },
-    {
       "navio": "Nikos N",
       "imo": "9412646",
       "agencia": "LITORAL",
@@ -219,6 +219,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "TESC",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Seaspan Empire",
+      "imo": "9407160",
+      "agencia": "ROCHAMAR",
+      "data_chegada_texto": "23/08/2026 14:00",
+      "data_chegada_iso": "2026-08-23T14:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Esperados"
     },
@@ -349,19 +362,6 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "TESC",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Seaspan Empire",
-      "imo": "9407160",
-      "agencia": "ROCHAMAR",
-      "data_chegada_texto": "26/08/2026 18:00",
-      "data_chegada_iso": "2026-08-26T18:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Esperados"
     },
