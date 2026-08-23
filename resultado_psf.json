@@ -1,19 +1,6 @@
 {
-  "gerado_em": "2026-08-23T06:35:19.214272",
+  "gerado_em": "2026-08-23T07:30:36.896277",
   "navios": [
-    {
-      "navio": "Copiapo",
-      "imo": "9687526",
-      "agencia": "ROCHAMAR",
-      "data_chegada_texto": "21/08/2026 07:03",
-      "data_chegada_iso": "2026-08-21T07:03:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "23/08/2026 02:00",
-      "data_manobra_iso": "2026-08-23T02:00:00",
-      "berco": "BARRA 901",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Cape Sounio",
       "imo": "9727625",
@@ -91,6 +78,19 @@
       "berco": "BARRA 901",
       "situacao": "A Confirmar",
       "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Copiapo",
+      "imo": "9687526",
+      "agencia": "ROCHAMAR",
+      "data_chegada_texto": "21/08/2026 07:03",
+      "data_chegada_iso": "2026-08-21T07:03:00",
+      "manobra": "Desatracação e Fundeio",
+      "data_manobra": "23/08/2026 23:30",
+      "data_manobra_iso": "2026-08-23T23:30:00",
+      "berco": "901 F5",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
     },
     {
       "navio": "Lefkes",
