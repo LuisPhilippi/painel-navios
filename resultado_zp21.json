@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-08-23T05:25:38.347821",
+  "gerado_em": "2026-08-23T06:35:11.187166",
   "navios": [
-    {
-      "navio": "MACKENZIE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "23/08/2026",
-      "data_hora_iso": "2026-08-23T00:00:00",
-      "calado": "10,30/11,10",
-      "rota": "Bacia 2",
-      "berco": "JBS 4",
-      "posicao": null
-    },
     {
       "navio": "SANTA VANESSA",
       "status": "ManobraPrevista",

@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-23T05:25:46.032868",
+  "gerado_em": "2026-08-23T06:35:19.214272",
   "navios": [
     {
       "navio": "Copiapo",
@@ -20,11 +20,11 @@
       "agencia": "WILSON SONS",
       "data_chegada_texto": "21/08/2026 18:00",
       "data_chegada_iso": "2026-08-21T18:00:00",
-      "manobra": "Desatracação e Fundeio",
-      "data_manobra": "23/08/2026 02:00",
-      "data_manobra_iso": "2026-08-23T02:00:00",
-      "berco": "901 F5",
-      "situacao": "Em Andamento",
+      "manobra": "Suspender e Sair",
+      "data_manobra": "23/08/2026 07:30",
+      "data_manobra_iso": "2026-08-23T07:30:00",
+      "berco": "F5 BARRA",
+      "situacao": "A Confirmar",
       "secao": "Movimentações"
     },
     {
