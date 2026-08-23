@@ -1,32 +1,6 @@
 {
-  "gerado_em": "2026-08-22T23:17:37.078647",
+  "gerado_em": "2026-08-23T01:07:00.697311",
   "navios": [
-    {
-      "navio": "YM Movement",
-      "imo": "9660011",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "19/08/2026 18:32",
-      "data_chegada_iso": "2026-08-19T18:32:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "22/08/2026 19:30",
-      "data_manobra_iso": "2026-08-22T19:30:00",
-      "berco": "BARRA 902",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Nordcheetah",
-      "imo": "9673630",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "21/08/2026 02:30",
-      "data_chegada_iso": "2026-08-21T02:30:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "22/08/2026 19:30",
-      "data_manobra_iso": "2026-08-22T19:30:00",
-      "berco": "902 BARRA",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Copiapo",
       "imo": "9687526",
@@ -91,6 +65,19 @@
       "berco": "BARRA 902",
       "situacao": "A Confirmar",
       "secao": "Navios Esperados"
+    },
+    {
+      "navio": "YM Movement",
+      "imo": "9660011",
+      "agencia": "UNIMAR",
+      "data_chegada_texto": "19/08/2026 18:32",
+      "data_chegada_iso": "2026-08-19T18:32:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "23/08/2026 14:00",
+      "data_manobra_iso": "2026-08-23T14:00:00",
+      "berco": "902 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
     },
     {
       "navio": "Maersk Leon",
