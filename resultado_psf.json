@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-23T15:18:40.430858",
+  "gerado_em": "2026-08-23T16:20:55.298357",
   "navios": [
     {
       "navio": "Zim Usa",
@@ -28,6 +28,19 @@
       "secao": "Movimentações"
     },
     {
+      "navio": "Diamond Star II",
+      "imo": "9449273",
+      "agencia": "OCEÂNICA",
+      "data_chegada_texto": "18/08/2026 15:30",
+      "data_chegada_iso": "2026-08-18T15:30:00",
+      "manobra": "Entrada e Fundeio",
+      "data_manobra": "23/08/2026 15:30",
+      "data_manobra_iso": "2026-08-23T15:30:00",
+      "berco": "BARRA F5",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
       "navio": "Copiapo",
       "imo": "9687526",
       "agencia": "ROCHAMAR",
@@ -37,19 +50,6 @@
       "data_manobra": "23/08/2026 16:00",
       "data_manobra_iso": "2026-08-23T16:00:00",
       "berco": "901 BARRA",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Diamond Star II",
-      "imo": "9449273",
-      "agencia": "OCEÂNICA",
-      "data_chegada_texto": "18/08/2026 15:30",
-      "data_chegada_iso": "2026-08-18T15:30:00",
-      "manobra": "Entrada e Fundeio",
-      "data_manobra": "23/08/2026 16:00",
-      "data_manobra_iso": "2026-08-23T16:00:00",
-      "berco": "BARRA F5",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
     },
