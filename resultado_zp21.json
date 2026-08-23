@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-08-23T14:20:03.127027",
+  "gerado_em": "2026-08-23T15:18:32.813789",
   "navios": [
-    {
-      "navio": "NPaOc APA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "23/08/2026",
-      "data_hora_iso": "2026-08-23T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "DELEMAR",
-      "posicao": null
-    },
     {
       "navio": "SAO PAULO EXPRESS",
       "status": "ManobraPrevista",
@@ -42,16 +32,6 @@
       "posicao": null
     },
     {
-      "navio": "MSC FLORENTINA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "23/08/2026",
-      "data_hora_iso": "2026-08-23T00:00:00",
-      "calado": "7,00/9,70",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
       "navio": "MAERSK KARACHI",
       "status": "ManobraPrevista",
       "data_hora_texto": "23/08/2026",
@@ -59,6 +39,16 @@
       "calado": "10,50/11,50",
       "rota": "Bacia 2",
       "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "MSC FLORENTINA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "23/08/2026",
+      "data_hora_iso": "2026-08-23T00:00:00",
+      "calado": "7,00/9,70",
+      "rota": "Bacia 2",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
@@ -126,7 +116,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "24/08/2026",
       "data_hora_iso": "2026-08-24T00:00:00",
-      "calado": "TBC",
+      "calado": "11,20 EK",
       "rota": "",
       "berco": "JBS",
       "posicao": null
@@ -159,6 +149,16 @@
       "calado": "3,00 EK",
       "rota": "",
       "berco": "SEATRIUM",
+      "posicao": null
+    },
+    {
+      "navio": "NPaOc APA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "25/08/2026",
+      "data_hora_iso": "2026-08-25T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "DELEMAR",
       "posicao": null
     },
     {

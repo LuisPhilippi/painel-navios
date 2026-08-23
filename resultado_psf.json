@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-23T14:20:09.745079",
+  "gerado_em": "2026-08-23T15:18:40.430858",
   "navios": [
     {
       "navio": "Zim Usa",
@@ -11,7 +11,7 @@
       "data_manobra": "23/08/2026 14:00",
       "data_manobra_iso": "2026-08-23T14:00:00",
       "berco": "BARRA 902",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Navios Esperados"
     },
     {
@@ -24,7 +24,7 @@
       "data_manobra": "23/08/2026 14:00",
       "data_manobra_iso": "2026-08-23T14:00:00",
       "berco": "902 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -197,19 +197,6 @@
       "secao": "Navios Fundeados (Barra)"
     },
     {
-      "navio": "Navios Amarillo",
-      "imo": "9324849",
-      "agencia": "ZIM DO BRASIL",
-      "data_chegada_texto": "22/08/2026 20:00",
-      "data_chegada_iso": "2026-08-22T20:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
       "navio": "Barcaça N09",
       "imo": "9326005",
       "agencia": "WILSON SONS",
@@ -219,19 +206,6 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "TESC",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Seaspan Empire",
-      "imo": "9407160",
-      "agencia": "ROCHAMAR",
-      "data_chegada_texto": "23/08/2026 14:00",
-      "data_chegada_iso": "2026-08-23T14:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Esperados"
     },
@@ -275,6 +249,19 @@
       "secao": "Navios Esperados"
     },
     {
+      "navio": "Cosco Shipping Mexico",
+      "imo": "9945863",
+      "agencia": "UNIMAR",
+      "data_chegada_texto": "24/08/2026 11:00",
+      "data_chegada_iso": "2026-08-24T11:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
       "navio": "Babitonga Bay",
       "imo": "9663776",
       "agencia": "WILSON SONS",
@@ -288,11 +275,11 @@
       "secao": "Navios Esperados"
     },
     {
-      "navio": "Cosco Shipping Mexico",
-      "imo": "9945863",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "24/08/2026 13:00",
-      "data_chegada_iso": "2026-08-24T13:00:00",
+      "navio": "Navios Amarillo",
+      "imo": "9324849",
+      "agencia": "ZIM DO BRASIL",
+      "data_chegada_texto": "24/08/2026 20:00",
+      "data_chegada_iso": "2026-08-24T20:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
@@ -340,19 +327,6 @@
       "secao": "Navios Esperados"
     },
     {
-      "navio": "Maersk Lanco",
-      "imo": "9527049",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "26/08/2026 10:00",
-      "data_chegada_iso": "2026-08-26T10:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
       "navio": "Beijing 2008",
       "imo": "9442744",
       "agencia": "CARGONAVE",
@@ -362,6 +336,32 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "TESC",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Maersk Lanco",
+      "imo": "9527049",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "26/08/2026 12:00",
+      "data_chegada_iso": "2026-08-26T12:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Seaspan Empire",
+      "imo": "9407160",
+      "agencia": "ROCHAMAR",
+      "data_chegada_texto": "26/08/2026 18:00",
+      "data_chegada_iso": "2026-08-26T18:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Esperados"
     },
@@ -613,6 +613,45 @@
       "secao": "Navios Esperados"
     },
     {
+      "navio": "Maersk Laguna",
+      "imo": "9526942",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "02/09/2026 10:00",
+      "data_chegada_iso": "2026-09-02T10:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Dusseldorf Express",
+      "imo": "9143556",
+      "agencia": "ROCHAMAR",
+      "data_chegada_texto": "02/09/2026 18:00",
+      "data_chegada_iso": "2026-09-02T18:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Bartolomeu Dias",
+      "imo": "9625384",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "03/09/2026 05:00",
+      "data_chegada_iso": "2026-09-03T05:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
       "navio": "Tai Knowledge",
       "imo": "9799721",
       "agencia": "WILSON SONS",
@@ -621,7 +660,7 @@
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
+      "berco": "TESC",
       "situacao": null,
       "secao": "Navios Esperados"
     },
