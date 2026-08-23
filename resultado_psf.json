@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-23T17:18:04.758654",
+  "gerado_em": "2026-08-23T18:23:57.501783",
   "navios": [
     {
       "navio": "Zim Usa",
@@ -11,19 +11,6 @@
       "data_manobra": "23/08/2026 14:00",
       "data_manobra_iso": "2026-08-23T14:00:00",
       "berco": "BARRA 902",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "YM Movement",
-      "imo": "9660011",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "19/08/2026 18:32",
-      "data_chegada_iso": "2026-08-19T18:32:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "23/08/2026 14:00",
-      "data_manobra_iso": "2026-08-23T14:00:00",
-      "berco": "902 BARRA",
       "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
@@ -210,6 +197,19 @@
       "secao": "Navios Esperados"
     },
     {
+      "navio": "Seaspan Empire",
+      "imo": "9407160",
+      "agencia": "ROCHAMAR",
+      "data_chegada_texto": "23/08/2026 14:00",
+      "data_chegada_iso": "2026-08-23T14:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
       "navio": "Chambertin",
       "imo": "1026609",
       "agencia": "CARGONAVE",
@@ -345,19 +345,6 @@
       "agencia": "LACHMANN",
       "data_chegada_texto": "26/08/2026 12:00",
       "data_chegada_iso": "2026-08-26T12:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Seaspan Empire",
-      "imo": "9407160",
-      "agencia": "ROCHAMAR",
-      "data_chegada_texto": "26/08/2026 18:00",
-      "data_chegada_iso": "2026-08-26T18:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,

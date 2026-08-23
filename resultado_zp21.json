@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-08-23T17:17:57.162371",
+  "gerado_em": "2026-08-23T18:23:49.487289",
   "navios": [
-    {
-      "navio": "SAO PAULO EXPRESS",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "23/08/2026",
-      "data_hora_iso": "2026-08-23T00:00:00",
-      "calado": "9,50/11,20",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
     {
       "navio": "LOG-IN JATOBÁ",
       "status": "ManobraPrevista",
@@ -32,16 +22,6 @@
       "posicao": null
     },
     {
-      "navio": "MAERSK KARACHI",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "23/08/2026",
-      "data_hora_iso": "2026-08-23T00:00:00",
-      "calado": "10,50/11,50",
-      "rota": "Bacia 2",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
       "navio": "MSC FLORENTINA",
       "status": "ManobraPrevista",
       "data_hora_texto": "23/08/2026",
@@ -49,6 +29,16 @@
       "calado": "7,00/9,70",
       "rota": "Bacia 2",
       "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
+      "navio": "MAERSK KARACHI",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "23/08/2026",
+      "data_hora_iso": "2026-08-23T00:00:00",
+      "calado": "10,50/11,50",
+      "rota": "Bacia 2",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -98,7 +88,7 @@
       "data_hora_iso": "2026-08-24T00:00:00",
       "calado": "TBC",
       "rota": "",
-      "berco": "JBS",
+      "berco": "JBS 4",
       "posicao": null
     },
     {
@@ -118,7 +108,7 @@
       "data_hora_iso": "2026-08-24T00:00:00",
       "calado": "11,20 EK",
       "rota": "",
-      "berco": "JBS",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -126,7 +116,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "24/08/2026",
       "data_hora_iso": "2026-08-24T00:00:00",
-      "calado": "TBC",
+      "calado": "7,50/9,50",
       "rota": "",
       "berco": "PNAVE",
       "posicao": null
