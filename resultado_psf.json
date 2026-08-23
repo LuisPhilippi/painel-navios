@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-23T04:34:00.083207",
+  "gerado_em": "2026-08-23T05:25:46.032868",
   "navios": [
     {
       "navio": "Copiapo",
@@ -11,7 +11,7 @@
       "data_manobra": "23/08/2026 02:00",
       "data_manobra_iso": "2026-08-23T02:00:00",
       "berco": "BARRA 901",
-      "situacao": "Confirmado",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -24,7 +24,7 @@
       "data_manobra": "23/08/2026 02:00",
       "data_manobra_iso": "2026-08-23T02:00:00",
       "berco": "901 F5",
-      "situacao": "Confirmado",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
