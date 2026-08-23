@@ -1,19 +1,6 @@
 {
-  "gerado_em": "2026-08-23T11:17:55.280509",
+  "gerado_em": "2026-08-23T12:33:05.482015",
   "navios": [
-    {
-      "navio": "Cape Sounio",
-      "imo": "9727625",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "21/08/2026 18:00",
-      "data_chegada_iso": "2026-08-21T18:00:00",
-      "manobra": "Suspender e Sair",
-      "data_manobra": "23/08/2026 07:30",
-      "data_manobra_iso": "2026-08-23T07:30:00",
-      "berco": "F5 BARRA",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Zim Usa",
       "imo": "9945473",
