@@ -1,18 +1,18 @@
 {
-  "gerado_em": "2026-08-23T16:20:55.298357",
+  "gerado_em": "2026-08-23T17:18:04.758654",
   "navios": [
     {
       "navio": "Zim Usa",
       "imo": "9945473",
       "agencia": "ZIM DO BRASIL",
-      "data_chegada_texto": "22/08/2026 01:00",
-      "data_chegada_iso": "2026-08-22T01:00:00",
+      "data_chegada_texto": "23/08/2026 13:48",
+      "data_chegada_iso": "2026-08-23T13:48:00",
       "manobra": "Entrada e Atracação",
       "data_manobra": "23/08/2026 14:00",
       "data_manobra_iso": "2026-08-23T14:00:00",
       "berco": "BARRA 902",
-      "situacao": "Confirmado",
-      "secao": "Navios Esperados"
+      "situacao": "Em Andamento",
+      "secao": "Movimentações"
     },
     {
       "navio": "YM Movement",
@@ -24,6 +24,19 @@
       "data_manobra": "23/08/2026 14:00",
       "data_manobra_iso": "2026-08-23T14:00:00",
       "berco": "902 BARRA",
+      "situacao": "Em Andamento",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Copiapo",
+      "imo": "9687526",
+      "agencia": "ROCHAMAR",
+      "data_chegada_texto": "21/08/2026 07:03",
+      "data_chegada_iso": "2026-08-21T07:03:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "23/08/2026 15:30",
+      "data_manobra_iso": "2026-08-23T15:30:00",
+      "berco": "901 BARRA",
       "situacao": "Confirmado",
       "secao": "Movimentações"
     },
@@ -37,20 +50,7 @@
       "data_manobra": "23/08/2026 15:30",
       "data_manobra_iso": "2026-08-23T15:30:00",
       "berco": "BARRA F5",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Copiapo",
-      "imo": "9687526",
-      "agencia": "ROCHAMAR",
-      "data_chegada_texto": "21/08/2026 07:03",
-      "data_chegada_iso": "2026-08-21T07:03:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "23/08/2026 16:00",
-      "data_manobra_iso": "2026-08-23T16:00:00",
-      "berco": "901 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
