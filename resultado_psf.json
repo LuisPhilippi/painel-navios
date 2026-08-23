@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-23T20:18:23.211184",
+  "gerado_em": "2026-08-23T21:18:20.346576",
   "navios": [
     {
       "navio": "Maersk Leon",
@@ -11,7 +11,7 @@
       "data_manobra": "23/08/2026 20:00",
       "data_manobra_iso": "2026-08-23T20:00:00",
       "berco": "BARRA 901",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Navios Esperados"
     },
     {

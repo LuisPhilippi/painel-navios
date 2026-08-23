@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-23T20:18:16.427939",
+  "gerado_em": "2026-08-23T21:18:10.212962",
   "navios": [
     {
       "navio": "NAVIOS AMARILLO",
@@ -54,8 +54,8 @@
     {
       "navio": "LOG-IN JATOBÁ",
       "status": "ManobraPrevista",
-      "data_hora_texto": "23/08/2026",
-      "data_hora_iso": "2026-08-23T00:00:00",
+      "data_hora_texto": "24/08/2026",
+      "data_hora_iso": "2026-08-24T00:00:00",
       "calado": "11,00/11,50",
       "rota": "",
       "berco": "PNAVE 02",
@@ -69,16 +69,6 @@
       "calado": "9,10/9,70",
       "rota": "Bacia 1",
       "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
-      "navio": "FAITH",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "24/08/2026",
-      "data_hora_iso": "2026-08-24T00:00:00",
-      "calado": "4,50/6,10",
-      "rota": "",
-      "berco": "TEPORTI",
       "posicao": null
     },
     {
@@ -112,23 +102,13 @@
       "posicao": null
     },
     {
-      "navio": "LOG-IN RESILIENTE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "24/08/2026",
-      "data_hora_iso": "2026-08-24T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE",
-      "posicao": null
-    },
-    {
       "navio": "COPIAPO",
       "status": "ManobraPrevista",
       "data_hora_texto": "24/08/2026",
       "data_hora_iso": "2026-08-24T00:00:00",
       "calado": "7,50/9,50",
       "rota": "",
-      "berco": "PNAVE",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
@@ -139,6 +119,16 @@
       "calado": "3,00 EK",
       "rota": "",
       "berco": "SEATRIUM",
+      "posicao": null
+    },
+    {
+      "navio": "FAITH",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "25/08/2026",
+      "data_hora_iso": "2026-08-25T00:00:00",
+      "calado": "4,50/6,10",
+      "rota": "",
+      "berco": "TEPORTI",
       "posicao": null
     },
     {
@@ -159,6 +149,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "LOG-IN RESILIENTE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "25/08/2026",
+      "data_hora_iso": "2026-08-25T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
       "posicao": null
     },
     {
