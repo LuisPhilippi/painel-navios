@@ -1,19 +1,6 @@
 {
-  "gerado_em": "2026-08-23T18:23:57.501783",
+  "gerado_em": "2026-08-23T19:20:07.653883",
   "navios": [
-    {
-      "navio": "Zim Usa",
-      "imo": "9945473",
-      "agencia": "ZIM DO BRASIL",
-      "data_chegada_texto": "23/08/2026 13:48",
-      "data_chegada_iso": "2026-08-23T13:48:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "23/08/2026 14:00",
-      "data_manobra_iso": "2026-08-23T14:00:00",
-      "berco": "BARRA 902",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Copiapo",
       "imo": "9687526",
@@ -24,7 +11,7 @@
       "data_manobra": "23/08/2026 15:30",
       "data_manobra_iso": "2026-08-23T15:30:00",
       "berco": "901 BARRA",
-      "situacao": "Confirmado",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -37,7 +24,7 @@
       "data_manobra": "23/08/2026 15:30",
       "data_manobra_iso": "2026-08-23T15:30:00",
       "berco": "BARRA F5",
-      "situacao": "Confirmado",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -80,17 +67,69 @@
       "secao": "Movimentações"
     },
     {
+      "navio": "Barcaça N10",
+      "imo": "9326017",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "19/08/2026 14:58",
+      "data_chegada_iso": "2026-08-19T14:58:00",
+      "manobra": "Desatracação e Fundeio",
+      "data_manobra": "24/08/2026 07:00",
+      "data_manobra_iso": "2026-08-24T07:00:00",
+      "berco": "302 F1",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
       "navio": "Lefkes",
       "imo": "9658783",
       "agencia": "ZPORT AGENCIA",
       "data_chegada_texto": "14/08/2026 22:30",
       "data_chegada_iso": "2026-08-14T22:30:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "102",
-      "situacao": null,
-      "secao": "Navios Atracados"
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "24/08/2026 07:30",
+      "data_manobra_iso": "2026-08-24T07:30:00",
+      "berco": "102 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Jamaica Bay",
+      "imo": "9610717",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "20/08/2026 14:27",
+      "data_chegada_iso": "2026-08-20T14:27:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "24/08/2026 09:45",
+      "data_manobra_iso": "2026-08-24T09:45:00",
+      "berco": "BARRA 302",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Cosco Shipping Mexico",
+      "imo": "9945863",
+      "agencia": "UNIMAR",
+      "data_chegada_texto": "24/08/2026 12:00",
+      "data_chegada_iso": "2026-08-24T12:00:00",
+      "manobra": "Entrada e Fundeio",
+      "data_manobra": "24/08/2026 12:00",
+      "data_manobra_iso": "2026-08-24T12:00:00",
+      "berco": "BARRA F5",
+      "situacao": "A Confirmar",
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Zim Usa",
+      "imo": "9945473",
+      "agencia": "ZIM DO BRASIL",
+      "data_chegada_texto": "23/08/2026 13:48",
+      "data_chegada_iso": "2026-08-23T13:48:00",
+      "manobra": "Desatracação e Fundeio",
+      "data_manobra": "24/08/2026 20:00",
+      "data_manobra_iso": "2026-08-24T20:00:00",
+      "berco": "902 F5",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
     },
     {
       "navio": "Evagelia",
@@ -115,19 +154,6 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "301",
-      "situacao": null,
-      "secao": "Navios Atracados"
-    },
-    {
-      "navio": "Barcaça N10",
-      "imo": "9326017",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "19/08/2026 14:58",
-      "data_chegada_iso": "2026-08-19T14:58:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "302",
       "situacao": null,
       "secao": "Navios Atracados"
     },
@@ -171,15 +197,15 @@
       "secao": "Navios Fundeados (Barra)"
     },
     {
-      "navio": "Jamaica Bay",
-      "imo": "9610717",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "20/08/2026 14:27",
-      "data_chegada_iso": "2026-08-20T14:27:00",
+      "navio": "Seaspan Empire",
+      "imo": "9407160",
+      "agencia": "ROCHAMAR",
+      "data_chegada_texto": "23/08/2026 15:20",
+      "data_chegada_iso": "2026-08-23T15:20:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
-      "berco": "TESC",
+      "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Fundeados (Barra)"
     },
@@ -193,19 +219,6 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "TESC",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Seaspan Empire",
-      "imo": "9407160",
-      "agencia": "ROCHAMAR",
-      "data_chegada_texto": "23/08/2026 14:00",
-      "data_chegada_iso": "2026-08-23T14:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Esperados"
     },
@@ -245,19 +258,6 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "SFS",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Cosco Shipping Mexico",
-      "imo": "9945863",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "24/08/2026 11:00",
-      "data_chegada_iso": "2026-08-24T11:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Esperados"
     },
@@ -635,6 +635,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Pisti",
+      "imo": "9893503",
+      "agencia": "CARGONAVE",
+      "data_chegada_texto": "05/09/2026 19:00",
+      "data_chegada_iso": "2026-09-05T19:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "101",
       "situacao": null,
       "secao": "Navios Esperados"
     },

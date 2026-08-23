@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-23T18:23:49.487289",
+  "gerado_em": "2026-08-23T19:20:00.515414",
   "navios": [
     {
       "navio": "LOG-IN JATOBÁ",
@@ -16,7 +16,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "23/08/2026",
       "data_hora_iso": "2026-08-23T00:00:00",
-      "calado": "TBC",
+      "calado": "10,90/11,00",
       "rota": "Bacia 2",
       "berco": "PNAVE 01",
       "posicao": null
@@ -112,21 +112,21 @@
       "posicao": null
     },
     {
-      "navio": "COPIAPO",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "24/08/2026",
-      "data_hora_iso": "2026-08-24T00:00:00",
-      "calado": "7,50/9,50",
-      "rota": "",
-      "berco": "PNAVE",
-      "posicao": null
-    },
-    {
       "navio": "LOG-IN RESILIENTE",
       "status": "ManobraPrevista",
       "data_hora_texto": "24/08/2026",
       "data_hora_iso": "2026-08-24T00:00:00",
       "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "COPIAPO",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "24/08/2026",
+      "data_hora_iso": "2026-08-24T00:00:00",
+      "calado": "7,50/9,50",
       "rota": "",
       "berco": "PNAVE",
       "posicao": null
