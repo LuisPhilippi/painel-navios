@@ -1,18 +1,18 @@
 {
-  "gerado_em": "2026-08-23T22:18:18.923508",
+  "gerado_em": "2026-08-23T23:17:39.542266",
   "navios": [
     {
       "navio": "Maersk Leon",
       "imo": "9526966",
       "agencia": "LACHMANN",
-      "data_chegada_texto": "23/08/2026 20:00",
-      "data_chegada_iso": "2026-08-23T20:00:00",
+      "data_chegada_texto": "23/08/2026 19:50",
+      "data_chegada_iso": "2026-08-23T19:50:00",
       "manobra": "Entrada e Atracação",
       "data_manobra": "23/08/2026 20:00",
       "data_manobra_iso": "2026-08-23T20:00:00",
       "berco": "BARRA 901",
-      "situacao": "Confirmado",
-      "secao": "Navios Esperados"
+      "situacao": "Em Andamento",
+      "secao": "Movimentações"
     },
     {
       "navio": "Alliance Diva",
