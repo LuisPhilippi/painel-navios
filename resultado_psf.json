@@ -1,32 +1,6 @@
 {
-  "gerado_em": "2026-08-23T19:20:07.653883",
+  "gerado_em": "2026-08-23T20:18:23.211184",
   "navios": [
-    {
-      "navio": "Copiapo",
-      "imo": "9687526",
-      "agencia": "ROCHAMAR",
-      "data_chegada_texto": "21/08/2026 07:03",
-      "data_chegada_iso": "2026-08-21T07:03:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "23/08/2026 15:30",
-      "data_manobra_iso": "2026-08-23T15:30:00",
-      "berco": "901 BARRA",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Diamond Star II",
-      "imo": "9449273",
-      "agencia": "OCEÂNICA",
-      "data_chegada_texto": "18/08/2026 15:30",
-      "data_chegada_iso": "2026-08-18T15:30:00",
-      "manobra": "Entrada e Fundeio",
-      "data_manobra": "23/08/2026 15:30",
-      "data_manobra_iso": "2026-08-23T15:30:00",
-      "berco": "BARRA F5",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Maersk Leon",
       "imo": "9526966",
@@ -102,6 +76,19 @@
       "data_manobra": "24/08/2026 09:45",
       "data_manobra_iso": "2026-08-24T09:45:00",
       "berco": "BARRA 302",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Diamond Star II",
+      "imo": "9449273",
+      "agencia": "OCEÂNICA",
+      "data_chegada_texto": "18/08/2026 15:30",
+      "data_chegada_iso": "2026-08-18T15:30:00",
+      "manobra": "Suspender e Atracar",
+      "data_manobra": "24/08/2026 10:15",
+      "data_manobra_iso": "2026-08-24T10:15:00",
+      "berco": "F5 102",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
     },

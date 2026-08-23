@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-08-23T19:20:00.515414",
+  "gerado_em": "2026-08-23T20:18:16.427939",
   "navios": [
-    {
-      "navio": "LOG-IN JATOBÁ",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "23/08/2026",
-      "data_hora_iso": "2026-08-23T00:00:00",
-      "calado": "11,40 EK",
-      "rota": "Bacia 1",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
     {
       "navio": "NAVIOS AMARILLO",
       "status": "ManobraPrevista",
@@ -27,7 +17,7 @@
       "data_hora_texto": "23/08/2026",
       "data_hora_iso": "2026-08-23T00:00:00",
       "calado": "7,00/9,70",
-      "rota": "Bacia 2",
+      "rota": "",
       "berco": "PNAVE 01",
       "posicao": null
     },
@@ -59,6 +49,16 @@
       "calado": "11,70/11,84",
       "rota": "Bacia 2",
       "berco": "JBS 4",
+      "posicao": null
+    },
+    {
+      "navio": "LOG-IN JATOBÁ",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "23/08/2026",
+      "data_hora_iso": "2026-08-23T00:00:00",
+      "calado": "11,00/11,50",
+      "rota": "",
+      "berco": "PNAVE 02",
       "posicao": null
     },
     {
