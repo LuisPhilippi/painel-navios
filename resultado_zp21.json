@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-08-24T12:41:48.364748",
+  "gerado_em": "2026-08-24T13:49:07.904479",
   "navios": [
-    {
-      "navio": "GEMSBOK",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "24/08/2026",
-      "data_hora_iso": "2026-08-24T00:00:00",
-      "calado": "4,30/4,40",
-      "rota": "",
-      "berco": "NAVSHIP",
-      "posicao": null
-    },
     {
       "navio": "KOTA SALAM",
       "status": "ManobraPrevista",
@@ -182,6 +172,16 @@
       "posicao": null
     },
     {
+      "navio": "NC BREDA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "31/08/2026",
+      "data_hora_iso": "2026-08-31T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
       "navio": "ACONCAGUA BAY",
       "status": "ManobraPrevista",
       "data_hora_texto": "03/09/2026",
@@ -189,6 +189,16 @@
       "calado": "2,35/6,85",
       "rota": "",
       "berco": "BRASKARNE",
+      "posicao": null
+    },
+    {
+      "navio": "GEMSBOK",
+      "status": "Atracado",
+      "data_hora_texto": "24/08/2026 - 09:39",
+      "data_hora_iso": "2026-08-24T09:39:00",
+      "calado": null,
+      "rota": "",
+      "berco": "NAVSHIP",
       "posicao": null
     },
     {
