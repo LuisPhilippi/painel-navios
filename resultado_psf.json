@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-24T07:55:36.097517",
+  "gerado_em": "2026-08-24T08:43:46.994560",
   "navios": [
     {
       "navio": "Barcaça N10",
@@ -11,7 +11,7 @@
       "data_manobra": "24/08/2026 07:00",
       "data_manobra_iso": "2026-08-24T07:00:00",
       "berco": "302 F1",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
