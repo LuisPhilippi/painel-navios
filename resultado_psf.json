@@ -1,32 +1,6 @@
 {
-  "gerado_em": "2026-08-24T14:38:17.363949",
+  "gerado_em": "2026-08-24T15:36:07.840196",
   "navios": [
-    {
-      "navio": "Jamaica Bay",
-      "imo": "9610717",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "20/08/2026 14:27",
-      "data_chegada_iso": "2026-08-20T14:27:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "24/08/2026 10:00",
-      "data_manobra_iso": "2026-08-24T10:00:00",
-      "berco": "BARRA 302",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Diamond Star II",
-      "imo": "9449273",
-      "agencia": "OCEÂNICA",
-      "data_chegada_texto": "18/08/2026 15:30",
-      "data_chegada_iso": "2026-08-18T15:30:00",
-      "manobra": "Suspender e Atracar",
-      "data_manobra": "24/08/2026 10:00",
-      "data_manobra_iso": "2026-08-24T10:00:00",
-      "berco": "F5 102",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Cosco Shipping Mexico",
       "imo": "9945863",
@@ -80,6 +54,19 @@
       "secao": "Navios Atracados"
     },
     {
+      "navio": "Diamond Star II",
+      "imo": "9449273",
+      "agencia": "OCEÂNICA",
+      "data_chegada_texto": "18/08/2026 15:30",
+      "data_chegada_iso": "2026-08-18T15:30:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "102",
+      "situacao": null,
+      "secao": "Navios Atracados"
+    },
+    {
       "navio": "Evagelia",
       "imo": "1085992",
       "agencia": "ZPORT AGENCIA",
@@ -102,6 +89,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "301",
+      "situacao": null,
+      "secao": "Navios Atracados"
+    },
+    {
+      "navio": "Jamaica Bay",
+      "imo": "9610717",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "20/08/2026 14:27",
+      "data_chegada_iso": "2026-08-20T14:27:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "302",
       "situacao": null,
       "secao": "Navios Atracados"
     },
@@ -167,6 +167,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Fundeados (Barra)"
+    },
+    {
+      "navio": "Lefkes",
+      "imo": "9658783",
+      "agencia": "ZPORT AGENCIA",
+      "data_chegada_texto": "24/08/2026 12:06",
+      "data_chegada_iso": "2026-08-24T12:06:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": null,
       "situacao": null,
       "secao": "Navios Fundeados (Barra)"
     },
