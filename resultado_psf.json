@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-24T13:49:14.876676",
+  "gerado_em": "2026-08-24T14:38:17.363949",
   "navios": [
     {
       "navio": "Jamaica Bay",
@@ -11,19 +11,6 @@
       "data_manobra": "24/08/2026 10:00",
       "data_manobra_iso": "2026-08-24T10:00:00",
       "berco": "BARRA 302",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Lefkes",
-      "imo": "9658783",
-      "agencia": "ZPORT AGENCIA",
-      "data_chegada_texto": "14/08/2026 22:30",
-      "data_chegada_iso": "2026-08-14T22:30:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "24/08/2026 10:00",
-      "data_manobra_iso": "2026-08-24T10:00:00",
-      "berco": "102 BARRA",
       "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
@@ -41,30 +28,17 @@
       "secao": "Movimentações"
     },
     {
-      "navio": "Blue Ridge",
-      "imo": "9518177",
-      "agencia": "ALPHAMAR",
-      "data_chegada_texto": "12/08/2026 13:42",
-      "data_chegada_iso": "2026-08-12T13:42:00",
-      "manobra": "Suspender e Sair",
-      "data_manobra": "24/08/2026 10:00",
-      "data_manobra_iso": "2026-08-24T10:00:00",
-      "berco": "F3 BARRA",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
       "navio": "Cosco Shipping Mexico",
       "imo": "9945863",
       "agencia": "UNIMAR",
-      "data_chegada_texto": "24/08/2026 12:00",
-      "data_chegada_iso": "2026-08-24T12:00:00",
+      "data_chegada_texto": "24/08/2026 10:30",
+      "data_chegada_iso": "2026-08-24T10:30:00",
       "manobra": "Entrada e Atracação",
       "data_manobra": "24/08/2026 16:00",
       "data_manobra_iso": "2026-08-24T16:00:00",
       "berco": "BARRA 902",
       "situacao": "A Confirmar",
-      "secao": "Navios Esperados"
+      "secao": "Movimentações"
     },
     {
       "navio": "Zim Usa",

@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-08-24T13:49:07.904479",
+  "gerado_em": "2026-08-24T14:38:08.460579",
   "navios": [
-    {
-      "navio": "KOTA SALAM",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "24/08/2026",
-      "data_hora_iso": "2026-08-24T00:00:00",
-      "calado": "9,10/9,70",
-      "rota": "Bacia 1",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
     {
       "navio": "PIO GRANDE",
       "status": "ManobraPrevista",
@@ -69,6 +59,16 @@
       "calado": "11,20 EK",
       "rota": "",
       "berco": "JBS 4",
+      "posicao": null
+    },
+    {
+      "navio": "KOTA SALAM",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "25/08/2026",
+      "data_hora_iso": "2026-08-25T00:00:00",
+      "calado": "10,50/11,40",
+      "rota": "",
+      "berco": "PNAVE 02",
       "posicao": null
     },
     {
