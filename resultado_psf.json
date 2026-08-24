@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-24T16:33:04.138831",
+  "gerado_em": "2026-08-24T17:27:49.459016",
   "navios": [
     {
       "navio": "Cosco Shipping Mexico",
@@ -11,7 +11,7 @@
       "data_manobra": "24/08/2026 16:00",
       "data_manobra_iso": "2026-08-24T16:00:00",
       "berco": "BARRA 902",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -24,7 +24,7 @@
       "data_manobra": "24/08/2026 16:00",
       "data_manobra_iso": "2026-08-24T16:00:00",
       "berco": "902 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
