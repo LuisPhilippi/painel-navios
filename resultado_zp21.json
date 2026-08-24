@@ -1,12 +1,12 @@
 {
-  "gerado_em": "2026-08-24T18:35:16.694198",
+  "gerado_em": "2026-08-24T19:26:16.349103",
   "navios": [
     {
       "navio": "MSC FLORENTINA",
       "status": "ManobraPrevista",
       "data_hora_texto": "24/08/2026",
       "data_hora_iso": "2026-08-24T00:00:00",
-      "calado": "7,15/9,85",
+      "calado": "6,90/9,70",
       "rota": "Bacia 2",
       "berco": "PNAVE 01",
       "posicao": null
@@ -17,7 +17,7 @@
       "data_hora_texto": "24/08/2026",
       "data_hora_iso": "2026-08-24T00:00:00",
       "calado": "7,60/9,60",
-      "rota": "Bacia 2",
+      "rota": "",
       "berco": "PNAVE 01",
       "posicao": null
     },
@@ -42,16 +42,6 @@
       "posicao": null
     },
     {
-      "navio": "CAPE SOUNIO",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "25/08/2026",
-      "data_hora_iso": "2026-08-25T00:00:00",
-      "calado": "11,20 EK",
-      "rota": "",
-      "berco": "JBS 4",
-      "posicao": null
-    },
-    {
       "navio": "KOTA SALAM",
       "status": "ManobraPrevista",
       "data_hora_texto": "25/08/2026",
@@ -62,13 +52,13 @@
       "posicao": null
     },
     {
-      "navio": "ONE AMAZON",
+      "navio": "NPaOc APA",
       "status": "ManobraPrevista",
       "data_hora_texto": "25/08/2026",
       "data_hora_iso": "2026-08-25T00:00:00",
       "calado": "TBC",
       "rota": "",
-      "berco": "PNAVE",
+      "berco": "DELEMAR",
       "posicao": null
     },
     {
@@ -82,13 +72,13 @@
       "posicao": null
     },
     {
-      "navio": "NPaOc APA",
+      "navio": "ONE AMAZON",
       "status": "ManobraPrevista",
       "data_hora_texto": "25/08/2026",
       "data_hora_iso": "2026-08-25T00:00:00",
       "calado": "TBC",
       "rota": "",
-      "berco": "DELEMAR",
+      "berco": "PNAVE 02",
       "posicao": null
     },
     {
@@ -107,18 +97,8 @@
       "data_hora_texto": "25/08/2026",
       "data_hora_iso": "2026-08-25T00:00:00",
       "calado": "9,15/10,50",
-      "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
-      "navio": "LOG-IN RESILIENTE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "25/08/2026",
-      "data_hora_iso": "2026-08-25T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE",
+      "rota": "Bacia 2",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -127,18 +107,28 @@
       "data_hora_texto": "25/08/2026",
       "data_hora_iso": "2026-08-25T00:00:00",
       "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE",
+      "rota": "Bacia 1",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
-      "navio": "AGIOS PORFYRIOS",
+      "navio": "CAPE SOUNIO",
       "status": "ManobraPrevista",
       "data_hora_texto": "26/08/2026",
       "data_hora_iso": "2026-08-26T00:00:00",
-      "calado": "3,67/5,11",
+      "calado": "11,20 EK",
       "rota": "",
-      "berco": "BRASKARNE",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "LOG-IN RESILIENTE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "26/08/2026",
+      "data_hora_iso": "2026-08-26T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
       "posicao": null
     },
     {
@@ -169,6 +159,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "AGIOS PORFYRIOS",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "28/08/2026",
+      "data_hora_iso": "2026-08-28T00:00:00",
+      "calado": "3,67/5,11",
+      "rota": "",
+      "berco": "BRASKARNE",
       "posicao": null
     },
     {
