@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-24T06:51:29.246421",
+  "gerado_em": "2026-08-24T07:55:28.388104",
   "navios": [
     {
       "navio": "GEMSBOK",
@@ -16,7 +16,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "24/08/2026",
       "data_hora_iso": "2026-08-24T00:00:00",
-      "calado": "TBC",
+      "calado": "10,60/10,50",
       "rota": "",
       "berco": "JBS 4",
       "posicao": null
