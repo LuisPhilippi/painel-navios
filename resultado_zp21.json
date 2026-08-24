@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-24T08:43:39.056572",
+  "gerado_em": "2026-08-24T09:43:12.249011",
   "navios": [
     {
       "navio": "GEMSBOK",
@@ -56,7 +56,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "24/08/2026",
       "data_hora_iso": "2026-08-24T00:00:00",
-      "calado": "7,50/9,50",
+      "calado": "7,60/9,60",
       "rota": "Bacia 2",
       "berco": "PNAVE 01",
       "posicao": null
