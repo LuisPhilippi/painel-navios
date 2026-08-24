@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-08-24T20:26:00.151889",
+  "gerado_em": "2026-08-24T21:25:15.515465",
   "navios": [
-    {
-      "navio": "MSC FLORENTINA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "24/08/2026",
-      "data_hora_iso": "2026-08-24T00:00:00",
-      "calado": "6,90/9,70",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "COPIAPO",
       "status": "ManobraPrevista",
@@ -159,6 +149,16 @@
       "calado": "TBC",
       "rota": "Bacia 1",
       "berco": "JBS 4",
+      "posicao": null
+    },
+    {
+      "navio": "MSC BARCELONA VI",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "28/08/2026",
+      "data_hora_iso": "2026-08-28T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
       "posicao": null
     },
     {
