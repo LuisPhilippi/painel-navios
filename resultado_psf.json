@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-24T05:35:17.501813",
+  "gerado_em": "2026-08-24T06:51:35.553785",
   "navios": [
     {
       "navio": "Barcaça N10",
@@ -15,19 +15,6 @@
       "secao": "Movimentações"
     },
     {
-      "navio": "Lefkes",
-      "imo": "9658783",
-      "agencia": "ZPORT AGENCIA",
-      "data_chegada_texto": "14/08/2026 22:30",
-      "data_chegada_iso": "2026-08-14T22:30:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "24/08/2026 07:30",
-      "data_manobra_iso": "2026-08-24T07:30:00",
-      "berco": "102 BARRA",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
       "navio": "Jamaica Bay",
       "imo": "9610717",
       "agencia": "WILSON SONS",
@@ -37,6 +24,19 @@
       "data_manobra": "24/08/2026 10:00",
       "data_manobra_iso": "2026-08-24T10:00:00",
       "berco": "BARRA 302",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Lefkes",
+      "imo": "9658783",
+      "agencia": "ZPORT AGENCIA",
+      "data_chegada_texto": "14/08/2026 22:30",
+      "data_chegada_iso": "2026-08-14T22:30:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "24/08/2026 10:00",
+      "data_manobra_iso": "2026-08-24T10:00:00",
+      "berco": "102 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
     },
