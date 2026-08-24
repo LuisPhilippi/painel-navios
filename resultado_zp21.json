@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-08-24T17:27:40.808237",
+  "gerado_em": "2026-08-24T18:35:16.694198",
   "navios": [
-    {
-      "navio": "NC BRUMA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "24/08/2026",
-      "data_hora_iso": "2026-08-24T00:00:00",
-      "calado": "10,60 EK",
-      "rota": "",
-      "berco": "JBS 4",
-      "posicao": null
-    },
     {
       "navio": "MSC FLORENTINA",
       "status": "ManobraPrevista",
@@ -29,6 +19,16 @@
       "calado": "7,60/9,60",
       "rota": "Bacia 2",
       "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
+      "navio": "NC BRUMA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "25/08/2026",
+      "data_hora_iso": "2026-08-25T00:00:00",
+      "calado": "TBC",
+      "rota": "Bacia 1",
+      "berco": "JBS 4",
       "posicao": null
     },
     {
@@ -122,6 +122,16 @@
       "posicao": null
     },
     {
+      "navio": "LOG-IN EVOLUTION",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "25/08/2026",
+      "data_hora_iso": "2026-08-25T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
       "navio": "AGIOS PORFYRIOS",
       "status": "ManobraPrevista",
       "data_hora_texto": "26/08/2026",
@@ -129,6 +139,16 @@
       "calado": "3,67/5,11",
       "rota": "",
       "berco": "BRASKARNE",
+      "posicao": null
+    },
+    {
+      "navio": "MSC MARIA LAURA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "27/08/2026",
+      "data_hora_iso": "2026-08-27T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
       "posicao": null
     },
     {
@@ -152,6 +172,16 @@
       "posicao": null
     },
     {
+      "navio": "MSC MAXINE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "29/08/2026",
+      "data_hora_iso": "2026-08-29T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
       "navio": "INDUSTRIAL SONG",
       "status": "ManobraPrevista",
       "data_hora_texto": "30/08/2026",
@@ -159,6 +189,26 @@
       "calado": "5,00/6,60",
       "rota": "",
       "berco": "BARRA DO RIO",
+      "posicao": null
+    },
+    {
+      "navio": "MSC BIANCA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "30/08/2026",
+      "data_hora_iso": "2026-08-30T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "MSC AINO",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "30/08/2026",
+      "data_hora_iso": "2026-08-30T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
       "posicao": null
     },
     {
@@ -182,6 +232,16 @@
       "posicao": null
     },
     {
+      "navio": "MSC MICHELA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "31/08/2026",
+      "data_hora_iso": "2026-08-31T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
       "navio": "ACONCAGUA BAY",
       "status": "ManobraPrevista",
       "data_hora_texto": "03/09/2026",
@@ -196,6 +256,16 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "04/09/2026",
       "data_hora_iso": "2026-09-04T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "SANTA INES",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "08/09/2026",
+      "data_hora_iso": "2026-09-08T00:00:00",
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
