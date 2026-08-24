@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-08-24T01:04:34.616329",
+  "gerado_em": "2026-08-24T02:59:35.410609",
   "navios": [
-    {
-      "navio": "MSC SUSANNA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "23/08/2026",
-      "data_hora_iso": "2026-08-23T00:00:00",
-      "calado": "10,10/10,20",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
     {
       "navio": "SANTA VANESSA",
       "status": "ManobraPrevista",
@@ -129,6 +119,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "DELEMAR",
+      "posicao": null
+    },
+    {
+      "navio": "MSC SUSANNA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "25/08/2026",
+      "data_hora_iso": "2026-08-25T00:00:00",
+      "calado": "12,40 EK",
+      "rota": "Bacia 2",
+      "berco": "JBS 2",
       "posicao": null
     },
     {

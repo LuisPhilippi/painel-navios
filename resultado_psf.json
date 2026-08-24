@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-24T01:04:41.084788",
+  "gerado_em": "2026-08-24T02:59:42.801540",
   "navios": [
     {
       "navio": "Alliance Diva",
@@ -11,7 +11,7 @@
       "data_manobra": "23/08/2026 23:00",
       "data_manobra_iso": "2026-08-23T23:00:00",
       "berco": "BARRA 101",
-      "situacao": "Confirmado",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -24,7 +24,7 @@
       "data_manobra": "23/08/2026 23:00",
       "data_manobra_iso": "2026-08-23T23:00:00",
       "berco": "101 F3",
-      "situacao": "Confirmado",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
