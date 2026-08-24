@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-08-23T23:17:32.601916",
+  "gerado_em": "2026-08-24T01:04:34.616329",
   "navios": [
-    {
-      "navio": "MAERSK KARACHI",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "23/08/2026",
-      "data_hora_iso": "2026-08-23T00:00:00",
-      "calado": "10,50/11,40",
-      "rota": "Bacia 2",
-      "berco": "JBS 2",
-      "posicao": null
-    },
     {
       "navio": "MSC SUSANNA",
       "status": "ManobraPrevista",
@@ -26,7 +16,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "23/08/2026",
       "data_hora_iso": "2026-08-23T00:00:00",
-      "calado": "11,70/11,84",
+      "calado": "11,65/11,90",
       "rota": "Bacia 2",
       "berco": "JBS 4",
       "posicao": null
@@ -86,7 +76,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "24/08/2026",
       "data_hora_iso": "2026-08-24T00:00:00",
-      "calado": "TBC",
+      "calado": "7,15/9,85",
       "rota": "Bacia 2",
       "berco": "PNAVE 01",
       "posicao": null
