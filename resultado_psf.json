@@ -1,32 +1,6 @@
 {
-  "gerado_em": "2026-08-24T02:59:42.801540",
+  "gerado_em": "2026-08-24T04:00:36.580610",
   "navios": [
-    {
-      "navio": "Alliance Diva",
-      "imo": "1104152",
-      "agencia": "ALPHAMAR",
-      "data_chegada_texto": "12/08/2026 15:42",
-      "data_chegada_iso": "2026-08-12T15:42:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "23/08/2026 23:00",
-      "data_manobra_iso": "2026-08-23T23:00:00",
-      "berco": "BARRA 101",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Blue Ridge",
-      "imo": "9518177",
-      "agencia": "ALPHAMAR",
-      "data_chegada_texto": "12/08/2026 13:42",
-      "data_chegada_iso": "2026-08-12T13:42:00",
-      "manobra": "Desatracação e Fundeio",
-      "data_manobra": "23/08/2026 23:00",
-      "data_manobra_iso": "2026-08-23T23:00:00",
-      "berco": "101 F3",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Barcaça N10",
       "imo": "9326017",
@@ -80,6 +54,19 @@
       "secao": "Movimentações"
     },
     {
+      "navio": "Blue Ridge",
+      "imo": "9518177",
+      "agencia": "ALPHAMAR",
+      "data_chegada_texto": "12/08/2026 13:42",
+      "data_chegada_iso": "2026-08-12T13:42:00",
+      "manobra": "Suspender e Sair",
+      "data_manobra": "24/08/2026 10:00",
+      "data_manobra_iso": "2026-08-24T10:00:00",
+      "berco": "F3 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
       "navio": "Cosco Shipping Mexico",
       "imo": "9945863",
       "agencia": "UNIMAR",
@@ -115,6 +102,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "901",
+      "situacao": null,
+      "secao": "Navios Atracados"
+    },
+    {
+      "navio": "Alliance Diva",
+      "imo": "1104152",
+      "agencia": "ALPHAMAR",
+      "data_chegada_texto": "12/08/2026 15:42",
+      "data_chegada_iso": "2026-08-12T15:42:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "101",
       "situacao": null,
       "secao": "Navios Atracados"
     },
