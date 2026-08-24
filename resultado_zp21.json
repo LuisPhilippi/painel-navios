@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-24T22:22:08.145429",
+  "gerado_em": "2026-08-24T23:20:06.791646",
   "navios": [
     {
       "navio": "COPIAPO",
@@ -56,7 +56,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "25/08/2026",
       "data_hora_iso": "2026-08-25T00:00:00",
-      "calado": "TBC",
+      "calado": "8,00/10,00",
       "rota": "",
       "berco": "PNAVE 02",
       "posicao": null
@@ -67,7 +67,7 @@
       "data_hora_texto": "25/08/2026",
       "data_hora_iso": "2026-08-25T00:00:00",
       "calado": "9,15/10,50",
-      "rota": "Bacia 2",
+      "rota": "",
       "berco": "JBS 2",
       "posicao": null
     },
