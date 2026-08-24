@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-24T09:43:12.249011",
+  "gerado_em": "2026-08-24T10:34:16.633578",
   "navios": [
     {
       "navio": "GEMSBOK",
@@ -9,16 +9,6 @@
       "calado": "4,30/4,40",
       "rota": "",
       "berco": "NAVSHIP",
-      "posicao": null
-    },
-    {
-      "navio": "NC BRUMA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "24/08/2026",
-      "data_hora_iso": "2026-08-24T00:00:00",
-      "calado": "10,60/10,50",
-      "rota": "",
-      "berco": "JBS 4",
       "posicao": null
     },
     {
@@ -39,6 +29,16 @@
       "calado": "5,50/5,80",
       "rota": "",
       "berco": "TEPORTI",
+      "posicao": null
+    },
+    {
+      "navio": "NC BRUMA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "24/08/2026",
+      "data_hora_iso": "2026-08-24T00:00:00",
+      "calado": "10,60 EK",
+      "rota": "",
+      "berco": "JBS 4",
       "posicao": null
     },
     {
