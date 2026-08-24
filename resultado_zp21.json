@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-08-24T04:55:04.756553",
+  "gerado_em": "2026-08-24T05:35:09.813105",
   "navios": [
-    {
-      "navio": "LOG-IN JATOBÁ",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "24/08/2026",
-      "data_hora_iso": "2026-08-24T00:00:00",
-      "calado": "11,45 EK",
-      "rota": "",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
     {
       "navio": "GEMSBOK",
       "status": "ManobraPrevista",
