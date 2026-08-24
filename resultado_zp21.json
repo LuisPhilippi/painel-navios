@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-08-24T15:36:01.516799",
+  "gerado_em": "2026-08-24T16:32:57.127123",
   "navios": [
-    {
-      "navio": "PIO GRANDE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "24/08/2026",
-      "data_hora_iso": "2026-08-24T00:00:00",
-      "calado": "5,62/5,80",
-      "rota": "",
-      "berco": "TEPORTI",
-      "posicao": null
-    },
     {
       "navio": "NC BRUMA",
       "status": "ManobraPrevista",
