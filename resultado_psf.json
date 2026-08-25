@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-25T07:41:32.862831",
+  "gerado_em": "2026-08-25T08:37:51.692719",
   "navios": [
     {
       "navio": "Maersk Pangani",
@@ -11,7 +11,7 @@
       "data_manobra": "25/08/2026 07:00",
       "data_manobra_iso": "2026-08-25T07:00:00",
       "berco": "BARRA 901",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Navios Esperados"
     },
     {
@@ -24,7 +24,7 @@
       "data_manobra": "25/08/2026 07:00",
       "data_manobra_iso": "2026-08-25T07:00:00",
       "berco": "901 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -37,7 +37,7 @@
       "data_manobra": "25/08/2026 07:30",
       "data_manobra_iso": "2026-08-25T07:30:00",
       "berco": "201 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -167,19 +167,6 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "SFS",
-      "situacao": null,
-      "secao": "Navios Fundeados (Barra)"
-    },
-    {
-      "navio": "Seaspan Empire",
-      "imo": "9407160",
-      "agencia": "ROCHAMAR",
-      "data_chegada_texto": "23/08/2026 15:20",
-      "data_chegada_iso": "2026-08-23T15:20:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Fundeados (Barra)"
     },
