@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-08-25T02:55:25.861656",
+  "gerado_em": "2026-08-25T03:45:13.576004",
   "navios": [
-    {
-      "navio": "COPIAPO",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "24/08/2026",
-      "data_hora_iso": "2026-08-24T00:00:00",
-      "calado": "7,60/9,60",
-      "rota": "",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "KOTA SALAM",
       "status": "ManobraPrevista",
@@ -69,6 +59,16 @@
       "calado": "9,15/10,50",
       "rota": "",
       "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "COPIAPO",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "25/08/2026",
+      "data_hora_iso": "2026-08-25T00:00:00",
+      "calado": "7,25/10,07",
+      "rota": "Bacia 2",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
