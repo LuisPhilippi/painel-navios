@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-25T13:46:16.676723",
+  "gerado_em": "2026-08-25T14:41:21.994936",
   "navios": [
     {
       "navio": "Star Hansa",
@@ -11,7 +11,7 @@
       "data_manobra": "25/08/2026 13:00",
       "data_manobra_iso": "2026-08-25T13:00:00",
       "berco": "BARRA F5",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Navios Esperados"
     },
     {
