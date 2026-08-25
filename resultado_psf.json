@@ -1,19 +1,6 @@
 {
-  "gerado_em": "2026-08-25T16:33:13.431629",
+  "gerado_em": "2026-08-25T17:28:39.120548",
   "navios": [
-    {
-      "navio": "Star Hansa",
-      "imo": "9103128",
-      "agencia": "SEATRADE",
-      "data_chegada_texto": "25/08/2026 12:51",
-      "data_chegada_iso": "2026-08-25T12:51:00",
-      "manobra": "Entrada e Fundeio",
-      "data_manobra": "25/08/2026 13:00",
-      "data_manobra_iso": "2026-08-25T13:00:00",
-      "berco": "BARRA F5",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Maersk Pangani",
       "imo": "9786097",
@@ -91,6 +78,19 @@
       "berco": "302",
       "situacao": null,
       "secao": "Navios Atracados"
+    },
+    {
+      "navio": "Star Hansa",
+      "imo": "9103128",
+      "agencia": "SEATRADE",
+      "data_chegada_texto": "25/08/2026 12:51",
+      "data_chegada_iso": "2026-08-25T12:51:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "F5",
+      "situacao": null,
+      "secao": "Navios Fundeados (Internos)"
     },
     {
       "navio": "TSHD Galileo Galilei",

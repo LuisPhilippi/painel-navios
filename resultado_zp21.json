@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-08-25T16:33:06.708813",
+  "gerado_em": "2026-08-25T17:28:32.720231",
   "navios": [
-    {
-      "navio": "MSC SUSANNA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "25/08/2026",
-      "data_hora_iso": "2026-08-25T00:00:00",
-      "calado": "12,20/12,40",
-      "rota": "Bacia 2",
-      "berco": "JBS 2",
-      "posicao": null
-    },
     {
       "navio": "ONE AMAZON",
       "status": "ManobraPrevista",
