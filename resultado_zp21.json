@@ -1,32 +1,12 @@
 {
-  "gerado_em": "2026-08-25T11:23:42.941828",
+  "gerado_em": "2026-08-25T12:40:30.638571",
   "navios": [
-    {
-      "navio": "KOTA SALAM",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "25/08/2026",
-      "data_hora_iso": "2026-08-25T00:00:00",
-      "calado": "5,40/7,30",
-      "rota": "",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
-      "navio": "NPaOc APA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "25/08/2026",
-      "data_hora_iso": "2026-08-25T00:00:00",
-      "calado": "4,00 EK",
-      "rota": "",
-      "berco": "DELEMAR",
-      "posicao": null
-    },
     {
       "navio": "FAITH",
       "status": "ManobraPrevista",
       "data_hora_texto": "25/08/2026",
       "data_hora_iso": "2026-08-25T00:00:00",
-      "calado": "4,50/6,00",
+      "calado": "4,50/6,10",
       "rota": "",
       "berco": "TEPORTI",
       "posicao": null
