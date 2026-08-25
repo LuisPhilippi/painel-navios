@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-25T10:28:26.268629",
+  "gerado_em": "2026-08-25T11:23:49.146980",
   "navios": [
     {
       "navio": "Maersk Pangani",
@@ -11,19 +11,6 @@
       "data_manobra": "25/08/2026 07:00",
       "data_manobra_iso": "2026-08-25T07:00:00",
       "berco": "BARRA 901",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Maersk Leon",
-      "imo": "9526966",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "23/08/2026 19:50",
-      "data_chegada_iso": "2026-08-23T19:50:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "25/08/2026 07:00",
-      "data_manobra_iso": "2026-08-25T07:00:00",
-      "berco": "901 BARRA",
       "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
