@@ -1,12 +1,12 @@
 {
-  "gerado_em": "2026-08-25T21:24:24.332919",
+  "gerado_em": "2026-08-25T22:22:59.395916",
   "navios": [
     {
       "navio": "COPIAPO",
       "status": "ManobraPrevista",
       "data_hora_texto": "25/08/2026",
       "data_hora_iso": "2026-08-25T00:00:00",
-      "calado": "7,70/9,70",
+      "calado": "7,90/9,70",
       "rota": "Bacia 2",
       "berco": "PNAVE 01",
       "posicao": null
@@ -36,7 +36,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "26/08/2026",
       "data_hora_iso": "2026-08-26T00:00:00",
-      "calado": "9,65/10,85",
+      "calado": "9,55/10,75",
       "rota": "Bacia 2",
       "berco": "JBS 2",
       "posicao": null
@@ -62,16 +62,6 @@
       "posicao": null
     },
     {
-      "navio": "CAPE SOUNIO",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "26/08/2026",
-      "data_hora_iso": "2026-08-26T00:00:00",
-      "calado": "11,20 EK",
-      "rota": "Bacia 2",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
       "navio": "FAITH",
       "status": "ManobraPrevista",
       "data_hora_texto": "26/08/2026",
@@ -79,6 +69,16 @@
       "calado": "6,15/6,30",
       "rota": "",
       "berco": "TEPORTI",
+      "posicao": null
+    },
+    {
+      "navio": "CAPE SOUNIO",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "26/08/2026",
+      "data_hora_iso": "2026-08-26T00:00:00",
+      "calado": "11,20 EK",
+      "rota": "Bacia 2",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
