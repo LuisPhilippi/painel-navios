@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-08-25T15:39:16.171074",
+  "gerado_em": "2026-08-25T16:33:06.708813",
   "navios": [
-    {
-      "navio": "FAITH",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "25/08/2026",
-      "data_hora_iso": "2026-08-25T00:00:00",
-      "calado": "4,50/6,10",
-      "rota": "",
-      "berco": "TEPORTI",
-      "posicao": null
-    },
     {
       "navio": "MSC SUSANNA",
       "status": "ManobraPrevista",
@@ -79,6 +69,16 @@
       "calado": "11,20 EK",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "FAITH",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "26/08/2026",
+      "data_hora_iso": "2026-08-26T00:00:00",
+      "calado": "6,15/6,30",
+      "rota": "",
+      "berco": "TEPORTI",
       "posicao": null
     },
     {

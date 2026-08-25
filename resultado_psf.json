@@ -1,18 +1,18 @@
 {
-  "gerado_em": "2026-08-25T15:39:23.464415",
+  "gerado_em": "2026-08-25T16:33:13.431629",
   "navios": [
     {
       "navio": "Star Hansa",
       "imo": "9103128",
       "agencia": "SEATRADE",
-      "data_chegada_texto": "25/08/2026 13:00",
-      "data_chegada_iso": "2026-08-25T13:00:00",
+      "data_chegada_texto": "25/08/2026 12:51",
+      "data_chegada_iso": "2026-08-25T12:51:00",
       "manobra": "Entrada e Fundeio",
       "data_manobra": "25/08/2026 13:00",
       "data_manobra_iso": "2026-08-25T13:00:00",
       "berco": "BARRA F5",
-      "situacao": "Confirmado",
-      "secao": "Navios Esperados"
+      "situacao": "Em Andamento",
+      "secao": "Movimentações"
     },
     {
       "navio": "Maersk Pangani",
