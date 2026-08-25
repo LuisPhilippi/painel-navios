@@ -1,12 +1,12 @@
 {
-  "gerado_em": "2026-08-25T09:32:18.806034",
+  "gerado_em": "2026-08-25T10:28:19.896275",
   "navios": [
     {
       "navio": "KOTA SALAM",
       "status": "ManobraPrevista",
       "data_hora_texto": "25/08/2026",
       "data_hora_iso": "2026-08-25T00:00:00",
-      "calado": "5,40/8,10",
+      "calado": "5,40/7,30",
       "rota": "",
       "berco": "PNAVE 02",
       "posicao": null
@@ -16,7 +16,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "25/08/2026",
       "data_hora_iso": "2026-08-25T00:00:00",
-      "calado": "TBC",
+      "calado": "4,00 EK",
       "rota": "",
       "berco": "DELEMAR",
       "posicao": null
