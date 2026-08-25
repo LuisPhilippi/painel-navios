@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-25T17:28:32.720231",
+  "gerado_em": "2026-08-25T18:35:27.034082",
   "navios": [
     {
       "navio": "ONE AMAZON",
@@ -62,6 +62,16 @@
       "posicao": null
     },
     {
+      "navio": "HYUNDAI DYNASTY",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "26/08/2026",
+      "data_hora_iso": "2026-08-26T00:00:00",
+      "calado": "10,30/11,50",
+      "rota": "",
+      "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
       "navio": "FAITH",
       "status": "ManobraPrevista",
       "data_hora_texto": "26/08/2026",
@@ -72,17 +82,17 @@
       "posicao": null
     },
     {
-      "navio": "LOG-IN RESILIENTE",
+      "navio": "MSC MARIA LAURA",
       "status": "ManobraPrevista",
       "data_hora_texto": "26/08/2026",
       "data_hora_iso": "2026-08-26T00:00:00",
       "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE",
+      "rota": "Bacia 2",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
-      "navio": "MSC MARIA LAURA",
+      "navio": "LOG-IN RESILIENTE",
       "status": "ManobraPrevista",
       "data_hora_texto": "27/08/2026",
       "data_hora_iso": "2026-08-27T00:00:00",
@@ -240,16 +250,6 @@
       "rota": "",
       "berco": "JBS",
       "posicao": null
-    },
-    {
-      "navio": "HYUNDAI DYNASTY",
-      "status": "Fundeado",
-      "data_hora_texto": "25/08/2026 - 03:01",
-      "data_hora_iso": "2026-08-25T03:01:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": null,
-      "posicao": "26 51,37 S / 048 31,38 W"
     },
     {
       "navio": "GEMSBOK",
