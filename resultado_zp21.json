@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-08-25T18:35:27.034082",
+  "gerado_em": "2026-08-25T19:28:26.673562",
   "navios": [
-    {
-      "navio": "ONE AMAZON",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "25/08/2026",
-      "data_hora_iso": "2026-08-25T00:00:00",
-      "calado": "8,00/10,00",
-      "rota": "",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
     {
       "navio": "MAERSK LEON",
       "status": "ManobraPrevista",
@@ -42,6 +32,16 @@
       "posicao": null
     },
     {
+      "navio": "ONE AMAZON",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "26/08/2026",
+      "data_hora_iso": "2026-08-26T00:00:00",
+      "calado": "TBC",
+      "rota": "Bacia 2",
+      "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
       "navio": "BALSA Z MAX XX + C TORMENTA",
       "status": "ManobraPrevista",
       "data_hora_texto": "26/08/2026",
@@ -52,23 +52,23 @@
       "posicao": null
     },
     {
-      "navio": "CAPE SOUNIO",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "26/08/2026",
-      "data_hora_iso": "2026-08-26T00:00:00",
-      "calado": "11,20 EK",
-      "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
       "navio": "HYUNDAI DYNASTY",
       "status": "ManobraPrevista",
       "data_hora_texto": "26/08/2026",
       "data_hora_iso": "2026-08-26T00:00:00",
       "calado": "10,30/11,50",
-      "rota": "",
+      "rota": "Bacia 2",
       "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
+      "navio": "CAPE SOUNIO",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "26/08/2026",
+      "data_hora_iso": "2026-08-26T00:00:00",
+      "calado": "11,20 EK",
+      "rota": "Bacia 2",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -92,33 +92,13 @@
       "posicao": null
     },
     {
-      "navio": "LOG-IN RESILIENTE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "27/08/2026",
-      "data_hora_iso": "2026-08-27T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE",
-      "posicao": null
-    },
-    {
-      "navio": "PALENA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "27/08/2026",
-      "data_hora_iso": "2026-08-27T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
       "navio": "MAERSK PANGANI",
       "status": "ManobraPrevista",
       "data_hora_texto": "28/08/2026",
       "data_hora_iso": "2026-08-28T00:00:00",
       "calado": "TBC",
-      "rota": "",
-      "berco": "JBS",
+      "rota": "Bacia 1",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -126,13 +106,33 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "28/08/2026",
       "data_hora_iso": "2026-08-28T00:00:00",
-      "calado": "TBC",
+      "calado": "11,00/11,40",
       "rota": "Bacia 1",
       "berco": "JBS 4",
       "posicao": null
     },
     {
       "navio": "MSC BARCELONA VI",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "28/08/2026",
+      "data_hora_iso": "2026-08-28T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "LOG-IN RESILIENTE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "28/08/2026",
+      "data_hora_iso": "2026-08-28T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "PALENA",
       "status": "ManobraPrevista",
       "data_hora_texto": "28/08/2026",
       "data_hora_iso": "2026-08-28T00:00:00",

@@ -1,31 +1,18 @@
 {
-  "gerado_em": "2026-08-25T18:35:34.172824",
+  "gerado_em": "2026-08-25T19:28:32.730848",
   "navios": [
     {
-      "navio": "Maersk Pangani",
-      "imo": "9786097",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "25/08/2026 06:55",
-      "data_chegada_iso": "2026-08-25T06:55:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "901",
-      "situacao": null,
-      "secao": "Navios Atracados"
-    },
-    {
-      "navio": "Cosco Shipping Mexico",
-      "imo": "9945863",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "24/08/2026 10:30",
-      "data_chegada_iso": "2026-08-24T10:30:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "902",
-      "situacao": null,
-      "secao": "Navios Atracados"
+      "navio": "Nikos N",
+      "imo": "9412646",
+      "agencia": "LITORAL",
+      "data_chegada_texto": "20/08/2026 06:21",
+      "data_chegada_iso": "2026-08-20T06:21:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "26/08/2026 00:15",
+      "data_manobra_iso": "2026-08-26T00:15:00",
+      "berco": "BARRA 101",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
     },
     {
       "navio": "Alliance Diva",
@@ -33,12 +20,38 @@
       "agencia": "ALPHAMAR",
       "data_chegada_texto": "12/08/2026 15:42",
       "data_chegada_iso": "2026-08-12T15:42:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "101",
-      "situacao": null,
-      "secao": "Navios Atracados"
+      "manobra": "Desatracação e Fundeio",
+      "data_manobra": "26/08/2026 00:15",
+      "data_manobra_iso": "2026-08-26T00:15:00",
+      "berco": "101 F3",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Seaspan Empire",
+      "imo": "9407160",
+      "agencia": "ROCHAMAR",
+      "data_chegada_texto": "23/08/2026 15:20",
+      "data_chegada_iso": "2026-08-23T15:20:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "26/08/2026 01:15",
+      "data_manobra_iso": "2026-08-26T01:15:00",
+      "berco": "BARRA 901",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Maersk Pangani",
+      "imo": "9786097",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "25/08/2026 06:55",
+      "data_chegada_iso": "2026-08-25T06:55:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "26/08/2026 01:15",
+      "data_manobra_iso": "2026-08-26T01:15:00",
+      "berco": "901 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
     },
     {
       "navio": "Diamond Star II",
@@ -46,12 +59,51 @@
       "agencia": "OCEÂNICA",
       "data_chegada_texto": "18/08/2026 15:30",
       "data_chegada_iso": "2026-08-18T15:30:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "102",
-      "situacao": null,
-      "secao": "Navios Atracados"
+      "manobra": "Mudança de Berço",
+      "data_manobra": "26/08/2026 10:00",
+      "data_manobra_iso": "2026-08-26T10:00:00",
+      "berco": "102 201",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Star Hansa",
+      "imo": "9103128",
+      "agencia": "SEATRADE",
+      "data_chegada_texto": "25/08/2026 12:51",
+      "data_chegada_iso": "2026-08-25T12:51:00",
+      "manobra": "Suspender e Atracar",
+      "data_manobra": "26/08/2026 11:45",
+      "data_manobra_iso": "2026-08-26T11:45:00",
+      "berco": "F5 102",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Cosco Shipping Mexico",
+      "imo": "9945863",
+      "agencia": "UNIMAR",
+      "data_chegada_texto": "24/08/2026 10:30",
+      "data_chegada_iso": "2026-08-24T10:30:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "26/08/2026 12:15",
+      "data_manobra_iso": "2026-08-26T12:15:00",
+      "berco": "902 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Maersk Lanco",
+      "imo": "9527049",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "26/08/2026 13:45",
+      "data_chegada_iso": "2026-08-26T13:45:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "26/08/2026 13:45",
+      "data_manobra_iso": "2026-08-26T13:45:00",
+      "berco": "BARRA 902",
+      "situacao": "A Confirmar",
+      "secao": "Navios Esperados"
     },
     {
       "navio": "Sofia",
@@ -80,19 +132,6 @@
       "secao": "Navios Atracados"
     },
     {
-      "navio": "Star Hansa",
-      "imo": "9103128",
-      "agencia": "SEATRADE",
-      "data_chegada_texto": "25/08/2026 12:51",
-      "data_chegada_iso": "2026-08-25T12:51:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "F5",
-      "situacao": null,
-      "secao": "Navios Fundeados (Internos)"
-    },
-    {
       "navio": "TSHD Galileo Galilei",
       "imo": "9872365",
       "agencia": "LITORAL",
@@ -117,19 +156,6 @@
       "berco": "F1",
       "situacao": null,
       "secao": "Navios Fundeados (Internos)"
-    },
-    {
-      "navio": "Nikos N",
-      "imo": "9412646",
-      "agencia": "LITORAL",
-      "data_chegada_texto": "20/08/2026 06:21",
-      "data_chegada_iso": "2026-08-20T06:21:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "SFS",
-      "situacao": null,
-      "secao": "Navios Fundeados (Barra)"
     },
     {
       "navio": "Tokyo Queen",
@@ -184,32 +210,6 @@
       "secao": "Navios Fundeados (Barra)"
     },
     {
-      "navio": "Capetan Vassilis II",
-      "imo": "9580118",
-      "agencia": "CARGONAVE",
-      "data_chegada_texto": "25/08/2026 13:00",
-      "data_chegada_iso": "2026-08-25T13:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "SFS",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "RDO Endeavour",
-      "imo": "9302102",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "25/08/2026 15:00",
-      "data_chegada_iso": "2026-08-25T15:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
       "navio": "Babitonga Bay",
       "imo": "9663776",
       "agencia": "WILSON SONS",
@@ -223,6 +223,19 @@
       "secao": "Navios Esperados"
     },
     {
+      "navio": "RDO Endeavour",
+      "imo": "9302102",
+      "agencia": "UNIMAR",
+      "data_chegada_texto": "25/08/2026 20:30",
+      "data_chegada_iso": "2026-08-25T20:30:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
       "navio": "Beijing 2008",
       "imo": "9442744",
       "agencia": "CARGONAVE",
@@ -232,19 +245,6 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "TESC",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Maersk Lanco",
-      "imo": "9527049",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "26/08/2026 18:00",
-      "data_chegada_iso": "2026-08-26T18:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Esperados"
     },
@@ -436,6 +436,19 @@
       "agencia": "CARGONAVE",
       "data_chegada_texto": "29/08/2026 12:00",
       "data_chegada_iso": "2026-08-29T12:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "SFS",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Capetan Vassilis II",
+      "imo": "9580118",
+      "agencia": "CARGONAVE",
+      "data_chegada_texto": "30/08/2026 15:00",
+      "data_chegada_iso": "2026-08-30T15:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
