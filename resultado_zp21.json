@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-25T19:28:26.673562",
+  "gerado_em": "2026-08-25T20:24:55.510583",
   "navios": [
     {
       "navio": "MAERSK LEON",
@@ -26,7 +26,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "25/08/2026",
       "data_hora_iso": "2026-08-25T00:00:00",
-      "calado": "TBC",
+      "calado": "9,20/9,60",
       "rota": "Bacia 1",
       "berco": "PNAVE 01",
       "posicao": null
@@ -36,7 +36,17 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "26/08/2026",
       "data_hora_iso": "2026-08-26T00:00:00",
-      "calado": "TBC",
+      "calado": "11,20 EK",
+      "rota": "Bacia 2",
+      "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
+      "navio": "HYUNDAI DYNASTY",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "26/08/2026",
+      "data_hora_iso": "2026-08-26T00:00:00",
+      "calado": "10,30/11,50",
       "rota": "Bacia 2",
       "berco": "PNAVE 02",
       "posicao": null
@@ -49,16 +59,6 @@
       "calado": "3,00 EK",
       "rota": "",
       "berco": "SEATRIUM",
-      "posicao": null
-    },
-    {
-      "navio": "HYUNDAI DYNASTY",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "26/08/2026",
-      "data_hora_iso": "2026-08-26T00:00:00",
-      "calado": "10,30/11,50",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 02",
       "posicao": null
     },
     {
