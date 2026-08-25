@@ -1,19 +1,6 @@
 {
-  "gerado_em": "2026-08-25T12:40:36.744569",
+  "gerado_em": "2026-08-25T13:46:16.676723",
   "navios": [
-    {
-      "navio": "Evagelia",
-      "imo": "1085992",
-      "agencia": "ZPORT AGENCIA",
-      "data_chegada_texto": "19/08/2026 21:55",
-      "data_chegada_iso": "2026-08-19T21:55:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "25/08/2026 07:30",
-      "data_manobra_iso": "2026-08-25T07:30:00",
-      "berco": "201 BARRA",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Star Hansa",
       "imo": "9103128",
