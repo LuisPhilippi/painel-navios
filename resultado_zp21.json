@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-25T05:28:29.612695",
+  "gerado_em": "2026-08-25T06:40:45.763687",
   "navios": [
     {
       "navio": "KOTA SALAM",
@@ -270,6 +270,16 @@
       "rota": "",
       "berco": "JBS",
       "posicao": null
+    },
+    {
+      "navio": "HYUNDAI DYNASTY",
+      "status": "Fundeado",
+      "data_hora_texto": "25/08/2026 - 03:01",
+      "data_hora_iso": "2026-08-25T03:01:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": null,
+      "posicao": "26 51,37 S / 048 31,38 W"
     },
     {
       "navio": "GEMSBOK",
