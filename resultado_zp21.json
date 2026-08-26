@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-08-26T08:39:00.735605",
+  "gerado_em": "2026-08-26T09:37:00.584243",
   "navios": [
-    {
-      "navio": "ONE AMAZON",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "26/08/2026",
-      "data_hora_iso": "2026-08-26T00:00:00",
-      "calado": "11,10/11,30",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
     {
       "navio": "MAERSK LEON",
       "status": "ManobraPrevista",
@@ -22,11 +12,11 @@
       "posicao": null
     },
     {
-      "navio": "HYUNDAI DYNASTY",
+      "navio": "ONE AMAZON",
       "status": "ManobraPrevista",
       "data_hora_texto": "26/08/2026",
       "data_hora_iso": "2026-08-26T00:00:00",
-      "calado": "11,25/11,70",
+      "calado": "11,10/11,30",
       "rota": "Bacia 2",
       "berco": "PNAVE 02",
       "posicao": null
@@ -69,6 +59,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
+      "navio": "HYUNDAI DYNASTY",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "26/08/2026",
+      "data_hora_iso": "2026-08-26T00:00:00",
+      "calado": "11,25/11,70",
+      "rota": "Bacia 2",
+      "berco": "PNAVE 02",
       "posicao": null
     },
     {
