@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-08-26T13:52:21.005823",
+  "gerado_em": "2026-08-26T14:41:14.679835",
   "navios": [
-    {
-      "navio": "MAERSK LEON",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "26/08/2026",
-      "data_hora_iso": "2026-08-26T00:00:00",
-      "calado": "9,55/10,75",
-      "rota": "Bacia 2",
-      "berco": "JBS 2",
-      "posicao": null
-    },
     {
       "navio": "ONE AMAZON",
       "status": "ManobraPrevista",
@@ -92,6 +82,16 @@
       "posicao": null
     },
     {
+      "navio": "AGIOS PORFYRIOS",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "28/08/2026",
+      "data_hora_iso": "2026-08-28T00:00:00",
+      "calado": "3,67/5,11",
+      "rota": "",
+      "berco": "BRASKARNE",
+      "posicao": null
+    },
+    {
       "navio": "NC BRUMA",
       "status": "ManobraPrevista",
       "data_hora_texto": "28/08/2026",
@@ -129,16 +129,6 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
-      "posicao": null
-    },
-    {
-      "navio": "AGIOS PORFYRIOS",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "28/08/2026",
-      "data_hora_iso": "2026-08-28T00:00:00",
-      "calado": "3,67/5,11",
-      "rota": "",
-      "berco": "BRASKARNE",
       "posicao": null
     },
     {

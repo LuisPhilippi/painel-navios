@@ -1,19 +1,6 @@
 {
-  "gerado_em": "2026-08-26T13:52:27.266978",
+  "gerado_em": "2026-08-26T14:41:21.131368",
   "navios": [
-    {
-      "navio": "Diamond Star II",
-      "imo": "9449273",
-      "agencia": "OCEÂNICA",
-      "data_chegada_texto": "18/08/2026 15:30",
-      "data_chegada_iso": "2026-08-18T15:30:00",
-      "manobra": "Mudança de Berço",
-      "data_manobra": "26/08/2026 10:00",
-      "data_manobra_iso": "2026-08-26T10:00:00",
-      "berco": "102 201",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Star Hansa",
       "imo": "9103128",
@@ -24,7 +11,7 @@
       "data_manobra": "26/08/2026 10:15",
       "data_manobra_iso": "2026-08-26T10:15:00",
       "berco": "F5 102",
-      "situacao": "Confirmado",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -102,6 +89,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "101",
+      "situacao": null,
+      "secao": "Navios Atracados"
+    },
+    {
+      "navio": "Diamond Star II",
+      "imo": "9449273",
+      "agencia": "OCEÂNICA",
+      "data_chegada_texto": "18/08/2026 15:30",
+      "data_chegada_iso": "2026-08-18T15:30:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "201",
       "situacao": null,
       "secao": "Navios Atracados"
     },
@@ -223,6 +223,19 @@
       "secao": "Navios Fundeados (Barra)"
     },
     {
+      "navio": "Wieland",
+      "imo": "9654464",
+      "agencia": "ROCHAMAR",
+      "data_chegada_texto": "26/08/2026 11:30",
+      "data_chegada_iso": "2026-08-26T11:30:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Fundeados (Barra)"
+    },
+    {
       "navio": "Beijing 2008",
       "imo": "9442744",
       "agencia": "CARGONAVE",
@@ -288,19 +301,6 @@
       "secao": "Navios Esperados"
     },
     {
-      "navio": "Wieland",
-      "imo": "9654464",
-      "agencia": "ROCHAMAR",
-      "data_chegada_texto": "28/08/2026 04:00",
-      "data_chegada_iso": "2026-08-28T04:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
       "navio": "Mercosul Guarujá",
       "imo": "9539494",
       "agencia": "UNIMAR",
@@ -310,19 +310,6 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Apiradee Naree",
-      "imo": "9613410",
-      "agencia": "ORION",
-      "data_chegada_texto": "28/08/2026 19:00",
-      "data_chegada_iso": "2026-08-28T19:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "SFS",
       "situacao": null,
       "secao": "Navios Esperados"
     },
@@ -423,6 +410,19 @@
       "agencia": "CARGONAVE",
       "data_chegada_texto": "29/08/2026 12:00",
       "data_chegada_iso": "2026-08-29T12:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "SFS",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Apiradee Naree",
+      "imo": "9613410",
+      "agencia": "ORION",
+      "data_chegada_texto": "29/08/2026 14:00",
+      "data_chegada_iso": "2026-08-29T14:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
@@ -613,6 +613,19 @@
       "secao": "Navios Esperados"
     },
     {
+      "navio": "Ever Feat",
+      "imo": "9850898",
+      "agencia": "SEATRADE",
+      "data_chegada_texto": "04/09/2026 10:00",
+      "data_chegada_iso": "2026-09-04T10:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
       "navio": "Nordcheetah",
       "imo": "9673630",
       "agencia": "LACHMANN",
@@ -622,6 +635,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Petit Lancy",
+      "imo": "9999814",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "05/09/2026 09:00",
+      "data_chegada_iso": "2026-09-05T09:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "SFS",
       "situacao": null,
       "secao": "Navios Esperados"
     },
