@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-26T05:31:26.755381",
+  "gerado_em": "2026-08-26T06:41:57.021166",
   "navios": [
     {
       "navio": "Seaspan Empire",
@@ -226,14 +226,14 @@
       "navio": "Babitonga Bay",
       "imo": "9663776",
       "agencia": "WILSON SONS",
-      "data_chegada_texto": "25/08/2026 20:00",
-      "data_chegada_iso": "2026-08-25T20:00:00",
+      "data_chegada_texto": "26/08/2026 03:00",
+      "data_chegada_iso": "2026-08-26T03:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "TESC",
       "situacao": null,
-      "secao": "Navios Esperados"
+      "secao": "Navios Fundeados (Barra)"
     },
     {
       "navio": "Beijing 2008",

@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-26T05:31:20.269197",
+  "gerado_em": "2026-08-26T06:41:50.539822",
   "navios": [
     {
       "navio": "ONE AMAZON",
@@ -26,7 +26,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "26/08/2026",
       "data_hora_iso": "2026-08-26T00:00:00",
-      "calado": "10,30/11,50",
+      "calado": "11,25/11,70",
       "rota": "Bacia 2",
       "berco": "PNAVE 02",
       "posicao": null
