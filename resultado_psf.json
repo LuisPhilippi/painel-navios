@@ -1,32 +1,6 @@
 {
-  "gerado_em": "2026-08-26T11:26:14.223866",
+  "gerado_em": "2026-08-26T12:44:25.055493",
   "navios": [
-    {
-      "navio": "Seaspan Empire",
-      "imo": "9407160",
-      "agencia": "ROCHAMAR",
-      "data_chegada_texto": "23/08/2026 15:20",
-      "data_chegada_iso": "2026-08-23T15:20:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "26/08/2026 07:30",
-      "data_manobra_iso": "2026-08-26T07:30:00",
-      "berco": "BARRA 901",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Maersk Pangani",
-      "imo": "9786097",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "25/08/2026 06:55",
-      "data_chegada_iso": "2026-08-25T06:55:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "26/08/2026 07:30",
-      "data_manobra_iso": "2026-08-26T07:30:00",
-      "berco": "901 BARRA",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Diamond Star II",
       "imo": "9449273",
@@ -91,6 +65,19 @@
       "berco": "BARRA 902",
       "situacao": "A Confirmar",
       "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Seaspan Empire",
+      "imo": "9407160",
+      "agencia": "ROCHAMAR",
+      "data_chegada_texto": "23/08/2026 15:20",
+      "data_chegada_iso": "2026-08-23T15:20:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "901",
+      "situacao": null,
+      "secao": "Navios Atracados"
     },
     {
       "navio": "Nikos N",
