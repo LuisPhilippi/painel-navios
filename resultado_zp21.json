@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-08-26T16:15:12.262100",
+  "gerado_em": "2026-08-26T18:56:56.686988",
   "navios": [
-    {
-      "navio": "CAPE SOUNIO",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "26/08/2026",
-      "data_hora_iso": "2026-08-26T00:00:00",
-      "calado": "10,90 EK",
-      "rota": "Bacia 2",
-      "berco": "JBS 2",
-      "posicao": null
-    },
     {
       "navio": "HYUNDAI DYNASTY",
       "status": "ManobraPrevista",
@@ -42,33 +32,43 @@
       "posicao": null
     },
     {
+      "navio": "CAPE SOUNIO",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "27/08/2026",
+      "data_hora_iso": "2026-08-27T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "COSCO SHIPPING MEXICO",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "27/08/2026",
+      "data_hora_iso": "2026-08-27T00:00:00",
+      "calado": "11,20 MAX",
+      "rota": "",
+      "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
       "navio": "FAITH",
       "status": "ManobraPrevista",
       "data_hora_texto": "27/08/2026",
       "data_hora_iso": "2026-08-27T00:00:00",
-      "calado": "6,15/6,30",
+      "calado": "6,15/6,35",
       "rota": "",
       "berco": "TEPORTI",
       "posicao": null
     },
     {
-      "navio": "MAERSK PANGANI",
+      "navio": "LOG-IN RESILIENTE",
       "status": "ManobraPrevista",
-      "data_hora_texto": "28/08/2026",
-      "data_hora_iso": "2026-08-28T00:00:00",
+      "data_hora_texto": "27/08/2026",
+      "data_hora_iso": "2026-08-27T00:00:00",
       "calado": "TBC",
-      "rota": "Bacia 1",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "AGIOS PORFYRIOS",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "28/08/2026",
-      "data_hora_iso": "2026-08-28T00:00:00",
-      "calado": "3,67/5,11",
       "rota": "",
-      "berco": "BRASKARNE",
+      "berco": "PNAVE",
       "posicao": null
     },
     {
@@ -82,6 +82,16 @@
       "posicao": null
     },
     {
+      "navio": "AGIOS PORFYRIOS",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "28/08/2026",
+      "data_hora_iso": "2026-08-28T00:00:00",
+      "calado": "3,67/5,11",
+      "rota": "",
+      "berco": "BRASKARNE",
+      "posicao": null
+    },
+    {
       "navio": "MSC BARCELONA VI",
       "status": "ManobraPrevista",
       "data_hora_texto": "28/08/2026",
@@ -92,16 +102,6 @@
       "posicao": null
     },
     {
-      "navio": "LOG-IN RESILIENTE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "28/08/2026",
-      "data_hora_iso": "2026-08-28T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE",
-      "posicao": null
-    },
-    {
       "navio": "PALENA",
       "status": "ManobraPrevista",
       "data_hora_texto": "28/08/2026",
@@ -109,6 +109,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "MAERSK PANGANI",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "28/08/2026",
+      "data_hora_iso": "2026-08-28T00:00:00",
+      "calado": "11,82 MAX",
+      "rota": "Bacia 1",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
