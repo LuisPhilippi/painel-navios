@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-25T23:22:42.307803",
+  "gerado_em": "2026-08-26T01:05:34.186377",
   "navios": [
     {
       "navio": "Nikos N",
@@ -34,8 +34,8 @@
       "data_chegada_texto": "23/08/2026 15:20",
       "data_chegada_iso": "2026-08-23T15:20:00",
       "manobra": "Entrada e Atracação",
-      "data_manobra": "26/08/2026 01:15",
-      "data_manobra_iso": "2026-08-26T01:15:00",
+      "data_manobra": "26/08/2026 07:30",
+      "data_manobra_iso": "2026-08-26T07:30:00",
       "berco": "BARRA 901",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
@@ -47,8 +47,8 @@
       "data_chegada_texto": "25/08/2026 06:55",
       "data_chegada_iso": "2026-08-25T06:55:00",
       "manobra": "Desatracação e Saída",
-      "data_manobra": "26/08/2026 01:15",
-      "data_manobra_iso": "2026-08-26T01:15:00",
+      "data_manobra": "26/08/2026 07:30",
+      "data_manobra_iso": "2026-08-26T07:30:00",
       "berco": "901 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
@@ -73,8 +73,8 @@
       "data_chegada_texto": "25/08/2026 12:51",
       "data_chegada_iso": "2026-08-25T12:51:00",
       "manobra": "Suspender e Atracar",
-      "data_manobra": "26/08/2026 11:45",
-      "data_manobra_iso": "2026-08-26T11:45:00",
+      "data_manobra": "26/08/2026 11:15",
+      "data_manobra_iso": "2026-08-26T11:15:00",
       "berco": "F5 102",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
@@ -210,6 +210,19 @@
       "secao": "Navios Fundeados (Barra)"
     },
     {
+      "navio": "RDO Endeavour",
+      "imo": "9302102",
+      "agencia": "UNIMAR",
+      "data_chegada_texto": "25/08/2026 20:54",
+      "data_chegada_iso": "2026-08-25T20:54:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Fundeados (Barra)"
+    },
+    {
       "navio": "Babitonga Bay",
       "imo": "9663776",
       "agencia": "WILSON SONS",
@@ -219,19 +232,6 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "TESC",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "RDO Endeavour",
-      "imo": "9302102",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "25/08/2026 20:30",
-      "data_chegada_iso": "2026-08-25T20:30:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Esperados"
     },
