@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-26T03:01:25.686007",
+  "gerado_em": "2026-08-26T04:36:02.295672",
   "navios": [
     {
       "navio": "Nikos N",
@@ -11,20 +11,7 @@
       "data_manobra": "26/08/2026 00:15",
       "data_manobra_iso": "2026-08-26T00:15:00",
       "berco": "BARRA 101",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Alliance Diva",
-      "imo": "1104152",
-      "agencia": "ALPHAMAR",
-      "data_chegada_texto": "12/08/2026 15:42",
-      "data_chegada_iso": "2026-08-12T15:42:00",
-      "manobra": "Desatracação e Fundeio",
-      "data_manobra": "26/08/2026 00:15",
-      "data_manobra_iso": "2026-08-26T00:15:00",
-      "berco": "101 F3",
-      "situacao": "Confirmado",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -76,6 +63,19 @@
       "data_manobra": "26/08/2026 10:15",
       "data_manobra_iso": "2026-08-26T10:15:00",
       "berco": "F5 102",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Alliance Diva",
+      "imo": "1104152",
+      "agencia": "ALPHAMAR",
+      "data_chegada_texto": "12/08/2026 15:42",
+      "data_chegada_iso": "2026-08-12T15:42:00",
+      "manobra": "Suspender e Sair",
+      "data_manobra": "26/08/2026 11:45",
+      "data_manobra_iso": "2026-08-26T11:45:00",
+      "berco": "F3 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
     },
