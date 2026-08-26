@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-26T09:37:00.584243",
+  "gerado_em": "2026-08-26T10:31:34.465662",
   "navios": [
     {
       "navio": "MAERSK LEON",
@@ -56,7 +56,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "26/08/2026",
       "data_hora_iso": "2026-08-26T00:00:00",
-      "calado": "TBC",
+      "calado": "9,50/11,00",
       "rota": "",
       "berco": "PNAVE 01",
       "posicao": null
