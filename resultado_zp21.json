@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-26T10:31:34.465662",
+  "gerado_em": "2026-08-26T11:26:06.447978",
   "navios": [
     {
       "navio": "MAERSK LEON",
@@ -32,16 +32,6 @@
       "posicao": null
     },
     {
-      "navio": "FAITH",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "26/08/2026",
-      "data_hora_iso": "2026-08-26T00:00:00",
-      "calado": "6,15/6,30",
-      "rota": "",
-      "berco": "TEPORTI",
-      "posicao": null
-    },
-    {
       "navio": "CAPE SOUNIO",
       "status": "ManobraPrevista",
       "data_hora_texto": "26/08/2026",
@@ -49,16 +39,6 @@
       "calado": "10,90 EK",
       "rota": "Bacia 2",
       "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "LOG-IN EVOLUTION",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "26/08/2026",
-      "data_hora_iso": "2026-08-26T00:00:00",
-      "calado": "9,50/11,00",
-      "rota": "",
-      "berco": "PNAVE 01",
       "posicao": null
     },
     {
@@ -72,6 +52,16 @@
       "posicao": null
     },
     {
+      "navio": "LOG-IN EVOLUTION",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "26/08/2026",
+      "data_hora_iso": "2026-08-26T00:00:00",
+      "calado": "9,50/11,00",
+      "rota": "",
+      "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
       "navio": "MSC MARIA LAURA",
       "status": "ManobraPrevista",
       "data_hora_texto": "26/08/2026",
@@ -79,6 +69,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
+      "navio": "FAITH",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "27/08/2026",
+      "data_hora_iso": "2026-08-27T00:00:00",
+      "calado": "6,15/6,30",
+      "rota": "",
+      "berco": "TEPORTI",
       "posicao": null
     },
     {
