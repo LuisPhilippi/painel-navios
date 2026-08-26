@@ -1,26 +1,6 @@
 {
-  "gerado_em": "2026-08-26T18:56:56.686988",
+  "gerado_em": "2026-08-26T21:40:00.758490",
   "navios": [
-    {
-      "navio": "HYUNDAI DYNASTY",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "26/08/2026",
-      "data_hora_iso": "2026-08-26T00:00:00",
-      "calado": "11,25/11,70",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
-      "navio": "LOG-IN EVOLUTION",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "26/08/2026",
-      "data_hora_iso": "2026-08-26T00:00:00",
-      "calado": "9,50/11,00",
-      "rota": "",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "MSC MARIA LAURA",
       "status": "ManobraPrevista",
@@ -36,8 +16,38 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "27/08/2026",
       "data_hora_iso": "2026-08-27T00:00:00",
-      "calado": "TBC",
+      "calado": "9,60/9,80",
       "rota": "",
+      "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "HYUNDAI DYNASTY",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "27/08/2026",
+      "data_hora_iso": "2026-08-27T00:00:00",
+      "calado": "10,40/11,00",
+      "rota": "",
+      "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
+      "navio": "FAITH",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "27/08/2026",
+      "data_hora_iso": "2026-08-27T00:00:00",
+      "calado": "6,15/6,35",
+      "rota": "",
+      "berco": "TEPORTI",
+      "posicao": null
+    },
+    {
+      "navio": "MAERSK PANGANI",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "27/08/2026",
+      "data_hora_iso": "2026-08-27T00:00:00",
+      "calado": "11,82 MAX",
+      "rota": "Bacia 1",
       "berco": "JBS 2",
       "posicao": null
     },
@@ -49,16 +59,6 @@
       "calado": "11,20 MAX",
       "rota": "",
       "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "FAITH",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "27/08/2026",
-      "data_hora_iso": "2026-08-27T00:00:00",
-      "calado": "6,15/6,35",
-      "rota": "",
-      "berco": "TEPORTI",
       "posicao": null
     },
     {
@@ -109,16 +109,6 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
-      "posicao": null
-    },
-    {
-      "navio": "MAERSK PANGANI",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "28/08/2026",
-      "data_hora_iso": "2026-08-28T00:00:00",
-      "calado": "11,82 MAX",
-      "rota": "Bacia 1",
-      "berco": "JBS 2",
       "posicao": null
     },
     {
