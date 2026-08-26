@@ -1,26 +1,6 @@
 {
-  "gerado_em": "2026-08-26T14:41:14.679835",
+  "gerado_em": "2026-08-26T16:15:12.262100",
   "navios": [
-    {
-      "navio": "ONE AMAZON",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "26/08/2026",
-      "data_hora_iso": "2026-08-26T00:00:00",
-      "calado": "11,10/11,30",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
-      "navio": "BALSA Z MAX XX + C TORMENTA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "26/08/2026",
-      "data_hora_iso": "2026-08-26T00:00:00",
-      "calado": "3,00 EK",
-      "rota": "",
-      "berco": "SEATRIUM",
-      "posicao": null
-    },
     {
       "navio": "CAPE SOUNIO",
       "status": "ManobraPrevista",
