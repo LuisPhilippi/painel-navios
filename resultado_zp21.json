@@ -1,64 +1,14 @@
 {
-  "gerado_em": "2026-08-27T13:43:04.876898",
+  "gerado_em": "2026-08-27T23:33:02.446408",
   "navios": [
-    {
-      "navio": "FAITH",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "27/08/2026",
-      "data_hora_iso": "2026-08-27T00:00:00",
-      "calado": "6,15/6,35",
-      "rota": "",
-      "berco": "TEPORTI",
-      "posicao": null
-    },
-    {
-      "navio": "MSC MARIA LAURA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "27/08/2026",
-      "data_hora_iso": "2026-08-27T00:00:00",
-      "calado": "11,00/11,90",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "MAERSK PANGANI",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "27/08/2026",
-      "data_hora_iso": "2026-08-27T00:00:00",
-      "calado": "11,80 EK",
-      "rota": "",
-      "berco": "JBS 1",
-      "posicao": null
-    },
-    {
-      "navio": "COSCO SHIPPING MEXICO",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "27/08/2026",
-      "data_hora_iso": "2026-08-27T00:00:00",
-      "calado": "11,20 EK",
-      "rota": "",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
     {
       "navio": "LOG-IN RESILIENTE",
       "status": "ManobraPrevista",
-      "data_hora_texto": "27/08/2026",
-      "data_hora_iso": "2026-08-27T00:00:00",
-      "calado": "9,50/9,80",
-      "rota": "Bacia 1",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "NC BRUMA",
-      "status": "ManobraPrevista",
       "data_hora_texto": "28/08/2026",
       "data_hora_iso": "2026-08-28T00:00:00",
-      "calado": "11,00/11,40",
+      "calado": "TBC",
       "rota": "Bacia 1",
-      "berco": "JBS 4",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
@@ -72,23 +22,43 @@
       "posicao": null
     },
     {
-      "navio": "MSC BARCELONA VI",
+      "navio": "NC BRUMA",
       "status": "ManobraPrevista",
       "data_hora_texto": "28/08/2026",
       "data_hora_iso": "2026-08-28T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS",
+      "calado": "11,00/11,40",
+      "rota": "Bacia 1",
+      "berco": "JBS 4",
       "posicao": null
     },
     {
-      "navio": "PALENA",
+      "navio": "MAERSK PANGANI",
       "status": "ManobraPrevista",
       "data_hora_texto": "28/08/2026",
       "data_hora_iso": "2026-08-28T00:00:00",
+      "calado": "12,00 EK",
+      "rota": "Bacia 1",
+      "berco": "JBS 1",
+      "posicao": null
+    },
+    {
+      "navio": "COSCO SHIPPING MEXICO",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "29/08/2026",
+      "data_hora_iso": "2026-08-29T00:00:00",
+      "calado": "11,00 EK",
+      "rota": "Bacia 2",
+      "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
+      "navio": "MSC BARCELONA VI",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "29/08/2026",
+      "data_hora_iso": "2026-08-29T00:00:00",
       "calado": "TBC",
       "rota": "",
-      "berco": "JBS",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -142,6 +112,16 @@
       "posicao": null
     },
     {
+      "navio": "CMA CGM LEGACY",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "31/08/2026",
+      "data_hora_iso": "2026-08-31T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
       "navio": "NC BREDA",
       "status": "ManobraPrevista",
       "data_hora_texto": "31/08/2026",
@@ -159,6 +139,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "PALENA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "01/09/2026",
+      "data_hora_iso": "2026-09-01T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
       "posicao": null
     },
     {
