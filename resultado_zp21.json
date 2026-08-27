@@ -1,36 +1,6 @@
 {
-  "gerado_em": "2026-08-27T02:52:18.986810",
+  "gerado_em": "2026-08-27T13:43:04.876898",
   "navios": [
-    {
-      "navio": "HYUNDAI DYNASTY",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "27/08/2026",
-      "data_hora_iso": "2026-08-27T00:00:00",
-      "calado": "10,40/11,00",
-      "rota": "",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
-      "navio": "CAPE SOUNIO",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "27/08/2026",
-      "data_hora_iso": "2026-08-27T00:00:00",
-      "calado": "9,60/9,80",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "MSC MARIA LAURA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "27/08/2026",
-      "data_hora_iso": "2026-08-27T00:00:00",
-      "calado": "11,00/11,80",
-      "rota": "Bacia 1",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "FAITH",
       "status": "ManobraPrevista",
@@ -39,6 +9,16 @@
       "calado": "6,15/6,35",
       "rota": "",
       "berco": "TEPORTI",
+      "posicao": null
+    },
+    {
+      "navio": "MSC MARIA LAURA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "27/08/2026",
+      "data_hora_iso": "2026-08-27T00:00:00",
+      "calado": "11,00/11,90",
+      "rota": "Bacia 2",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {

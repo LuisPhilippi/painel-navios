@@ -1,70 +1,18 @@
 {
-  "gerado_em": "2026-08-27T02:52:25.071694",
+  "gerado_em": "2026-08-27T13:43:11.171485",
   "navios": [
-    {
-      "navio": "RDO Endeavour",
-      "imo": "9302102",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "25/08/2026 20:54",
-      "data_chegada_iso": "2026-08-25T20:54:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "27/08/2026 01:00",
-      "data_manobra_iso": "2026-08-27T01:00:00",
-      "berco": "BARRA 901",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Seaspan Empire",
-      "imo": "9407160",
-      "agencia": "ROCHAMAR",
-      "data_chegada_texto": "23/08/2026 15:20",
-      "data_chegada_iso": "2026-08-23T15:20:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "27/08/2026 01:00",
-      "data_manobra_iso": "2026-08-27T01:00:00",
-      "berco": "901 BARRA",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Tokyo Queen",
-      "imo": "9841287",
-      "agencia": "LITORAL",
-      "data_chegada_texto": "20/08/2026 08:18",
-      "data_chegada_iso": "2026-08-20T08:18:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "27/08/2026 12:30",
-      "data_manobra_iso": "2026-08-27T12:30:00",
-      "berco": "BARRA 101",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Nikos N",
-      "imo": "9412646",
-      "agencia": "LITORAL",
-      "data_chegada_texto": "20/08/2026 06:21",
-      "data_chegada_iso": "2026-08-20T06:21:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "27/08/2026 12:30",
-      "data_manobra_iso": "2026-08-27T12:30:00",
-      "berco": "101 BARRA",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Maersk Ganges",
       "imo": "9694581",
       "agencia": "LACHMANN",
-      "data_chegada_texto": "27/08/2026 07:00",
-      "data_chegada_iso": "2026-08-27T07:00:00",
+      "data_chegada_texto": "27/08/2026 02:24",
+      "data_chegada_iso": "2026-08-27T02:24:00",
       "manobra": "Entrada e Atracação",
       "data_manobra": "27/08/2026 13:00",
       "data_manobra_iso": "2026-08-27T13:00:00",
       "berco": "BARRA 902",
       "situacao": "A Confirmar",
-      "secao": "Navios Esperados"
+      "secao": "Movimentações"
     },
     {
       "navio": "Maersk Lanco",
@@ -78,6 +26,32 @@
       "berco": "902 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
+    },
+    {
+      "navio": "RDO Endeavour",
+      "imo": "9302102",
+      "agencia": "UNIMAR",
+      "data_chegada_texto": "25/08/2026 20:54",
+      "data_chegada_iso": "2026-08-25T20:54:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "901",
+      "situacao": null,
+      "secao": "Navios Atracados"
+    },
+    {
+      "navio": "Nikos N",
+      "imo": "9412646",
+      "agencia": "LITORAL",
+      "data_chegada_texto": "20/08/2026 06:21",
+      "data_chegada_iso": "2026-08-20T06:21:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "101",
+      "situacao": null,
+      "secao": "Navios Atracados"
     },
     {
       "navio": "Star Hansa",
@@ -158,6 +132,19 @@
       "secao": "Navios Fundeados (Internos)"
     },
     {
+      "navio": "Tokyo Queen",
+      "imo": "9841287",
+      "agencia": "LITORAL",
+      "data_chegada_texto": "20/08/2026 08:18",
+      "data_chegada_iso": "2026-08-20T08:18:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": null,
+      "situacao": null,
+      "secao": "Navios Fundeados (Barra)"
+    },
+    {
       "navio": "Lefkes",
       "imo": "9658783",
       "agencia": "ZPORT AGENCIA",
@@ -226,14 +213,14 @@
       "navio": "Beijing 2008",
       "imo": "9442744",
       "agencia": "CARGONAVE",
-      "data_chegada_texto": "27/08/2026 04:00",
-      "data_chegada_iso": "2026-08-27T04:00:00",
+      "data_chegada_texto": "27/08/2026 02:55",
+      "data_chegada_iso": "2026-08-27T02:55:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "TESC",
       "situacao": null,
-      "secao": "Navios Esperados"
+      "secao": "Navios Fundeados (Barra)"
     },
     {
       "navio": "San Francisca",
