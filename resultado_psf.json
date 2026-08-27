@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-26T21:40:07.195836",
+  "gerado_em": "2026-08-27T02:52:25.071694",
   "navios": [
     {
       "navio": "RDO Endeavour",
@@ -8,10 +8,10 @@
       "data_chegada_texto": "25/08/2026 20:54",
       "data_chegada_iso": "2026-08-25T20:54:00",
       "manobra": "Entrada e Atracação",
-      "data_manobra": "27/08/2026 00:00",
-      "data_manobra_iso": "2026-08-27T00:00:00",
+      "data_manobra": "27/08/2026 01:00",
+      "data_manobra_iso": "2026-08-27T01:00:00",
       "berco": "BARRA 901",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -21,10 +21,10 @@
       "data_chegada_texto": "23/08/2026 15:20",
       "data_chegada_iso": "2026-08-23T15:20:00",
       "manobra": "Desatracação e Saída",
-      "data_manobra": "27/08/2026 00:00",
-      "data_manobra_iso": "2026-08-27T00:00:00",
+      "data_manobra": "27/08/2026 01:00",
+      "data_manobra_iso": "2026-08-27T01:00:00",
       "berco": "901 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {

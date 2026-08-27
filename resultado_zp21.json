@@ -1,14 +1,14 @@
 {
-  "gerado_em": "2026-08-26T21:40:00.758490",
+  "gerado_em": "2026-08-27T02:52:18.986810",
   "navios": [
     {
-      "navio": "MSC MARIA LAURA",
+      "navio": "HYUNDAI DYNASTY",
       "status": "ManobraPrevista",
-      "data_hora_texto": "26/08/2026",
-      "data_hora_iso": "2026-08-26T00:00:00",
-      "calado": "10,50/11,70",
+      "data_hora_texto": "27/08/2026",
+      "data_hora_iso": "2026-08-27T00:00:00",
+      "calado": "10,40/11,00",
       "rota": "",
-      "berco": "PNAVE 01",
+      "berco": "PNAVE 02",
       "posicao": null
     },
     {
@@ -22,13 +22,13 @@
       "posicao": null
     },
     {
-      "navio": "HYUNDAI DYNASTY",
+      "navio": "MSC MARIA LAURA",
       "status": "ManobraPrevista",
       "data_hora_texto": "27/08/2026",
       "data_hora_iso": "2026-08-27T00:00:00",
-      "calado": "10,40/11,00",
-      "rota": "",
-      "berco": "PNAVE 02",
+      "calado": "11,00/11,80",
+      "rota": "Bacia 1",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
@@ -46,9 +46,9 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "27/08/2026",
       "data_hora_iso": "2026-08-27T00:00:00",
-      "calado": "11,82 MAX",
-      "rota": "Bacia 1",
-      "berco": "JBS 2",
+      "calado": "11,80 EK",
+      "rota": "",
+      "berco": "JBS 1",
       "posicao": null
     },
     {
@@ -56,9 +56,9 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "27/08/2026",
       "data_hora_iso": "2026-08-27T00:00:00",
-      "calado": "11,20 MAX",
+      "calado": "11,20 EK",
       "rota": "",
-      "berco": "PNAVE 01",
+      "berco": "PNAVE 02",
       "posicao": null
     },
     {
@@ -66,9 +66,9 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "27/08/2026",
       "data_hora_iso": "2026-08-27T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE",
+      "calado": "9,50/9,80",
+      "rota": "Bacia 1",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
