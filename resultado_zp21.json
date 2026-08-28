@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-08-27T23:33:02.446408",
+  "gerado_em": "2026-08-28T08:54:36.617857",
   "navios": [
-    {
-      "navio": "LOG-IN RESILIENTE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "28/08/2026",
-      "data_hora_iso": "2026-08-28T00:00:00",
-      "calado": "TBC",
-      "rota": "Bacia 1",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "AGIOS PORFYRIOS",
       "status": "ManobraPrevista",
@@ -19,6 +9,16 @@
       "calado": "3,67/5,11",
       "rota": "",
       "berco": "BRASKARNE",
+      "posicao": null
+    },
+    {
+      "navio": "LOG-IN RESILIENTE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "28/08/2026",
+      "data_hora_iso": "2026-08-28T00:00:00",
+      "calado": "7,80/8,80",
+      "rota": "Bacia 1",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
