@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-29T19:09:27.610902",
+  "gerado_em": "2026-08-29T22:17:52.094884",
   "navios": [
     {
       "navio": "MSC AINO",
@@ -22,16 +22,6 @@
       "posicao": null
     },
     {
-      "navio": "INDUSTRIAL SONG",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "30/08/2026",
-      "data_hora_iso": "2026-08-30T00:00:00",
-      "calado": "5,00/6,60",
-      "rota": "",
-      "berco": "BARRA DO RIO",
-      "posicao": null
-    },
-    {
       "navio": "MSC BARCELONA VI",
       "status": "ManobraPrevista",
       "data_hora_texto": "30/08/2026",
@@ -42,22 +32,12 @@
       "posicao": null
     },
     {
-      "navio": "GREEN PARK",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "31/08/2026",
-      "data_hora_iso": "2026-08-31T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
       "navio": "MSC ATHENS",
       "status": "ManobraPrevista",
       "data_hora_texto": "31/08/2026",
       "data_hora_iso": "2026-08-31T00:00:00",
       "calado": "TBC",
-      "rota": "",
+      "rota": "Bacia 2",
       "berco": "PNAVE 02",
       "posicao": null
     },
@@ -72,6 +52,26 @@
       "posicao": null
     },
     {
+      "navio": "INDUSTRIAL SONG",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "31/08/2026",
+      "data_hora_iso": "2026-08-31T00:00:00",
+      "calado": "5,00/6,60",
+      "rota": "",
+      "berco": "BARRA DO RIO",
+      "posicao": null
+    },
+    {
+      "navio": "XIN CHONG QING",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "31/08/2026",
+      "data_hora_iso": "2026-08-31T00:00:00",
+      "calado": "9,80 EK",
+      "rota": "",
+      "berco": "JBS 4",
+      "posicao": null
+    },
+    {
       "navio": "MSC MICHELA",
       "status": "ManobraPrevista",
       "data_hora_texto": "31/08/2026",
@@ -79,6 +79,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "GREEN PARK",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "01/09/2026",
+      "data_hora_iso": "2026-09-01T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
       "posicao": null
     },
     {
