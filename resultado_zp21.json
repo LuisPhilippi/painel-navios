@@ -1,12 +1,12 @@
 {
-  "gerado_em": "2026-08-29T03:04:11.312993",
+  "gerado_em": "2026-08-29T10:44:32.133775",
   "navios": [
     {
       "navio": "COSCO SHIPPING MEXICO",
       "status": "ManobraPrevista",
       "data_hora_texto": "29/08/2026",
       "data_hora_iso": "2026-08-29T00:00:00",
-      "calado": "11,00 EK",
+      "calado": "10,80/10,90",
       "rota": "Bacia 2",
       "berco": "PNAVE 02",
       "posicao": null
