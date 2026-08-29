@@ -1,19 +1,6 @@
 {
-  "gerado_em": "2026-08-28T20:41:08.850677",
+  "gerado_em": "2026-08-29T03:04:20.516000",
   "navios": [
-    {
-      "navio": "Mercosul Guarujá",
-      "imo": "9539494",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "28/08/2026 03:35",
-      "data_chegada_iso": "2026-08-28T03:35:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "28/08/2026 16:30",
-      "data_manobra_iso": "2026-08-28T16:30:00",
-      "berco": "BARRA 902",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Babitonga Bay",
       "imo": "9663776",
@@ -50,6 +37,19 @@
       "data_manobra": "29/08/2026 02:30",
       "data_manobra_iso": "2026-08-29T02:30:00",
       "berco": "901 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Mercosul Guarujá",
+      "imo": "9539494",
+      "agencia": "UNIMAR",
+      "data_chegada_texto": "28/08/2026 03:35",
+      "data_chegada_iso": "2026-08-28T03:35:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "29/08/2026 09:00",
+      "data_manobra_iso": "2026-08-29T09:00:00",
+      "berco": "902 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
     },
