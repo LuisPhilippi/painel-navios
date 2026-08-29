@@ -1,22 +1,12 @@
 {
-  "gerado_em": "2026-08-29T10:44:32.133775",
+  "gerado_em": "2026-08-29T15:27:22.582862",
   "navios": [
-    {
-      "navio": "COSCO SHIPPING MEXICO",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "29/08/2026",
-      "data_hora_iso": "2026-08-29T00:00:00",
-      "calado": "10,80/10,90",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
     {
       "navio": "MSC BARCELONA VI",
       "status": "ManobraPrevista",
       "data_hora_texto": "29/08/2026",
       "data_hora_iso": "2026-08-29T00:00:00",
-      "calado": "11,50 EK",
+      "calado": "10,70/11,00",
       "rota": "Bacia 1",
       "berco": "JBS 2",
       "posicao": null
@@ -52,16 +42,6 @@
       "posicao": null
     },
     {
-      "navio": "MSC ATHENS",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "30/08/2026",
-      "data_hora_iso": "2026-08-30T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
       "navio": "GREEN PARK",
       "status": "ManobraPrevista",
       "data_hora_texto": "31/08/2026",
@@ -69,6 +49,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "MSC ATHENS",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "31/08/2026",
+      "data_hora_iso": "2026-08-31T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE 02",
       "posicao": null
     },
     {

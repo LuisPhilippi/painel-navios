@@ -1,32 +1,6 @@
 {
-  "gerado_em": "2026-08-29T10:44:38.676130",
+  "gerado_em": "2026-08-29T15:27:29.409063",
   "navios": [
-    {
-      "navio": "Mercosul Guarujá",
-      "imo": "9539494",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "28/08/2026 03:35",
-      "data_chegada_iso": "2026-08-28T03:35:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "29/08/2026 09:00",
-      "data_manobra_iso": "2026-08-29T09:00:00",
-      "berco": "902 BARRA",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "San Francisca",
-      "imo": "9698654",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "29/08/2026 06:00",
-      "data_chegada_iso": "2026-08-29T06:00:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "29/08/2026 14:15",
-      "data_manobra_iso": "2026-08-29T14:15:00",
-      "berco": "BARRA 902",
-      "situacao": "A Confirmar",
-      "secao": "Navios Esperados"
-    },
     {
       "navio": "Nikos N",
       "imo": "9412646",
@@ -41,17 +15,17 @@
       "secao": "Movimentações"
     },
     {
-      "navio": "Maersk Venezia",
-      "imo": "9344681",
+      "navio": "San Francisca",
+      "imo": "9698654",
       "agencia": "LACHMANN",
-      "data_chegada_texto": "27/08/2026 22:00",
-      "data_chegada_iso": "2026-08-27T22:00:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "29/08/2026 22:00",
-      "data_manobra_iso": "2026-08-29T22:00:00",
-      "berco": "901 BARRA",
+      "data_chegada_texto": "29/08/2026 06:00",
+      "data_chegada_iso": "2026-08-29T06:00:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "29/08/2026 19:15",
+      "data_manobra_iso": "2026-08-29T19:15:00",
+      "berco": "BARRA 902",
       "situacao": "A Confirmar",
-      "secao": "Movimentações"
+      "secao": "Navios Esperados"
     },
     {
       "navio": "Apiradee Naree",
@@ -80,17 +54,43 @@
       "secao": "Movimentações"
     },
     {
+      "navio": "Chambertin",
+      "imo": "1026609",
+      "agencia": "CARGONAVE",
+      "data_chegada_texto": "24/08/2026 13:00",
+      "data_chegada_iso": "2026-08-24T13:00:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "30/08/2026 02:30",
+      "data_manobra_iso": "2026-08-30T02:30:00",
+      "berco": "BARRA 101",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Maersk Venezia",
+      "imo": "9344681",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "27/08/2026 22:00",
+      "data_chegada_iso": "2026-08-27T22:00:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "30/08/2026 02:30",
+      "data_manobra_iso": "2026-08-30T02:30:00",
+      "berco": "901 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
       "navio": "Tokyo Queen",
       "imo": "9841287",
       "agencia": "LITORAL",
       "data_chegada_texto": "20/08/2026 08:18",
       "data_chegada_iso": "2026-08-20T08:18:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "101",
-      "situacao": null,
-      "secao": "Navios Atracados"
+      "manobra": "Desatracação e Fundeio",
+      "data_manobra": "30/08/2026 02:30",
+      "data_manobra_iso": "2026-08-30T02:30:00",
+      "berco": "101 F5",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
     },
     {
       "navio": "Um Imabari",
@@ -163,19 +163,6 @@
       "agencia": "ZPORT AGENCIA",
       "data_chegada_texto": "24/08/2026 12:06",
       "data_chegada_iso": "2026-08-24T12:06:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "SFS",
-      "situacao": null,
-      "secao": "Navios Fundeados (Barra)"
-    },
-    {
-      "navio": "Chambertin",
-      "imo": "1026609",
-      "agencia": "CARGONAVE",
-      "data_chegada_texto": "24/08/2026 13:00",
-      "data_chegada_iso": "2026-08-24T13:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
