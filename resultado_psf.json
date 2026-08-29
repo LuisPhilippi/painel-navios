@@ -1,19 +1,6 @@
 {
-  "gerado_em": "2026-08-29T15:27:29.409063",
+  "gerado_em": "2026-08-29T19:09:33.925261",
   "navios": [
-    {
-      "navio": "Nikos N",
-      "imo": "9412646",
-      "agencia": "LITORAL",
-      "data_chegada_texto": "20/08/2026 06:21",
-      "data_chegada_iso": "2026-08-20T06:21:00",
-      "manobra": "Suspender e Sair",
-      "data_manobra": "29/08/2026 14:15",
-      "data_manobra_iso": "2026-08-29T14:15:00",
-      "berco": "F3 BARRA",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
     {
       "navio": "San Francisca",
       "imo": "9698654",
