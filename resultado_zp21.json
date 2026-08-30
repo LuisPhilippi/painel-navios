@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-08-30T20:30:19.357240",
+  "gerado_em": "2026-08-30T23:07:56.532653",
   "navios": [
-    {
-      "navio": "MSC AINO",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "30/08/2026",
-      "data_hora_iso": "2026-08-30T00:00:00",
-      "calado": "12,00/12,10",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
     {
       "navio": "YM CREDIBILITY",
       "status": "ManobraPrevista",
@@ -27,18 +17,8 @@
       "data_hora_texto": "31/08/2026",
       "data_hora_iso": "2026-08-31T00:00:00",
       "calado": "9,40/10,20",
-      "rota": "Bacia 2",
+      "rota": "Bacia 1",
       "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
-      "navio": "CMA CGM LEGACY",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "31/08/2026",
-      "data_hora_iso": "2026-08-31T00:00:00",
-      "calado": "11,75/11,80",
-      "rota": "",
-      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -49,6 +29,16 @@
       "calado": "5,40/6,60",
       "rota": "",
       "berco": "BARRA DO RIO",
+      "posicao": null
+    },
+    {
+      "navio": "CMA CGM LEGACY",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "31/08/2026",
+      "data_hora_iso": "2026-08-31T00:00:00",
+      "calado": "11,75/11,80",
+      "rota": "",
+      "berco": "JBS 2",
       "posicao": null
     },
     {

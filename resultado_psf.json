@@ -1,32 +1,6 @@
 {
-  "gerado_em": "2026-08-30T20:30:26.949712",
+  "gerado_em": "2026-08-30T23:08:03.239369",
   "navios": [
-    {
-      "navio": "San Lorenzo Maersk",
-      "imo": "9622227",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "30/08/2026 15:32",
-      "data_chegada_iso": "2026-08-30T15:32:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "30/08/2026 15:30",
-      "data_manobra_iso": "2026-08-30T15:30:00",
-      "berco": "BARRA 902",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "CMA CGM Lisa Marie",
-      "imo": "9729099",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "30/08/2026 09:44",
-      "data_chegada_iso": "2026-08-30T09:44:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "30/08/2026 15:45",
-      "data_manobra_iso": "2026-08-30T15:45:00",
-      "berco": "BARRA 901",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Chambertin",
       "imo": "1026609",
@@ -80,6 +54,58 @@
       "secao": "Movimentações"
     },
     {
+      "navio": "San Lorenzo Maersk",
+      "imo": "9622227",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "30/08/2026 15:32",
+      "data_chegada_iso": "2026-08-30T15:32:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "31/08/2026 13:30",
+      "data_manobra_iso": "2026-08-31T13:30:00",
+      "berco": "902 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "CMA CGM Silver",
+      "imo": "9996769",
+      "agencia": "UNIMAR",
+      "data_chegada_texto": "31/08/2026 08:00",
+      "data_chegada_iso": "2026-08-31T08:00:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "31/08/2026 15:00",
+      "data_manobra_iso": "2026-08-31T15:00:00",
+      "berco": "BARRA 902",
+      "situacao": "A Confirmar",
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Sofia",
+      "imo": "9302750",
+      "agencia": "ZPORT AGENCIA",
+      "data_chegada_texto": "16/08/2026 12:36",
+      "data_chegada_iso": "2026-08-16T12:36:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "31/08/2026 15:30",
+      "data_manobra_iso": "2026-08-31T15:30:00",
+      "berco": "301 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "CMA CGM Lisa Marie",
+      "imo": "9729099",
+      "agencia": "UNIMAR",
+      "data_chegada_texto": "30/08/2026 09:44",
+      "data_chegada_iso": "2026-08-30T09:44:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "901",
+      "situacao": null,
+      "secao": "Navios Atracados"
+    },
+    {
       "navio": "Um Imabari",
       "imo": "9969015",
       "agencia": "SEATRADE",
@@ -89,19 +115,6 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "102",
-      "situacao": null,
-      "secao": "Navios Atracados"
-    },
-    {
-      "navio": "Sofia",
-      "imo": "9302750",
-      "agencia": "ZPORT AGENCIA",
-      "data_chegada_texto": "16/08/2026 12:36",
-      "data_chegada_iso": "2026-08-16T12:36:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "301",
       "situacao": null,
       "secao": "Navios Atracados"
     },
@@ -284,19 +297,6 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "CMA CGM Silver",
-      "imo": "9996769",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "31/08/2026 08:00",
-      "data_chegada_iso": "2026-08-31T08:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": null,
       "situacao": null,
       "secao": "Navios Esperados"
     },
