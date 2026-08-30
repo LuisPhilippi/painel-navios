@@ -1,24 +1,24 @@
 {
-  "gerado_em": "2026-08-30T12:34:53.434632",
+  "gerado_em": "2026-08-30T17:11:32.821613",
   "navios": [
-    {
-      "navio": "MSC AINO",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "30/08/2026",
-      "data_hora_iso": "2026-08-30T00:00:00",
-      "calado": "11,95/12,05",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
     {
       "navio": "MSC BARCELONA VI",
       "status": "ManobraPrevista",
       "data_hora_texto": "30/08/2026",
       "data_hora_iso": "2026-08-30T00:00:00",
-      "calado": "12,40 MAX",
+      "calado": "12,40 EK",
       "rota": "",
       "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "MSC AINO",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "30/08/2026",
+      "data_hora_iso": "2026-08-30T00:00:00",
+      "calado": "12,00/12,10",
+      "rota": "Bacia 2",
+      "berco": "PNAVE 02",
       "posicao": null
     },
     {
@@ -36,7 +36,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "31/08/2026",
       "data_hora_iso": "2026-08-31T00:00:00",
-      "calado": "TBC",
+      "calado": "9,40/10,20",
       "rota": "Bacia 2",
       "berco": "PNAVE 02",
       "posicao": null
@@ -46,7 +46,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "31/08/2026",
       "data_hora_iso": "2026-08-31T00:00:00",
-      "calado": "TBC",
+      "calado": "11,75/11,80",
       "rota": "",
       "berco": "JBS 2",
       "posicao": null
@@ -116,7 +116,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "01/09/2026",
       "data_hora_iso": "2026-09-01T00:00:00",
-      "calado": "TBC",
+      "calado": "11,10/11,40",
       "rota": "",
       "berco": "JBS",
       "posicao": null
