@@ -1,19 +1,6 @@
 {
-  "gerado_em": "2026-08-29T22:17:58.985186",
+  "gerado_em": "2026-08-30T01:00:54.185566",
   "navios": [
-    {
-      "navio": "San Francisca",
-      "imo": "9698654",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "29/08/2026 19:12",
-      "data_chegada_iso": "2026-08-29T19:12:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "29/08/2026 19:15",
-      "data_manobra_iso": "2026-08-29T19:15:00",
-      "berco": "BARRA 902",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Maersk Venezia",
       "imo": "9344681",
@@ -65,6 +52,19 @@
       "berco": "BARRA F4 (P1)",
       "situacao": "A Confirmar",
       "secao": "Navios Esperados"
+    },
+    {
+      "navio": "San Francisca",
+      "imo": "9698654",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "29/08/2026 19:12",
+      "data_chegada_iso": "2026-08-29T19:12:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "30/08/2026 13:30",
+      "data_manobra_iso": "2026-08-30T13:30:00",
+      "berco": "902 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
     },
     {
       "navio": "San Lorenzo Maersk",

@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-29T22:17:52.094884",
+  "gerado_em": "2026-08-30T01:00:46.651225",
   "navios": [
     {
       "navio": "MSC AINO",
@@ -17,7 +17,7 @@
       "data_hora_texto": "30/08/2026",
       "data_hora_iso": "2026-08-30T00:00:00",
       "calado": "9,28/10,60",
-      "rota": "Bacia 1",
+      "rota": "",
       "berco": "PNAVE 01",
       "posicao": null
     },
