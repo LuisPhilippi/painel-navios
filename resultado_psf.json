@@ -1,57 +1,18 @@
 {
-  "gerado_em": "2026-08-30T06:30:10.933646",
+  "gerado_em": "2026-08-30T12:34:59.573452",
   "navios": [
-    {
-      "navio": "Maersk Venezia",
-      "imo": "9344681",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "27/08/2026 22:00",
-      "data_chegada_iso": "2026-08-27T22:00:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "30/08/2026 02:30",
-      "data_manobra_iso": "2026-08-30T02:30:00",
-      "berco": "901 BARRA",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Apiradee Naree",
-      "imo": "9613410",
-      "agencia": "ORION",
-      "data_chegada_texto": "29/08/2026 16:00",
-      "data_chegada_iso": "2026-08-29T16:00:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "30/08/2026 09:00",
-      "data_manobra_iso": "2026-08-30T09:00:00",
-      "berco": "BARRA 201",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Diamond Star II",
-      "imo": "9449273",
-      "agencia": "OCEÂNICA",
-      "data_chegada_texto": "18/08/2026 15:30",
-      "data_chegada_iso": "2026-08-18T15:30:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "30/08/2026 09:00",
-      "data_manobra_iso": "2026-08-30T09:00:00",
-      "berco": "201 BARRA",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Barcaça N09",
       "imo": "9326005",
       "agencia": "WILSON SONS",
-      "data_chegada_texto": "29/08/2026 22:00",
-      "data_chegada_iso": "2026-08-29T22:00:00",
+      "data_chegada_texto": "30/08/2026 09:00",
+      "data_chegada_iso": "2026-08-30T09:00:00",
       "manobra": "Entrada e Fundeio",
-      "data_manobra": "30/08/2026 09:15",
-      "data_manobra_iso": "2026-08-30T09:15:00",
+      "data_manobra": "30/08/2026 09:00",
+      "data_manobra_iso": "2026-08-30T09:00:00",
       "berco": "BARRA F4 (P1)",
-      "situacao": "A Confirmar",
-      "secao": "Navios Esperados"
+      "situacao": "Em Andamento",
+      "secao": "Movimentações"
     },
     {
       "navio": "San Francisca",
@@ -106,14 +67,40 @@
       "secao": "Movimentações"
     },
     {
+      "navio": "Apiradee Naree",
+      "imo": "9613410",
+      "agencia": "ORION",
+      "data_chegada_texto": "29/08/2026 16:00",
+      "data_chegada_iso": "2026-08-29T16:00:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "30/08/2026 21:00",
+      "data_manobra_iso": "2026-08-30T21:00:00",
+      "berco": "BARRA 201",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Diamond Star II",
+      "imo": "9449273",
+      "agencia": "OCEÂNICA",
+      "data_chegada_texto": "18/08/2026 15:30",
+      "data_chegada_iso": "2026-08-18T15:30:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "30/08/2026 21:00",
+      "data_manobra_iso": "2026-08-30T21:00:00",
+      "berco": "201 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
       "navio": "Sofia",
       "imo": "9302750",
       "agencia": "ZPORT AGENCIA",
       "data_chegada_texto": "16/08/2026 12:36",
       "data_chegada_iso": "2026-08-16T12:36:00",
       "manobra": "Desatracação e Saída",
-      "data_manobra": "30/08/2026 21:00",
-      "data_manobra_iso": "2026-08-30T21:00:00",
+      "data_manobra": "30/08/2026 21:30",
+      "data_manobra_iso": "2026-08-30T21:30:00",
       "berco": "301 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"

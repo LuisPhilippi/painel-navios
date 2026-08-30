@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-08-30T06:30:00.594142",
+  "gerado_em": "2026-08-30T12:34:53.434632",
   "navios": [
-    {
-      "navio": "YM CREDIBILITY",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "30/08/2026",
-      "data_hora_iso": "2026-08-30T00:00:00",
-      "calado": "9,28/10,60",
-      "rota": "",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "MSC AINO",
       "status": "ManobraPrevista",
@@ -29,6 +19,16 @@
       "calado": "12,40 MAX",
       "rota": "",
       "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "YM CREDIBILITY",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "31/08/2026",
+      "data_hora_iso": "2026-08-31T00:00:00",
+      "calado": "TBC",
+      "rota": "Bacia 1",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
