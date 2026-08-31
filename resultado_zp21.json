@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-08-31T03:25:18.434133",
+  "gerado_em": "2026-08-31T10:28:14.937354",
   "navios": [
-    {
-      "navio": "YM CREDIBILITY",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "31/08/2026",
-      "data_hora_iso": "2026-08-31T00:00:00",
-      "calado": "7,70/9,90",
-      "rota": "Bacia 1",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "MSC ATHENS",
       "status": "ManobraPrevista",
@@ -36,7 +26,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "31/08/2026",
       "data_hora_iso": "2026-08-31T00:00:00",
-      "calado": "11,75/11,80",
+      "calado": "11,90 EK",
       "rota": "",
       "berco": "JBS 2",
       "posicao": null
