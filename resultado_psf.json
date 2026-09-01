@@ -1,32 +1,6 @@
 {
-  "gerado_em": "2026-09-01T20:30:06.319788",
+  "gerado_em": "2026-09-01T22:59:16.879701",
   "navios": [
-    {
-      "navio": "Chambertin",
-      "imo": "1026609",
-      "agencia": "CARGONAVE",
-      "data_chegada_texto": "24/08/2026 13:00",
-      "data_chegada_iso": "2026-08-24T13:00:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "01/09/2026 16:15",
-      "data_manobra_iso": "2026-09-01T16:15:00",
-      "berco": "BARRA 101",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Tokyo Queen",
-      "imo": "9841287",
-      "agencia": "LITORAL",
-      "data_chegada_texto": "20/08/2026 08:18",
-      "data_chegada_iso": "2026-08-20T08:18:00",
-      "manobra": "Desatracação e Fundeio",
-      "data_manobra": "01/09/2026 16:15",
-      "data_manobra_iso": "2026-09-01T16:15:00",
-      "berco": "101 F3",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "MSC Michela",
       "imo": "9720512",
@@ -132,6 +106,32 @@
       "secao": "Movimentações"
     },
     {
+      "navio": "Tokyo Queen",
+      "imo": "9841287",
+      "agencia": "LITORAL",
+      "data_chegada_texto": "20/08/2026 08:18",
+      "data_chegada_iso": "2026-08-20T08:18:00",
+      "manobra": "Suspender e Sair",
+      "data_manobra": "02/09/2026 16:45",
+      "data_manobra_iso": "2026-09-02T16:45:00",
+      "berco": "F3 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Chambertin",
+      "imo": "1026609",
+      "agencia": "CARGONAVE",
+      "data_chegada_texto": "24/08/2026 13:00",
+      "data_chegada_iso": "2026-08-24T13:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "101",
+      "situacao": null,
+      "secao": "Navios Atracados"
+    },
+    {
       "navio": "Um Imabari",
       "imo": "9969015",
       "agencia": "SEATRADE",
@@ -231,7 +231,7 @@
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
-      "berco": null,
+      "berco": "SFS",
       "situacao": null,
       "secao": "Navios Fundeados (Barra)"
     },
@@ -273,19 +273,6 @@
       "berco": "TESC",
       "situacao": null,
       "secao": "Navios Fundeados (Barra)"
-    },
-    {
-      "navio": "WL Palekh",
-      "imo": "9674397",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "01/09/2026 17:00",
-      "data_chegada_iso": "2026-09-01T17:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "TESC",
-      "situacao": null,
-      "secao": "Navios Esperados"
     },
     {
       "navio": "Bartolomeu Dias",
@@ -483,6 +470,19 @@
       "secao": "Navios Esperados"
     },
     {
+      "navio": "WL Palekh",
+      "imo": "9674397",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "05/09/2026 12:00",
+      "data_chegada_iso": "2026-09-05T12:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "TESC",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
       "navio": "Maersk San Lazaro",
       "imo": "9717216",
       "agencia": "LACHMANN",
@@ -530,7 +530,7 @@
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
-      "berco": "101",
+      "berco": "SFS",
       "situacao": null,
       "secao": "Navios Esperados"
     },
