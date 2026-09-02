@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-01T22:59:16.879701",
+  "gerado_em": "2026-09-02T00:56:22.379062",
   "navios": [
     {
       "navio": "MSC Michela",
@@ -80,19 +80,6 @@
       "secao": "Movimentações"
     },
     {
-      "navio": "Barcaça N10",
-      "imo": "9326017",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "19/08/2026 14:58",
-      "data_chegada_iso": "2026-08-19T14:58:00",
-      "manobra": "Suspender e Sair",
-      "data_manobra": "02/09/2026 13:00",
-      "data_manobra_iso": "2026-09-02T13:00:00",
-      "berco": "F1 BARRA",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
       "navio": "Sofia",
       "imo": "9302750",
       "agencia": "ZPORT AGENCIA",
@@ -102,6 +89,19 @@
       "data_manobra": "02/09/2026 16:00",
       "data_manobra_iso": "2026-09-02T16:00:00",
       "berco": "301 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Barcaça N10",
+      "imo": "9326017",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "19/08/2026 14:58",
+      "data_chegada_iso": "2026-08-19T14:58:00",
+      "manobra": "Suspender e Sair",
+      "data_manobra": "02/09/2026 16:30",
+      "data_manobra_iso": "2026-09-02T16:30:00",
+      "berco": "F1 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
     },
