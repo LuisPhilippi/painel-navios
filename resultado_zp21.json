@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-02T21:34:05.154782",
+  "gerado_em": "2026-09-02T23:50:09.972691",
   "navios": [
     {
       "navio": "CMA CGM LEGACY",
@@ -182,16 +182,6 @@
       "posicao": null
     },
     {
-      "navio": "INDUSTRIAL SONG",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "07/09/2026",
-      "data_hora_iso": "2026-09-07T00:00:00",
-      "calado": "5,40/6,60",
-      "rota": "",
-      "berco": "BARRA DO RIO",
-      "posicao": null
-    },
-    {
       "navio": "SANTA CATARINA EXPRESS",
       "status": "ManobraPrevista",
       "data_hora_texto": "07/09/2026",
@@ -199,6 +189,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "INDUSTRIAL SONG",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "07/09/2026",
+      "data_hora_iso": "2026-09-07T00:00:00",
+      "calado": "5,40/6,60",
+      "rota": "",
+      "berco": "BARRA DO RIO",
       "posicao": null
     },
     {
@@ -249,6 +249,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "ORANGE FROST",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "21/09/2026",
+      "data_hora_iso": "2026-09-21T00:00:00",
+      "calado": "1,45/4,70",
+      "rota": "",
+      "berco": "BRASKARNE",
       "posicao": null
     },
     {

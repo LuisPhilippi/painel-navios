@@ -1,32 +1,6 @@
 {
-  "gerado_em": "2026-09-02T21:34:11.634281",
+  "gerado_em": "2026-09-02T23:50:16.167046",
   "navios": [
-    {
-      "navio": "Dusseldorf Express",
-      "imo": "9143556",
-      "agencia": "ROCHAMAR",
-      "data_chegada_texto": "02/09/2026 10:00",
-      "data_chegada_iso": "2026-09-02T10:00:00",
-      "manobra": "Suspender e Atracar",
-      "data_manobra": "02/09/2026 16:30",
-      "data_manobra_iso": "2026-09-02T16:30:00",
-      "berco": "F5 901",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Sofia",
-      "imo": "9302750",
-      "agencia": "ZPORT AGENCIA",
-      "data_chegada_texto": "16/08/2026 12:36",
-      "data_chegada_iso": "2026-08-16T12:36:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "02/09/2026 17:00",
-      "data_manobra_iso": "2026-09-02T17:00:00",
-      "berco": "301 BARRA",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Maersk Laguna",
       "imo": "9526942",
@@ -37,7 +11,7 @@
       "data_manobra": "02/09/2026 21:45",
       "data_manobra_iso": "2026-09-02T21:45:00",
       "berco": "BARRA 902",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -50,7 +24,7 @@
       "data_manobra": "02/09/2026 21:45",
       "data_manobra_iso": "2026-09-02T21:45:00",
       "berco": "902 F5",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -63,6 +37,19 @@
       "data_manobra": "03/09/2026 10:00",
       "data_manobra_iso": "2026-09-03T10:00:00",
       "berco": "BARRA 901",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Dusseldorf Express",
+      "imo": "9143556",
+      "agencia": "ROCHAMAR",
+      "data_chegada_texto": "02/09/2026 10:00",
+      "data_chegada_iso": "2026-09-02T10:00:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "03/09/2026 10:00",
+      "data_manobra_iso": "2026-09-03T10:00:00",
+      "berco": "901 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
     },
