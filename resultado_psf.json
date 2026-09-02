@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-02T05:27:40.419159",
+  "gerado_em": "2026-09-02T10:34:13.295462",
   "navios": [
     {
       "navio": "MSC Michela",
@@ -11,20 +11,7 @@
       "data_manobra": "02/09/2026 06:00",
       "data_manobra_iso": "2026-09-02T06:00:00",
       "berco": "BARRA 902",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "CMA CGM Silver",
-      "imo": "9996769",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "31/08/2026 07:13",
-      "data_chegada_iso": "2026-08-31T07:13:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "02/09/2026 06:00",
-      "data_manobra_iso": "2026-09-02T06:00:00",
-      "berco": "902 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -37,6 +24,32 @@
       "data_manobra": "02/09/2026 06:00",
       "data_manobra_iso": "2026-09-02T06:00:00",
       "berco": "302 BARRA",
+      "situacao": "Em Andamento",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Dusseldorf Express",
+      "imo": "9143556",
+      "agencia": "ROCHAMAR",
+      "data_chegada_texto": "02/09/2026 09:00",
+      "data_chegada_iso": "2026-09-02T09:00:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "02/09/2026 10:00",
+      "data_manobra_iso": "2026-09-02T10:00:00",
+      "berco": "BARRA 901",
+      "situacao": "A Confirmar",
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Maersk Rubicon",
+      "imo": "9632480",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "31/08/2026 11:30",
+      "data_chegada_iso": "2026-08-31T11:30:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "02/09/2026 10:00",
+      "data_manobra_iso": "2026-09-02T10:00:00",
+      "berco": "901 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
     },
@@ -50,32 +63,6 @@
       "data_manobra": "02/09/2026 10:00",
       "data_manobra_iso": "2026-09-02T10:00:00",
       "berco": "F4 (P1) 302",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Dusseldorf Express",
-      "imo": "9143556",
-      "agencia": "ROCHAMAR",
-      "data_chegada_texto": "02/09/2026 09:00",
-      "data_chegada_iso": "2026-09-02T09:00:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "02/09/2026 10:30",
-      "data_manobra_iso": "2026-09-02T10:30:00",
-      "berco": "BARRA 901",
-      "situacao": "A Confirmar",
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Maersk Rubicon",
-      "imo": "9632480",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "31/08/2026 11:30",
-      "data_chegada_iso": "2026-08-31T11:30:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "02/09/2026 10:30",
-      "data_manobra_iso": "2026-09-02T10:30:00",
-      "berco": "901 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
     },
