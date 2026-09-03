@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-02T23:50:16.167046",
+  "gerado_em": "2026-09-03T02:48:39.950016",
   "navios": [
     {
       "navio": "Maersk Laguna",
@@ -11,7 +11,7 @@
       "data_manobra": "02/09/2026 21:45",
       "data_manobra_iso": "2026-09-02T21:45:00",
       "berco": "BARRA 902",
-      "situacao": "Confirmado",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -24,7 +24,7 @@
       "data_manobra": "02/09/2026 21:45",
       "data_manobra_iso": "2026-09-02T21:45:00",
       "berco": "902 F5",
-      "situacao": "Confirmado",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
