@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-03T02:48:33.744365",
+  "gerado_em": "2026-09-03T07:44:23.308577",
   "navios": [
     {
       "navio": "CMA CGM LEGACY",
@@ -76,7 +76,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "04/09/2026",
       "data_hora_iso": "2026-09-04T00:00:00",
-      "calado": "TBC",
+      "calado": "10,90 EK",
       "rota": "",
       "berco": "PNAVE",
       "posicao": null
