@@ -1,70 +1,18 @@
 {
-  "gerado_em": "2026-09-03T12:34:04.849960",
+  "gerado_em": "2026-09-03T19:37:39.998386",
   "navios": [
-    {
-      "navio": "Bartolomeu Dias",
-      "imo": "9625384",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "02/09/2026 01:12",
-      "data_chegada_iso": "2026-09-02T01:12:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "03/09/2026 10:30",
-      "data_manobra_iso": "2026-09-03T10:30:00",
-      "berco": "BARRA 901",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Dusseldorf Express",
-      "imo": "9143556",
-      "agencia": "ROCHAMAR",
-      "data_chegada_texto": "02/09/2026 10:00",
-      "data_chegada_iso": "2026-09-02T10:00:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "03/09/2026 10:30",
-      "data_manobra_iso": "2026-09-03T10:30:00",
-      "berco": "901 BARRA",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "BW Osaka",
-      "imo": "9836567",
-      "agencia": "LITORAL",
-      "data_chegada_texto": "28/08/2026 02:23",
-      "data_chegada_iso": "2026-08-28T02:23:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "03/09/2026 12:00",
-      "data_manobra_iso": "2026-09-03T12:00:00",
-      "berco": "BARRA 101",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Chambertin",
-      "imo": "1026609",
-      "agencia": "CARGONAVE",
-      "data_chegada_texto": "24/08/2026 13:00",
-      "data_chegada_iso": "2026-08-24T13:00:00",
-      "manobra": "Desatracação e Fundeio",
-      "data_manobra": "03/09/2026 12:00",
-      "data_manobra_iso": "2026-09-03T12:00:00",
-      "berco": "101 F3",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Zim Usa",
       "imo": "9945473",
       "agencia": "ZIM DO BRASIL",
-      "data_chegada_texto": "03/09/2026 07:00",
-      "data_chegada_iso": "2026-09-03T07:00:00",
+      "data_chegada_texto": "03/09/2026 11:33",
+      "data_chegada_iso": "2026-09-03T11:33:00",
       "manobra": "Entrada e Atracação",
       "data_manobra": "03/09/2026 16:00",
       "data_manobra_iso": "2026-09-03T16:00:00",
       "berco": "BARRA 902",
-      "situacao": "A Confirmar",
-      "secao": "Navios Esperados"
+      "situacao": "Em Andamento",
+      "secao": "Movimentações"
     },
     {
       "navio": "Maersk Laguna",
@@ -76,8 +24,34 @@
       "data_manobra": "03/09/2026 16:00",
       "data_manobra_iso": "2026-09-03T16:00:00",
       "berco": "902 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
+    },
+    {
+      "navio": "Bartolomeu Dias",
+      "imo": "9625384",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "02/09/2026 01:12",
+      "data_chegada_iso": "2026-09-02T01:12:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "901",
+      "situacao": null,
+      "secao": "Navios Atracados"
+    },
+    {
+      "navio": "BW Osaka",
+      "imo": "9836567",
+      "agencia": "LITORAL",
+      "data_chegada_texto": "28/08/2026 02:23",
+      "data_chegada_iso": "2026-08-28T02:23:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "101",
+      "situacao": null,
+      "secao": "Navios Atracados"
     },
     {
       "navio": "Um Imabari",
@@ -128,6 +102,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "FUND",
+      "situacao": null,
+      "secao": "Navios Fundeados (Internos)"
+    },
+    {
+      "navio": "Chambertin",
+      "imo": "1026609",
+      "agencia": "CARGONAVE",
+      "data_chegada_texto": "24/08/2026 13:00",
+      "data_chegada_iso": "2026-08-24T13:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "F3",
       "situacao": null,
       "secao": "Navios Fundeados (Internos)"
     },
