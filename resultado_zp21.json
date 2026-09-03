@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-03T07:44:23.308577",
+  "gerado_em": "2026-09-03T12:33:57.284812",
   "navios": [
     {
       "navio": "CMA CGM LEGACY",
@@ -36,7 +36,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "03/09/2026",
       "data_hora_iso": "2026-09-03T00:00:00",
-      "calado": "3,65/5,10",
+      "calado": "4,15/4,48",
       "rota": "",
       "berco": "BRASKARNE",
       "posicao": null
@@ -52,43 +52,33 @@
       "posicao": null
     },
     {
-      "navio": "NC BREDA",
+      "navio": "ACONCAGUA BAY",
       "status": "ManobraPrevista",
       "data_hora_texto": "04/09/2026",
       "data_hora_iso": "2026-09-04T00:00:00",
-      "calado": "9,70/10,10",
+      "calado": "2,35/6,85",
       "rota": "",
-      "berco": "JBS",
+      "berco": "BRASKARNE",
       "posicao": null
     },
     {
-      "navio": "PALENA",
+      "navio": "CMA CGM SILVER",
       "status": "ManobraPrevista",
       "data_hora_texto": "04/09/2026",
       "data_hora_iso": "2026-09-04T00:00:00",
-      "calado": "11,10/11,40",
-      "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
-      "navio": "CAPE SOUNIO",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "04/09/2026",
-      "data_hora_iso": "2026-09-04T00:00:00",
-      "calado": "10,90 EK",
+      "calado": "10,10/10,30",
       "rota": "",
       "berco": "PNAVE",
       "posicao": null
     },
     {
-      "navio": "ACONCAGUA BAY",
+      "navio": "CAPE SOUNIO",
       "status": "ManobraPrevista",
       "data_hora_texto": "05/09/2026",
       "data_hora_iso": "2026-09-05T00:00:00",
-      "calado": "2,35/6,85",
+      "calado": "TBC",
       "rota": "",
-      "berco": "BRASKARNE",
+      "berco": "PNAVE",
       "posicao": null
     },
     {
@@ -97,6 +87,26 @@
       "data_hora_texto": "05/09/2026",
       "data_hora_iso": "2026-09-05T00:00:00",
       "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "MELINA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "05/09/2026",
+      "data_hora_iso": "2026-09-05T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "NC BREDA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "05/09/2026",
+      "data_hora_iso": "2026-09-05T00:00:00",
+      "calado": "9,70/10,10",
       "rota": "",
       "berco": "JBS",
       "posicao": null
@@ -162,16 +172,6 @@
       "posicao": null
     },
     {
-      "navio": "CMA CGM SILVER",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "06/09/2026",
-      "data_hora_iso": "2026-09-06T00:00:00",
-      "calado": "10,10/10,30",
-      "rota": "",
-      "berco": "PNAVE",
-      "posicao": null
-    },
-    {
       "navio": "CMA CGM XIAMEN",
       "status": "ManobraPrevista",
       "data_hora_texto": "06/09/2026",
@@ -186,7 +186,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "07/09/2026",
       "data_hora_iso": "2026-09-07T00:00:00",
-      "calado": "TBC",
+      "calado": "11,20/11,60",
       "rota": "",
       "berco": "PNAVE",
       "posicao": null
@@ -229,6 +229,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "DALIAN EXPRESS",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "10/09/2026",
+      "data_hora_iso": "2026-09-10T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
       "posicao": null
     },
     {

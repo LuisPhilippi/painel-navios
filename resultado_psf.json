@@ -1,19 +1,6 @@
 {
-  "gerado_em": "2026-09-03T07:44:29.515492",
+  "gerado_em": "2026-09-03T12:34:04.849960",
   "navios": [
-    {
-      "navio": "MSC Michela",
-      "imo": "9720512",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "01/09/2026 11:45",
-      "data_chegada_iso": "2026-09-01T11:45:00",
-      "manobra": "Suspender e Sair",
-      "data_manobra": "03/09/2026 06:30",
-      "data_manobra_iso": "2026-09-03T06:30:00",
-      "berco": "F5 BARRA",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Bartolomeu Dias",
       "imo": "9625384",
@@ -21,10 +8,10 @@
       "data_chegada_texto": "02/09/2026 01:12",
       "data_chegada_iso": "2026-09-02T01:12:00",
       "manobra": "Entrada e Atracação",
-      "data_manobra": "03/09/2026 10:00",
-      "data_manobra_iso": "2026-09-03T10:00:00",
+      "data_manobra": "03/09/2026 10:30",
+      "data_manobra_iso": "2026-09-03T10:30:00",
       "berco": "BARRA 901",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -34,10 +21,10 @@
       "data_chegada_texto": "02/09/2026 10:00",
       "data_chegada_iso": "2026-09-02T10:00:00",
       "manobra": "Desatracação e Saída",
-      "data_manobra": "03/09/2026 10:00",
-      "data_manobra_iso": "2026-09-03T10:00:00",
+      "data_manobra": "03/09/2026 10:30",
+      "data_manobra_iso": "2026-09-03T10:30:00",
       "berco": "901 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -739,6 +726,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "TESC",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Sakizaya Future",
+      "imo": "9713818",
+      "agencia": "LITORAL",
+      "data_chegada_texto": "14/09/2026 10:00",
+      "data_chegada_iso": "2026-09-14T10:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "SFS",
       "situacao": null,
       "secao": "Navios Esperados"
     },
