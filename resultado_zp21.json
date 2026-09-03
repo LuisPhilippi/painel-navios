@@ -1,22 +1,12 @@
 {
-  "gerado_em": "2026-09-03T19:37:32.277726",
+  "gerado_em": "2026-09-03T22:14:40.857990",
   "navios": [
-    {
-      "navio": "XIN CHONG QING",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "03/09/2026",
-      "data_hora_iso": "2026-09-03T00:00:00",
-      "calado": "9,80 EK",
-      "rota": "",
-      "berco": "JBS 4",
-      "posicao": null
-    },
     {
       "navio": "LOG-IN JACARANDA",
       "status": "ManobraPrevista",
-      "data_hora_texto": "03/09/2026",
-      "data_hora_iso": "2026-09-03T00:00:00",
-      "calado": "9,20/9,80",
+      "data_hora_texto": "04/09/2026",
+      "data_hora_iso": "2026-09-04T00:00:00",
+      "calado": "TBC",
       "rota": "",
       "berco": "PNAVE 01",
       "posicao": null
@@ -37,28 +27,18 @@
       "data_hora_texto": "04/09/2026",
       "data_hora_iso": "2026-09-04T00:00:00",
       "calado": "10,10/10,30",
-      "rota": "Bacia 2",
+      "rota": "",
       "berco": "PNAVE 02",
       "posicao": null
     },
     {
-      "navio": "CMA CGM LEGACY",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "04/09/2026",
-      "data_hora_iso": "2026-09-04T00:00:00",
-      "calado": "11,75 MAX",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "MAERSK RUBICON",
+      "navio": "XIN CHONG QING",
       "status": "ManobraPrevista",
       "data_hora_texto": "04/09/2026",
       "data_hora_iso": "2026-09-04T00:00:00",
       "calado": "TBC",
       "rota": "",
-      "berco": "JBS",
+      "berco": "JBS 4",
       "posicao": null
     },
     {
@@ -72,13 +52,23 @@
       "posicao": null
     },
     {
-      "navio": "SANTA CATARINA EXPRESS",
+      "navio": "MAERSK RUBICON",
       "status": "ManobraPrevista",
       "data_hora_texto": "05/09/2026",
       "data_hora_iso": "2026-09-05T00:00:00",
-      "calado": "11,50/11,80",
+      "calado": "TBC",
       "rota": "",
-      "berco": "PNAVE",
+      "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "CMA CGM LEGACY",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "05/09/2026",
+      "data_hora_iso": "2026-09-05T00:00:00",
+      "calado": "11,75 MAX",
+      "rota": "",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -87,6 +77,16 @@
       "data_hora_texto": "05/09/2026",
       "data_hora_iso": "2026-09-05T00:00:00",
       "calado": "10,90 EK",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "SANTA CATARINA EXPRESS",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "05/09/2026",
+      "data_hora_iso": "2026-09-05T00:00:00",
+      "calado": "11,50/11,80",
       "rota": "",
       "berco": "PNAVE",
       "posicao": null
