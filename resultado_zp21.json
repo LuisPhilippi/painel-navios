@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-09-04T18:03:24.135765",
+  "gerado_em": "2026-09-04T21:12:54.023818",
   "navios": [
-    {
-      "navio": "MERCOSUL SUAPE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "04/09/2026",
-      "data_hora_iso": "2026-09-04T00:00:00",
-      "calado": "9,30/10,70",
-      "rota": "",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "XIN CHONG QING",
       "status": "ManobraPrevista",
@@ -22,11 +12,11 @@
       "posicao": null
     },
     {
-      "navio": "NC BREDA",
+      "navio": "GREEN PARK",
       "status": "ManobraPrevista",
       "data_hora_texto": "05/09/2026",
       "data_hora_iso": "2026-09-05T00:00:00",
-      "calado": "9,70/10,10",
+      "calado": "10,50/10,70",
       "rota": "",
       "berco": "JBS 4",
       "posicao": null
@@ -42,6 +32,16 @@
       "posicao": null
     },
     {
+      "navio": "NC BREDA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "05/09/2026",
+      "data_hora_iso": "2026-09-05T00:00:00",
+      "calado": "9,70/10,10",
+      "rota": "Bacia 1",
+      "berco": "JBS 2",
+      "posicao": null
+    },
+    {
       "navio": "CMA CGM SILVER",
       "status": "ManobraPrevista",
       "data_hora_texto": "05/09/2026",
@@ -52,63 +52,23 @@
       "posicao": null
     },
     {
-      "navio": "CAPE SOUNIO",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "05/09/2026",
-      "data_hora_iso": "2026-09-05T00:00:00",
-      "calado": "10,90 EK",
-      "rota": "",
-      "berco": "PNAVE",
-      "posicao": null
-    },
-    {
       "navio": "SANTA CATARINA EXPRESS",
       "status": "ManobraPrevista",
       "data_hora_texto": "05/09/2026",
       "data_hora_iso": "2026-09-05T00:00:00",
       "calado": "11,50/11,80",
       "rota": "",
-      "berco": "PNAVE",
+      "berco": "PNAVE 02",
       "posicao": null
     },
     {
-      "navio": "MSC MAXINE",
+      "navio": "MERCOSUL SUAPE",
       "status": "ManobraPrevista",
       "data_hora_texto": "05/09/2026",
       "data_hora_iso": "2026-09-05T00:00:00",
-      "calado": "TBC",
+      "calado": "9,30/10,70",
       "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
-      "navio": "ONE CONTINUITY",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "05/09/2026",
-      "data_hora_iso": "2026-09-05T00:00:00",
-      "calado": "11,80 EK",
-      "rota": "",
-      "berco": "PNAVE",
-      "posicao": null
-    },
-    {
-      "navio": "MSC MICHELA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "05/09/2026",
-      "data_hora_iso": "2026-09-05T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE",
-      "posicao": null
-    },
-    {
-      "navio": "GREEN PARK",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "06/09/2026",
-      "data_hora_iso": "2026-09-06T00:00:00",
-      "calado": "10,50/10,70",
-      "rota": "",
-      "berco": "JBS",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
@@ -117,16 +77,6 @@
       "data_hora_texto": "06/09/2026",
       "data_hora_iso": "2026-09-06T00:00:00",
       "calado": "10,20/10,90",
-      "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
-      "navio": "MSC RAYSHMI",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "06/09/2026",
-      "data_hora_iso": "2026-09-06T00:00:00",
-      "calado": "TBC",
       "rota": "",
       "berco": "JBS",
       "posicao": null
@@ -142,6 +92,16 @@
       "posicao": null
     },
     {
+      "navio": "ONE CONTINUITY",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "06/09/2026",
+      "data_hora_iso": "2026-09-06T00:00:00",
+      "calado": "11,80 EK",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
       "navio": "CMA CGM XIAMEN",
       "status": "ManobraPrevista",
       "data_hora_texto": "06/09/2026",
@@ -152,13 +112,13 @@
       "posicao": null
     },
     {
-      "navio": "ACONCAGUA BAY",
+      "navio": "CAPE SOUNIO",
       "status": "ManobraPrevista",
       "data_hora_texto": "07/09/2026",
       "data_hora_iso": "2026-09-07T00:00:00",
-      "calado": "6,70/7,23",
+      "calado": "10,90 EK",
       "rota": "",
-      "berco": "BRASKARNE",
+      "berco": "PNAVE",
       "posicao": null
     },
     {
@@ -169,6 +129,16 @@
       "calado": "5,40/6,60",
       "rota": "",
       "berco": "BARRA DO RIO",
+      "posicao": null
+    },
+    {
+      "navio": "ACONCAGUA BAY",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "07/09/2026",
+      "data_hora_iso": "2026-09-07T00:00:00",
+      "calado": "6,70/7,23",
+      "rota": "",
+      "berco": "BRASKARNE",
       "posicao": null
     },
     {
@@ -222,6 +192,26 @@
       "posicao": null
     },
     {
+      "navio": "MSC RAYSHMI",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "09/09/2026",
+      "data_hora_iso": "2026-09-09T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "MSC MAXINE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "09/09/2026",
+      "data_hora_iso": "2026-09-09T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
       "navio": "DALIAN EXPRESS",
       "status": "ManobraPrevista",
       "data_hora_texto": "10/09/2026",
@@ -249,6 +239,16 @@
       "calado": "5,70/6,20",
       "rota": "",
       "berco": "BARRA DO RIO",
+      "posicao": null
+    },
+    {
+      "navio": "MSC MICHELA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "13/09/2026",
+      "data_hora_iso": "2026-09-13T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
       "posicao": null
     },
     {
