@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-04T00:43:43.251193",
+  "gerado_em": "2026-09-04T05:27:14.586382",
   "navios": [
     {
       "navio": "Um Imabari",
@@ -8,10 +8,10 @@
       "data_chegada_texto": "24/08/2026 16:36",
       "data_chegada_iso": "2026-08-24T16:36:00",
       "manobra": "Desatracação e Saída",
-      "data_manobra": "04/09/2026 00:30",
-      "data_manobra_iso": "2026-09-04T00:30:00",
+      "data_manobra": "04/09/2026 01:15",
+      "data_manobra_iso": "2026-09-04T01:15:00",
       "berco": "102 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -249,6 +249,19 @@
       "secao": "Navios Fundeados (Barra)"
     },
     {
+      "navio": "Nordcheetah",
+      "imo": "9673630",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "04/09/2026 01:16",
+      "data_chegada_iso": "2026-09-04T01:16:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Fundeados (Barra)"
+    },
+    {
       "navio": "Capetan Vassilis II",
       "imo": "9580118",
       "agencia": "CARGONAVE",
@@ -306,19 +319,6 @@
       "agencia": "SEATRADE",
       "data_chegada_texto": "04/09/2026 10:00",
       "data_chegada_iso": "2026-09-04T10:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Nordcheetah",
-      "imo": "9673630",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "04/09/2026 15:00",
-      "data_chegada_iso": "2026-09-04T15:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,

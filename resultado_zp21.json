@@ -1,12 +1,12 @@
 {
-  "gerado_em": "2026-09-04T00:43:36.781387",
+  "gerado_em": "2026-09-04T05:27:06.803954",
   "navios": [
     {
       "navio": "LOG-IN JACARANDA",
       "status": "ManobraPrevista",
       "data_hora_texto": "04/09/2026",
       "data_hora_iso": "2026-09-04T00:00:00",
-      "calado": "TBC",
+      "calado": "10,70/11,30",
       "rota": "",
       "berco": "PNAVE 01",
       "posicao": null
@@ -52,21 +52,21 @@
       "posicao": null
     },
     {
-      "navio": "MAERSK RUBICON",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "05/09/2026",
-      "data_hora_iso": "2026-09-05T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
       "navio": "CMA CGM LEGACY",
       "status": "ManobraPrevista",
       "data_hora_texto": "05/09/2026",
       "data_hora_iso": "2026-09-05T00:00:00",
       "calado": "11,75 MAX",
+      "rota": "",
+      "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "MAERSK RUBICON",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "05/09/2026",
+      "data_hora_iso": "2026-09-05T00:00:00",
+      "calado": "11,70 MAX",
       "rota": "",
       "berco": "JBS 2",
       "posicao": null
