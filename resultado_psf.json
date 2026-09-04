@@ -1,32 +1,6 @@
 {
-  "gerado_em": "2026-09-04T21:13:00.361169",
+  "gerado_em": "2026-09-04T23:41:33.408954",
   "navios": [
-    {
-      "navio": "Zim Usa",
-      "imo": "9945473",
-      "agencia": "ZIM DO BRASIL",
-      "data_chegada_texto": "03/09/2026 11:33",
-      "data_chegada_iso": "2026-09-03T11:33:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "04/09/2026 16:30",
-      "data_manobra_iso": "2026-09-04T16:30:00",
-      "berco": "902 BARRA",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Maersk Freeport",
-      "imo": "9991202",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "04/09/2026 16:42",
-      "data_chegada_iso": "2026-09-04T16:42:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "04/09/2026 16:45",
-      "data_manobra_iso": "2026-09-04T16:45:00",
-      "berco": "BARRA 902",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Apiradee Naree",
       "imo": "9613410",
@@ -63,6 +37,19 @@
       "data_manobra": "05/09/2026 13:00",
       "data_manobra_iso": "2026-09-05T13:00:00",
       "berco": "BARRA 902",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Maersk Freeport",
+      "imo": "9991202",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "04/09/2026 16:42",
+      "data_chegada_iso": "2026-09-04T16:42:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "05/09/2026 13:00",
+      "data_manobra_iso": "2026-09-05T13:00:00",
+      "berco": "902 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
     },

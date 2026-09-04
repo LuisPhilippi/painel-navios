@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-04T21:12:54.023818",
+  "gerado_em": "2026-09-04T23:41:26.972771",
   "navios": [
     {
       "navio": "XIN CHONG QING",
@@ -67,7 +67,17 @@
       "data_hora_texto": "05/09/2026",
       "data_hora_iso": "2026-09-05T00:00:00",
       "calado": "9,30/10,70",
-      "rota": "",
+      "rota": "Bacia 1",
+      "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
+      "navio": "LOG-IN RESILIENTE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "06/09/2026",
+      "data_hora_iso": "2026-09-06T00:00:00",
+      "calado": "TBC",
+      "rota": "Bacia 1",
       "berco": "PNAVE 01",
       "posicao": null
     },
@@ -79,16 +89,6 @@
       "calado": "10,20/10,90",
       "rota": "",
       "berco": "JBS",
-      "posicao": null
-    },
-    {
-      "navio": "MSC ADELE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "06/09/2026",
-      "data_hora_iso": "2026-09-06T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE",
       "posicao": null
     },
     {
@@ -109,6 +109,16 @@
       "calado": "8,10/9,00",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "MELINA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "06/09/2026",
+      "data_hora_iso": "2026-09-06T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
       "posicao": null
     },
     {
@@ -142,6 +152,16 @@
       "posicao": null
     },
     {
+      "navio": "MSC ADELE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "08/09/2026",
+      "data_hora_iso": "2026-09-08T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
       "navio": "MSC BIANCA",
       "status": "ManobraPrevista",
       "data_hora_texto": "08/09/2026",
@@ -149,16 +169,6 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
-      "posicao": null
-    },
-    {
-      "navio": "MELINA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "08/09/2026",
-      "data_hora_iso": "2026-09-08T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE",
       "posicao": null
     },
     {
