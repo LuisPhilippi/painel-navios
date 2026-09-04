@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-04T14:45:40.696115",
+  "gerado_em": "2026-09-04T18:03:30.436757",
   "navios": [
     {
       "navio": "CMA CGM Yukon",
@@ -11,20 +11,7 @@
       "data_manobra": "04/09/2026 13:00",
       "data_manobra_iso": "2026-09-04T13:00:00",
       "berco": "BARRA 901",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Bartolomeu Dias",
-      "imo": "9625384",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "02/09/2026 01:12",
-      "data_chegada_iso": "2026-09-02T01:12:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "04/09/2026 13:00",
-      "data_manobra_iso": "2026-09-04T13:00:00",
-      "berco": "901 BARRA",
-      "situacao": "Confirmado",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -327,19 +314,6 @@
       "secao": "Navios Esperados"
     },
     {
-      "navio": "MSC Rayshmi",
-      "imo": "9785457",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "05/09/2026 16:00",
-      "data_chegada_iso": "2026-09-05T16:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
       "navio": "Sebastião Caboto",
       "imo": "9602875",
       "agencia": "LACHMANN",
@@ -384,6 +358,19 @@
       "agencia": "WILSON SONS",
       "data_chegada_texto": "06/09/2026 09:00",
       "data_chegada_iso": "2026-09-06T09:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "MSC Yamuna VI",
+      "imo": "9288409",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "06/09/2026 10:00",
+      "data_chegada_iso": "2026-09-06T10:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,

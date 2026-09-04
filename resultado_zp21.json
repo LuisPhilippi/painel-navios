@@ -1,13 +1,23 @@
 {
-  "gerado_em": "2026-09-04T14:45:34.560658",
+  "gerado_em": "2026-09-04T18:03:24.135765",
   "navios": [
     {
-      "navio": "XIN CHONG QING",
+      "navio": "MERCOSUL SUAPE",
       "status": "ManobraPrevista",
       "data_hora_texto": "04/09/2026",
       "data_hora_iso": "2026-09-04T00:00:00",
-      "calado": "9,00/10,80",
+      "calado": "9,30/10,70",
       "rota": "",
+      "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
+      "navio": "XIN CHONG QING",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "05/09/2026",
+      "data_hora_iso": "2026-09-05T00:00:00",
+      "calado": "9,00/10,80",
+      "rota": "Bacia 2",
       "berco": "JBS 4",
       "posicao": null
     },
@@ -22,16 +32,6 @@
       "posicao": null
     },
     {
-      "navio": "MERCOSUL SUAPE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "05/09/2026",
-      "data_hora_iso": "2026-09-05T00:00:00",
-      "calado": "9,30/10,70",
-      "rota": "",
-      "berco": "PNAVE",
-      "posicao": null
-    },
-    {
       "navio": "CMA CGM LEGACY",
       "status": "ManobraPrevista",
       "data_hora_texto": "05/09/2026",
@@ -42,21 +42,11 @@
       "posicao": null
     },
     {
-      "navio": "MAERSK RUBICON",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "05/09/2026",
-      "data_hora_iso": "2026-09-05T00:00:00",
-      "calado": "11,32 EK",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
       "navio": "CMA CGM SILVER",
       "status": "ManobraPrevista",
       "data_hora_texto": "05/09/2026",
       "data_hora_iso": "2026-09-05T00:00:00",
-      "calado": "10,10/10,30",
+      "calado": "9,10/10,00",
       "rota": "Bacia 2",
       "berco": "PNAVE 02",
       "posicao": null
