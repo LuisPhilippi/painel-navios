@@ -1,19 +1,6 @@
 {
-  "gerado_em": "2026-09-03T22:14:47.525954",
+  "gerado_em": "2026-09-04T00:43:43.251193",
   "navios": [
-    {
-      "navio": "Zim Usa",
-      "imo": "9945473",
-      "agencia": "ZIM DO BRASIL",
-      "data_chegada_texto": "03/09/2026 11:33",
-      "data_chegada_iso": "2026-09-03T11:33:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "03/09/2026 16:00",
-      "data_manobra_iso": "2026-09-03T16:00:00",
-      "berco": "BARRA 902",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Um Imabari",
       "imo": "9969015",
@@ -102,6 +89,19 @@
       "data_manobra": "04/09/2026 13:00",
       "data_manobra_iso": "2026-09-04T13:00:00",
       "berco": "901 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Zim Usa",
+      "imo": "9945473",
+      "agencia": "ZIM DO BRASIL",
+      "data_chegada_texto": "03/09/2026 11:33",
+      "data_chegada_iso": "2026-09-03T11:33:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "04/09/2026 17:00",
+      "data_manobra_iso": "2026-09-04T17:00:00",
+      "berco": "902 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
     },

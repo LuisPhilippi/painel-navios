@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-03T22:14:40.857990",
+  "gerado_em": "2026-09-04T00:43:36.781387",
   "navios": [
     {
       "navio": "LOG-IN JACARANDA",
@@ -36,7 +36,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "04/09/2026",
       "data_hora_iso": "2026-09-04T00:00:00",
-      "calado": "TBC",
+      "calado": "9,00/10,80",
       "rota": "",
       "berco": "JBS 4",
       "posicao": null
