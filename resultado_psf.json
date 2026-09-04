@@ -1,19 +1,6 @@
 {
-  "gerado_em": "2026-09-04T05:27:14.586382",
+  "gerado_em": "2026-09-04T10:31:44.576911",
   "navios": [
-    {
-      "navio": "Um Imabari",
-      "imo": "9969015",
-      "agencia": "SEATRADE",
-      "data_chegada_texto": "24/08/2026 16:36",
-      "data_chegada_iso": "2026-08-24T16:36:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "04/09/2026 01:15",
-      "data_manobra_iso": "2026-09-04T01:15:00",
-      "berco": "102 BARRA",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Beijing 2008",
       "imo": "9442744",
@@ -24,7 +11,7 @@
       "data_manobra": "04/09/2026 06:45",
       "data_manobra_iso": "2026-09-04T06:45:00",
       "berco": "BARRA 301",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -37,7 +24,7 @@
       "data_manobra": "04/09/2026 07:00",
       "data_manobra_iso": "2026-09-04T07:00:00",
       "berco": "BARRA 302",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -50,7 +37,7 @@
       "data_manobra": "04/09/2026 07:00",
       "data_manobra_iso": "2026-09-04T07:00:00",
       "berco": "302 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -60,10 +47,10 @@
       "data_chegada_texto": "24/08/2026 13:00",
       "data_chegada_iso": "2026-08-24T13:00:00",
       "manobra": "Suspender e Sair",
-      "data_manobra": "04/09/2026 07:00",
-      "data_manobra_iso": "2026-09-04T07:00:00",
+      "data_manobra": "04/09/2026 07:30",
+      "data_manobra_iso": "2026-09-04T07:30:00",
       "berco": "F3 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
