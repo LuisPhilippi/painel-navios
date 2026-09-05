@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-05T14:31:33.344184",
+  "gerado_em": "2026-09-05T17:07:09.654358",
   "navios": [
     {
       "navio": "Nordcheetah",
@@ -11,7 +11,7 @@
       "data_manobra": "05/09/2026 13:00",
       "data_manobra_iso": "2026-09-05T13:00:00",
       "berco": "BARRA 902",
-      "situacao": "Confirmado",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -24,7 +24,7 @@
       "data_manobra": "05/09/2026 13:00",
       "data_manobra_iso": "2026-09-05T13:00:00",
       "berco": "902 BARRA",
-      "situacao": "Confirmado",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -37,7 +37,7 @@
       "data_manobra": "05/09/2026 14:30",
       "data_manobra_iso": "2026-09-05T14:30:00",
       "berco": "BARRA F5",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -50,7 +50,7 @@
       "data_manobra": "05/09/2026 14:35",
       "data_manobra_iso": "2026-09-05T14:35:00",
       "berco": "BARRA F4 (P1)",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Navios Esperados"
     },
     {
@@ -223,24 +223,24 @@
       "secao": "Navios Fundeados (Barra)"
     },
     {
-      "navio": "MSC Bianca",
-      "imo": "9770749",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "05/09/2026 08:00",
-      "data_chegada_iso": "2026-09-05T08:00:00",
+      "navio": "Maersk San Lazaro",
+      "imo": "9717216",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "05/09/2026 11:00",
+      "data_chegada_iso": "2026-09-05T11:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "ITAPOÁ",
       "situacao": null,
-      "secao": "Navios Esperados"
+      "secao": "Navios Fundeados (Barra)"
     },
     {
-      "navio": "Maersk San Lazaro",
-      "imo": "9717216",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "05/09/2026 12:20",
-      "data_chegada_iso": "2026-09-05T12:20:00",
+      "navio": "MSC Bianca",
+      "imo": "9770749",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "05/09/2026 08:00",
+      "data_chegada_iso": "2026-09-05T08:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
