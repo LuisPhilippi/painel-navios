@@ -1,26 +1,6 @@
 {
-  "gerado_em": "2026-09-05T11:36:05.665351",
+  "gerado_em": "2026-09-05T14:31:26.852068",
   "navios": [
-    {
-      "navio": "GREEN PARK",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "05/09/2026",
-      "data_hora_iso": "2026-09-05T00:00:00",
-      "calado": "10,50/10,70",
-      "rota": "",
-      "berco": "JBS 4",
-      "posicao": null
-    },
-    {
-      "navio": "CMA CGM LEGACY",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "05/09/2026",
-      "data_hora_iso": "2026-09-05T00:00:00",
-      "calado": "11,75 EK",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
     {
       "navio": "NC BREDA",
       "status": "ManobraPrevista",
@@ -72,13 +52,13 @@
       "posicao": null
     },
     {
-      "navio": "LOG-IN RESILIENTE",
+      "navio": "GREEN PARK",
       "status": "ManobraPrevista",
       "data_hora_texto": "06/09/2026",
       "data_hora_iso": "2026-09-06T00:00:00",
-      "calado": "TBC",
+      "calado": "10,50/10,80",
       "rota": "Bacia 1",
-      "berco": "PNAVE 01",
+      "berco": "JBS 4",
       "posicao": null
     },
     {
@@ -89,6 +69,16 @@
       "calado": "11,80 EK",
       "rota": "",
       "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "LOG-IN RESILIENTE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "06/09/2026",
+      "data_hora_iso": "2026-09-06T00:00:00",
+      "calado": "12,00 MAX",
+      "rota": "Bacia 1",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
@@ -106,7 +96,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "06/09/2026",
       "data_hora_iso": "2026-09-06T00:00:00",
-      "calado": "TBC",
+      "calado": "10,90 EK",
       "rota": "",
       "berco": "PNAVE",
       "posicao": null
