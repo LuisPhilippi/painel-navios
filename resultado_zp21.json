@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-09-05T07:22:43.988256",
+  "gerado_em": "2026-09-05T11:36:05.665351",
   "navios": [
-    {
-      "navio": "XIN CHONG QING",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "05/09/2026",
-      "data_hora_iso": "2026-09-05T00:00:00",
-      "calado": "9,00/10,80",
-      "rota": "Bacia 2",
-      "berco": "JBS 4",
-      "posicao": null
-    },
     {
       "navio": "GREEN PARK",
       "status": "ManobraPrevista",
@@ -26,7 +16,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "05/09/2026",
       "data_hora_iso": "2026-09-05T00:00:00",
-      "calado": "11,80 EK",
+      "calado": "11,75 EK",
       "rota": "",
       "berco": "JBS 2",
       "posicao": null
@@ -56,7 +46,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "05/09/2026",
       "data_hora_iso": "2026-09-05T00:00:00",
-      "calado": "11,50/11,80",
+      "calado": "11,20/11,35",
       "rota": "",
       "berco": "PNAVE 02",
       "posicao": null
@@ -64,19 +54,9 @@
     {
       "navio": "MERCOSUL SUAPE",
       "status": "ManobraPrevista",
-      "data_hora_texto": "05/09/2026",
-      "data_hora_iso": "2026-09-05T00:00:00",
-      "calado": "9,30/10,70",
-      "rota": "Bacia 1",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "LOG-IN RESILIENTE",
-      "status": "ManobraPrevista",
       "data_hora_texto": "06/09/2026",
       "data_hora_iso": "2026-09-06T00:00:00",
-      "calado": "TBC",
+      "calado": "9,30/10,70",
       "rota": "Bacia 1",
       "berco": "PNAVE 01",
       "posicao": null
@@ -89,6 +69,16 @@
       "calado": "10,20/10,90",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "LOG-IN RESILIENTE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "06/09/2026",
+      "data_hora_iso": "2026-09-06T00:00:00",
+      "calado": "TBC",
+      "rota": "Bacia 1",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
