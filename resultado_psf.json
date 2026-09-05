@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-05T19:54:01.567448",
+  "gerado_em": "2026-09-05T21:54:03.235034",
   "navios": [
     {
       "navio": "CMA CGM Yukon",
@@ -7,10 +7,10 @@
       "agencia": "UNIMAR",
       "data_chegada_texto": "04/09/2026 08:42",
       "data_chegada_iso": "2026-09-04T08:42:00",
-      "manobra": "Desatracação e Fundeio",
-      "data_manobra": "06/09/2026 01:30",
-      "data_manobra_iso": "2026-09-06T01:30:00",
-      "berco": "901 F5",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "06/09/2026 08:00",
+      "data_manobra_iso": "2026-09-06T08:00:00",
+      "berco": "901 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
     },
@@ -21,8 +21,8 @@
       "data_chegada_texto": "04/09/2026 14:50",
       "data_chegada_iso": "2026-09-04T14:50:00",
       "manobra": "Suspender e Atracar",
-      "data_manobra": "06/09/2026 01:30",
-      "data_manobra_iso": "2026-09-06T01:30:00",
+      "data_manobra": "06/09/2026 08:00",
+      "data_manobra_iso": "2026-09-06T08:00:00",
       "berco": "F5 901",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
