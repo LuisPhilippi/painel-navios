@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-04T23:41:33.408954",
+  "gerado_em": "2026-09-05T02:48:40.750165",
   "navios": [
     {
       "navio": "Apiradee Naree",
@@ -11,21 +11,8 @@
       "data_manobra": "05/09/2026 00:00",
       "data_manobra_iso": "2026-09-05T00:00:00",
       "berco": "201 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
-    },
-    {
-      "navio": "Barcaça N11",
-      "imo": "9326029",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "05/09/2026 11:00",
-      "data_chegada_iso": "2026-09-05T11:00:00",
-      "manobra": "Entrada e Fundeio",
-      "data_manobra": "05/09/2026 11:00",
-      "data_manobra_iso": "2026-09-05T11:00:00",
-      "berco": "BARRA F4 (P1)",
-      "situacao": "A Confirmar",
-      "secao": "Navios Esperados"
     },
     {
       "navio": "Nordcheetah",
@@ -52,6 +39,19 @@
       "berco": "902 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
+    },
+    {
+      "navio": "Barcaça N11",
+      "imo": "9326029",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "05/09/2026 11:00",
+      "data_chegada_iso": "2026-09-05T11:00:00",
+      "manobra": "Entrada e Fundeio",
+      "data_manobra": "05/09/2026 13:10",
+      "data_manobra_iso": "2026-09-05T13:10:00",
+      "berco": "BARRA F4 (P1)",
+      "situacao": "A Confirmar",
+      "secao": "Navios Esperados"
     },
     {
       "navio": "MSC Rayshmi",

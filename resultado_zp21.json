@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-04T23:41:26.972771",
+  "gerado_em": "2026-09-05T02:48:34.257123",
   "navios": [
     {
       "navio": "XIN CHONG QING",
@@ -234,8 +234,8 @@
     {
       "navio": "MSC BELMONTE III",
       "status": "ManobraPrevista",
-      "data_hora_texto": "11/09/2026",
-      "data_hora_iso": "2026-09-11T00:00:00",
+      "data_hora_texto": "12/09/2026",
+      "data_hora_iso": "2026-09-12T00:00:00",
       "calado": "TBC",
       "rota": "",
       "berco": "PNAVE",
