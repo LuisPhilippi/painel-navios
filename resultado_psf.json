@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-05T21:54:03.235034",
+  "gerado_em": "2026-09-05T23:32:17.652401",
   "navios": [
     {
       "navio": "CMA CGM Yukon",
@@ -60,8 +60,8 @@
       "data_chegada_texto": "28/08/2026 02:23",
       "data_chegada_iso": "2026-08-28T02:23:00",
       "manobra": "Desatracação e Fundeio",
-      "data_manobra": "06/09/2026 10:00",
-      "data_manobra_iso": "2026-09-06T10:00:00",
+      "data_manobra": "06/09/2026 21:30",
+      "data_manobra_iso": "2026-09-06T21:30:00",
       "berco": "101 F3",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
