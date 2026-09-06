@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-06T17:29:52.576765",
+  "gerado_em": "2026-09-06T19:57:35.453908",
   "navios": [
     {
       "navio": "MSC Rayshmi",
@@ -226,14 +226,14 @@
       "navio": "Pisti",
       "imo": "9893503",
       "agencia": "CARGONAVE",
-      "data_chegada_texto": "05/09/2026 19:00",
-      "data_chegada_iso": "2026-09-05T19:00:00",
+      "data_chegada_texto": "06/09/2026 15:28",
+      "data_chegada_iso": "2026-09-06T15:28:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "SFS",
       "situacao": null,
-      "secao": "Navios Esperados"
+      "secao": "Navios Fundeados (Barra)"
     },
     {
       "navio": "Tai Knowledge",
