@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-06T02:46:35.410258",
+  "gerado_em": "2026-09-06T07:35:49.556010",
   "navios": [
     {
       "navio": "MERCOSUL SUAPE",
@@ -46,7 +46,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "06/09/2026",
       "data_hora_iso": "2026-09-06T00:00:00",
-      "calado": "9,10/10,30",
+      "calado": "8,60/10,10",
       "rota": "Bacia 2",
       "berco": "PNAVE 02",
       "posicao": null
