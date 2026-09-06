@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-06T07:35:56.066432",
+  "gerado_em": "2026-09-06T11:56:33.004174",
   "navios": [
     {
       "navio": "CMA CGM Yukon",
@@ -11,7 +11,7 @@
       "data_manobra": "06/09/2026 08:00",
       "data_manobra_iso": "2026-09-06T08:00:00",
       "berco": "901 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -21,10 +21,10 @@
       "data_chegada_texto": "04/09/2026 14:50",
       "data_chegada_iso": "2026-09-04T14:50:00",
       "manobra": "Suspender e Atracar",
-      "data_manobra": "06/09/2026 08:00",
-      "data_manobra_iso": "2026-09-06T08:00:00",
+      "data_manobra": "06/09/2026 08:15",
+      "data_manobra_iso": "2026-09-06T08:15:00",
       "berco": "F5 901",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -37,7 +37,7 @@
       "data_manobra": "06/09/2026 10:00",
       "data_manobra_iso": "2026-09-06T10:00:00",
       "berco": "BARRA 902",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -50,7 +50,7 @@
       "data_manobra": "06/09/2026 10:00",
       "data_manobra_iso": "2026-09-06T10:00:00",
       "berco": "902 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {

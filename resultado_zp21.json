@@ -1,26 +1,6 @@
 {
-  "gerado_em": "2026-09-06T07:35:49.556010",
+  "gerado_em": "2026-09-06T11:56:26.916931",
   "navios": [
-    {
-      "navio": "MERCOSUL SUAPE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "06/09/2026",
-      "data_hora_iso": "2026-09-06T00:00:00",
-      "calado": "9,30/10,70",
-      "rota": "Bacia 1",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "NC BREDA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "06/09/2026",
-      "data_hora_iso": "2026-09-06T00:00:00",
-      "calado": "10,70/10,80",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
     {
       "navio": "GREEN PARK",
       "status": "ManobraPrevista",
