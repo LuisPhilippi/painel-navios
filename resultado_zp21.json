@@ -1,26 +1,6 @@
 {
-  "gerado_em": "2026-09-06T14:54:58.076140",
+  "gerado_em": "2026-09-06T17:29:46.123411",
   "navios": [
-    {
-      "navio": "SANTA CATARINA EXPRESS",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "06/09/2026",
-      "data_hora_iso": "2026-09-06T00:00:00",
-      "calado": "8,60/10,10",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
-      "navio": "ONE CONTINUITY",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "06/09/2026",
-      "data_hora_iso": "2026-09-06T00:00:00",
-      "calado": "11,80 EK",
-      "rota": "",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
     {
       "navio": "CAPE ALTIUS",
       "status": "ManobraPrevista",
@@ -36,7 +16,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "06/09/2026",
       "data_hora_iso": "2026-09-06T00:00:00",
-      "calado": "11,70/11,75",
+      "calado": "11,70 EK",
       "rota": "Bacia 1",
       "berco": "PNAVE 01",
       "posicao": null
@@ -62,6 +42,16 @@
       "posicao": null
     },
     {
+      "navio": "ONE CONTINUITY",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "07/09/2026",
+      "data_hora_iso": "2026-09-07T00:00:00",
+      "calado": "TBC",
+      "rota": "Bacia 2",
+      "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
       "navio": "CAPE SOUNIO",
       "status": "ManobraPrevista",
       "data_hora_texto": "07/09/2026",
@@ -72,6 +62,16 @@
       "posicao": null
     },
     {
+      "navio": "MSC BIANCA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "07/09/2026",
+      "data_hora_iso": "2026-09-07T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS 2",
+      "posicao": null
+    },
+    {
       "navio": "MSC ADELE",
       "status": "ManobraPrevista",
       "data_hora_texto": "08/09/2026",
@@ -79,16 +79,6 @@
       "calado": "11,60 EK",
       "rota": "",
       "berco": "PNAVE",
-      "posicao": null
-    },
-    {
-      "navio": "MSC BIANCA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "08/09/2026",
-      "data_hora_iso": "2026-09-08T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS",
       "posicao": null
     },
     {
