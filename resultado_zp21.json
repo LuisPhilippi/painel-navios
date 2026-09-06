@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-06T19:57:29.252851",
+  "gerado_em": "2026-09-06T21:59:33.227960",
   "navios": [
     {
       "navio": "LOG-IN RESILIENTE",
@@ -37,7 +37,7 @@
       "data_hora_texto": "07/09/2026",
       "data_hora_iso": "2026-09-07T00:00:00",
       "calado": "TBC",
-      "rota": "",
+      "rota": "Bacia 2",
       "berco": "JBS 2",
       "posicao": null
     },
