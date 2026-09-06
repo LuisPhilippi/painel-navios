@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-05T23:32:17.652401",
+  "gerado_em": "2026-09-06T02:46:41.559871",
   "navios": [
     {
       "navio": "CMA CGM Yukon",
@@ -236,17 +236,30 @@
       "secao": "Navios Fundeados (Barra)"
     },
     {
-      "navio": "Petit Lancy",
-      "imo": "9999814",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "05/09/2026 19:00",
-      "data_chegada_iso": "2026-09-05T19:00:00",
+      "navio": "Aquitania",
+      "imo": "9300491",
+      "agencia": "CARGONAVE",
+      "data_chegada_texto": "05/09/2026 20:36",
+      "data_chegada_iso": "2026-09-05T20:36:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "SFS",
       "situacao": null,
-      "secao": "Navios Esperados"
+      "secao": "Navios Fundeados (Barra)"
+    },
+    {
+      "navio": "Petit Lancy",
+      "imo": "9999814",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "05/09/2026 23:03",
+      "data_chegada_iso": "2026-09-05T23:03:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "SFS",
+      "situacao": null,
+      "secao": "Navios Fundeados (Barra)"
     },
     {
       "navio": "Pisti",
@@ -254,19 +267,6 @@
       "agencia": "CARGONAVE",
       "data_chegada_texto": "05/09/2026 19:00",
       "data_chegada_iso": "2026-09-05T19:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "SFS",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Aquitania",
-      "imo": "9300491",
-      "agencia": "CARGONAVE",
-      "data_chegada_texto": "05/09/2026 20:00",
-      "data_chegada_iso": "2026-09-05T20:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
