@@ -1,26 +1,6 @@
 {
-  "gerado_em": "2026-09-06T11:56:26.916931",
+  "gerado_em": "2026-09-06T14:54:58.076140",
   "navios": [
-    {
-      "navio": "GREEN PARK",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "06/09/2026",
-      "data_hora_iso": "2026-09-06T00:00:00",
-      "calado": "10,50/10,80",
-      "rota": "Bacia 1",
-      "berco": "JBS 4",
-      "posicao": null
-    },
-    {
-      "navio": "LOG-IN RESILIENTE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "06/09/2026",
-      "data_hora_iso": "2026-09-06T00:00:00",
-      "calado": "11,90 EK",
-      "rota": "",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "SANTA CATARINA EXPRESS",
       "status": "ManobraPrevista",
@@ -49,6 +29,16 @@
       "calado": "10,20/10,90",
       "rota": "",
       "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "LOG-IN RESILIENTE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "06/09/2026",
+      "data_hora_iso": "2026-09-06T00:00:00",
+      "calado": "11,70/11,75",
+      "rota": "Bacia 1",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
