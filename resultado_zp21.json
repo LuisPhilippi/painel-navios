@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-06T23:43:39.196574",
+  "gerado_em": "2026-09-07T02:44:26.840411",
   "navios": [
     {
       "navio": "LOG-IN RESILIENTE",
@@ -16,7 +16,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "07/09/2026",
       "data_hora_iso": "2026-09-07T00:00:00",
-      "calado": "10,90 EK",
+      "calado": "11,30 EK",
       "rota": "",
       "berco": "PNAVE 01",
       "posicao": null
