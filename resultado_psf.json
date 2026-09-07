@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-07T18:37:16.348757",
+  "gerado_em": "2026-09-07T21:54:26.106111",
   "navios": [
     {
       "navio": "TSHD Galileo Galilei",
@@ -11,7 +11,7 @@
       "data_manobra": "07/09/2026 19:00",
       "data_manobra_iso": "2026-09-07T19:00:00",
       "berco": "201 LJ Grande",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -24,7 +24,7 @@
       "data_manobra": "07/09/2026 20:00",
       "data_manobra_iso": "2026-09-07T20:00:00",
       "berco": "302 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
