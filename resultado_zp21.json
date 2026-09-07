@@ -1,26 +1,6 @@
 {
-  "gerado_em": "2026-09-07T02:44:26.840411",
+  "gerado_em": "2026-09-07T07:53:32.716478",
   "navios": [
-    {
-      "navio": "LOG-IN RESILIENTE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "06/09/2026",
-      "data_hora_iso": "2026-09-06T00:00:00",
-      "calado": "11,70 EK",
-      "rota": "Bacia 1",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "MELINA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "07/09/2026",
-      "data_hora_iso": "2026-09-07T00:00:00",
-      "calado": "11,30 EK",
-      "rota": "",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "CAPE ALTIUS",
       "status": "ManobraPrevista",
@@ -49,6 +29,16 @@
       "calado": "10,90 EK",
       "rota": "",
       "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
+      "navio": "MELINA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "07/09/2026",
+      "data_hora_iso": "2026-09-07T00:00:00",
+      "calado": "TBC",
+      "rota": "Bacia 1",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
