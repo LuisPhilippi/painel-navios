@@ -1,19 +1,6 @@
 {
-  "gerado_em": "2026-09-07T21:54:26.106111",
+  "gerado_em": "2026-09-07T23:57:27.187457",
   "navios": [
-    {
-      "navio": "TSHD Galileo Galilei",
-      "imo": "9872365",
-      "agencia": "LITORAL",
-      "data_chegada_texto": "01/08/2026 01:00",
-      "data_chegada_iso": "2026-08-01T01:00:00",
-      "manobra": "Desatracação e Fundeio",
-      "data_manobra": "07/09/2026 19:00",
-      "data_manobra_iso": "2026-09-07T19:00:00",
-      "berco": "201 LJ Grande",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Stinger",
       "imo": "9762871",
@@ -24,7 +11,7 @@
       "data_manobra": "07/09/2026 20:00",
       "data_manobra_iso": "2026-09-07T20:00:00",
       "berco": "302 BARRA",
-      "situacao": "Confirmado",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -37,7 +24,7 @@
       "data_manobra": "07/09/2026 22:30",
       "data_manobra_iso": "2026-09-07T22:30:00",
       "berco": "101 F3",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -104,6 +91,19 @@
       "berco": "301",
       "situacao": null,
       "secao": "Navios Atracados"
+    },
+    {
+      "navio": "TSHD Galileo Galilei",
+      "imo": "9872365",
+      "agencia": "LITORAL",
+      "data_chegada_texto": "01/08/2026 01:00",
+      "data_chegada_iso": "2026-08-01T01:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "LJ Grande",
+      "situacao": null,
+      "secao": "Navios Fundeados (Internos)"
     },
     {
       "navio": "Lefkes",
