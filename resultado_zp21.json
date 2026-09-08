@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-08T08:34:00.157210",
+  "gerado_em": "2026-09-08T13:17:00.891738",
   "navios": [
     {
       "navio": "XIN CHANG SHA",
@@ -36,7 +36,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "08/09/2026",
       "data_hora_iso": "2026-09-08T00:00:00",
-      "calado": "TBC",
+      "calado": "10,70/11,30",
       "rota": "Bacia 2",
       "berco": "PNAVE 01",
       "posicao": null
@@ -86,7 +86,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "09/09/2026",
       "data_hora_iso": "2026-09-09T00:00:00",
-      "calado": "11,30/11,70",
+      "calado": "11,30 EK",
       "rota": "Bacia 2",
       "berco": "JBS 4",
       "posicao": null
@@ -159,6 +159,16 @@
       "calado": "5,70/6,20",
       "rota": "",
       "berco": "BARRA DO RIO",
+      "posicao": null
+    },
+    {
+      "navio": "ACASTOS",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "13/09/2026",
+      "data_hora_iso": "2026-09-13T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
       "posicao": null
     },
     {
