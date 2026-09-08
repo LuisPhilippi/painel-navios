@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-08T20:40:54.474410",
+  "gerado_em": "2026-09-08T23:09:55.585110",
   "navios": [
     {
       "navio": "XIN CHANG SHA",
@@ -76,19 +76,9 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "09/09/2026",
       "data_hora_iso": "2026-09-09T00:00:00",
-      "calado": "8,90/10,90",
+      "calado": "9,70/11,40",
       "rota": "Bacia 2",
       "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "HYUNDAI FAITH",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "09/09/2026",
-      "data_hora_iso": "2026-09-09T00:00:00",
-      "calado": "11,60/11,82",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 02",
       "posicao": null
     },
     {
@@ -119,6 +109,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "HYUNDAI FAITH",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "10/09/2026",
+      "data_hora_iso": "2026-09-10T00:00:00",
+      "calado": "11,60/11,82",
+      "rota": "",
+      "berco": "PNAVE 02",
       "posicao": null
     },
     {

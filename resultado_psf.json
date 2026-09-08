@@ -1,32 +1,6 @@
 {
-  "gerado_em": "2026-09-08T20:41:02.025088",
+  "gerado_em": "2026-09-08T23:10:03.293978",
   "navios": [
-    {
-      "navio": "Ym Modesty",
-      "imo": "9664885",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "08/09/2026 10:58",
-      "data_chegada_iso": "2026-09-08T10:58:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "08/09/2026 17:00",
-      "data_manobra_iso": "2026-09-08T17:00:00",
-      "berco": "BARRA 902",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "MSC Bianca",
-      "imo": "9770749",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "05/09/2026 16:16",
-      "data_chegada_iso": "2026-09-05T16:16:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "08/09/2026 17:00",
-      "data_manobra_iso": "2026-09-08T17:00:00",
-      "berco": "902 BARRA",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Maersk Londrina",
       "imo": "9527037",
@@ -104,6 +78,19 @@
       "berco": "BARRA 201",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
+    },
+    {
+      "navio": "Ym Modesty",
+      "imo": "9664885",
+      "agencia": "UNIMAR",
+      "data_chegada_texto": "08/09/2026 10:58",
+      "data_chegada_iso": "2026-09-08T10:58:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "902",
+      "situacao": null,
+      "secao": "Navios Atracados"
     },
     {
       "navio": "Beijing 2008",
@@ -226,14 +213,14 @@
       "navio": "Port Kyoto",
       "imo": "9942093",
       "agencia": "SEATRADE",
-      "data_chegada_texto": "08/09/2026 18:00",
-      "data_chegada_iso": "2026-09-08T18:00:00",
+      "data_chegada_texto": "08/09/2026 17:54",
+      "data_chegada_iso": "2026-09-08T17:54:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "SFS",
       "situacao": null,
-      "secao": "Navios Esperados"
+      "secao": "Navios Fundeados (Barra)"
     },
     {
       "navio": "CMA CGM Veracruz",
