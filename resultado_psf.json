@@ -1,19 +1,6 @@
 {
-  "gerado_em": "2026-09-08T03:30:40.286274",
+  "gerado_em": "2026-09-08T08:34:06.197808",
   "navios": [
-    {
-      "navio": "Barcaça N11",
-      "imo": "9326029",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "05/09/2026 14:36",
-      "data_chegada_iso": "2026-09-05T14:36:00",
-      "manobra": "Suspender e Atracar",
-      "data_manobra": "07/09/2026 23:30",
-      "data_manobra_iso": "2026-09-07T23:30:00",
-      "berco": "F4 (P1) 302",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Barcaça N10",
       "imo": "9326017",
@@ -76,6 +63,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "301",
+      "situacao": null,
+      "secao": "Navios Atracados"
+    },
+    {
+      "navio": "Barcaça N11",
+      "imo": "9326029",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "05/09/2026 14:36",
+      "data_chegada_iso": "2026-09-05T14:36:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "302",
       "situacao": null,
       "secao": "Navios Atracados"
     },

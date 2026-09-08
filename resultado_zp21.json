@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-09-08T03:30:34.125373",
+  "gerado_em": "2026-09-08T08:34:00.157210",
   "navios": [
-    {
-      "navio": "CAPE SOUNIO",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "08/09/2026",
-      "data_hora_iso": "2026-09-08T00:00:00",
-      "calado": "9,90/10,70",
-      "rota": "",
-      "berco": "JBS 4",
-      "posicao": null
-    },
     {
       "navio": "XIN CHANG SHA",
       "status": "ManobraPrevista",
@@ -89,6 +79,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "CAPE SOUNIO",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "09/09/2026",
+      "data_hora_iso": "2026-09-09T00:00:00",
+      "calado": "11,30/11,70",
+      "rota": "Bacia 2",
+      "berco": "JBS 4",
       "posicao": null
     },
     {
