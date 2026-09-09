@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-09T12:42:55.789568",
+  "gerado_em": "2026-09-09T17:01:31.023177",
   "navios": [
     {
       "navio": "MSC Yamuna VI",
@@ -8,24 +8,24 @@
       "data_chegada_texto": "07/09/2026 11:30",
       "data_chegada_iso": "2026-09-07T11:30:00",
       "manobra": "Desatracação e Saída",
-      "data_manobra": "09/09/2026 12:30",
-      "data_manobra_iso": "2026-09-09T12:30:00",
+      "data_manobra": "09/09/2026 12:45",
+      "data_manobra_iso": "2026-09-09T12:45:00",
       "berco": "901 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
       "navio": "Maersk Londrina",
       "imo": "9527037",
       "agencia": "LACHMANN",
-      "data_chegada_texto": "09/09/2026 12:00",
-      "data_chegada_iso": "2026-09-09T12:00:00",
+      "data_chegada_texto": "09/09/2026 10:58",
+      "data_chegada_iso": "2026-09-09T10:58:00",
       "manobra": "Entrada e Atracação",
       "data_manobra": "09/09/2026 13:00",
       "data_manobra_iso": "2026-09-09T13:00:00",
       "berco": "BARRA 901",
-      "situacao": "A Confirmar",
-      "secao": "Navios Esperados"
+      "situacao": "Em Andamento",
+      "secao": "Movimentações"
     },
     {
       "navio": "Ionic Patris",
@@ -37,6 +37,32 @@
       "data_manobra": "09/09/2026 18:30",
       "data_manobra_iso": "2026-09-09T18:30:00",
       "berco": "BARRA 101",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Lori",
+      "imo": "9631125",
+      "agencia": "ROCHAMAR",
+      "data_chegada_texto": "09/09/2026 18:00",
+      "data_chegada_iso": "2026-09-09T18:00:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "09/09/2026 19:00",
+      "data_manobra_iso": "2026-09-09T19:00:00",
+      "berco": "BARRA 902",
+      "situacao": "A Confirmar",
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Ym Modesty",
+      "imo": "9664885",
+      "agencia": "UNIMAR",
+      "data_chegada_texto": "08/09/2026 10:58",
+      "data_chegada_iso": "2026-09-08T10:58:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "09/09/2026 19:00",
+      "data_manobra_iso": "2026-09-09T19:00:00",
+      "berco": "902 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
     },
@@ -65,19 +91,6 @@
       "berco": "BARRA 102",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
-    },
-    {
-      "navio": "Ym Modesty",
-      "imo": "9664885",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "08/09/2026 10:58",
-      "data_chegada_iso": "2026-09-08T10:58:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "902",
-      "situacao": null,
-      "secao": "Navios Atracados"
     },
     {
       "navio": "Beijing 2008",
@@ -223,24 +236,11 @@
       "secao": "Navios Fundeados (Barra)"
     },
     {
-      "navio": "CMA CGM Veracruz",
-      "imo": "9418377",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "09/09/2026 10:00",
-      "data_chegada_iso": "2026-09-09T10:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Dragon",
-      "imo": "9588005",
-      "agencia": "LITORAL",
-      "data_chegada_texto": "09/09/2026 12:00",
-      "data_chegada_iso": "2026-09-09T12:00:00",
+      "navio": "Capetan Vassilis II",
+      "imo": "9580118",
+      "agencia": "CARGONAVE",
+      "data_chegada_texto": "09/09/2026 14:00",
+      "data_chegada_iso": "2026-09-09T14:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
@@ -249,28 +249,15 @@
       "secao": "Navios Esperados"
     },
     {
-      "navio": "Cosco Shipping Uruguay",
-      "imo": "9945851",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "09/09/2026 13:00",
-      "data_chegada_iso": "2026-09-09T13:00:00",
+      "navio": "Basel",
+      "imo": "9433614",
+      "agencia": "CARGONAVE",
+      "data_chegada_texto": "09/09/2026 15:30",
+      "data_chegada_iso": "2026-09-09T15:30:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Lori",
-      "imo": "9631125",
-      "agencia": "ROCHAMAR",
-      "data_chegada_texto": "09/09/2026 18:00",
-      "data_chegada_iso": "2026-09-09T18:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
+      "berco": "SFS",
       "situacao": null,
       "secao": "Navios Esperados"
     },
@@ -288,32 +275,6 @@
       "secao": "Navios Esperados"
     },
     {
-      "navio": "San Lorenzo Maersk",
-      "imo": "9622227",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "10/09/2026 11:00",
-      "data_chegada_iso": "2026-09-10T11:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Astro Castor",
-      "imo": "9767314",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "10/09/2026 13:00",
-      "data_chegada_iso": "2026-09-10T13:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "SFS",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
       "navio": "Babitonga Bay",
       "imo": "9663776",
       "agencia": "WILSON SONS",
@@ -323,6 +284,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "TESC",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "San Lorenzo Maersk",
+      "imo": "9622227",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "10/09/2026 14:00",
+      "data_chegada_iso": "2026-09-10T14:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Esperados"
     },
@@ -340,6 +314,19 @@
       "secao": "Navios Esperados"
     },
     {
+      "navio": "Maersk Venezia",
+      "imo": "9344681",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "11/09/2026 03:00",
+      "data_chegada_iso": "2026-09-11T03:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
       "navio": "Maersk Monte Azul",
       "imo": "9348053",
       "agencia": "LACHMANN",
@@ -353,41 +340,28 @@
       "secao": "Navios Esperados"
     },
     {
-      "navio": "Maersk Venezia",
-      "imo": "9344681",
-      "agencia": "LACHMANN",
+      "navio": "CMA CGM Veracruz",
+      "imo": "9418377",
+      "agencia": "UNIMAR",
+      "data_chegada_texto": "11/09/2026 10:00",
+      "data_chegada_iso": "2026-09-11T10:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Astro Castor",
+      "imo": "9767314",
+      "agencia": "WILSON SONS",
       "data_chegada_texto": "11/09/2026 13:00",
       "data_chegada_iso": "2026-09-11T13:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Capetan Vassilis II",
-      "imo": "9580118",
-      "agencia": "CARGONAVE",
-      "data_chegada_texto": "11/09/2026 15:00",
-      "data_chegada_iso": "2026-09-11T15:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
       "berco": "SFS",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "MSC Carole",
-      "imo": "9785445",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "11/09/2026 23:00",
-      "data_chegada_iso": "2026-09-11T23:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Esperados"
     },
@@ -401,19 +375,6 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Barcaça N09",
-      "imo": "9326005",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "12/09/2026 07:00",
-      "data_chegada_iso": "2026-09-12T07:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "TESC",
       "situacao": null,
       "secao": "Navios Esperados"
     },
@@ -470,6 +431,19 @@
       "secao": "Navios Esperados"
     },
     {
+      "navio": "Dragon",
+      "imo": "9588005",
+      "agencia": "LITORAL",
+      "data_chegada_texto": "13/09/2026 12:00",
+      "data_chegada_iso": "2026-09-13T12:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "SFS",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
       "navio": "Pio Grande",
       "imo": "9647863",
       "agencia": "WILSON SONS",
@@ -496,6 +470,32 @@
       "secao": "Navios Esperados"
     },
     {
+      "navio": "Barcaça N09",
+      "imo": "9326005",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "14/09/2026 07:00",
+      "data_chegada_iso": "2026-09-14T07:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "TESC",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "MSC Carole",
+      "imo": "9785445",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "14/09/2026 10:00",
+      "data_chegada_iso": "2026-09-14T10:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
       "navio": "Sakizaya Future",
       "imo": "9713818",
       "agencia": "LITORAL",
@@ -512,6 +512,19 @@
       "navio": "Maersk Karun",
       "imo": "9624299",
       "agencia": "LACHMANN",
+      "data_chegada_texto": "15/09/2026 07:00",
+      "data_chegada_iso": "2026-09-15T07:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "MSC Ajaccio",
+      "imo": "9605267",
+      "agencia": "MSC",
       "data_chegada_texto": "15/09/2026 07:00",
       "data_chegada_iso": "2026-09-15T07:00:00",
       "manobra": null,
@@ -639,6 +652,45 @@
       "secao": "Navios Esperados"
     },
     {
+      "navio": "Olympia.GR",
+      "imo": "9817523",
+      "agencia": "CARGONAVE",
+      "data_chegada_texto": "19/09/2026 13:00",
+      "data_chegada_iso": "2026-09-19T13:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "SFS",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Cap San Artemissio",
+      "imo": "9633939",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "19/09/2026 15:00",
+      "data_chegada_iso": "2026-09-19T15:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Fernão de Magalhães",
+      "imo": "9603221",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "19/09/2026 17:00",
+      "data_chegada_iso": "2026-09-19T17:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
       "navio": "YI Chun 15",
       "imo": "9631474",
       "agencia": "OCEÂNICA",
@@ -683,6 +735,19 @@
       "agencia": "SEATRADE",
       "data_chegada_texto": "02/10/2026 13:00",
       "data_chegada_iso": "2026-10-02T13:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "SFS",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "MH Langoey",
+      "imo": "1076173",
+      "agencia": "SEATRADE",
+      "data_chegada_texto": "10/10/2026 14:00",
+      "data_chegada_iso": "2026-10-10T14:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
