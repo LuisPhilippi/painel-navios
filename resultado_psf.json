@@ -1,19 +1,6 @@
 {
-  "gerado_em": "2026-09-09T07:53:31.866303",
+  "gerado_em": "2026-09-09T12:42:55.789568",
   "navios": [
-    {
-      "navio": "Maersk Londrina",
-      "imo": "9527037",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "09/09/2026 12:00",
-      "data_chegada_iso": "2026-09-09T12:00:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "09/09/2026 12:30",
-      "data_manobra_iso": "2026-09-09T12:30:00",
-      "berco": "BARRA 901",
-      "situacao": "A Confirmar",
-      "secao": "Navios Esperados"
-    },
     {
       "navio": "MSC Yamuna VI",
       "imo": "9288409",
@@ -26,6 +13,19 @@
       "berco": "901 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
+    },
+    {
+      "navio": "Maersk Londrina",
+      "imo": "9527037",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "09/09/2026 12:00",
+      "data_chegada_iso": "2026-09-09T12:00:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "09/09/2026 13:00",
+      "data_manobra_iso": "2026-09-09T13:00:00",
+      "berco": "BARRA 901",
+      "situacao": "A Confirmar",
+      "secao": "Navios Esperados"
     },
     {
       "navio": "Ionic Patris",
@@ -210,6 +210,19 @@
       "secao": "Navios Fundeados (Barra)"
     },
     {
+      "navio": "Jamaica Bay",
+      "imo": "9610717",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "09/09/2026 06:42",
+      "data_chegada_iso": "2026-09-09T06:42:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": null,
+      "situacao": null,
+      "secao": "Navios Fundeados (Barra)"
+    },
+    {
       "navio": "CMA CGM Veracruz",
       "imo": "9418377",
       "agencia": "UNIMAR",
@@ -245,19 +258,6 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Jamaica Bay",
-      "imo": "9610717",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "09/09/2026 14:00",
-      "data_chegada_iso": "2026-09-09T14:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": null,
       "situacao": null,
       "secao": "Navios Esperados"
     },
