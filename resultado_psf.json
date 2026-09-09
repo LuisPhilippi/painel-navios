@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-09T20:21:32.442990",
+  "gerado_em": "2026-09-09T22:54:28.353860",
   "navios": [
     {
       "navio": "Ionic Patris",
@@ -11,21 +11,21 @@
       "data_manobra": "09/09/2026 18:30",
       "data_manobra_iso": "2026-09-09T18:30:00",
       "berco": "BARRA 101",
-      "situacao": "Confirmado",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
       "navio": "Lori",
       "imo": "9631125",
       "agencia": "ROCHAMAR",
-      "data_chegada_texto": "09/09/2026 18:00",
-      "data_chegada_iso": "2026-09-09T18:00:00",
+      "data_chegada_texto": "09/09/2026 18:50",
+      "data_chegada_iso": "2026-09-09T18:50:00",
       "manobra": "Entrada e Atracação",
       "data_manobra": "09/09/2026 19:00",
       "data_manobra_iso": "2026-09-09T19:00:00",
       "berco": "BARRA 902",
-      "situacao": "Confirmado",
-      "secao": "Navios Esperados"
+      "situacao": "Em Andamento",
+      "secao": "Movimentações"
     },
     {
       "navio": "Ym Modesty",
@@ -37,7 +37,7 @@
       "data_manobra": "09/09/2026 19:00",
       "data_manobra_iso": "2026-09-09T19:00:00",
       "berco": "902 BARRA",
-      "situacao": "Confirmado",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -124,12 +124,25 @@
       "agencia": "CARGONAVE",
       "data_chegada_texto": "27/08/2026 02:55",
       "data_chegada_iso": "2026-08-27T02:55:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "301",
-      "situacao": null,
-      "secao": "Navios Atracados"
+      "manobra": "Desatracação e Fundeio",
+      "data_manobra": "10/09/2026 13:00",
+      "data_manobra_iso": "2026-09-10T13:00:00",
+      "berco": "301 F3",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Vicente Pinzon",
+      "imo": "9625396",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "10/09/2026 07:00",
+      "data_chegada_iso": "2026-09-10T07:00:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "10/09/2026 14:00",
+      "data_manobra_iso": "2026-09-10T14:00:00",
+      "berco": "BARRA 902",
+      "situacao": "A Confirmar",
+      "secao": "Navios Esperados"
     },
     {
       "navio": "Lefkes",
@@ -260,19 +273,6 @@
       "berco": "SFS",
       "situacao": null,
       "secao": "Navios Fundeados (Barra)"
-    },
-    {
-      "navio": "Vicente Pinzon",
-      "imo": "9625396",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "10/09/2026 07:00",
-      "data_chegada_iso": "2026-09-10T07:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
     },
     {
       "navio": "Babitonga Bay",
