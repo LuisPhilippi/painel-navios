@@ -1,36 +1,6 @@
 {
-  "gerado_em": "2026-09-09T17:01:24.259571",
+  "gerado_em": "2026-09-09T20:21:26.230544",
   "navios": [
-    {
-      "navio": "SANTA INES",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "09/09/2026",
-      "data_hora_iso": "2026-09-09T00:00:00",
-      "calado": "9,10/10,70",
-      "rota": "Bacia 2",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "MSC RAYSHMI",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "09/09/2026",
-      "data_hora_iso": "2026-09-09T00:00:00",
-      "calado": "9,70/11,40",
-      "rota": "Bacia 2",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "TENCA ARROW",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "09/09/2026",
-      "data_hora_iso": "2026-09-09T00:00:00",
-      "calado": "10,95/11,20",
-      "rota": "Bacia 1",
-      "berco": "JBS 4",
-      "posicao": null
-    },
     {
       "navio": "EVER FEAT",
       "status": "ManobraPrevista",
@@ -49,6 +19,16 @@
       "calado": "5,20/6,60",
       "rota": "",
       "berco": "BARRA DO RIO",
+      "posicao": null
+    },
+    {
+      "navio": "MSC RAYSHMI",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "10/09/2026",
+      "data_hora_iso": "2026-09-10T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -76,19 +56,49 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "10/09/2026",
       "data_hora_iso": "2026-09-10T00:00:00",
-      "calado": "11,60/11,82",
-      "rota": "",
+      "calado": "11,58/11,83",
+      "rota": "Bacia 2",
       "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
+      "navio": "TENCA ARROW",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "10/09/2026",
+      "data_hora_iso": "2026-09-10T00:00:00",
+      "calado": "10,95/11,20",
+      "rota": "Bacia 1",
+      "berco": "JBS 4",
+      "posicao": null
+    },
+    {
+      "navio": "MSC YAMUNA VI",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "11/09/2026",
+      "data_hora_iso": "2026-09-11T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "MSC MICHELA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "11/09/2026",
+      "data_hora_iso": "2026-09-11T00:00:00",
+      "calado": "11,30/11,75",
+      "rota": "",
+      "berco": "PNAVE",
       "posicao": null
     },
     {
       "navio": "COSCO SHIPPING URUGUAY",
       "status": "ManobraPrevista",
-      "data_hora_texto": "10/09/2026",
-      "data_hora_iso": "2026-09-10T00:00:00",
+      "data_hora_texto": "11/09/2026",
+      "data_hora_iso": "2026-09-11T00:00:00",
       "calado": "TBC",
       "rota": "",
-      "berco": "PNAVE",
+      "berco": "PNAVE 02",
       "posicao": null
     },
     {
@@ -142,16 +152,6 @@
       "posicao": null
     },
     {
-      "navio": "MSC MICHELA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "13/09/2026",
-      "data_hora_iso": "2026-09-13T00:00:00",
-      "calado": "11,30/11,75",
-      "rota": "",
-      "berco": "PNAVE",
-      "posicao": null
-    },
-    {
       "navio": "SAO PAULO EXPRESS",
       "status": "ManobraPrevista",
       "data_hora_texto": "14/09/2026",
@@ -187,6 +187,16 @@
       "data_hora_texto": "15/09/2026",
       "data_hora_iso": "2026-09-15T00:00:00",
       "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "GREEN BRAZIL",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "18/09/2026",
+      "data_hora_iso": "2026-09-18T00:00:00",
+      "calado": "11,95 EK",
       "rota": "",
       "berco": "JBS",
       "posicao": null
