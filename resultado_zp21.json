@@ -1,26 +1,6 @@
 {
-  "gerado_em": "2026-09-09T02:56:18.753921",
+  "gerado_em": "2026-09-09T07:53:23.987419",
   "navios": [
-    {
-      "navio": "MSC ADELE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "08/09/2026",
-      "data_hora_iso": "2026-09-08T00:00:00",
-      "calado": "11,80 EK",
-      "rota": "",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
-      "navio": "EVER FEAT",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "09/09/2026",
-      "data_hora_iso": "2026-09-09T00:00:00",
-      "calado": "11,60/11,70",
-      "rota": "",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
     {
       "navio": "ACONCAGUA BAY",
       "status": "ManobraPrevista",
@@ -59,6 +39,16 @@
       "calado": "9,10/10,70",
       "rota": "Bacia 2",
       "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "EVER FEAT",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "09/09/2026",
+      "data_hora_iso": "2026-09-09T00:00:00",
+      "calado": "10,50 EK",
+      "rota": "Bacia 2",
+      "berco": "PNAVE 02",
       "posicao": null
     },
     {
