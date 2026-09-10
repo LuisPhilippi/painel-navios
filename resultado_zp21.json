@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-09T22:54:20.681537",
+  "gerado_em": "2026-09-10T00:48:47.627623",
   "navios": [
     {
       "navio": "INDUSTRIAL SONG",
@@ -66,7 +66,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "11/09/2026",
       "data_hora_iso": "2026-09-11T00:00:00",
-      "calado": "11,30/11,50",
+      "calado": "11,30 EK",
       "rota": "",
       "berco": "PNAVE",
       "posicao": null

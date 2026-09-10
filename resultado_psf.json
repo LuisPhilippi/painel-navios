@@ -1,45 +1,6 @@
 {
-  "gerado_em": "2026-09-09T22:54:28.353860",
+  "gerado_em": "2026-09-10T00:48:54.891675",
   "navios": [
-    {
-      "navio": "Ionic Patris",
-      "imo": "9785366",
-      "agencia": "ALPHAMAR",
-      "data_chegada_texto": "30/08/2026 10:30",
-      "data_chegada_iso": "2026-08-30T10:30:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "09/09/2026 18:30",
-      "data_manobra_iso": "2026-09-09T18:30:00",
-      "berco": "BARRA 101",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Lori",
-      "imo": "9631125",
-      "agencia": "ROCHAMAR",
-      "data_chegada_texto": "09/09/2026 18:50",
-      "data_chegada_iso": "2026-09-09T18:50:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "09/09/2026 19:00",
-      "data_manobra_iso": "2026-09-09T19:00:00",
-      "berco": "BARRA 902",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Ym Modesty",
-      "imo": "9664885",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "08/09/2026 10:58",
-      "data_chegada_iso": "2026-09-08T10:58:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "09/09/2026 19:00",
-      "data_manobra_iso": "2026-09-09T19:00:00",
-      "berco": "902 BARRA",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Anemon",
       "imo": "9700421",
@@ -50,7 +11,7 @@
       "data_manobra": "09/09/2026 23:30",
       "data_manobra_iso": "2026-09-09T23:30:00",
       "berco": "BARRA 201",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -63,20 +24,7 @@
       "data_manobra": "10/09/2026 00:00",
       "data_manobra_iso": "2026-09-10T00:00:00",
       "berco": "BARRA 102",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Maersk Londrina",
-      "imo": "9527037",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "09/09/2026 10:58",
-      "data_chegada_iso": "2026-09-09T10:58:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "10/09/2026 07:00",
-      "data_manobra_iso": "2026-09-10T07:00:00",
-      "berco": "901 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -89,6 +37,19 @@
       "data_manobra": "10/09/2026 07:00",
       "data_manobra_iso": "2026-09-10T07:00:00",
       "berco": "302 F1",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Maersk Londrina",
+      "imo": "9527037",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "09/09/2026 10:58",
+      "data_chegada_iso": "2026-09-09T10:58:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "10/09/2026 08:00",
+      "data_manobra_iso": "2026-09-10T08:00:00",
+      "berco": "901 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
     },
@@ -143,6 +104,32 @@
       "berco": "BARRA 902",
       "situacao": "A Confirmar",
       "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Lori",
+      "imo": "9631125",
+      "agencia": "ROCHAMAR",
+      "data_chegada_texto": "09/09/2026 18:50",
+      "data_chegada_iso": "2026-09-09T18:50:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "10/09/2026 14:00",
+      "data_manobra_iso": "2026-09-10T14:00:00",
+      "berco": "902 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Ionic Patris",
+      "imo": "9785366",
+      "agencia": "ALPHAMAR",
+      "data_chegada_texto": "30/08/2026 10:30",
+      "data_chegada_iso": "2026-08-30T10:30:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "101",
+      "situacao": null,
+      "secao": "Navios Atracados"
     },
     {
       "navio": "Lefkes",
