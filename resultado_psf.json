@@ -1,19 +1,6 @@
 {
-  "gerado_em": "2026-09-10T14:47:35.356827",
+  "gerado_em": "2026-09-10T18:03:51.825084",
   "navios": [
-    {
-      "navio": "Vicente Pinzon",
-      "imo": "9625396",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "10/09/2026 10:25",
-      "data_chegada_iso": "2026-09-10T10:25:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "10/09/2026 10:30",
-      "data_manobra_iso": "2026-09-10T10:30:00",
-      "berco": "BARRA 901",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Jamaica Bay",
       "imo": "9610717",
@@ -24,7 +11,7 @@
       "data_manobra": "10/09/2026 12:45",
       "data_manobra_iso": "2026-09-10T12:45:00",
       "berco": "BARRA 302",
-      "situacao": "Confirmado",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -37,7 +24,7 @@
       "data_manobra": "10/09/2026 13:00",
       "data_manobra_iso": "2026-09-10T13:00:00",
       "berco": "BARRA 201",
-      "situacao": "Confirmado",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -78,6 +65,19 @@
       "berco": "301 F3",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
+    },
+    {
+      "navio": "Vicente Pinzon",
+      "imo": "9625396",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "10/09/2026 10:25",
+      "data_chegada_iso": "2026-09-10T10:25:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "901",
+      "situacao": null,
+      "secao": "Navios Atracados"
     },
     {
       "navio": "Ionic Patris",

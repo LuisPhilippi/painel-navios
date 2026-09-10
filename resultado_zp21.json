@@ -1,26 +1,6 @@
 {
-  "gerado_em": "2026-09-10T14:47:28.963150",
+  "gerado_em": "2026-09-10T18:03:45.381172",
   "navios": [
-    {
-      "navio": "EVER FEAT",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "10/09/2026",
-      "data_hora_iso": "2026-09-10T00:00:00",
-      "calado": "9,90/10,60",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
-      "navio": "HYUNDAI FAITH",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "10/09/2026",
-      "data_hora_iso": "2026-09-10T00:00:00",
-      "calado": "11,58/11,83",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
     {
       "navio": "MSC BIANCA",
       "status": "ManobraPrevista",
@@ -57,6 +37,16 @@
       "data_hora_texto": "11/09/2026",
       "data_hora_iso": "2026-09-11T00:00:00",
       "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
+      "navio": "HYUNDAI FAITH",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "11/09/2026",
+      "data_hora_iso": "2026-09-11T00:00:00",
+      "calado": "10,35/11,05",
       "rota": "",
       "berco": "PNAVE 02",
       "posicao": null
@@ -107,6 +97,16 @@
       "data_hora_texto": "12/09/2026",
       "data_hora_iso": "2026-09-12T00:00:00",
       "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "MSC ODESSA V",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "12/09/2026",
+      "data_hora_iso": "2026-09-12T00:00:00",
+      "calado": "6,20/8,60",
       "rota": "",
       "berco": "JBS",
       "posicao": null
