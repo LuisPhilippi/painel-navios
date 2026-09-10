@@ -1,32 +1,6 @@
 {
-  "gerado_em": "2026-09-10T00:48:54.891675",
+  "gerado_em": "2026-09-10T05:33:56.891304",
   "navios": [
-    {
-      "navio": "Anemon",
-      "imo": "9700421",
-      "agencia": "MASTER",
-      "data_chegada_texto": "31/08/2026 11:52",
-      "data_chegada_iso": "2026-08-31T11:52:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "09/09/2026 23:30",
-      "data_manobra_iso": "2026-09-09T23:30:00",
-      "berco": "BARRA 201",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Trigon Trader",
-      "imo": "9863845",
-      "agencia": "OCEÂNICA",
-      "data_chegada_texto": "28/08/2026 16:42",
-      "data_chegada_iso": "2026-08-28T16:42:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "10/09/2026 00:00",
-      "data_manobra_iso": "2026-09-10T00:00:00",
-      "berco": "BARRA 102",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Barcaça N11",
       "imo": "9326029",
@@ -132,6 +106,19 @@
       "secao": "Navios Atracados"
     },
     {
+      "navio": "Trigon Trader",
+      "imo": "9863845",
+      "agencia": "OCEÂNICA",
+      "data_chegada_texto": "28/08/2026 16:42",
+      "data_chegada_iso": "2026-08-28T16:42:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "102",
+      "situacao": null,
+      "secao": "Navios Atracados"
+    },
+    {
       "navio": "Lefkes",
       "imo": "9658783",
       "agencia": "ZPORT AGENCIA",
@@ -141,6 +128,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "SFS",
+      "situacao": null,
+      "secao": "Navios Fundeados (Barra)"
+    },
+    {
+      "navio": "Anemon",
+      "imo": "9700421",
+      "agencia": "MASTER",
+      "data_chegada_texto": "31/08/2026 11:52",
+      "data_chegada_iso": "2026-08-31T11:52:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": null,
       "situacao": null,
       "secao": "Navios Fundeados (Barra)"
     },

@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-10T00:48:47.627623",
+  "gerado_em": "2026-09-10T05:33:49.674637",
   "navios": [
     {
       "navio": "INDUSTRIAL SONG",
@@ -240,6 +240,16 @@
       "rota": "",
       "berco": "JBS",
       "posicao": null
+    },
+    {
+      "navio": "EVER LEADER",
+      "status": "Fundeado",
+      "data_hora_texto": "10/09/2026 - 00:13",
+      "data_hora_iso": "2026-09-10T00:13:00",
+      "calado": "11,90 EK",
+      "rota": "",
+      "berco": null,
+      "posicao": "26 50,67 S / 048 31,23 W"
     },
     {
       "navio": "GEMSBOK",
