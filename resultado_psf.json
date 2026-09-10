@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-10T05:33:56.891304",
+  "gerado_em": "2026-09-10T10:32:47.444123",
   "navios": [
     {
       "navio": "Barcaça N11",
@@ -8,10 +8,10 @@
       "data_chegada_texto": "05/09/2026 14:36",
       "data_chegada_iso": "2026-09-05T14:36:00",
       "manobra": "Desatracação e Fundeio",
-      "data_manobra": "10/09/2026 07:00",
-      "data_manobra_iso": "2026-09-10T07:00:00",
+      "data_manobra": "10/09/2026 07:30",
+      "data_manobra_iso": "2026-09-10T07:30:00",
       "berco": "302 F1",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -24,7 +24,7 @@
       "data_manobra": "10/09/2026 08:00",
       "data_manobra_iso": "2026-09-10T08:00:00",
       "berco": "901 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
