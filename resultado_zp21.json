@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-09-10T18:03:45.381172",
+  "gerado_em": "2026-09-10T21:22:41.108600",
   "navios": [
-    {
-      "navio": "MSC BIANCA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "10/09/2026",
-      "data_hora_iso": "2026-09-10T00:00:00",
-      "calado": "10,50/10,80",
-      "rota": "Bacia 2",
-      "berco": "JBS 2",
-      "posicao": null
-    },
     {
       "navio": "TENCA ARROW",
       "status": "ManobraPrevista",
@@ -22,23 +12,13 @@
       "posicao": null
     },
     {
-      "navio": "MSC MICHELA",
+      "navio": "MSC BIANCA",
       "status": "ManobraPrevista",
       "data_hora_texto": "11/09/2026",
       "data_hora_iso": "2026-09-11T00:00:00",
-      "calado": "11,30 EK",
+      "calado": "8,40/11,00",
       "rota": "",
-      "berco": "PNAVE",
-      "posicao": null
-    },
-    {
-      "navio": "COSCO SHIPPING URUGUAY",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "11/09/2026",
-      "data_hora_iso": "2026-09-11T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE 02",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -58,35 +38,35 @@
       "data_hora_iso": "2026-09-11T00:00:00",
       "calado": "10,80/11,80",
       "rota": "",
-      "berco": "JBS",
+      "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "COSCO SHIPPING URUGUAY",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "11/09/2026",
+      "data_hora_iso": "2026-09-11T00:00:00",
+      "calado": "11,20 EK",
+      "rota": "",
+      "berco": "PNAVE 02",
       "posicao": null
     },
     {
       "navio": "DALIAN EXPRESS",
       "status": "ManobraPrevista",
-      "data_hora_texto": "11/09/2026",
-      "data_hora_iso": "2026-09-11T00:00:00",
-      "calado": "TBC",
+      "data_hora_texto": "12/09/2026",
+      "data_hora_iso": "2026-09-12T00:00:00",
+      "calado": "10,30/10,50",
       "rota": "",
-      "berco": "JBS",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
-      "navio": "CMA CGM XIAMEN",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "11/09/2026",
-      "data_hora_iso": "2026-09-11T00:00:00",
-      "calado": "8,10/9,00",
-      "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
-      "navio": "MSC BELMONTE III",
+      "navio": "MSC MICHELA",
       "status": "ManobraPrevista",
       "data_hora_texto": "12/09/2026",
       "data_hora_iso": "2026-09-12T00:00:00",
-      "calado": "TBC",
+      "calado": "11,30 EK",
       "rota": "",
       "berco": "PNAVE",
       "posicao": null
@@ -102,6 +82,16 @@
       "posicao": null
     },
     {
+      "navio": "CMA CGM XIAMEN",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "12/09/2026",
+      "data_hora_iso": "2026-09-12T00:00:00",
+      "calado": "8,10/9,00",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
       "navio": "MSC ODESSA V",
       "status": "ManobraPrevista",
       "data_hora_texto": "12/09/2026",
@@ -109,6 +99,16 @@
       "calado": "6,20/8,60",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "MSC BELMONTE III",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "12/09/2026",
+      "data_hora_iso": "2026-09-12T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
       "posicao": null
     },
     {

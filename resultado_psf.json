@@ -1,32 +1,6 @@
 {
-  "gerado_em": "2026-09-10T18:03:51.825084",
+  "gerado_em": "2026-09-10T21:22:48.882373",
   "navios": [
-    {
-      "navio": "Jamaica Bay",
-      "imo": "9610717",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "09/09/2026 06:42",
-      "data_chegada_iso": "2026-09-09T06:42:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "10/09/2026 12:45",
-      "data_manobra_iso": "2026-09-10T12:45:00",
-      "berco": "BARRA 302",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Lady Lavela",
-      "imo": "9675561",
-      "agencia": "MASTER",
-      "data_chegada_texto": "31/08/2026 15:40",
-      "data_chegada_iso": "2026-08-31T15:40:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "10/09/2026 13:00",
-      "data_manobra_iso": "2026-09-10T13:00:00",
-      "berco": "BARRA 201",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "San Lorenzo Maersk",
       "imo": "9622227",
@@ -37,7 +11,7 @@
       "data_manobra": "10/09/2026 18:30",
       "data_manobra_iso": "2026-09-10T18:30:00",
       "berco": "BARRA 902",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Navios Esperados"
     },
     {
@@ -50,7 +24,7 @@
       "data_manobra": "10/09/2026 18:30",
       "data_manobra_iso": "2026-09-10T18:30:00",
       "berco": "902 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -60,11 +34,37 @@
       "data_chegada_texto": "27/08/2026 02:55",
       "data_chegada_iso": "2026-08-27T02:55:00",
       "manobra": "Desatracação e Fundeio",
-      "data_manobra": "11/09/2026 00:45",
-      "data_manobra_iso": "2026-09-11T00:45:00",
+      "data_manobra": "11/09/2026 13:45",
+      "data_manobra_iso": "2026-09-11T13:45:00",
       "berco": "301 F3",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
+    },
+    {
+      "navio": "Maersk Monte Azul",
+      "imo": "9348053",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "11/09/2026 06:00",
+      "data_chegada_iso": "2026-09-11T06:00:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "11/09/2026 14:00",
+      "data_manobra_iso": "2026-09-11T14:00:00",
+      "berco": "BARRA 902",
+      "situacao": "A Confirmar",
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "CMA CGM Veracruz",
+      "imo": "9418377",
+      "agencia": "UNIMAR",
+      "data_chegada_texto": "11/09/2026 10:00",
+      "data_chegada_iso": "2026-09-11T10:00:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "11/09/2026 15:30",
+      "data_manobra_iso": "2026-09-11T15:30:00",
+      "berco": "BARRA 901",
+      "situacao": "A Confirmar",
+      "secao": "Navios Esperados"
     },
     {
       "navio": "Vicente Pinzon",
@@ -72,12 +72,12 @@
       "agencia": "LACHMANN",
       "data_chegada_texto": "10/09/2026 10:25",
       "data_chegada_iso": "2026-09-10T10:25:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "901",
-      "situacao": null,
-      "secao": "Navios Atracados"
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "11/09/2026 15:30",
+      "data_manobra_iso": "2026-09-11T15:30:00",
+      "berco": "901 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
     },
     {
       "navio": "Ionic Patris",
@@ -104,6 +104,45 @@
       "berco": "102",
       "situacao": null,
       "secao": "Navios Atracados"
+    },
+    {
+      "navio": "Lady Lavela",
+      "imo": "9675561",
+      "agencia": "MASTER",
+      "data_chegada_texto": "31/08/2026 15:40",
+      "data_chegada_iso": "2026-08-31T15:40:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "201",
+      "situacao": null,
+      "secao": "Navios Atracados"
+    },
+    {
+      "navio": "Jamaica Bay",
+      "imo": "9610717",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "09/09/2026 06:42",
+      "data_chegada_iso": "2026-09-09T06:42:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "302",
+      "situacao": null,
+      "secao": "Navios Atracados"
+    },
+    {
+      "navio": "TSHD Galileo Galilei",
+      "imo": "9872365",
+      "agencia": "LITORAL",
+      "data_chegada_texto": "01/08/2026 01:00",
+      "data_chegada_iso": "2026-08-01T01:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "LJ Grande",
+      "situacao": null,
+      "secao": "Navios Fundeados (Internos)"
     },
     {
       "navio": "Barcaça N11",
@@ -280,32 +319,6 @@
       "agencia": "LACHMANN",
       "data_chegada_texto": "11/09/2026 03:00",
       "data_chegada_iso": "2026-09-11T03:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Maersk Monte Azul",
-      "imo": "9348053",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "11/09/2026 06:00",
-      "data_chegada_iso": "2026-09-11T06:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "CMA CGM Veracruz",
-      "imo": "9418377",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "11/09/2026 10:00",
-      "data_chegada_iso": "2026-09-11T10:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
