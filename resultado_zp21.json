@@ -1,44 +1,14 @@
 {
-  "gerado_em": "2026-09-10T10:32:41.328987",
+  "gerado_em": "2026-09-10T14:47:28.963150",
   "navios": [
-    {
-      "navio": "INDUSTRIAL SONG",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "10/09/2026",
-      "data_hora_iso": "2026-09-10T00:00:00",
-      "calado": "6,50/6,80",
-      "rota": "",
-      "berco": "BARRA DO RIO",
-      "posicao": null
-    },
     {
       "navio": "EVER FEAT",
       "status": "ManobraPrevista",
       "data_hora_texto": "10/09/2026",
       "data_hora_iso": "2026-09-10T00:00:00",
-      "calado": "10,50 EK",
+      "calado": "9,90/10,60",
       "rota": "Bacia 2",
       "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
-      "navio": "TENCA ARROW",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "10/09/2026",
-      "data_hora_iso": "2026-09-10T00:00:00",
-      "calado": "10,95/11,20",
-      "rota": "Bacia 1",
-      "berco": "JBS 4",
-      "posicao": null
-    },
-    {
-      "navio": "MSC RAYSHMI",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "10/09/2026",
-      "data_hora_iso": "2026-09-10T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -58,7 +28,17 @@
       "data_hora_iso": "2026-09-10T00:00:00",
       "calado": "10,50/10,80",
       "rota": "Bacia 2",
-      "berco": "JBS",
+      "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "TENCA ARROW",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "10/09/2026",
+      "data_hora_iso": "2026-09-10T00:00:00",
+      "calado": "10,95/11,20",
+      "rota": "Bacia 1",
+      "berco": "JBS 4",
       "posicao": null
     },
     {
@@ -72,16 +52,6 @@
       "posicao": null
     },
     {
-      "navio": "MSC YAMUNA VI",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "11/09/2026",
-      "data_hora_iso": "2026-09-11T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
       "navio": "COSCO SHIPPING URUGUAY",
       "status": "ManobraPrevista",
       "data_hora_texto": "11/09/2026",
@@ -89,6 +59,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
+      "navio": "MSC YAMUNA VI",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "11/09/2026",
+      "data_hora_iso": "2026-09-11T00:00:00",
+      "calado": "10,80/11,80",
+      "rota": "",
+      "berco": "JBS",
       "posicao": null
     },
     {
@@ -186,6 +166,16 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "15/09/2026",
       "data_hora_iso": "2026-09-15T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "LE HAVRE EXPRESS",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "17/09/2026",
+      "data_hora_iso": "2026-09-17T00:00:00",
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
