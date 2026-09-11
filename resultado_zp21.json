@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-09-10T23:41:01.910162",
+  "gerado_em": "2026-09-11T02:51:50.147075",
   "navios": [
-    {
-      "navio": "TENCA ARROW",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "10/09/2026",
-      "data_hora_iso": "2026-09-10T00:00:00",
-      "calado": "11,00/11,25",
-      "rota": "Bacia 1",
-      "berco": "JBS 4",
-      "posicao": null
-    },
     {
       "navio": "MSC BIANCA",
       "status": "ManobraPrevista",

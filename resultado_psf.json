@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-10T23:41:08.257114",
+  "gerado_em": "2026-09-11T02:51:56.346830",
   "navios": [
     {
       "navio": "Beijing 2008",
@@ -18,14 +18,14 @@
       "navio": "Maersk Monte Azul",
       "imo": "9348053",
       "agencia": "LACHMANN",
-      "data_chegada_texto": "11/09/2026 06:00",
-      "data_chegada_iso": "2026-09-11T06:00:00",
+      "data_chegada_texto": "10/09/2026 22:52",
+      "data_chegada_iso": "2026-09-10T22:52:00",
       "manobra": "Entrada e Atracação",
       "data_manobra": "11/09/2026 14:00",
       "data_manobra_iso": "2026-09-11T14:00:00",
       "berco": "BARRA 902",
       "situacao": "A Confirmar",
-      "secao": "Navios Esperados"
+      "secao": "Movimentações"
     },
     {
       "navio": "San Lorenzo Maersk",
