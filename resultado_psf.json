@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-11T02:51:56.346830",
+  "gerado_em": "2026-09-11T07:45:51.787145",
   "navios": [
     {
       "navio": "Beijing 2008",
@@ -275,6 +275,19 @@
       "secao": "Navios Fundeados (Barra)"
     },
     {
+      "navio": "Tenca Arrow",
+      "imo": "9385489",
+      "agencia": "SEATRADE",
+      "data_chegada_texto": "11/09/2026 03:36",
+      "data_chegada_iso": "2026-09-11T03:36:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "TESC",
+      "situacao": null,
+      "secao": "Navios Fundeados (Barra)"
+    },
+    {
       "navio": "Babitonga Bay",
       "imo": "9663776",
       "agencia": "WILSON SONS",
@@ -317,8 +330,8 @@
       "navio": "Astro Castor",
       "imo": "9767314",
       "agencia": "WILSON SONS",
-      "data_chegada_texto": "11/09/2026 13:00",
-      "data_chegada_iso": "2026-09-11T13:00:00",
+      "data_chegada_texto": "11/09/2026 06:00",
+      "data_chegada_iso": "2026-09-11T06:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
@@ -375,19 +388,6 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Tenca Arrow",
-      "imo": "9385489",
-      "agencia": "SEATRADE",
-      "data_chegada_texto": "12/09/2026 21:00",
-      "data_chegada_iso": "2026-09-12T21:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "TESC",
       "situacao": null,
       "secao": "Navios Esperados"
     },
