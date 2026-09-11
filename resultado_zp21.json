@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-11T19:26:24.699071",
+  "gerado_em": "2026-09-11T22:13:03.661545",
   "navios": [
     {
       "navio": "MSC YAMUNA VI",
@@ -16,7 +16,17 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "12/09/2026",
       "data_hora_iso": "2026-09-12T00:00:00",
-      "calado": "TBC",
+      "calado": "10,00/10,10",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "SAO PAULO EXPRESS",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "12/09/2026",
+      "data_hora_iso": "2026-09-12T00:00:00",
+      "calado": "10,80/11,20",
       "rota": "",
       "berco": "PNAVE",
       "posicao": null
@@ -52,13 +62,23 @@
       "posicao": null
     },
     {
-      "navio": "CMA CGM XIAMEN",
+      "navio": "MSC ODESSA V",
       "status": "ManobraPrevista",
-      "data_hora_texto": "12/09/2026",
-      "data_hora_iso": "2026-09-12T00:00:00",
-      "calado": "8,10/9,00",
+      "data_hora_texto": "13/09/2026",
+      "data_hora_iso": "2026-09-13T00:00:00",
+      "calado": "TBC",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "EVER LEADER",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "13/09/2026",
+      "data_hora_iso": "2026-09-13T00:00:00",
+      "calado": "11,90 EK",
+      "rota": "",
+      "berco": "PNAVE",
       "posicao": null
     },
     {
@@ -82,31 +102,11 @@
       "posicao": null
     },
     {
-      "navio": "MSC ODESSA V",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "13/09/2026",
-      "data_hora_iso": "2026-09-13T00:00:00",
-      "calado": "6,20/8,60",
-      "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
       "navio": "MSC BELMONTE III",
       "status": "ManobraPrevista",
       "data_hora_texto": "14/09/2026",
       "data_hora_iso": "2026-09-14T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE",
-      "posicao": null
-    },
-    {
-      "navio": "SAO PAULO EXPRESS",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "14/09/2026",
-      "data_hora_iso": "2026-09-14T00:00:00",
-      "calado": "10,80/11,20",
+      "calado": "4,70/9,00",
       "rota": "",
       "berco": "PNAVE",
       "posicao": null
@@ -119,16 +119,6 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
-      "posicao": null
-    },
-    {
-      "navio": "EVER LEADER",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "14/09/2026",
-      "data_hora_iso": "2026-09-14T00:00:00",
-      "calado": "11,90 EK",
-      "rota": "",
-      "berco": "PNAVE",
       "posicao": null
     },
     {
@@ -172,6 +162,16 @@
       "posicao": null
     },
     {
+      "navio": "LOG-IN JATOBÁ",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "17/09/2026",
+      "data_hora_iso": "2026-09-17T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
       "navio": "LE HAVRE EXPRESS",
       "status": "ManobraPrevista",
       "data_hora_texto": "17/09/2026",
@@ -189,6 +189,36 @@
       "calado": "11,95 EK",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "MSC AJACCIO",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "18/09/2026",
+      "data_hora_iso": "2026-09-18T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "MSC BIANCA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "19/09/2026",
+      "data_hora_iso": "2026-09-19T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "CAPE ARTEMISIO",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "20/09/2026",
+      "data_hora_iso": "2026-09-20T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
       "posicao": null
     },
     {

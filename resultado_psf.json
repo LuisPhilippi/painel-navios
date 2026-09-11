@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-11T19:26:31.934322",
+  "gerado_em": "2026-09-11T22:13:10.786613",
   "navios": [
     {
       "navio": "CMA CGM Veracruz",
@@ -11,7 +11,7 @@
       "data_manobra": "11/09/2026 19:00",
       "data_manobra_iso": "2026-09-11T19:00:00",
       "berco": "BARRA 901",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -24,6 +24,19 @@
       "data_manobra": "11/09/2026 19:00",
       "data_manobra_iso": "2026-09-11T19:00:00",
       "berco": "901 BARRA",
+      "situacao": "Em Andamento",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Maersk Venezia",
+      "imo": "9344681",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "11/09/2026 07:53",
+      "data_chegada_iso": "2026-09-11T07:53:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "12/09/2026 08:00",
+      "data_manobra_iso": "2026-09-12T08:00:00",
+      "berco": "BARRA 902",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
     },
@@ -33,12 +46,38 @@
       "agencia": "LACHMANN",
       "data_chegada_texto": "10/09/2026 22:52",
       "data_chegada_iso": "2026-09-10T22:52:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "902",
-      "situacao": null,
-      "secao": "Navios Atracados"
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "12/09/2026 08:00",
+      "data_manobra_iso": "2026-09-12T08:00:00",
+      "berco": "902 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Beijing 2008",
+      "imo": "9442744",
+      "agencia": "CARGONAVE",
+      "data_chegada_texto": "27/08/2026 02:55",
+      "data_chegada_iso": "2026-08-27T02:55:00",
+      "manobra": "Suspender e Sair",
+      "data_manobra": "12/09/2026 14:30",
+      "data_manobra_iso": "2026-09-12T14:30:00",
+      "berco": "F3 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Pedro Alvares Cabral",
+      "imo": "9603219",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "12/09/2026 19:30",
+      "data_chegada_iso": "2026-09-12T19:30:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "12/09/2026 19:30",
+      "data_manobra_iso": "2026-09-12T19:30:00",
+      "berco": "BARRA 901",
+      "situacao": "A Confirmar",
+      "secao": "Navios Esperados"
     },
     {
       "navio": "Ionic Patris",
@@ -91,19 +130,6 @@
       "berco": "302",
       "situacao": null,
       "secao": "Navios Atracados"
-    },
-    {
-      "navio": "Beijing 2008",
-      "imo": "9442744",
-      "agencia": "CARGONAVE",
-      "data_chegada_texto": "27/08/2026 02:55",
-      "data_chegada_iso": "2026-08-27T02:55:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "F3",
-      "situacao": null,
-      "secao": "Navios Fundeados (Internos)"
     },
     {
       "navio": "TSHD Galileo Galilei",
@@ -288,19 +314,6 @@
       "secao": "Navios Fundeados (Barra)"
     },
     {
-      "navio": "Maersk Venezia",
-      "imo": "9344681",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "11/09/2026 07:53",
-      "data_chegada_iso": "2026-09-11T07:53:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Fundeados (Barra)"
-    },
-    {
       "navio": "Babitonga Bay",
       "imo": "9663776",
       "agencia": "WILSON SONS",
@@ -362,19 +375,6 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "SFS",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Pedro Alvares Cabral",
-      "imo": "9603219",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "12/09/2026 17:00",
-      "data_chegada_iso": "2026-09-12T17:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Esperados"
     },
