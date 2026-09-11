@@ -1,45 +1,6 @@
 {
-  "gerado_em": "2026-09-11T16:53:33.603431",
+  "gerado_em": "2026-09-11T19:26:31.934322",
   "navios": [
-    {
-      "navio": "Beijing 2008",
-      "imo": "9442744",
-      "agencia": "CARGONAVE",
-      "data_chegada_texto": "27/08/2026 02:55",
-      "data_chegada_iso": "2026-08-27T02:55:00",
-      "manobra": "Desatracação e Fundeio",
-      "data_manobra": "11/09/2026 13:45",
-      "data_manobra_iso": "2026-09-11T13:45:00",
-      "berco": "301 F3",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Maersk Monte Azul",
-      "imo": "9348053",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "10/09/2026 22:52",
-      "data_chegada_iso": "2026-09-10T22:52:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "11/09/2026 14:30",
-      "data_manobra_iso": "2026-09-11T14:30:00",
-      "berco": "BARRA 902",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "San Lorenzo Maersk",
-      "imo": "9622227",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "10/09/2026 18:20",
-      "data_chegada_iso": "2026-09-10T18:20:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "11/09/2026 14:30",
-      "data_manobra_iso": "2026-09-11T14:30:00",
-      "berco": "902 BARRA",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
     {
       "navio": "CMA CGM Veracruz",
       "imo": "9418377",
@@ -65,6 +26,19 @@
       "berco": "901 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
+    },
+    {
+      "navio": "Maersk Monte Azul",
+      "imo": "9348053",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "10/09/2026 22:52",
+      "data_chegada_iso": "2026-09-10T22:52:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "902",
+      "situacao": null,
+      "secao": "Navios Atracados"
     },
     {
       "navio": "Ionic Patris",
@@ -119,6 +93,19 @@
       "secao": "Navios Atracados"
     },
     {
+      "navio": "Beijing 2008",
+      "imo": "9442744",
+      "agencia": "CARGONAVE",
+      "data_chegada_texto": "27/08/2026 02:55",
+      "data_chegada_iso": "2026-08-27T02:55:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "F3",
+      "situacao": null,
+      "secao": "Navios Fundeados (Internos)"
+    },
+    {
       "navio": "TSHD Galileo Galilei",
       "imo": "9872365",
       "agencia": "LITORAL",
@@ -166,7 +153,7 @@
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
-      "berco": null,
+      "berco": "SFS",
       "situacao": null,
       "secao": "Navios Fundeados (Barra)"
     },
@@ -327,17 +314,17 @@
       "secao": "Navios Fundeados (Barra)"
     },
     {
-      "navio": "Tai Knowledge",
-      "imo": "9799721",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "10/09/2026 15:00",
-      "data_chegada_iso": "2026-09-10T15:00:00",
+      "navio": "Dragon",
+      "imo": "9588005",
+      "agencia": "LITORAL",
+      "data_chegada_texto": "11/09/2026 13:06",
+      "data_chegada_iso": "2026-09-11T13:06:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
-      "berco": "TESC",
+      "berco": "SFS",
       "situacao": null,
-      "secao": "Navios Esperados"
+      "secao": "Navios Fundeados (Barra)"
     },
     {
       "navio": "Zim Baltimore",
@@ -388,19 +375,6 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Dragon",
-      "imo": "9588005",
-      "agencia": "LITORAL",
-      "data_chegada_texto": "13/09/2026 12:00",
-      "data_chegada_iso": "2026-09-13T12:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "SFS",
       "situacao": null,
       "secao": "Navios Esperados"
     },
@@ -492,6 +466,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Tai Knowledge",
+      "imo": "9799721",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "15/09/2026 15:00",
+      "data_chegada_iso": "2026-09-15T15:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "TESC",
       "situacao": null,
       "secao": "Navios Esperados"
     },

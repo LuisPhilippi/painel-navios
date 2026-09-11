@@ -1,34 +1,24 @@
 {
-  "gerado_em": "2026-09-11T16:53:27.250667",
+  "gerado_em": "2026-09-11T19:26:24.699071",
   "navios": [
-    {
-      "navio": "HYUNDAI FAITH",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "11/09/2026",
-      "data_hora_iso": "2026-09-11T00:00:00",
-      "calado": "10,35/11,20",
-      "rota": "",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
-      "navio": "COSCO SHIPPING URUGUAY",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "11/09/2026",
-      "data_hora_iso": "2026-09-11T00:00:00",
-      "calado": "11,20 EK",
-      "rota": "",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
     {
       "navio": "MSC YAMUNA VI",
       "status": "ManobraPrevista",
       "data_hora_texto": "11/09/2026",
       "data_hora_iso": "2026-09-11T00:00:00",
-      "calado": "10,85/11,75",
+      "calado": "10,80/11,70",
       "rota": "",
       "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "COSCO SHIPPING URUGUAY",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "12/09/2026",
+      "data_hora_iso": "2026-09-12T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
       "posicao": null
     },
     {
@@ -72,16 +62,6 @@
       "posicao": null
     },
     {
-      "navio": "MSC ODESSA V",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "12/09/2026",
-      "data_hora_iso": "2026-09-12T00:00:00",
-      "calado": "6,20/8,60",
-      "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
       "navio": "BBC RAISE",
       "status": "ManobraPrevista",
       "data_hora_texto": "13/09/2026",
@@ -97,6 +77,16 @@
       "data_hora_texto": "13/09/2026",
       "data_hora_iso": "2026-09-13T00:00:00",
       "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "MSC ODESSA V",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "13/09/2026",
+      "data_hora_iso": "2026-09-13T00:00:00",
+      "calado": "6,20/8,60",
       "rota": "",
       "berco": "JBS",
       "posicao": null
@@ -156,6 +146,26 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "15/09/2026",
       "data_hora_iso": "2026-09-15T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "LOG-IN ENDURANCE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "16/09/2026",
+      "data_hora_iso": "2026-09-16T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "MSC CAROLE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "16/09/2026",
+      "data_hora_iso": "2026-09-16T00:00:00",
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
