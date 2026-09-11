@@ -1,22 +1,12 @@
 {
-  "gerado_em": "2026-09-11T12:34:26.670305",
+  "gerado_em": "2026-09-11T16:53:27.250667",
   "navios": [
-    {
-      "navio": "MSC BIANCA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "11/09/2026",
-      "data_hora_iso": "2026-09-11T00:00:00",
-      "calado": "8,40/10,10",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
     {
       "navio": "HYUNDAI FAITH",
       "status": "ManobraPrevista",
       "data_hora_texto": "11/09/2026",
       "data_hora_iso": "2026-09-11T00:00:00",
-      "calado": "10,35/11,05",
+      "calado": "10,35/11,20",
       "rota": "",
       "berco": "PNAVE 02",
       "posicao": null
@@ -42,6 +32,16 @@
       "posicao": null
     },
     {
+      "navio": "MSC MICHELA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "12/09/2026",
+      "data_hora_iso": "2026-09-12T00:00:00",
+      "calado": "11,35/11,45",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
       "navio": "DALIAN EXPRESS",
       "status": "ManobraPrevista",
       "data_hora_texto": "12/09/2026",
@@ -49,16 +49,6 @@
       "calado": "10,30/10,50",
       "rota": "",
       "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "MSC MICHELA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "12/09/2026",
-      "data_hora_iso": "2026-09-12T00:00:00",
-      "calado": "11,30 EK",
-      "rota": "",
-      "berco": "PNAVE",
       "posicao": null
     },
     {
@@ -92,16 +82,6 @@
       "posicao": null
     },
     {
-      "navio": "MSC BELMONTE III",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "12/09/2026",
-      "data_hora_iso": "2026-09-12T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE",
-      "posicao": null
-    },
-    {
       "navio": "BBC RAISE",
       "status": "ManobraPrevista",
       "data_hora_texto": "13/09/2026",
@@ -122,6 +102,16 @@
       "posicao": null
     },
     {
+      "navio": "MSC BELMONTE III",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "14/09/2026",
+      "data_hora_iso": "2026-09-14T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
       "navio": "SAO PAULO EXPRESS",
       "status": "ManobraPrevista",
       "data_hora_texto": "14/09/2026",
@@ -139,6 +129,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "EVER LEADER",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "14/09/2026",
+      "data_hora_iso": "2026-09-14T00:00:00",
+      "calado": "11,90 EK",
+      "rota": "",
+      "berco": "PNAVE",
       "posicao": null
     },
     {
@@ -230,16 +230,6 @@
       "rota": "",
       "berco": "JBS",
       "posicao": null
-    },
-    {
-      "navio": "EVER LEADER",
-      "status": "Fundeado",
-      "data_hora_texto": "10/09/2026 - 00:13",
-      "data_hora_iso": "2026-09-10T00:13:00",
-      "calado": "11,90 EK",
-      "rota": "",
-      "berco": null,
-      "posicao": "26 50,67 S / 048 31,23 W"
     },
     {
       "navio": "GEMSBOK",
