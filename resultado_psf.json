@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-11T07:45:51.787145",
+  "gerado_em": "2026-09-11T12:34:33.002131",
   "navios": [
     {
       "navio": "Beijing 2008",
@@ -44,14 +44,14 @@
       "navio": "CMA CGM Veracruz",
       "imo": "9418377",
       "agencia": "UNIMAR",
-      "data_chegada_texto": "11/09/2026 10:00",
-      "data_chegada_iso": "2026-09-11T10:00:00",
+      "data_chegada_texto": "11/09/2026 08:30",
+      "data_chegada_iso": "2026-09-11T08:30:00",
       "manobra": "Entrada e Atracação",
       "data_manobra": "11/09/2026 15:30",
       "data_manobra_iso": "2026-09-11T15:30:00",
       "berco": "BARRA 901",
       "situacao": "A Confirmar",
-      "secao": "Navios Esperados"
+      "secao": "Movimentações"
     },
     {
       "navio": "Vicente Pinzon",
@@ -288,6 +288,32 @@
       "secao": "Navios Fundeados (Barra)"
     },
     {
+      "navio": "Astro Castor",
+      "imo": "9767314",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "11/09/2026 06:01",
+      "data_chegada_iso": "2026-09-11T06:01:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "SFS",
+      "situacao": null,
+      "secao": "Navios Fundeados (Barra)"
+    },
+    {
+      "navio": "Maersk Venezia",
+      "imo": "9344681",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "11/09/2026 07:53",
+      "data_chegada_iso": "2026-09-11T07:53:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Fundeados (Barra)"
+    },
+    {
       "navio": "Babitonga Bay",
       "imo": "9663776",
       "agencia": "WILSON SONS",
@@ -310,32 +336,6 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "TESC",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Maersk Venezia",
-      "imo": "9344681",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "11/09/2026 03:00",
-      "data_chegada_iso": "2026-09-11T03:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Astro Castor",
-      "imo": "9767314",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "11/09/2026 06:00",
-      "data_chegada_iso": "2026-09-11T06:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "SFS",
       "situacao": null,
       "secao": "Navios Esperados"
     },

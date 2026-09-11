@@ -1,12 +1,12 @@
 {
-  "gerado_em": "2026-09-11T07:45:44.520494",
+  "gerado_em": "2026-09-11T12:34:26.670305",
   "navios": [
     {
       "navio": "MSC BIANCA",
       "status": "ManobraPrevista",
       "data_hora_texto": "11/09/2026",
       "data_hora_iso": "2026-09-11T00:00:00",
-      "calado": "8,40/11,00",
+      "calado": "8,40/10,10",
       "rota": "",
       "berco": "JBS 2",
       "posicao": null
@@ -22,16 +22,6 @@
       "posicao": null
     },
     {
-      "navio": "MSC YAMUNA VI",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "11/09/2026",
-      "data_hora_iso": "2026-09-11T00:00:00",
-      "calado": "10,85/11,75",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
       "navio": "COSCO SHIPPING URUGUAY",
       "status": "ManobraPrevista",
       "data_hora_texto": "11/09/2026",
@@ -39,6 +29,16 @@
       "calado": "11,20 EK",
       "rota": "",
       "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
+      "navio": "MSC YAMUNA VI",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "11/09/2026",
+      "data_hora_iso": "2026-09-11T00:00:00",
+      "calado": "10,85/11,75",
+      "rota": "",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
