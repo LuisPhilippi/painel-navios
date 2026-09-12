@@ -1,19 +1,6 @@
 {
-  "gerado_em": "2026-09-12T13:51:04.638324",
+  "gerado_em": "2026-09-12T16:43:33.899497",
   "navios": [
-    {
-      "navio": "Maersk Venezia",
-      "imo": "9344681",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "11/09/2026 07:53",
-      "data_chegada_iso": "2026-09-11T07:53:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "12/09/2026 09:30",
-      "data_manobra_iso": "2026-09-12T09:30:00",
-      "berco": "BARRA 902",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Beijing 2008",
       "imo": "9442744",
@@ -24,7 +11,7 @@
       "data_manobra": "12/09/2026 14:30",
       "data_manobra_iso": "2026-09-12T14:30:00",
       "berco": "F3 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -34,8 +21,8 @@
       "data_chegada_texto": "11/09/2026 08:30",
       "data_chegada_iso": "2026-09-11T08:30:00",
       "manobra": "Desatracação e Saída",
-      "data_manobra": "12/09/2026 15:00",
-      "data_manobra_iso": "2026-09-12T15:00:00",
+      "data_manobra": "12/09/2026 16:00",
+      "data_manobra_iso": "2026-09-12T16:00:00",
       "berco": "901 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
@@ -52,6 +39,19 @@
       "berco": "BARRA 901",
       "situacao": "A Confirmar",
       "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Maersk Venezia",
+      "imo": "9344681",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "11/09/2026 07:53",
+      "data_chegada_iso": "2026-09-11T07:53:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "902",
+      "situacao": null,
+      "secao": "Navios Atracados"
     },
     {
       "navio": "Ionic Patris",
