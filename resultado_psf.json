@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-12T10:02:04.437704",
+  "gerado_em": "2026-09-12T13:51:04.638324",
   "navios": [
     {
       "navio": "Maersk Venezia",
@@ -11,20 +11,7 @@
       "data_manobra": "12/09/2026 09:30",
       "data_manobra_iso": "2026-09-12T09:30:00",
       "berco": "BARRA 902",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Maersk Monte Azul",
-      "imo": "9348053",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "10/09/2026 22:52",
-      "data_chegada_iso": "2026-09-10T22:52:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "12/09/2026 09:30",
-      "data_manobra_iso": "2026-09-12T09:30:00",
-      "berco": "902 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
