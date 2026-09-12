@@ -1,11 +1,11 @@
 {
-  "gerado_em": "2026-09-12T00:53:02.157305",
+  "gerado_em": "2026-09-12T05:22:45.656916",
   "navios": [
     {
       "navio": "MSC YAMUNA VI",
       "status": "ManobraPrevista",
-      "data_hora_texto": "11/09/2026",
-      "data_hora_iso": "2026-09-11T00:00:00",
+      "data_hora_texto": "12/09/2026",
+      "data_hora_iso": "2026-09-12T00:00:00",
       "calado": "10,80/11,70",
       "rota": "",
       "berco": "JBS 2",
@@ -34,8 +34,8 @@
     {
       "navio": "DALIAN EXPRESS",
       "status": "ManobraPrevista",
-      "data_hora_texto": "12/09/2026",
-      "data_hora_iso": "2026-09-12T00:00:00",
+      "data_hora_texto": "13/09/2026",
+      "data_hora_iso": "2026-09-13T00:00:00",
       "calado": "10,30/10,50",
       "rota": "",
       "berco": "JBS 2",
