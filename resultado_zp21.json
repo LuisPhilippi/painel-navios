@@ -1,6 +1,16 @@
 {
-  "gerado_em": "2026-09-12T18:55:50.141729",
+  "gerado_em": "2026-09-12T21:12:17.290314",
   "navios": [
+    {
+      "navio": "MSC ODESSA V",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "13/09/2026",
+      "data_hora_iso": "2026-09-13T00:00:00",
+      "calado": "6,20/8,60",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
     {
       "navio": "COSCO SHIPPING URUGUAY",
       "status": "ManobraPrevista",
@@ -12,73 +22,23 @@
       "posicao": null
     },
     {
-      "navio": "ACASTOS",
+      "navio": "SAO PAULO EXPRESS",
       "status": "ManobraPrevista",
       "data_hora_texto": "13/09/2026",
       "data_hora_iso": "2026-09-13T00:00:00",
-      "calado": "TBC",
+      "calado": "10,80/11,20",
       "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
-      "navio": "EVER LEADER",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "13/09/2026",
-      "data_hora_iso": "2026-09-13T00:00:00",
-      "calado": "11,90 EK",
-      "rota": "Bacia 2",
       "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
-      "navio": "MSC MAXINE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "13/09/2026",
-      "data_hora_iso": "2026-09-13T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
-      "navio": "DALIAN EXPRESS",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "14/09/2026",
-      "data_hora_iso": "2026-09-14T00:00:00",
-      "calado": "10,30/10,50",
-      "rota": "",
-      "berco": "JBS 2",
       "posicao": null
     },
     {
       "navio": "MSC MICHELA",
       "status": "ManobraPrevista",
-      "data_hora_texto": "14/09/2026",
-      "data_hora_iso": "2026-09-14T00:00:00",
+      "data_hora_texto": "13/09/2026",
+      "data_hora_iso": "2026-09-13T00:00:00",
       "calado": "11,35/11,45",
-      "rota": "Bacia 2",
+      "rota": "",
       "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "MSC BELMONTE III",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "14/09/2026",
-      "data_hora_iso": "2026-09-14T00:00:00",
-      "calado": "4,70/9,00",
-      "rota": "",
-      "berco": "PNAVE",
-      "posicao": null
-    },
-    {
-      "navio": "MSC ODESSA V",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "14/09/2026",
-      "data_hora_iso": "2026-09-14T00:00:00",
-      "calado": "6,20/8,60",
-      "rota": "",
-      "berco": "JBS",
       "posicao": null
     },
     {
@@ -92,13 +52,33 @@
       "posicao": null
     },
     {
-      "navio": "SAO PAULO EXPRESS",
+      "navio": "ACASTOS",
       "status": "ManobraPrevista",
       "data_hora_texto": "14/09/2026",
       "data_hora_iso": "2026-09-14T00:00:00",
-      "calado": "10,80/11,20",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "EVER LEADER",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "14/09/2026",
+      "data_hora_iso": "2026-09-14T00:00:00",
+      "calado": "11,90 EK",
       "rota": "Bacia 2",
       "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
+      "navio": "MSC MAXINE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "14/09/2026",
+      "data_hora_iso": "2026-09-14T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
       "posicao": null
     },
     {
@@ -129,6 +109,26 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "DALIAN EXPRESS",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "16/09/2026",
+      "data_hora_iso": "2026-09-16T00:00:00",
+      "calado": "10,30/10,50",
+      "rota": "",
+      "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "MSC BELMONTE III",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "16/09/2026",
+      "data_hora_iso": "2026-09-16T00:00:00",
+      "calado": "4,70/9,00",
+      "rota": "",
+      "berco": "PNAVE",
       "posicao": null
     },
     {

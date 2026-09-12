@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-12T18:55:57.230246",
+  "gerado_em": "2026-09-12T21:12:24.394542",
   "navios": [
     {
       "navio": "Beijing 2008",
@@ -15,30 +15,30 @@
       "secao": "Movimentações"
     },
     {
-      "navio": "CMA CGM Veracruz",
-      "imo": "9418377",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "11/09/2026 08:30",
-      "data_chegada_iso": "2026-09-11T08:30:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "12/09/2026 15:45",
-      "data_manobra_iso": "2026-09-12T15:45:00",
-      "berco": "901 BARRA",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
-    {
       "navio": "Pedro Alvares Cabral",
       "imo": "9603219",
       "agencia": "LACHMANN",
       "data_chegada_texto": "12/09/2026 19:00",
       "data_chegada_iso": "2026-09-12T19:00:00",
       "manobra": "Entrada e Atracação",
-      "data_manobra": "12/09/2026 19:00",
-      "data_manobra_iso": "2026-09-12T19:00:00",
+      "data_manobra": "12/09/2026 19:30",
+      "data_manobra_iso": "2026-09-12T19:30:00",
       "berco": "BARRA 901",
       "situacao": "A Confirmar",
       "secao": "Navios Esperados"
+    },
+    {
+      "navio": "CMA CGM Veracruz",
+      "imo": "9418377",
+      "agencia": "UNIMAR",
+      "data_chegada_texto": "11/09/2026 08:30",
+      "data_chegada_iso": "2026-09-11T08:30:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "12/09/2026 19:30",
+      "data_manobra_iso": "2026-09-12T19:30:00",
+      "berco": "901 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
     },
     {
       "navio": "Maersk Venezia",
