@@ -1,45 +1,6 @@
 {
-  "gerado_em": "2026-09-13T13:38:04.007852",
+  "gerado_em": "2026-09-13T17:13:34.234476",
   "navios": [
-    {
-      "navio": "Seastar Viking",
-      "imo": "9690896",
-      "agencia": "CARGONAVE",
-      "data_chegada_texto": "02/09/2026 06:30",
-      "data_chegada_iso": "2026-09-02T06:30:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "13/09/2026 10:00",
-      "data_manobra_iso": "2026-09-13T10:00:00",
-      "berco": "BARRA 201",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Lady Lavela",
-      "imo": "9675561",
-      "agencia": "MASTER",
-      "data_chegada_texto": "31/08/2026 15:40",
-      "data_chegada_iso": "2026-08-31T15:40:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "13/09/2026 10:00",
-      "data_manobra_iso": "2026-09-13T10:00:00",
-      "berco": "201 BARRA",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Maersk San Juan",
-      "imo": "9717204",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "13/09/2026 10:00",
-      "data_chegada_iso": "2026-09-13T10:00:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "13/09/2026 12:00",
-      "data_manobra_iso": "2026-09-13T12:00:00",
-      "berco": "BARRA 901",
-      "situacao": "Confirmado",
-      "secao": "Navios Esperados"
-    },
     {
       "navio": "Tenca Arrow",
       "imo": "9385489",
@@ -50,7 +11,7 @@
       "data_manobra": "13/09/2026 14:45",
       "data_manobra_iso": "2026-09-13T14:45:00",
       "berco": "BARRA 301",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -63,7 +24,7 @@
       "data_manobra": "13/09/2026 14:45",
       "data_manobra_iso": "2026-09-13T14:45:00",
       "berco": "101 F3",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -76,7 +37,7 @@
       "data_manobra": "13/09/2026 15:00",
       "data_manobra_iso": "2026-09-13T15:00:00",
       "berco": "BARRA 101",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -169,6 +130,32 @@
       "berco": "BARRA F4 (P3)",
       "situacao": "A Confirmar",
       "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Maersk San Juan",
+      "imo": "9717204",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "13/09/2026 12:00",
+      "data_chegada_iso": "2026-09-13T12:00:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "14/09/2026 16:00",
+      "data_manobra_iso": "2026-09-14T16:00:00",
+      "berco": "901 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Seastar Viking",
+      "imo": "9690896",
+      "agencia": "CARGONAVE",
+      "data_chegada_texto": "02/09/2026 06:30",
+      "data_chegada_iso": "2026-09-02T06:30:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "201",
+      "situacao": null,
+      "secao": "Navios Atracados"
     },
     {
       "navio": "TSHD Galileo Galilei",
@@ -340,19 +327,6 @@
       "secao": "Navios Fundeados (Barra)"
     },
     {
-      "navio": "Pio Grande",
-      "imo": "9647863",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "13/09/2026 13:00",
-      "data_chegada_iso": "2026-09-13T13:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "TESC",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
       "navio": "Lyra M",
       "imo": "9668063",
       "agencia": "ZPORT AGENCIA",
@@ -366,15 +340,15 @@
       "secao": "Navios Esperados"
     },
     {
-      "navio": "Sakizaya Future",
-      "imo": "9713818",
-      "agencia": "LITORAL",
-      "data_chegada_texto": "14/09/2026 10:00",
-      "data_chegada_iso": "2026-09-14T10:00:00",
+      "navio": "Pio Grande",
+      "imo": "9647863",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "14/09/2026 18:00",
+      "data_chegada_iso": "2026-09-14T18:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
-      "berco": "SFS",
+      "berco": "TESC",
       "situacao": null,
       "secao": "Navios Esperados"
     },
@@ -483,6 +457,19 @@
       "secao": "Navios Esperados"
     },
     {
+      "navio": "Sakizaya Future",
+      "imo": "9713818",
+      "agencia": "LITORAL",
+      "data_chegada_texto": "17/09/2026 10:00",
+      "data_chegada_iso": "2026-09-17T10:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "SFS",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
       "navio": "Maersk San Lazaro",
       "imo": "9717216",
       "agencia": "LACHMANN",
@@ -525,8 +512,8 @@
       "navio": "Mercosul Fortaleza",
       "imo": "9784661",
       "agencia": "UNIMAR",
-      "data_chegada_texto": "18/09/2026 08:00",
-      "data_chegada_iso": "2026-09-18T08:00:00",
+      "data_chegada_texto": "18/09/2026 10:00",
+      "data_chegada_iso": "2026-09-18T10:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
@@ -618,6 +605,32 @@
       "agencia": "LACHMANN",
       "data_chegada_texto": "22/09/2026 07:00",
       "data_chegada_iso": "2026-09-22T07:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Maersk Acadia",
+      "imo": "9928188",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "23/09/2026 18:00",
+      "data_chegada_iso": "2026-09-23T18:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Bartolomeu Dias",
+      "imo": "9625384",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "24/09/2026 05:00",
+      "data_chegada_iso": "2026-09-24T05:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
