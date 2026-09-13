@@ -1,45 +1,6 @@
 {
-  "gerado_em": "2026-09-13T17:13:34.234476",
+  "gerado_em": "2026-09-13T20:16:22.314618",
   "navios": [
-    {
-      "navio": "Tenca Arrow",
-      "imo": "9385489",
-      "agencia": "SEATRADE",
-      "data_chegada_texto": "11/09/2026 03:36",
-      "data_chegada_iso": "2026-09-11T03:36:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "13/09/2026 14:45",
-      "data_manobra_iso": "2026-09-13T14:45:00",
-      "berco": "BARRA 301",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Ionic Patris",
-      "imo": "9785366",
-      "agencia": "ALPHAMAR",
-      "data_chegada_texto": "30/08/2026 10:30",
-      "data_chegada_iso": "2026-08-30T10:30:00",
-      "manobra": "Desatracação e Fundeio",
-      "data_manobra": "13/09/2026 14:45",
-      "data_manobra_iso": "2026-09-13T14:45:00",
-      "berco": "101 F3",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Petit Lancy",
-      "imo": "9999814",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "05/09/2026 23:03",
-      "data_chegada_iso": "2026-09-05T23:03:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "13/09/2026 15:00",
-      "data_manobra_iso": "2026-09-13T15:00:00",
-      "berco": "BARRA 101",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Maersk Lota",
       "imo": "9526954",
@@ -145,6 +106,32 @@
       "secao": "Movimentações"
     },
     {
+      "navio": "Ionic Patris",
+      "imo": "9785366",
+      "agencia": "ALPHAMAR",
+      "data_chegada_texto": "30/08/2026 10:30",
+      "data_chegada_iso": "2026-08-30T10:30:00",
+      "manobra": "Suspender e Sair",
+      "data_manobra": "14/09/2026 16:00",
+      "data_manobra_iso": "2026-09-14T16:00:00",
+      "berco": "F3 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Petit Lancy",
+      "imo": "9999814",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "05/09/2026 23:03",
+      "data_chegada_iso": "2026-09-05T23:03:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "101",
+      "situacao": null,
+      "secao": "Navios Atracados"
+    },
+    {
       "navio": "Seastar Viking",
       "imo": "9690896",
       "agencia": "CARGONAVE",
@@ -154,6 +141,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "201",
+      "situacao": null,
+      "secao": "Navios Atracados"
+    },
+    {
+      "navio": "Tenca Arrow",
+      "imo": "9385489",
+      "agencia": "SEATRADE",
+      "data_chegada_texto": "11/09/2026 03:36",
+      "data_chegada_iso": "2026-09-11T03:36:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "301",
       "situacao": null,
       "secao": "Navios Atracados"
     },

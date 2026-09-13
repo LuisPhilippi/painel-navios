@@ -1,21 +1,11 @@
 {
-  "gerado_em": "2026-09-13T17:13:28.136751",
+  "gerado_em": "2026-09-13T20:16:13.849500",
   "navios": [
-    {
-      "navio": "MSC ODESSA V",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "13/09/2026",
-      "data_hora_iso": "2026-09-13T00:00:00",
-      "calado": "6,20/8,60",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
     {
       "navio": "COSCO SHIPPING URUGUAY",
       "status": "ManobraPrevista",
-      "data_hora_texto": "13/09/2026",
-      "data_hora_iso": "2026-09-13T00:00:00",
+      "data_hora_texto": "14/09/2026",
+      "data_hora_iso": "2026-09-14T00:00:00",
       "calado": "10,00/10,10",
       "rota": "Bacia 2",
       "berco": "PNAVE 02",
@@ -24,11 +14,21 @@
     {
       "navio": "SAO PAULO EXPRESS",
       "status": "ManobraPrevista",
-      "data_hora_texto": "13/09/2026",
-      "data_hora_iso": "2026-09-13T00:00:00",
+      "data_hora_texto": "14/09/2026",
+      "data_hora_iso": "2026-09-14T00:00:00",
       "calado": "10,80/11,20",
       "rota": "",
       "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
+      "navio": "MSC ODESSA V",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "14/09/2026",
+      "data_hora_iso": "2026-09-14T00:00:00",
+      "calado": "6,20/8,60",
+      "rota": "",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -39,6 +39,16 @@
       "calado": "11,35/11,45",
       "rota": "",
       "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
+      "navio": "MSC MAXINE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "14/09/2026",
+      "data_hora_iso": "2026-09-14T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
       "posicao": null
     },
     {
@@ -53,26 +63,6 @@
     },
     {
       "navio": "ACASTOS",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "14/09/2026",
-      "data_hora_iso": "2026-09-14T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
-      "navio": "EVER LEADER",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "14/09/2026",
-      "data_hora_iso": "2026-09-14T00:00:00",
-      "calado": "11,90 EK",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
-      "navio": "MSC MAXINE",
       "status": "ManobraPrevista",
       "data_hora_texto": "14/09/2026",
       "data_hora_iso": "2026-09-14T00:00:00",
@@ -139,6 +129,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "EVER LEADER",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "16/09/2026",
+      "data_hora_iso": "2026-09-16T00:00:00",
+      "calado": "11,90 EK",
+      "rota": "Bacia 2",
+      "berco": "PNAVE 02",
       "posicao": null
     },
     {
