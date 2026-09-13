@@ -1,45 +1,6 @@
 {
-  "gerado_em": "2026-09-13T08:12:14.800175",
+  "gerado_em": "2026-09-13T13:38:04.007852",
   "navios": [
-    {
-      "navio": "CMA CGM Veracruz",
-      "imo": "9418377",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "11/09/2026 08:30",
-      "data_chegada_iso": "2026-09-11T08:30:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "13/09/2026 08:00",
-      "data_manobra_iso": "2026-09-13T08:00:00",
-      "berco": "901 BARRA",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Zim Baltimore",
-      "imo": "9395953",
-      "agencia": "ZIM DO BRASIL",
-      "data_chegada_texto": "13/09/2026 02:00",
-      "data_chegada_iso": "2026-09-13T02:00:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "13/09/2026 08:15",
-      "data_manobra_iso": "2026-09-13T08:15:00",
-      "berco": "BARRA 902",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Maersk Venezia",
-      "imo": "9344681",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "11/09/2026 07:53",
-      "data_chegada_iso": "2026-09-11T07:53:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "13/09/2026 08:15",
-      "data_manobra_iso": "2026-09-13T08:15:00",
-      "berco": "902 BARRA",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Seastar Viking",
       "imo": "9690896",
@@ -50,7 +11,7 @@
       "data_manobra": "13/09/2026 10:00",
       "data_manobra_iso": "2026-09-13T10:00:00",
       "berco": "BARRA 201",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -63,7 +24,7 @@
       "data_manobra": "13/09/2026 10:00",
       "data_manobra_iso": "2026-09-13T10:00:00",
       "berco": "201 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -73,37 +34,11 @@
       "data_chegada_texto": "13/09/2026 10:00",
       "data_chegada_iso": "2026-09-13T10:00:00",
       "manobra": "Entrada e Atracação",
-      "data_manobra": "13/09/2026 12:30",
-      "data_manobra_iso": "2026-09-13T12:30:00",
+      "data_manobra": "13/09/2026 12:00",
+      "data_manobra_iso": "2026-09-13T12:00:00",
       "berco": "BARRA 901",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Navios Esperados"
-    },
-    {
-      "navio": "WL Palekh",
-      "imo": "9674397",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "03/09/2026 18:30",
-      "data_chegada_iso": "2026-09-03T18:30:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "13/09/2026 12:45",
-      "data_manobra_iso": "2026-09-13T12:45:00",
-      "berco": "BARRA 102",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Trigon Trader",
-      "imo": "9863845",
-      "agencia": "OCEÂNICA",
-      "data_chegada_texto": "28/08/2026 16:42",
-      "data_chegada_iso": "2026-08-28T16:42:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "13/09/2026 12:45",
-      "data_manobra_iso": "2026-09-13T12:45:00",
-      "berco": "102 BARRA",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
     },
     {
       "navio": "Tenca Arrow",
@@ -115,6 +50,19 @@
       "data_manobra": "13/09/2026 14:45",
       "data_manobra_iso": "2026-09-13T14:45:00",
       "berco": "BARRA 301",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Ionic Patris",
+      "imo": "9785366",
+      "agencia": "ALPHAMAR",
+      "data_chegada_texto": "30/08/2026 10:30",
+      "data_chegada_iso": "2026-08-30T10:30:00",
+      "manobra": "Desatracação e Fundeio",
+      "data_manobra": "13/09/2026 14:45",
+      "data_manobra_iso": "2026-09-13T14:45:00",
+      "berco": "101 F3",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
     },
@@ -132,19 +80,6 @@
       "secao": "Movimentações"
     },
     {
-      "navio": "Ionic Patris",
-      "imo": "9785366",
-      "agencia": "ALPHAMAR",
-      "data_chegada_texto": "30/08/2026 10:30",
-      "data_chegada_iso": "2026-08-30T10:30:00",
-      "manobra": "Desatracação e Fundeio",
-      "data_manobra": "13/09/2026 15:00",
-      "data_manobra_iso": "2026-09-13T15:00:00",
-      "berco": "101 F3",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
       "navio": "Maersk Lota",
       "imo": "9526954",
       "agencia": "LACHMANN",
@@ -158,6 +93,19 @@
       "secao": "Navios Esperados"
     },
     {
+      "navio": "Zim Baltimore",
+      "imo": "9395953",
+      "agencia": "ZIM DO BRASIL",
+      "data_chegada_texto": "13/09/2026 02:00",
+      "data_chegada_iso": "2026-09-13T02:00:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "13/09/2026 21:00",
+      "data_manobra_iso": "2026-09-13T21:00:00",
+      "berco": "902 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
       "navio": "Jamaica Bay",
       "imo": "9610717",
       "agencia": "WILSON SONS",
@@ -169,6 +117,58 @@
       "berco": "302 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
+    },
+    {
+      "navio": "Babitonga Bay",
+      "imo": "9663776",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "11/09/2026 10:00",
+      "data_chegada_iso": "2026-09-11T10:00:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "14/09/2026 02:15",
+      "data_manobra_iso": "2026-09-14T02:15:00",
+      "berco": "BARRA 302",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "WL Palekh",
+      "imo": "9674397",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "03/09/2026 18:30",
+      "data_chegada_iso": "2026-09-03T18:30:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "14/09/2026 02:30",
+      "data_manobra_iso": "2026-09-14T02:30:00",
+      "berco": "BARRA 102",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Trigon Trader",
+      "imo": "9863845",
+      "agencia": "OCEÂNICA",
+      "data_chegada_texto": "28/08/2026 16:42",
+      "data_chegada_iso": "2026-08-28T16:42:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "14/09/2026 02:30",
+      "data_manobra_iso": "2026-09-14T02:30:00",
+      "berco": "102 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Barcaça N09",
+      "imo": "9326005",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "14/09/2026 07:00",
+      "data_chegada_iso": "2026-09-14T07:00:00",
+      "manobra": "Entrada e Fundeio",
+      "data_manobra": "14/09/2026 08:00",
+      "data_manobra_iso": "2026-09-14T08:00:00",
+      "berco": "BARRA F4 (P3)",
+      "situacao": "A Confirmar",
+      "secao": "Navios Esperados"
     },
     {
       "navio": "TSHD Galileo Galilei",
@@ -301,19 +301,6 @@
       "secao": "Navios Fundeados (Barra)"
     },
     {
-      "navio": "Babitonga Bay",
-      "imo": "9663776",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "11/09/2026 10:00",
-      "data_chegada_iso": "2026-09-11T10:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "TESC",
-      "situacao": null,
-      "secao": "Navios Fundeados (Barra)"
-    },
-    {
       "navio": "Dragon",
       "imo": "9588005",
       "agencia": "LITORAL",
@@ -375,19 +362,6 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "SFS",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Barcaça N09",
-      "imo": "9326005",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "14/09/2026 07:00",
-      "data_chegada_iso": "2026-09-14T07:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "TESC",
       "situacao": null,
       "secao": "Navios Esperados"
     },
