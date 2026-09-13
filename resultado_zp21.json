@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-12T23:42:15.716922",
+  "gerado_em": "2026-09-13T02:59:33.472223",
   "navios": [
     {
       "navio": "MSC ODESSA V",
@@ -260,6 +260,26 @@
       "rota": "",
       "berco": "JBS",
       "posicao": null
+    },
+    {
+      "navio": "AGIOS PORFYRIOS",
+      "status": "Fundeado",
+      "data_hora_texto": "12/09/2026 - 21:21",
+      "data_hora_iso": "2026-09-12T21:21:00",
+      "calado": "4,50/6,20",
+      "rota": "",
+      "berco": null,
+      "posicao": "26 52,64 S / 048 29,77 W"
+    },
+    {
+      "navio": "MERCOSUL SUAPE",
+      "status": "Fundeado",
+      "data_hora_texto": "12/09/2026 - 23:04",
+      "data_hora_iso": "2026-09-12T23:04:00",
+      "calado": "10,70/11,30",
+      "rota": "",
+      "berco": null,
+      "posicao": "26 57,68 S / 048 32,19 W"
     },
     {
       "navio": "GEMSBOK",
