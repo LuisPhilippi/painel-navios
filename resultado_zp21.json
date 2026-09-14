@@ -1,14 +1,24 @@
 {
-  "gerado_em": "2026-09-14T17:37:03.351482",
+  "gerado_em": "2026-09-14T21:25:32.275207",
   "navios": [
     {
-      "navio": "ACASTOS",
+      "navio": "SAO PAULO EXPRESS",
       "status": "ManobraPrevista",
       "data_hora_texto": "15/09/2026",
       "data_hora_iso": "2026-09-15T00:00:00",
-      "calado": "TBC",
+      "calado": "11,80 EK",
+      "rota": "Bacia 2",
+      "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
+      "navio": "EVER LEADER",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "15/09/2026",
+      "data_hora_iso": "2026-09-15T00:00:00",
+      "calado": "11,90 EK",
       "rota": "",
-      "berco": "JBS",
+      "berco": "PNAVE 02",
       "posicao": null
     },
     {
@@ -22,73 +32,43 @@
       "posicao": null
     },
     {
-      "navio": "NAVIOS DOMINO",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "15/09/2026",
-      "data_hora_iso": "2026-09-15T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
-      "navio": "NC BRISA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "15/09/2026",
-      "data_hora_iso": "2026-09-15T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
-      "navio": "SAO PAULO EXPRESS",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "15/09/2026",
-      "data_hora_iso": "2026-09-15T00:00:00",
-      "calado": "11,80 EK",
-      "rota": "",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
-      "navio": "SANTA CATARINA EXPRESS",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "15/09/2026",
-      "data_hora_iso": "2026-09-15T00:00:00",
-      "calado": "9,60/10,70",
-      "rota": "",
-      "berco": "PNAVE",
-      "posicao": null
-    },
-    {
-      "navio": "MAERSK LOTA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "15/09/2026",
-      "data_hora_iso": "2026-09-15T00:00:00",
-      "calado": "11,00 EK",
-      "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
       "navio": "DALIAN EXPRESS",
       "status": "ManobraPrevista",
-      "data_hora_texto": "16/09/2026",
-      "data_hora_iso": "2026-09-16T00:00:00",
+      "data_hora_texto": "15/09/2026",
+      "data_hora_iso": "2026-09-15T00:00:00",
       "calado": "10,30/10,50",
       "rota": "",
       "berco": "JBS 2",
       "posicao": null
     },
     {
-      "navio": "MSC BELMONTE III",
+      "navio": "NAVIOS DOMINO",
       "status": "ManobraPrevista",
-      "data_hora_texto": "16/09/2026",
-      "data_hora_iso": "2026-09-16T00:00:00",
-      "calado": "4,70/9,00",
+      "data_hora_texto": "15/09/2026",
+      "data_hora_iso": "2026-09-15T00:00:00",
+      "calado": "TBC",
       "rota": "",
-      "berco": "PNAVE",
+      "berco": "JBS 4",
+      "posicao": null
+    },
+    {
+      "navio": "MSC MICHELA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "15/09/2026",
+      "data_hora_iso": "2026-09-15T00:00:00",
+      "calado": "11,55/11,80",
+      "rota": "",
+      "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
+      "navio": "LOG-IN ENDURANCE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "15/09/2026",
+      "data_hora_iso": "2026-09-15T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
@@ -102,31 +82,41 @@
       "posicao": null
     },
     {
-      "navio": "LOG-IN ENDURANCE",
+      "navio": "MAERSK LOTA",
       "status": "ManobraPrevista",
       "data_hora_texto": "16/09/2026",
       "data_hora_iso": "2026-09-16T00:00:00",
-      "calado": "TBC",
+      "calado": "11,00 EK",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "MSC BELMONTE III",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "16/09/2026",
+      "data_hora_iso": "2026-09-16T00:00:00",
+      "calado": "4,70/9,00",
       "rota": "",
       "berco": "PNAVE",
       "posicao": null
     },
     {
-      "navio": "EVER LEADER",
+      "navio": "NC BRISA",
       "status": "ManobraPrevista",
       "data_hora_texto": "16/09/2026",
       "data_hora_iso": "2026-09-16T00:00:00",
-      "calado": "11,90 EK",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 02",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
       "posicao": null
     },
     {
-      "navio": "MSC MICHELA",
+      "navio": "SANTA CATARINA EXPRESS",
       "status": "ManobraPrevista",
       "data_hora_texto": "16/09/2026",
       "data_hora_iso": "2026-09-16T00:00:00",
-      "calado": "11,75/11,95",
+      "calado": "9,60/10,70",
       "rota": "",
       "berco": "PNAVE",
       "posicao": null
@@ -176,6 +166,26 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "17/09/2026",
       "data_hora_iso": "2026-09-17T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "ACASTOS",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "17/09/2026",
+      "data_hora_iso": "2026-09-17T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "MAERSK KARUN",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "18/09/2026",
+      "data_hora_iso": "2026-09-18T00:00:00",
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
