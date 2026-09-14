@@ -1,57 +1,18 @@
 {
-  "gerado_em": "2026-09-14T05:45:01.261628",
+  "gerado_em": "2026-09-14T11:42:29.651475",
   "navios": [
-    {
-      "navio": "Babitonga Bay",
-      "imo": "9663776",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "11/09/2026 10:00",
-      "data_chegada_iso": "2026-09-11T10:00:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "14/09/2026 02:15",
-      "data_manobra_iso": "2026-09-14T02:15:00",
-      "berco": "BARRA 302",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "WL Palekh",
-      "imo": "9674397",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "03/09/2026 18:30",
-      "data_chegada_iso": "2026-09-03T18:30:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "14/09/2026 02:30",
-      "data_manobra_iso": "2026-09-14T02:30:00",
-      "berco": "BARRA 102",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Trigon Trader",
-      "imo": "9863845",
-      "agencia": "OCEÂNICA",
-      "data_chegada_texto": "28/08/2026 16:42",
-      "data_chegada_iso": "2026-08-28T16:42:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "14/09/2026 02:30",
-      "data_manobra_iso": "2026-09-14T02:30:00",
-      "berco": "102 BARRA",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Barcaça N09",
       "imo": "9326005",
       "agencia": "WILSON SONS",
-      "data_chegada_texto": "14/09/2026 07:00",
-      "data_chegada_iso": "2026-09-14T07:00:00",
+      "data_chegada_texto": "14/09/2026 08:28",
+      "data_chegada_iso": "2026-09-14T08:28:00",
       "manobra": "Entrada e Fundeio",
       "data_manobra": "14/09/2026 08:30",
       "data_manobra_iso": "2026-09-14T08:30:00",
       "berco": "BARRA F4 (P3)",
-      "situacao": "A Confirmar",
-      "secao": "Navios Esperados"
+      "situacao": "Em Andamento",
+      "secao": "Movimentações"
     },
     {
       "navio": "Maersk San Juan",
@@ -106,6 +67,19 @@
       "secao": "Navios Atracados"
     },
     {
+      "navio": "WL Palekh",
+      "imo": "9674397",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "03/09/2026 18:30",
+      "data_chegada_iso": "2026-09-03T18:30:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "102",
+      "situacao": null,
+      "secao": "Navios Atracados"
+    },
+    {
       "navio": "Seastar Viking",
       "imo": "9690896",
       "agencia": "CARGONAVE",
@@ -128,6 +102,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "301",
+      "situacao": null,
+      "secao": "Navios Atracados"
+    },
+    {
+      "navio": "Babitonga Bay",
+      "imo": "9663776",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "11/09/2026 10:00",
+      "data_chegada_iso": "2026-09-11T10:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "302",
       "situacao": null,
       "secao": "Navios Atracados"
     },
@@ -304,14 +291,14 @@
       "navio": "Lyra M",
       "imo": "9668063",
       "agencia": "ZPORT AGENCIA",
-      "data_chegada_texto": "14/09/2026 03:00",
-      "data_chegada_iso": "2026-09-14T03:00:00",
+      "data_chegada_texto": "14/09/2026 06:36",
+      "data_chegada_iso": "2026-09-14T06:36:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "SFS",
       "situacao": null,
-      "secao": "Navios Esperados"
+      "secao": "Navios Fundeados (Barra)"
     },
     {
       "navio": "Pio Grande",
