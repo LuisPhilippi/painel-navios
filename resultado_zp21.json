@@ -1,48 +1,28 @@
 {
-  "gerado_em": "2026-09-14T11:42:23.672279",
+  "gerado_em": "2026-09-14T17:37:03.351482",
   "navios": [
     {
-      "navio": "COSCO SHIPPING URUGUAY",
+      "navio": "ACASTOS",
       "status": "ManobraPrevista",
-      "data_hora_texto": "14/09/2026",
-      "data_hora_iso": "2026-09-14T00:00:00",
-      "calado": "10,00/10,10",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 02",
+      "data_hora_texto": "15/09/2026",
+      "data_hora_iso": "2026-09-15T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
       "posicao": null
     },
     {
       "navio": "MSC ODESSA V",
       "status": "ManobraPrevista",
-      "data_hora_texto": "14/09/2026",
-      "data_hora_iso": "2026-09-14T00:00:00",
-      "calado": "6,20/8,60",
+      "data_hora_texto": "15/09/2026",
+      "data_hora_iso": "2026-09-15T00:00:00",
+      "calado": "9,60/11,30",
       "rota": "",
       "berco": "JBS 2",
       "posicao": null
     },
     {
-      "navio": "SAO PAULO EXPRESS",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "14/09/2026",
-      "data_hora_iso": "2026-09-14T00:00:00",
-      "calado": "10,80/11,20",
-      "rota": "",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
-      "navio": "MSC MICHELA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "14/09/2026",
-      "data_hora_iso": "2026-09-14T00:00:00",
-      "calado": "11,35/11,45",
-      "rota": "",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "ACASTOS",
+      "navio": "NAVIOS DOMINO",
       "status": "ManobraPrevista",
       "data_hora_texto": "15/09/2026",
       "data_hora_iso": "2026-09-15T00:00:00",
@@ -62,23 +42,23 @@
       "posicao": null
     },
     {
+      "navio": "SAO PAULO EXPRESS",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "15/09/2026",
+      "data_hora_iso": "2026-09-15T00:00:00",
+      "calado": "11,80 EK",
+      "rota": "",
+      "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
       "navio": "SANTA CATARINA EXPRESS",
       "status": "ManobraPrevista",
       "data_hora_texto": "15/09/2026",
       "data_hora_iso": "2026-09-15T00:00:00",
-      "calado": "TBC",
+      "calado": "9,60/10,70",
       "rota": "",
       "berco": "PNAVE",
-      "posicao": null
-    },
-    {
-      "navio": "BBC RAISE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "15/09/2026",
-      "data_hora_iso": "2026-09-15T00:00:00",
-      "calado": "5,70/6,20",
-      "rota": "",
-      "berco": "BARRA DO RIO",
       "posicao": null
     },
     {
@@ -86,7 +66,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "15/09/2026",
       "data_hora_iso": "2026-09-15T00:00:00",
-      "calado": "TBC",
+      "calado": "11,00 EK",
       "rota": "",
       "berco": "JBS",
       "posicao": null
@@ -112,6 +92,16 @@
       "posicao": null
     },
     {
+      "navio": "BBC RAISE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "16/09/2026",
+      "data_hora_iso": "2026-09-16T00:00:00",
+      "calado": "5,70/6,20",
+      "rota": "",
+      "berco": "BARRA DO RIO",
+      "posicao": null
+    },
+    {
       "navio": "LOG-IN ENDURANCE",
       "status": "ManobraPrevista",
       "data_hora_texto": "16/09/2026",
@@ -129,6 +119,16 @@
       "calado": "11,90 EK",
       "rota": "Bacia 2",
       "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
+      "navio": "MSC MICHELA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "16/09/2026",
+      "data_hora_iso": "2026-09-16T00:00:00",
+      "calado": "11,75/11,95",
+      "rota": "",
+      "berco": "PNAVE",
       "posicao": null
     },
     {
@@ -182,16 +182,6 @@
       "posicao": null
     },
     {
-      "navio": "GREEN BRAZIL",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "18/09/2026",
-      "data_hora_iso": "2026-09-18T00:00:00",
-      "calado": "11,95 EK",
-      "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
       "navio": "MSC AJACCIO",
       "status": "ManobraPrevista",
       "data_hora_texto": "18/09/2026",
@@ -239,6 +229,16 @@
       "calado": "1,45/4,70",
       "rota": "",
       "berco": "BRASKARNE",
+      "posicao": null
+    },
+    {
+      "navio": "GREEN BRAZIL",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "22/09/2026",
+      "data_hora_iso": "2026-09-22T00:00:00",
+      "calado": "11,95 EK",
+      "rota": "",
+      "berco": "JBS",
       "posicao": null
     },
     {
