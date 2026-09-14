@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-13T22:50:37.146668",
+  "gerado_em": "2026-09-14T00:41:18.248923",
   "navios": [
     {
       "navio": "Maersk Lota",
@@ -11,7 +11,7 @@
       "data_manobra": "13/09/2026 22:00",
       "data_manobra_iso": "2026-09-13T22:00:00",
       "berco": "BARRA 902",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Navios Esperados"
     },
     {
@@ -24,7 +24,7 @@
       "data_manobra": "13/09/2026 22:00",
       "data_manobra_iso": "2026-09-13T22:00:00",
       "berco": "902 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -37,7 +37,7 @@
       "data_manobra": "13/09/2026 23:00",
       "data_manobra_iso": "2026-09-13T23:00:00",
       "berco": "302 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -86,8 +86,8 @@
       "data_chegada_texto": "14/09/2026 07:00",
       "data_chegada_iso": "2026-09-14T07:00:00",
       "manobra": "Entrada e Fundeio",
-      "data_manobra": "14/09/2026 08:00",
-      "data_manobra_iso": "2026-09-14T08:00:00",
+      "data_manobra": "14/09/2026 08:30",
+      "data_manobra_iso": "2026-09-14T08:30:00",
       "berco": "BARRA F4 (P3)",
       "situacao": "A Confirmar",
       "secao": "Navios Esperados"
