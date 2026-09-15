@@ -1,54 +1,14 @@
 {
-  "gerado_em": "2026-09-15T15:31:44.730042",
+  "gerado_em": "2026-09-15T19:30:59.646142",
   "navios": [
-    {
-      "navio": "DALIAN EXPRESS",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "15/09/2026",
-      "data_hora_iso": "2026-09-15T00:00:00",
-      "calado": "10,00/10,50",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "NAVIOS DOMINO",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "15/09/2026",
-      "data_hora_iso": "2026-09-15T00:00:00",
-      "calado": "9,05/10,60",
-      "rota": "",
-      "berco": "JBS 4",
-      "posicao": null
-    },
-    {
-      "navio": "MSC MICHELA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "15/09/2026",
-      "data_hora_iso": "2026-09-15T00:00:00",
-      "calado": "11,55/11,80",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "EVER LEADER",
       "status": "ManobraPrevista",
       "data_hora_texto": "15/09/2026",
       "data_hora_iso": "2026-09-15T00:00:00",
-      "calado": "11,90 EK",
-      "rota": "",
+      "calado": "11,70 EK",
+      "rota": "Bacia 2",
       "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
-      "navio": "LOG-IN ENDURANCE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "15/09/2026",
-      "data_hora_iso": "2026-09-15T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE 01",
       "posicao": null
     },
     {
@@ -62,6 +22,26 @@
       "posicao": null
     },
     {
+      "navio": "DALIAN EXPRESS",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "16/09/2026",
+      "data_hora_iso": "2026-09-16T00:00:00",
+      "calado": "11,20/11,70",
+      "rota": "Bacia 2",
+      "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "LOG-IN ENDURANCE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "16/09/2026",
+      "data_hora_iso": "2026-09-16T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
       "navio": "MAERSK LOTA",
       "status": "ManobraPrevista",
       "data_hora_texto": "16/09/2026",
@@ -72,13 +52,13 @@
       "posicao": null
     },
     {
-      "navio": "MSC BELMONTE III",
+      "navio": "NAVIOS DOMINO",
       "status": "ManobraPrevista",
       "data_hora_texto": "16/09/2026",
       "data_hora_iso": "2026-09-16T00:00:00",
-      "calado": "4,70/9,00",
+      "calado": "7,95/10,10",
       "rota": "",
-      "berco": "PNAVE",
+      "berco": "JBS 4",
       "posicao": null
     },
     {
@@ -86,7 +66,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "16/09/2026",
       "data_hora_iso": "2026-09-16T00:00:00",
-      "calado": "TBC",
+      "calado": "10,70/11,20",
       "rota": "",
       "berco": "JBS",
       "posicao": null
@@ -119,6 +99,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "MSC BELMONTE III",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "16/09/2026",
+      "data_hora_iso": "2026-09-16T00:00:00",
+      "calado": "4,70/9,00",
+      "rota": "",
+      "berco": "PNAVE 02",
       "posicao": null
     },
     {
@@ -162,16 +152,6 @@
       "posicao": null
     },
     {
-      "navio": "ONE MAGDALENA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "17/09/2026",
-      "data_hora_iso": "2026-09-17T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
       "navio": "ACASTOS",
       "status": "ManobraPrevista",
       "data_hora_texto": "17/09/2026",
@@ -179,6 +159,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "ONE MAGDALENA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "17/09/2026",
+      "data_hora_iso": "2026-09-17T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE 02",
       "posicao": null
     },
     {
