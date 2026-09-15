@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-15T11:02:22.186084",
+  "gerado_em": "2026-09-15T15:31:51.047312",
   "navios": [
     {
       "navio": "MSC Sofia Paz",
@@ -11,7 +11,7 @@
       "data_manobra": "15/09/2026 12:00",
       "data_manobra_iso": "2026-09-15T12:00:00",
       "berco": "BARRA 902",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -24,7 +24,7 @@
       "data_manobra": "15/09/2026 12:00",
       "data_manobra_iso": "2026-09-15T12:00:00",
       "berco": "902 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -314,45 +314,6 @@
       "secao": "Navios Fundeados (Barra)"
     },
     {
-      "navio": "MSC Ajaccio",
-      "imo": "9605267",
-      "agencia": "MSC",
-      "data_chegada_texto": "15/09/2026 07:00",
-      "data_chegada_iso": "2026-09-15T07:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "MSC Carole",
-      "imo": "9785445",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "15/09/2026 11:00",
-      "data_chegada_iso": "2026-09-15T11:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Tai Knowledge",
-      "imo": "9799721",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "15/09/2026 15:00",
-      "data_chegada_iso": "2026-09-15T15:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "TESC",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
       "navio": "Maersk Laberinto",
       "imo": "9526978",
       "agencia": "LACHMANN",
@@ -375,6 +336,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "SFS",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Barcaça N10",
+      "imo": "9326017",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "16/09/2026 16:00",
+      "data_chegada_iso": "2026-09-16T16:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "TESC",
       "situacao": null,
       "secao": "Navios Esperados"
     },
@@ -405,6 +379,19 @@
       "secao": "Navios Esperados"
     },
     {
+      "navio": "MSC Carole",
+      "imo": "9785445",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "17/09/2026 09:00",
+      "data_chegada_iso": "2026-09-17T09:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
       "navio": "Sakizaya Future",
       "imo": "9713818",
       "agencia": "LITORAL",
@@ -427,19 +414,6 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Star Hamburg",
-      "imo": "9698587",
-      "agencia": "ZPORT AGENCIA",
-      "data_chegada_texto": "17/09/2026 13:00",
-      "data_chegada_iso": "2026-09-17T13:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "SFS",
       "situacao": null,
       "secao": "Navios Esperados"
     },
@@ -535,6 +509,32 @@
       "secao": "Navios Esperados"
     },
     {
+      "navio": "MSC Meline",
+      "imo": "9702077",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "21/09/2026 01:00",
+      "data_chegada_iso": "2026-09-21T01:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Star Hamburg",
+      "imo": "9698587",
+      "agencia": "ZPORT AGENCIA",
+      "data_chegada_texto": "21/09/2026 13:00",
+      "data_chegada_iso": "2026-09-21T13:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "SFS",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
       "navio": "Danae",
       "imo": "9719587",
       "agencia": "WILSON SONS",
@@ -587,6 +587,32 @@
       "secao": "Navios Esperados"
     },
     {
+      "navio": "Jamaica Bay",
+      "imo": "9610717",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "24/09/2026 07:00",
+      "data_chegada_iso": "2026-09-24T07:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "TESC",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "MSC Albany",
+      "imo": "9619438",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "27/09/2026 20:00",
+      "data_chegada_iso": "2026-09-27T20:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
       "navio": "Spanaco Adventure",
       "imo": "9014078",
       "agencia": "SEATRADE",
@@ -609,6 +635,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "SFS",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "MSC Madhu B",
+      "imo": "9778088",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "30/09/2026 20:00",
+      "data_chegada_iso": "2026-09-30T20:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Esperados"
     },
