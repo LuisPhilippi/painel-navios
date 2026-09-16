@@ -1,32 +1,6 @@
 {
-  "gerado_em": "2026-09-16T20:55:44.857172",
+  "gerado_em": "2026-09-16T23:31:36.247929",
   "navios": [
-    {
-      "navio": "Maersk Laberinto",
-      "imo": "9526978",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "16/09/2026 17:13",
-      "data_chegada_iso": "2026-09-16T17:13:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "16/09/2026 17:15",
-      "data_manobra_iso": "2026-09-16T17:15:00",
-      "berco": "BARRA 901",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "AS Sabine",
-      "imo": "9813802",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "16/09/2026 17:24",
-      "data_chegada_iso": "2026-09-16T17:24:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "16/09/2026 17:30",
-      "data_manobra_iso": "2026-09-16T17:30:00",
-      "berco": "BARRA 902",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Anemon",
       "imo": "9700421",
@@ -34,8 +8,8 @@
       "data_chegada_texto": "31/08/2026 11:52",
       "data_chegada_iso": "2026-08-31T11:52:00",
       "manobra": "Entrada e Atracação",
-      "data_manobra": "17/09/2026 01:00",
-      "data_manobra_iso": "2026-09-17T01:00:00",
+      "data_manobra": "17/09/2026 05:00",
+      "data_manobra_iso": "2026-09-17T05:00:00",
       "berco": "BARRA 201",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
@@ -47,8 +21,8 @@
       "data_chegada_texto": "02/09/2026 06:30",
       "data_chegada_iso": "2026-09-02T06:30:00",
       "manobra": "Desatracação e Saída",
-      "data_manobra": "17/09/2026 01:00",
-      "data_manobra_iso": "2026-09-17T01:00:00",
+      "data_manobra": "17/09/2026 05:00",
+      "data_manobra_iso": "2026-09-17T05:00:00",
       "berco": "201 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
@@ -80,6 +54,19 @@
       "secao": "Navios Esperados"
     },
     {
+      "navio": "Maersk Laberinto",
+      "imo": "9526978",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "16/09/2026 17:13",
+      "data_chegada_iso": "2026-09-16T17:13:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "17/09/2026 09:45",
+      "data_manobra_iso": "2026-09-17T09:45:00",
+      "berco": "901 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
       "navio": "Maersk San Lazaro",
       "imo": "9717216",
       "agencia": "LACHMANN",
@@ -89,6 +76,19 @@
       "data_manobra": "17/09/2026 13:00",
       "data_manobra_iso": "2026-09-17T13:00:00",
       "berco": "BARRA 902",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "AS Sabine",
+      "imo": "9813802",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "16/09/2026 17:24",
+      "data_chegada_iso": "2026-09-16T17:24:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "17/09/2026 13:00",
+      "data_manobra_iso": "2026-09-17T13:00:00",
+      "berco": "902 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
     },
