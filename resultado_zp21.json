@@ -1,54 +1,14 @@
 {
-  "gerado_em": "2026-09-16T17:56:42.563084",
+  "gerado_em": "2026-09-16T20:55:37.469107",
   "navios": [
-    {
-      "navio": "NAVIOS DOMINO",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "16/09/2026",
-      "data_hora_iso": "2026-09-16T00:00:00",
-      "calado": "7,95/10,30",
-      "rota": "Bacia 1",
-      "berco": "JBS 4",
-      "posicao": null
-    },
-    {
-      "navio": "NC BRISA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "16/09/2026",
-      "data_hora_iso": "2026-09-16T00:00:00",
-      "calado": "10,80/11,20",
-      "rota": "",
-      "berco": "JBS 4",
-      "posicao": null
-    },
     {
       "navio": "MAERSK LOTA",
       "status": "ManobraPrevista",
       "data_hora_texto": "16/09/2026",
       "data_hora_iso": "2026-09-16T00:00:00",
-      "calado": "TBC",
+      "calado": "9,95/10,55",
       "rota": "Bacia 2",
       "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "ACASTOS",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "17/09/2026",
-      "data_hora_iso": "2026-09-17T00:00:00",
-      "calado": "9,60/9,95",
-      "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
-      "navio": "BBC RAISE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "17/09/2026",
-      "data_hora_iso": "2026-09-17T00:00:00",
-      "calado": "5,70/6,30",
-      "rota": "",
-      "berco": "BARRA DO RIO",
       "posicao": null
     },
     {
@@ -72,6 +32,16 @@
       "posicao": null
     },
     {
+      "navio": "TONSBERG",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "17/09/2026",
+      "data_hora_iso": "2026-09-17T00:00:00",
+      "calado": "8,70/9,70",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
       "navio": "MSC MAXINE",
       "status": "ManobraPrevista",
       "data_hora_texto": "17/09/2026",
@@ -92,6 +62,26 @@
       "posicao": null
     },
     {
+      "navio": "NC BRISA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "17/09/2026",
+      "data_hora_iso": "2026-09-17T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "MAERSK KARUN",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "17/09/2026",
+      "data_hora_iso": "2026-09-17T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
       "navio": "ORANGE FROST",
       "status": "ManobraPrevista",
       "data_hora_texto": "17/09/2026",
@@ -99,16 +89,6 @@
       "calado": "1,45/4,70",
       "rota": "",
       "berco": "BRASKARNE",
-      "posicao": null
-    },
-    {
-      "navio": "SANTA CATARINA EXPRESS",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "17/09/2026",
-      "data_hora_iso": "2026-09-17T00:00:00",
-      "calado": "9,60/10,70",
-      "rota": "",
-      "berco": "PNAVE",
       "posicao": null
     },
     {
@@ -122,26 +102,6 @@
       "posicao": null
     },
     {
-      "navio": "MSC CAROLE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "17/09/2026",
-      "data_hora_iso": "2026-09-17T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
-      "navio": "TONSBERG",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "17/09/2026",
-      "data_hora_iso": "2026-09-17T00:00:00",
-      "calado": "8,70/9,70",
-      "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
       "navio": "MSC BELMONTE III",
       "status": "ManobraPrevista",
       "data_hora_texto": "17/09/2026",
@@ -149,6 +109,16 @@
       "calado": "4,70/9,00",
       "rota": "",
       "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
+      "navio": "MSC CAROLE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "17/09/2026",
+      "data_hora_iso": "2026-09-17T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
       "posicao": null
     },
     {
@@ -172,16 +142,6 @@
       "posicao": null
     },
     {
-      "navio": "MAERSK KARUN",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "18/09/2026",
-      "data_hora_iso": "2026-09-18T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
       "navio": "HMM JUNIPER",
       "status": "ManobraPrevista",
       "data_hora_texto": "18/09/2026",
@@ -202,6 +162,26 @@
       "posicao": null
     },
     {
+      "navio": "CMA CGM GEORGE SAND",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "18/09/2026",
+      "data_hora_iso": "2026-09-18T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "SANTA CATARINA EXPRESS",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "18/09/2026",
+      "data_hora_iso": "2026-09-18T00:00:00",
+      "calado": "9,60/10,70",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
       "navio": "MSC BIANCA",
       "status": "ManobraPrevista",
       "data_hora_texto": "19/09/2026",
@@ -212,10 +192,40 @@
       "posicao": null
     },
     {
+      "navio": "ACASTOS",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "20/09/2026",
+      "data_hora_iso": "2026-09-20T00:00:00",
+      "calado": "9,60/9,95",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
       "navio": "CAPE ARTEMISIO",
       "status": "ManobraPrevista",
       "data_hora_texto": "20/09/2026",
       "data_hora_iso": "2026-09-20T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "COSCO SHIPPING PERU",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "20/09/2026",
+      "data_hora_iso": "2026-09-20T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "COSCO SHIPPING DANUBE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "21/09/2026",
+      "data_hora_iso": "2026-09-21T00:00:00",
       "calado": "TBC",
       "rota": "",
       "berco": "PNAVE",
@@ -239,6 +249,16 @@
       "calado": "3,90/5,90",
       "rota": "",
       "berco": "TEPORTI",
+      "posicao": null
+    },
+    {
+      "navio": "BBC RAISE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "22/09/2026",
+      "data_hora_iso": "2026-09-22T00:00:00",
+      "calado": "5,70/6,30",
+      "rota": "",
+      "berco": "BARRA DO RIO",
       "posicao": null
     },
     {
