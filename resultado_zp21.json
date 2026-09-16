@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-15T22:42:05.831578",
+  "gerado_em": "2026-09-16T01:02:54.105297",
   "navios": [
     {
       "navio": "DALIAN EXPRESS",
@@ -16,7 +16,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "16/09/2026",
       "data_hora_iso": "2026-09-16T00:00:00",
-      "calado": "TBC",
+      "calado": "10,10/10,80",
       "rota": "Bacia 1",
       "berco": "PNAVE 01",
       "posicao": null
@@ -56,7 +56,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "16/09/2026",
       "data_hora_iso": "2026-09-16T00:00:00",
-      "calado": "10,70/11,20",
+      "calado": "10,80/11,20",
       "rota": "",
       "berco": "JBS 4",
       "posicao": null
@@ -182,6 +182,16 @@
       "posicao": null
     },
     {
+      "navio": "HMM JUNIPER",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "18/09/2026",
+      "data_hora_iso": "2026-09-18T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
       "navio": "MSC AJACCIO",
       "status": "ManobraPrevista",
       "data_hora_texto": "18/09/2026",
@@ -276,6 +286,16 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "29/09/2026",
       "data_hora_iso": "2026-09-29T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "X-PRESS PISCES",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "30/09/2026",
+      "data_hora_iso": "2026-09-30T00:00:00",
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",

@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-15T22:42:12.377560",
+  "gerado_em": "2026-09-16T01:03:00.203590",
   "navios": [
     {
       "navio": "Pisti",
@@ -384,19 +384,6 @@
       "agencia": "LACHMANN",
       "data_chegada_texto": "17/09/2026 05:00",
       "data_chegada_iso": "2026-09-17T05:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "MSC Carole",
-      "imo": "9785445",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "17/09/2026 09:00",
-      "data_chegada_iso": "2026-09-17T09:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
