@@ -1,12 +1,12 @@
 {
-  "gerado_em": "2026-09-16T07:10:22.761018",
+  "gerado_em": "2026-09-16T13:04:53.945864",
   "navios": [
     {
       "navio": "DALIAN EXPRESS",
       "status": "ManobraPrevista",
       "data_hora_texto": "16/09/2026",
       "data_hora_iso": "2026-09-16T00:00:00",
-      "calado": "11,20/11,70",
+      "calado": "11,20/11,60",
       "rota": "Bacia 2",
       "berco": "JBS 2",
       "posicao": null
@@ -92,16 +92,6 @@
       "posicao": null
     },
     {
-      "navio": "MSC BELMONTE III",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "17/09/2026",
-      "data_hora_iso": "2026-09-17T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
       "navio": "MSC MAXINE",
       "status": "ManobraPrevista",
       "data_hora_texto": "17/09/2026",
@@ -146,9 +136,19 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "17/09/2026",
       "data_hora_iso": "2026-09-17T00:00:00",
-      "calado": "TBC",
+      "calado": "8,70/9,70",
       "rota": "",
-      "berco": "JBS 2",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "MSC BELMONTE III",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "17/09/2026",
+      "data_hora_iso": "2026-09-17T00:00:00",
+      "calado": "4,70/9,00",
+      "rota": "",
+      "berco": "PNAVE 02",
       "posicao": null
     },
     {
