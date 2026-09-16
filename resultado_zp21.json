@@ -1,52 +1,12 @@
 {
-  "gerado_em": "2026-09-16T13:04:53.945864",
+  "gerado_em": "2026-09-16T17:56:42.563084",
   "navios": [
-    {
-      "navio": "DALIAN EXPRESS",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "16/09/2026",
-      "data_hora_iso": "2026-09-16T00:00:00",
-      "calado": "11,20/11,60",
-      "rota": "Bacia 2",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "LOG-IN ENDURANCE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "16/09/2026",
-      "data_hora_iso": "2026-09-16T00:00:00",
-      "calado": "10,10/10,80",
-      "rota": "Bacia 1",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "MAERSK LOTA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "16/09/2026",
-      "data_hora_iso": "2026-09-16T00:00:00",
-      "calado": "9,80/10,60",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "BBC RAISE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "16/09/2026",
-      "data_hora_iso": "2026-09-16T00:00:00",
-      "calado": "5,70/6,20",
-      "rota": "",
-      "berco": "BARRA DO RIO",
-      "posicao": null
-    },
     {
       "navio": "NAVIOS DOMINO",
       "status": "ManobraPrevista",
       "data_hora_texto": "16/09/2026",
       "data_hora_iso": "2026-09-16T00:00:00",
-      "calado": "7,95/10,10",
+      "calado": "7,95/10,30",
       "rota": "Bacia 1",
       "berco": "JBS 4",
       "posicao": null
@@ -62,13 +22,13 @@
       "posicao": null
     },
     {
-      "navio": "EVER LEADER",
+      "navio": "MAERSK LOTA",
       "status": "ManobraPrevista",
       "data_hora_texto": "16/09/2026",
       "data_hora_iso": "2026-09-16T00:00:00",
-      "calado": "7,50/9,50",
-      "rota": "",
-      "berco": "PNAVE 02",
+      "calado": "TBC",
+      "rota": "Bacia 2",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -76,9 +36,19 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "17/09/2026",
       "data_hora_iso": "2026-09-17T00:00:00",
-      "calado": "TBC",
+      "calado": "9,60/9,95",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "BBC RAISE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "17/09/2026",
+      "data_hora_iso": "2026-09-17T00:00:00",
+      "calado": "5,70/6,30",
+      "rota": "",
+      "berco": "BARRA DO RIO",
       "posicao": null
     },
     {
@@ -89,6 +59,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "EVER LEADER",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "17/09/2026",
+      "data_hora_iso": "2026-09-17T00:00:00",
+      "calado": "7,50/9,50",
+      "rota": "",
+      "berco": "PNAVE 02",
       "posicao": null
     },
     {
@@ -112,6 +92,16 @@
       "posicao": null
     },
     {
+      "navio": "ORANGE FROST",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "17/09/2026",
+      "data_hora_iso": "2026-09-17T00:00:00",
+      "calado": "1,45/4,70",
+      "rota": "",
+      "berco": "BRASKARNE",
+      "posicao": null
+    },
+    {
       "navio": "SANTA CATARINA EXPRESS",
       "status": "ManobraPrevista",
       "data_hora_texto": "17/09/2026",
@@ -119,6 +109,16 @@
       "calado": "9,60/10,70",
       "rota": "",
       "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "LOG-IN ENDURANCE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "17/09/2026",
+      "data_hora_iso": "2026-09-17T00:00:00",
+      "calado": "11,60 EK",
+      "rota": "",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
@@ -229,16 +229,6 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
-      "posicao": null
-    },
-    {
-      "navio": "ORANGE FROST",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "21/09/2026",
-      "data_hora_iso": "2026-09-21T00:00:00",
-      "calado": "1,45/4,70",
-      "rota": "",
-      "berco": "BRASKARNE",
       "posicao": null
     },
     {
