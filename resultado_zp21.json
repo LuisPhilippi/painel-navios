@@ -1,12 +1,12 @@
 {
-  "gerado_em": "2026-09-17T03:16:38.384950",
+  "gerado_em": "2026-09-17T09:10:21.561816",
   "navios": [
     {
       "navio": "EVER LEADER",
       "status": "ManobraPrevista",
       "data_hora_texto": "17/09/2026",
       "data_hora_iso": "2026-09-17T00:00:00",
-      "calado": "7,50/9,50",
+      "calado": "7,30/9,50",
       "rota": "",
       "berco": "PNAVE 02",
       "posicao": null
@@ -26,7 +26,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "17/09/2026",
       "data_hora_iso": "2026-09-17T00:00:00",
-      "calado": "1,45/4,70",
+      "calado": "1,55/4,70",
       "rota": "",
       "berco": "BRASKARNE",
       "posicao": null
@@ -83,16 +83,6 @@
     },
     {
       "navio": "LOG-IN JATOBÁ",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "18/09/2026",
-      "data_hora_iso": "2026-09-18T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE",
-      "posicao": null
-    },
-    {
-      "navio": "HMM JUNIPER",
       "status": "ManobraPrevista",
       "data_hora_texto": "18/09/2026",
       "data_hora_iso": "2026-09-18T00:00:00",
@@ -219,6 +209,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "HMM JUNIPER",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "21/09/2026",
+      "data_hora_iso": "2026-09-21T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
       "posicao": null
     },
     {
