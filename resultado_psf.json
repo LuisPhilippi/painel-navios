@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-17T18:47:35.686877",
+  "gerado_em": "2026-09-17T21:54:19.854661",
   "navios": [
     {
       "navio": "Dragon",
@@ -11,7 +11,7 @@
       "data_manobra": "17/09/2026 18:00",
       "data_manobra_iso": "2026-09-17T18:00:00",
       "berco": "BARRA 101",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -24,7 +24,7 @@
       "data_manobra": "17/09/2026 18:00",
       "data_manobra_iso": "2026-09-17T18:00:00",
       "berco": "101 F3",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -37,7 +37,7 @@
       "data_manobra": "17/09/2026 19:45",
       "data_manobra_iso": "2026-09-17T19:45:00",
       "berco": "302 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -67,17 +67,43 @@
       "secao": "Movimentações"
     },
     {
+      "navio": "Mercosul Fortaleza",
+      "imo": "9784661",
+      "agencia": "UNIMAR",
+      "data_chegada_texto": "18/09/2026 10:00",
+      "data_chegada_iso": "2026-09-18T10:00:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "18/09/2026 13:30",
+      "data_manobra_iso": "2026-09-18T13:30:00",
+      "berco": "BARRA 901",
+      "situacao": "A Confirmar",
+      "secao": "Navios Esperados"
+    },
+    {
       "navio": "Maersk Ganges",
       "imo": "9694581",
       "agencia": "LACHMANN",
       "data_chegada_texto": "17/09/2026 09:37",
       "data_chegada_iso": "2026-09-17T09:37:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "901",
-      "situacao": null,
-      "secao": "Navios Atracados"
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "18/09/2026 13:30",
+      "data_manobra_iso": "2026-09-18T13:30:00",
+      "berco": "901 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Maersk Monte Alegre",
+      "imo": "9348065",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "18/09/2026 06:00",
+      "data_chegada_iso": "2026-09-18T06:00:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "18/09/2026 17:15",
+      "data_manobra_iso": "2026-09-18T17:15:00",
+      "berco": "BARRA 902",
+      "situacao": "A Confirmar",
+      "secao": "Navios Esperados"
     },
     {
       "navio": "Maersk San Lazaro",
@@ -85,12 +111,12 @@
       "agencia": "LACHMANN",
       "data_chegada_texto": "15/09/2026 16:44",
       "data_chegada_iso": "2026-09-15T16:44:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "902",
-      "situacao": null,
-      "secao": "Navios Atracados"
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "18/09/2026 17:15",
+      "data_manobra_iso": "2026-09-18T17:15:00",
+      "berco": "902 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
     },
     {
       "navio": "Aquitania",
@@ -273,32 +299,6 @@
       "berco": "SFS",
       "situacao": null,
       "secao": "Navios Fundeados (Barra)"
-    },
-    {
-      "navio": "Maersk Monte Alegre",
-      "imo": "9348065",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "18/09/2026 06:00",
-      "data_chegada_iso": "2026-09-18T06:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Mercosul Fortaleza",
-      "imo": "9784661",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "18/09/2026 10:00",
-      "data_chegada_iso": "2026-09-18T10:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
     },
     {
       "navio": "Nordcheetah",

@@ -1,43 +1,13 @@
 {
-  "gerado_em": "2026-09-17T18:47:29.286510",
+  "gerado_em": "2026-09-17T21:54:12.915019",
   "navios": [
-    {
-      "navio": "NC BRISA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "17/09/2026",
-      "data_hora_iso": "2026-09-17T00:00:00",
-      "calado": "11,35 EK",
-      "rota": "Bacia 1",
-      "berco": "JBS 4",
-      "posicao": null
-    },
-    {
-      "navio": "MAERSK KARUN",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "17/09/2026",
-      "data_hora_iso": "2026-09-17T00:00:00",
-      "calado": "10,10/11,60",
-      "rota": "",
-      "berco": "JBS 4",
-      "posicao": null
-    },
-    {
-      "navio": "LOG-IN ENDURANCE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "17/09/2026",
-      "data_hora_iso": "2026-09-17T00:00:00",
-      "calado": "11,60 EK",
-      "rota": "Bacia 1",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "MSC BELMONTE III",
       "status": "ManobraPrevista",
       "data_hora_texto": "17/09/2026",
       "data_hora_iso": "2026-09-17T00:00:00",
       "calado": "4,70/9,00",
-      "rota": "Bacia 1",
+      "rota": "",
       "berco": "PNAVE 01",
       "posicao": null
     },
@@ -48,7 +18,7 @@
       "data_hora_iso": "2026-09-18T00:00:00",
       "calado": "11,10 EK",
       "rota": "",
-      "berco": "PNAVE",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
@@ -62,16 +32,6 @@
       "posicao": null
     },
     {
-      "navio": "MSC AJACCIO",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "18/09/2026",
-      "data_hora_iso": "2026-09-18T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE",
-      "posicao": null
-    },
-    {
       "navio": "SANTA CATARINA EXPRESS",
       "status": "ManobraPrevista",
       "data_hora_texto": "18/09/2026",
@@ -82,23 +42,53 @@
       "posicao": null
     },
     {
-      "navio": "CMA CGM GEORGE SAND",
+      "navio": "MAERSK KARUN",
       "status": "ManobraPrevista",
       "data_hora_texto": "18/09/2026",
       "data_hora_iso": "2026-09-18T00:00:00",
       "calado": "TBC",
       "rota": "",
-      "berco": "PNAVE",
+      "berco": "JBS 4",
       "posicao": null
     },
     {
-      "navio": "MSC BIANCA",
+      "navio": "ACASTOS",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "18/09/2026",
+      "data_hora_iso": "2026-09-18T00:00:00",
+      "calado": "9,25/9,75",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "MSC AJACCIO",
       "status": "ManobraPrevista",
       "data_hora_texto": "19/09/2026",
       "data_hora_iso": "2026-09-19T00:00:00",
-      "calado": "9,60/10,10",
+      "calado": "TBC",
       "rota": "",
-      "berco": "JBS",
+      "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
+      "navio": "UML VICTORIA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "19/09/2026",
+      "data_hora_iso": "2026-09-19T00:00:00",
+      "calado": "3,90/5,90",
+      "rota": "",
+      "berco": "POLY TERMINAIS",
+      "posicao": null
+    },
+    {
+      "navio": "LI DA XING",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "19/09/2026",
+      "data_hora_iso": "2026-09-19T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS 4",
       "posicao": null
     },
     {
@@ -109,16 +99,6 @@
       "calado": "9,20/10,80",
       "rota": "",
       "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "ACASTOS",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "20/09/2026",
-      "data_hora_iso": "2026-09-20T00:00:00",
-      "calado": "9,25/9,75",
-      "rota": "",
-      "berco": "JBS",
       "posicao": null
     },
     {
@@ -152,6 +132,16 @@
       "posicao": null
     },
     {
+      "navio": "MSC BIANCA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "21/09/2026",
+      "data_hora_iso": "2026-09-21T00:00:00",
+      "calado": "9,60/10,10",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
       "navio": "COSCO SHIPPING DANUBE",
       "status": "ManobraPrevista",
       "data_hora_texto": "21/09/2026",
@@ -159,26 +149,6 @@
       "calado": "TBC",
       "rota": "",
       "berco": "PNAVE",
-      "posicao": null
-    },
-    {
-      "navio": "LI DA XING",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "21/09/2026",
-      "data_hora_iso": "2026-09-21T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
-      "navio": "UML VICTORIA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "21/09/2026",
-      "data_hora_iso": "2026-09-21T00:00:00",
-      "calado": "3,90/5,90",
-      "rota": "",
-      "berco": "TEPORTI",
       "posicao": null
     },
     {
@@ -216,9 +186,19 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "22/09/2026",
       "data_hora_iso": "2026-09-22T00:00:00",
-      "calado": "5,70/6,30",
+      "calado": "5,70/6,25",
       "rota": "",
-      "berco": "BARRA DO RIO",
+      "berco": "TEPORTI",
+      "posicao": null
+    },
+    {
+      "navio": "CMA CGM GEORGE SAND",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "22/09/2026",
+      "data_hora_iso": "2026-09-22T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
       "posicao": null
     },
     {
