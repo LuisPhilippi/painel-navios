@@ -1,32 +1,6 @@
 {
-  "gerado_em": "2026-09-17T21:54:19.854661",
+  "gerado_em": "2026-09-17T23:53:50.662295",
   "navios": [
-    {
-      "navio": "Dragon",
-      "imo": "9588005",
-      "agencia": "LITORAL",
-      "data_chegada_texto": "11/09/2026 13:06",
-      "data_chegada_iso": "2026-09-11T13:06:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "17/09/2026 18:00",
-      "data_manobra_iso": "2026-09-17T18:00:00",
-      "berco": "BARRA 101",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Pisti",
-      "imo": "9893503",
-      "agencia": "CARGONAVE",
-      "data_chegada_texto": "06/09/2026 15:28",
-      "data_chegada_iso": "2026-09-06T15:28:00",
-      "manobra": "Desatracação e Fundeio",
-      "data_manobra": "17/09/2026 18:00",
-      "data_manobra_iso": "2026-09-17T18:00:00",
-      "berco": "101 F3",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Babitonga Bay",
       "imo": "9663776",
@@ -37,7 +11,7 @@
       "data_manobra": "17/09/2026 19:45",
       "data_manobra_iso": "2026-09-17T19:45:00",
       "berco": "302 BARRA",
-      "situacao": "Confirmado",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -50,6 +24,19 @@
       "data_manobra": "17/09/2026 23:00",
       "data_manobra_iso": "2026-09-17T23:00:00",
       "berco": "F4 (P3) 302",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Pisti",
+      "imo": "9893503",
+      "agencia": "CARGONAVE",
+      "data_chegada_texto": "06/09/2026 15:28",
+      "data_chegada_iso": "2026-09-06T15:28:00",
+      "manobra": "Suspender e Sair",
+      "data_manobra": "18/09/2026 06:00",
+      "data_manobra_iso": "2026-09-18T06:00:00",
+      "berco": "F3 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
     },
@@ -117,6 +104,19 @@
       "berco": "902 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
+    },
+    {
+      "navio": "Dragon",
+      "imo": "9588005",
+      "agencia": "LITORAL",
+      "data_chegada_texto": "11/09/2026 13:06",
+      "data_chegada_iso": "2026-09-11T13:06:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "101",
+      "situacao": null,
+      "secao": "Navios Atracados"
     },
     {
       "navio": "Aquitania",
