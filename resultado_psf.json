@@ -1,45 +1,6 @@
 {
-  "gerado_em": "2026-09-17T14:39:51.241522",
+  "gerado_em": "2026-09-17T18:47:35.686877",
   "navios": [
-    {
-      "navio": "Maersk Laberinto",
-      "imo": "9526978",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "16/09/2026 17:13",
-      "data_chegada_iso": "2026-09-16T17:13:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "17/09/2026 09:45",
-      "data_manobra_iso": "2026-09-17T09:45:00",
-      "berco": "901 BARRA",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Maersk San Lazaro",
-      "imo": "9717216",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "15/09/2026 16:44",
-      "data_chegada_iso": "2026-09-15T16:44:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "17/09/2026 13:00",
-      "data_manobra_iso": "2026-09-17T13:00:00",
-      "berco": "BARRA 902",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "AS Sabine",
-      "imo": "9813802",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "16/09/2026 17:24",
-      "data_chegada_iso": "2026-09-16T17:24:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "17/09/2026 13:00",
-      "data_manobra_iso": "2026-09-17T13:00:00",
-      "berco": "902 BARRA",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Dragon",
       "imo": "9588005",
@@ -115,6 +76,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "901",
+      "situacao": null,
+      "secao": "Navios Atracados"
+    },
+    {
+      "navio": "Maersk San Lazaro",
+      "imo": "9717216",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "15/09/2026 16:44",
+      "data_chegada_iso": "2026-09-15T16:44:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "902",
       "situacao": null,
       "secao": "Navios Atracados"
     },
@@ -291,14 +265,14 @@
       "navio": "Bao Lucky",
       "imo": "9718337",
       "agencia": "ORION",
-      "data_chegada_texto": "17/09/2026 06:30",
-      "data_chegada_iso": "2026-09-17T06:30:00",
+      "data_chegada_texto": "17/09/2026 06:42",
+      "data_chegada_iso": "2026-09-17T06:42:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "SFS",
       "situacao": null,
-      "secao": "Navios Esperados"
+      "secao": "Navios Fundeados (Barra)"
     },
     {
       "navio": "Maersk Monte Alegre",
@@ -691,11 +665,37 @@
       "secao": "Navios Esperados"
     },
     {
+      "navio": "Oslo Venture",
+      "imo": "9693185",
+      "agencia": "ORION",
+      "data_chegada_texto": "06/10/2026 12:00",
+      "data_chegada_iso": "2026-10-06T12:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "SFS",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
       "navio": "MH Langoey",
       "imo": "1076173",
       "agencia": "SEATRADE",
       "data_chegada_texto": "10/10/2026 14:00",
       "data_chegada_iso": "2026-10-10T14:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "SFS",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Unity Spirit",
+      "imo": "9725938",
+      "agencia": "LITORAL",
+      "data_chegada_texto": "13/10/2026 12:00",
+      "data_chegada_iso": "2026-10-13T12:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,

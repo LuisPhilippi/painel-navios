@@ -1,33 +1,13 @@
 {
-  "gerado_em": "2026-09-17T14:39:44.597318",
+  "gerado_em": "2026-09-17T18:47:29.286510",
   "navios": [
-    {
-      "navio": "ORANGE FROST",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "17/09/2026",
-      "data_hora_iso": "2026-09-17T00:00:00",
-      "calado": "1,55/4,70",
-      "rota": "",
-      "berco": "BRASKARNE",
-      "posicao": null
-    },
-    {
-      "navio": "ONE MAGDALENA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "17/09/2026",
-      "data_hora_iso": "2026-09-17T00:00:00",
-      "calado": "11,80 EK",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
     {
       "navio": "NC BRISA",
       "status": "ManobraPrevista",
       "data_hora_texto": "17/09/2026",
       "data_hora_iso": "2026-09-17T00:00:00",
-      "calado": "11,30 EK",
-      "rota": "Bacia 2",
+      "calado": "11,35 EK",
+      "rota": "Bacia 1",
       "berco": "JBS 4",
       "posicao": null
     },
@@ -72,6 +52,16 @@
       "posicao": null
     },
     {
+      "navio": "ONE MAGDALENA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "18/09/2026",
+      "data_hora_iso": "2026-09-18T00:00:00",
+      "calado": "TBC",
+      "rota": "Bacia 2",
+      "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
       "navio": "MSC AJACCIO",
       "status": "ManobraPrevista",
       "data_hora_texto": "18/09/2026",
@@ -106,7 +96,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "19/09/2026",
       "data_hora_iso": "2026-09-19T00:00:00",
-      "calado": "TBC",
+      "calado": "9,60/10,10",
       "rota": "",
       "berco": "JBS",
       "posicao": null
@@ -116,7 +106,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "19/09/2026",
       "data_hora_iso": "2026-09-19T00:00:00",
-      "calado": "TBC",
+      "calado": "9,20/10,80",
       "rota": "",
       "berco": "JBS 2",
       "posicao": null
@@ -232,16 +222,6 @@
       "posicao": null
     },
     {
-      "navio": "MSC MAXINE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "22/09/2026",
-      "data_hora_iso": "2026-09-22T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
       "navio": "GREEN BRAZIL",
       "status": "ManobraPrevista",
       "data_hora_texto": "22/09/2026",
@@ -269,6 +249,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "ORANGE FROST",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "24/09/2026",
+      "data_hora_iso": "2026-09-24T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "BRASKARNE",
       "posicao": null
     },
     {
