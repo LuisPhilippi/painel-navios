@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-18T13:21:53.144964",
+  "gerado_em": "2026-09-18T17:27:56.525091",
   "navios": [
     {
       "navio": "ONE MAGDALENA",
@@ -12,12 +12,12 @@
       "posicao": null
     },
     {
-      "navio": "SANTA CATARINA EXPRESS",
+      "navio": "LOG-IN JATOBÁ",
       "status": "ManobraPrevista",
       "data_hora_texto": "18/09/2026",
       "data_hora_iso": "2026-09-18T00:00:00",
-      "calado": "9,60/10,70",
-      "rota": "",
+      "calado": "11,10 EK",
+      "rota": "Bacia 1",
       "berco": "PNAVE 02",
       "posicao": null
     },
@@ -26,7 +26,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "18/09/2026",
       "data_hora_iso": "2026-09-18T00:00:00",
-      "calado": "10,20/11,70",
+      "calado": "10,50/11,50",
       "rota": "Bacia 1",
       "berco": "JBS 4",
       "posicao": null
@@ -52,12 +52,12 @@
       "posicao": null
     },
     {
-      "navio": "LOG-IN JATOBÁ",
+      "navio": "SANTA CATARINA EXPRESS",
       "status": "ManobraPrevista",
       "data_hora_texto": "19/09/2026",
       "data_hora_iso": "2026-09-19T00:00:00",
-      "calado": "11,10 EK",
-      "rota": "Bacia 1",
+      "calado": "9,60/10,00",
+      "rota": "",
       "berco": "PNAVE 01",
       "posicao": null
     },
@@ -72,6 +72,16 @@
       "posicao": null
     },
     {
+      "navio": "TONSBERG",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "19/09/2026",
+      "data_hora_iso": "2026-09-19T00:00:00",
+      "calado": "9,30/10,80",
+      "rota": "",
+      "berco": "JBS 2",
+      "posicao": null
+    },
+    {
       "navio": "LI DA XING",
       "status": "ManobraPrevista",
       "data_hora_texto": "19/09/2026",
@@ -79,16 +89,6 @@
       "calado": "9,10/9,30",
       "rota": "",
       "berco": "JBS 4",
-      "posicao": null
-    },
-    {
-      "navio": "TONSBERG",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "19/09/2026",
-      "data_hora_iso": "2026-09-19T00:00:00",
-      "calado": "9,20/10,80",
-      "rota": "",
-      "berco": "JBS 2",
       "posicao": null
     },
     {
