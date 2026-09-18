@@ -1,32 +1,6 @@
 {
-  "gerado_em": "2026-09-18T20:21:37.432662",
+  "gerado_em": "2026-09-18T22:59:53.432249",
   "navios": [
-    {
-      "navio": "Maersk Monte Alegre",
-      "imo": "9348065",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "18/09/2026 06:00",
-      "data_chegada_iso": "2026-09-18T06:00:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "18/09/2026 17:15",
-      "data_manobra_iso": "2026-09-18T17:15:00",
-      "berco": "BARRA 902",
-      "situacao": "Confirmado",
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Maersk San Lazaro",
-      "imo": "9717216",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "15/09/2026 16:44",
-      "data_chegada_iso": "2026-09-15T16:44:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "18/09/2026 17:15",
-      "data_manobra_iso": "2026-09-18T17:15:00",
-      "berco": "902 BARRA",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Nordcheetah",
       "imo": "9673630",
@@ -63,6 +37,19 @@
       "data_manobra": "19/09/2026 11:00",
       "data_manobra_iso": "2026-09-19T11:00:00",
       "berco": "BARRA 902",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Maersk Monte Alegre",
+      "imo": "9348065",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "18/09/2026 17:15",
+      "data_chegada_iso": "2026-09-18T17:15:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "19/09/2026 11:00",
+      "data_manobra_iso": "2026-09-19T11:00:00",
+      "berco": "902 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
     },
@@ -115,6 +102,19 @@
       "data_manobra": "19/09/2026 20:15",
       "data_manobra_iso": "2026-09-19T20:15:00",
       "berco": "101 F3",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "MSC Meline",
+      "imo": "9702077",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "18/09/2026 14:00",
+      "data_chegada_iso": "2026-09-18T14:00:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "19/09/2026 23:00",
+      "data_manobra_iso": "2026-09-19T23:00:00",
+      "berco": "BARRA 901",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
     },
@@ -556,7 +556,7 @@
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
-      "berco": "101",
+      "berco": "SFS",
       "situacao": null,
       "secao": "Navios Esperados"
     },
