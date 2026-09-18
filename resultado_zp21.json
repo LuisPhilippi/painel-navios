@@ -1,12 +1,12 @@
 {
-  "gerado_em": "2026-09-18T03:02:49.780216",
+  "gerado_em": "2026-09-18T08:43:48.072370",
   "navios": [
     {
       "navio": "MSC BELMONTE III",
       "status": "ManobraPrevista",
       "data_hora_texto": "18/09/2026",
       "data_hora_iso": "2026-09-18T00:00:00",
-      "calado": "TBC",
+      "calado": "5,30/10,50",
       "rota": "",
       "berco": "PNAVE 01",
       "posicao": null
@@ -76,7 +76,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "19/09/2026",
       "data_hora_iso": "2026-09-19T00:00:00",
-      "calado": "TBC",
+      "calado": "9,10/9,30",
       "rota": "",
       "berco": "JBS 4",
       "posicao": null
@@ -106,7 +106,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "20/09/2026",
       "data_hora_iso": "2026-09-20T00:00:00",
-      "calado": "TBC",
+      "calado": "11,70 EK",
       "rota": "",
       "berco": "PNAVE",
       "posicao": null

@@ -1,19 +1,6 @@
 {
-  "gerado_em": "2026-09-18T03:02:57.153112",
+  "gerado_em": "2026-09-18T08:43:54.683965",
   "navios": [
-    {
-      "navio": "Barcaça N09",
-      "imo": "9326005",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "14/09/2026 08:28",
-      "data_chegada_iso": "2026-09-14T08:28:00",
-      "manobra": "Suspender e Atracar",
-      "data_manobra": "17/09/2026 23:00",
-      "data_manobra_iso": "2026-09-17T23:00:00",
-      "berco": "F4 (P3) 302",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Pisti",
       "imo": "9893503",
@@ -24,7 +11,7 @@
       "data_manobra": "18/09/2026 06:00",
       "data_manobra_iso": "2026-09-18T06:00:00",
       "berco": "F3 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -37,7 +24,7 @@
       "data_manobra": "18/09/2026 06:00",
       "data_manobra_iso": "2026-09-18T06:00:00",
       "berco": "F1 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -141,6 +128,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "301",
+      "situacao": null,
+      "secao": "Navios Atracados"
+    },
+    {
+      "navio": "Barcaça N09",
+      "imo": "9326005",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "14/09/2026 08:28",
+      "data_chegada_iso": "2026-09-14T08:28:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "302",
       "situacao": null,
       "secao": "Navios Atracados"
     },
@@ -291,14 +291,14 @@
       "navio": "Nordcheetah",
       "imo": "9673630",
       "agencia": "LACHMANN",
-      "data_chegada_texto": "18/09/2026 00:30",
-      "data_chegada_iso": "2026-09-18T00:30:00",
+      "data_chegada_texto": "18/09/2026 01:00",
+      "data_chegada_iso": "2026-09-18T01:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "ITAPOÁ",
       "situacao": null,
-      "secao": "Navios Esperados"
+      "secao": "Navios Fundeados (Barra)"
     },
     {
       "navio": "Fernão de Magalhães",
