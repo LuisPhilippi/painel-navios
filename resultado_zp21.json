@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-18T17:27:56.525091",
+  "gerado_em": "2026-09-18T20:21:30.626687",
   "navios": [
     {
       "navio": "ONE MAGDALENA",
@@ -26,7 +26,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "18/09/2026",
       "data_hora_iso": "2026-09-18T00:00:00",
-      "calado": "10,50/11,50",
+      "calado": "10,80/11,70",
       "rota": "Bacia 1",
       "berco": "JBS 4",
       "posicao": null
@@ -42,43 +42,13 @@
       "posicao": null
     },
     {
-      "navio": "MSC BELMONTE III",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "19/09/2026",
-      "data_hora_iso": "2026-09-19T00:00:00",
-      "calado": "5,30/10,50",
-      "rota": "Bacia 1",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
       "navio": "SANTA CATARINA EXPRESS",
       "status": "ManobraPrevista",
       "data_hora_texto": "19/09/2026",
       "data_hora_iso": "2026-09-19T00:00:00",
       "calado": "9,60/10,00",
       "rota": "",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "UML VICTORIA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "19/09/2026",
-      "data_hora_iso": "2026-09-19T00:00:00",
-      "calado": "3,90/5,90",
-      "rota": "",
-      "berco": "POLY TERMINAIS",
-      "posicao": null
-    },
-    {
-      "navio": "TONSBERG",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "19/09/2026",
-      "data_hora_iso": "2026-09-19T00:00:00",
-      "calado": "9,30/10,80",
-      "rota": "",
-      "berco": "JBS 2",
+      "berco": "PNAVE 02",
       "posicao": null
     },
     {
@@ -92,13 +62,43 @@
       "posicao": null
     },
     {
+      "navio": "TONSBERG",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "19/09/2026",
+      "data_hora_iso": "2026-09-19T00:00:00",
+      "calado": "9,30/10,80",
+      "rota": "",
+      "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "MSC BELMONTE III",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "19/09/2026",
+      "data_hora_iso": "2026-09-19T00:00:00",
+      "calado": "5,30/10,50",
+      "rota": "Bacia 1",
+      "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
+      "navio": "MSC BIANCA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "19/09/2026",
+      "data_hora_iso": "2026-09-19T00:00:00",
+      "calado": "9,60/10,10",
+      "rota": "",
+      "berco": "JBS 2",
+      "posicao": null
+    },
+    {
       "navio": "MSC AJACCIO",
       "status": "ManobraPrevista",
-      "data_hora_texto": "20/09/2026",
-      "data_hora_iso": "2026-09-20T00:00:00",
+      "data_hora_texto": "19/09/2026",
+      "data_hora_iso": "2026-09-19T00:00:00",
       "calado": "TBC",
       "rota": "",
-      "berco": "PNAVE",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
@@ -109,6 +109,26 @@
       "calado": "11,70 EK",
       "rota": "",
       "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "UML VICTORIA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "20/09/2026",
+      "data_hora_iso": "2026-09-20T00:00:00",
+      "calado": "3,90/5,90",
+      "rota": "",
+      "berco": "POLY TERMINAIS",
+      "posicao": null
+    },
+    {
+      "navio": "LE HAVRE EXPRESS",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "20/09/2026",
+      "data_hora_iso": "2026-09-20T00:00:00",
+      "calado": "9,80/10,90",
+      "rota": "",
+      "berco": "JBS 4",
       "posicao": null
     },
     {
@@ -127,16 +147,6 @@
       "data_hora_texto": "20/09/2026",
       "data_hora_iso": "2026-09-20T00:00:00",
       "calado": "11,50 EK",
-      "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
-      "navio": "MSC BIANCA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "21/09/2026",
-      "data_hora_iso": "2026-09-21T00:00:00",
-      "calado": "9,60/10,10",
       "rota": "",
       "berco": "JBS",
       "posicao": null
@@ -169,16 +179,6 @@
       "calado": "TBC",
       "rota": "",
       "berco": "PNAVE",
-      "posicao": null
-    },
-    {
-      "navio": "LE HAVRE EXPRESS",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "22/09/2026",
-      "data_hora_iso": "2026-09-22T00:00:00",
-      "calado": "9,80/10,90",
-      "rota": "",
-      "berco": "JBS",
       "posicao": null
     },
     {
