@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-19T11:53:54.876859",
+  "gerado_em": "2026-09-19T15:18:18.272189",
   "navios": [
     {
       "navio": "MSC Carole",
@@ -11,7 +11,7 @@
       "data_manobra": "19/09/2026 11:00",
       "data_manobra_iso": "2026-09-19T11:00:00",
       "berco": "BARRA 902",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -24,7 +24,7 @@
       "data_manobra": "19/09/2026 11:00",
       "data_manobra_iso": "2026-09-19T11:00:00",
       "berco": "902 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -275,19 +275,6 @@
       "secao": "Navios Esperados"
     },
     {
-      "navio": "Fernão de Magalhães",
-      "imo": "9603221",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "19/09/2026 13:00",
-      "data_chegada_iso": "2026-09-19T13:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
       "navio": "Olympia.GR",
       "imo": "9817523",
       "agencia": "CARGONAVE",
@@ -327,6 +314,19 @@
       "secao": "Navios Esperados"
     },
     {
+      "navio": "Maersk Chambal",
+      "imo": "9525376",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "21/09/2026 07:00",
+      "data_chegada_iso": "2026-09-21T07:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
       "navio": "Star Hamburg",
       "imo": "9698587",
       "agencia": "ZPORT AGENCIA",
@@ -340,11 +340,11 @@
       "secao": "Navios Esperados"
     },
     {
-      "navio": "Maersk Chambal",
-      "imo": "9525376",
+      "navio": "Fernão de Magalhães",
+      "imo": "9603221",
       "agencia": "LACHMANN",
-      "data_chegada_texto": "22/09/2026 03:00",
-      "data_chegada_iso": "2026-09-22T03:00:00",
+      "data_chegada_texto": "21/09/2026 23:59",
+      "data_chegada_iso": "2026-09-21T23:59:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,

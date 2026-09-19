@@ -1,52 +1,12 @@
 {
-  "gerado_em": "2026-09-19T11:53:47.223778",
+  "gerado_em": "2026-09-19T15:18:12.078046",
   "navios": [
-    {
-      "navio": "SANTA CATARINA EXPRESS",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "19/09/2026",
-      "data_hora_iso": "2026-09-19T00:00:00",
-      "calado": "9,60/10,00",
-      "rota": "",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
-      "navio": "ACASTOS",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "19/09/2026",
-      "data_hora_iso": "2026-09-19T00:00:00",
-      "calado": "9,70/10,30",
-      "rota": "Bacia 1",
-      "berco": "JBS 4",
-      "posicao": null
-    },
-    {
-      "navio": "LI DA XING",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "19/09/2026",
-      "data_hora_iso": "2026-09-19T00:00:00",
-      "calado": "9,10/9,30",
-      "rota": "",
-      "berco": "JBS 4",
-      "posicao": null
-    },
-    {
-      "navio": "MSC BELMONTE III",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "19/09/2026",
-      "data_hora_iso": "2026-09-19T00:00:00",
-      "calado": "5,30/10,50",
-      "rota": "Bacia 1",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "TONSBERG",
       "status": "ManobraPrevista",
       "data_hora_texto": "19/09/2026",
       "data_hora_iso": "2026-09-19T00:00:00",
-      "calado": "9,30/10,80",
+      "calado": "9,20/10,80",
       "rota": "Bacia 2",
       "berco": "JBS 2",
       "posicao": null
@@ -69,6 +29,36 @@
       "calado": "10,60/10,90",
       "rota": "",
       "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
+      "navio": "SANTA CATARINA EXPRESS",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "19/09/2026",
+      "data_hora_iso": "2026-09-19T00:00:00",
+      "calado": "11,50/11,55",
+      "rota": "Bacia 2",
+      "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
+      "navio": "ACASTOS",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "19/09/2026",
+      "data_hora_iso": "2026-09-19T00:00:00",
+      "calado": "9,70/10,30",
+      "rota": "Bacia 1",
+      "berco": "JBS 4",
+      "posicao": null
+    },
+    {
+      "navio": "LI DA XING",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "19/09/2026",
+      "data_hora_iso": "2026-09-19T00:00:00",
+      "calado": "9,10/9,30",
+      "rota": "",
+      "berco": "JBS 4",
       "posicao": null
     },
     {
