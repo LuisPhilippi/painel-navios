@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-09-18T22:59:46.854478",
+  "gerado_em": "2026-09-19T01:05:59.931770",
   "navios": [
-    {
-      "navio": "ACASTOS",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "18/09/2026",
-      "data_hora_iso": "2026-09-18T00:00:00",
-      "calado": "9,25/9,75",
-      "rota": "",
-      "berco": "JBS 4",
-      "posicao": null
-    },
     {
       "navio": "LOG-IN JATOBÁ",
       "status": "ManobraPrevista",
@@ -29,6 +19,16 @@
       "calado": "9,60/10,00",
       "rota": "",
       "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
+      "navio": "ACASTOS",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "19/09/2026",
+      "data_hora_iso": "2026-09-19T00:00:00",
+      "calado": "9,85/10,35",
+      "rota": "Bacia 1",
+      "berco": "JBS 4",
       "posicao": null
     },
     {
@@ -62,16 +62,6 @@
       "posicao": null
     },
     {
-      "navio": "MSC AJACCIO",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "19/09/2026",
-      "data_hora_iso": "2026-09-19T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
       "navio": "LE HAVRE EXPRESS",
       "status": "ManobraPrevista",
       "data_hora_texto": "19/09/2026",
@@ -82,13 +72,13 @@
       "posicao": null
     },
     {
-      "navio": "CAPE ARTEMISIO",
+      "navio": "MSC AJACCIO",
       "status": "ManobraPrevista",
-      "data_hora_texto": "20/09/2026",
-      "data_hora_iso": "2026-09-20T00:00:00",
-      "calado": "11,70 EK",
+      "data_hora_texto": "19/09/2026",
+      "data_hora_iso": "2026-09-19T00:00:00",
+      "calado": "TBC",
       "rota": "",
-      "berco": "PNAVE",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
@@ -99,6 +89,16 @@
       "calado": "3,90/5,90",
       "rota": "",
       "berco": "POLY TERMINAIS",
+      "posicao": null
+    },
+    {
+      "navio": "CAPE ARTEMISIO",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "20/09/2026",
+      "data_hora_iso": "2026-09-20T00:00:00",
+      "calado": "11,70 EK",
+      "rota": "",
+      "berco": "PNAVE",
       "posicao": null
     },
     {
