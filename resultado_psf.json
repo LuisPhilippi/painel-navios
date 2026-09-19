@@ -1,32 +1,6 @@
 {
-  "gerado_em": "2026-09-19T15:18:18.272189",
+  "gerado_em": "2026-09-19T18:24:01.217292",
   "navios": [
-    {
-      "navio": "MSC Carole",
-      "imo": "9785445",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "15/09/2026 20:49",
-      "data_chegada_iso": "2026-09-15T20:49:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "19/09/2026 11:00",
-      "data_manobra_iso": "2026-09-19T11:00:00",
-      "berco": "BARRA 902",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Maersk Monte Alegre",
-      "imo": "9348065",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "18/09/2026 17:15",
-      "data_chegada_iso": "2026-09-18T17:15:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "19/09/2026 11:00",
-      "data_manobra_iso": "2026-09-19T11:00:00",
-      "berco": "902 BARRA",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "MSC Meline",
       "imo": "9702077",
@@ -52,6 +26,19 @@
       "berco": "901 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
+    },
+    {
+      "navio": "MSC Carole",
+      "imo": "9785445",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "15/09/2026 20:49",
+      "data_chegada_iso": "2026-09-15T20:49:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "902",
+      "situacao": null,
+      "secao": "Navios Atracados"
     },
     {
       "navio": "Dragon",
@@ -265,14 +252,14 @@
       "navio": "Conti Courage",
       "imo": "9293789",
       "agencia": "WILSON SONS",
-      "data_chegada_texto": "19/09/2026 03:00",
-      "data_chegada_iso": "2026-09-19T03:00:00",
+      "data_chegada_texto": "19/09/2026 12:45",
+      "data_chegada_iso": "2026-09-19T12:45:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "ITAPOÁ",
       "situacao": null,
-      "secao": "Navios Esperados"
+      "secao": "Navios Fundeados (Barra)"
     },
     {
       "navio": "Olympia.GR",

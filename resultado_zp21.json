@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-09-19T15:18:12.078046",
+  "gerado_em": "2026-09-19T18:23:54.833722",
   "navios": [
-    {
-      "navio": "TONSBERG",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "19/09/2026",
-      "data_hora_iso": "2026-09-19T00:00:00",
-      "calado": "9,20/10,80",
-      "rota": "Bacia 2",
-      "berco": "JBS 2",
-      "posicao": null
-    },
     {
       "navio": "LE HAVRE EXPRESS",
       "status": "ManobraPrevista",
@@ -62,33 +52,13 @@
       "posicao": null
     },
     {
-      "navio": "UML VICTORIA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "20/09/2026",
-      "data_hora_iso": "2026-09-20T00:00:00",
-      "calado": "3,90/5,90",
-      "rota": "",
-      "berco": "POLY TERMINAIS",
-      "posicao": null
-    },
-    {
       "navio": "CAPE ARTEMISIO",
       "status": "ManobraPrevista",
       "data_hora_texto": "20/09/2026",
       "data_hora_iso": "2026-09-20T00:00:00",
       "calado": "11,70 EK",
       "rota": "",
-      "berco": "PNAVE",
-      "posicao": null
-    },
-    {
-      "navio": "COSCO SHIPPING PERU",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "20/09/2026",
-      "data_hora_iso": "2026-09-20T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE",
+      "berco": "PNAVE 02",
       "posicao": null
     },
     {
@@ -122,6 +92,16 @@
       "posicao": null
     },
     {
+      "navio": "UML VICTORIA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "21/09/2026",
+      "data_hora_iso": "2026-09-21T00:00:00",
+      "calado": "3,90/5,90",
+      "rota": "",
+      "berco": "POLY TERMINAIS",
+      "posicao": null
+    },
+    {
       "navio": "MSC BIANCA",
       "status": "ManobraPrevista",
       "data_hora_texto": "21/09/2026",
@@ -133,6 +113,16 @@
     },
     {
       "navio": "HMM JUNIPER",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "21/09/2026",
+      "data_hora_iso": "2026-09-21T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "COSCO SHIPPING PERU",
       "status": "ManobraPrevista",
       "data_hora_texto": "21/09/2026",
       "data_hora_iso": "2026-09-21T00:00:00",
