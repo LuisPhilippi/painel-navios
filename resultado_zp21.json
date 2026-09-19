@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-09-19T06:59:36.408346",
+  "gerado_em": "2026-09-19T11:53:47.223778",
   "navios": [
-    {
-      "navio": "LOG-IN JATOBÁ",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "19/09/2026",
-      "data_hora_iso": "2026-09-19T00:00:00",
-      "calado": "7,80/8,60",
-      "rota": "",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
     {
       "navio": "SANTA CATARINA EXPRESS",
       "status": "ManobraPrevista",
@@ -26,7 +16,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "19/09/2026",
       "data_hora_iso": "2026-09-19T00:00:00",
-      "calado": "9,85/10,35",
+      "calado": "9,70/10,30",
       "rota": "Bacia 1",
       "berco": "JBS 4",
       "posicao": null
@@ -76,7 +66,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "19/09/2026",
       "data_hora_iso": "2026-09-19T00:00:00",
-      "calado": "TBC",
+      "calado": "10,60/10,90",
       "rota": "",
       "berco": "PNAVE 01",
       "posicao": null
