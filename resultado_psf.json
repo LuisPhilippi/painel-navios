@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-19T21:16:21.345476",
+  "gerado_em": "2026-09-19T23:52:58.652159",
   "navios": [
     {
       "navio": "MSC Meline",
@@ -8,8 +8,8 @@
       "data_chegada_texto": "18/09/2026 14:00",
       "data_chegada_iso": "2026-09-18T14:00:00",
       "manobra": "Entrada e Atracação",
-      "data_manobra": "19/09/2026 23:00",
-      "data_manobra_iso": "2026-09-19T23:00:00",
+      "data_manobra": "19/09/2026 23:30",
+      "data_manobra_iso": "2026-09-19T23:30:00",
       "berco": "BARRA 901",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
@@ -21,48 +21,9 @@
       "data_chegada_texto": "18/09/2026 01:00",
       "data_chegada_iso": "2026-09-18T01:00:00",
       "manobra": "Desatracação e Saída",
-      "data_manobra": "19/09/2026 23:00",
-      "data_manobra_iso": "2026-09-19T23:00:00",
+      "data_manobra": "19/09/2026 23:30",
+      "data_manobra_iso": "2026-09-19T23:30:00",
       "berco": "901 BARRA",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Aquitania",
-      "imo": "9300491",
-      "agencia": "CARGONAVE",
-      "data_chegada_texto": "05/09/2026 20:36",
-      "data_chegada_iso": "2026-09-05T20:36:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "20/09/2026 07:30",
-      "data_manobra_iso": "2026-09-20T07:30:00",
-      "berco": "102 BARRA",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "MBA Future",
-      "imo": "9494084",
-      "agencia": "LITORAL",
-      "data_chegada_texto": "15/09/2026 19:00",
-      "data_chegada_iso": "2026-09-15T19:00:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "20/09/2026 08:00",
-      "data_manobra_iso": "2026-09-20T08:00:00",
-      "berco": "BARRA 101",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Dragon",
-      "imo": "9588005",
-      "agencia": "LITORAL",
-      "data_chegada_texto": "11/09/2026 13:06",
-      "data_chegada_iso": "2026-09-11T13:06:00",
-      "manobra": "Desatracação e Fundeio",
-      "data_manobra": "20/09/2026 08:00",
-      "data_manobra_iso": "2026-09-20T08:00:00",
-      "berco": "101 F3",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
     },
@@ -93,19 +54,6 @@
       "secao": "Movimentações"
     },
     {
-      "navio": "Port Kyoto",
-      "imo": "9942093",
-      "agencia": "SEATRADE",
-      "data_chegada_texto": "08/09/2026 17:54",
-      "data_chegada_iso": "2026-09-08T17:54:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "20/09/2026 14:00",
-      "data_manobra_iso": "2026-09-20T14:00:00",
-      "berco": "BARRA 102",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
       "navio": "CMA CGM Mississippi",
       "imo": "9679907",
       "agencia": "UNIMAR",
@@ -119,14 +67,66 @@
       "secao": "Navios Esperados"
     },
     {
+      "navio": "Port Kyoto",
+      "imo": "9942093",
+      "agencia": "SEATRADE",
+      "data_chegada_texto": "08/09/2026 17:54",
+      "data_chegada_iso": "2026-09-08T17:54:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "20/09/2026 19:30",
+      "data_manobra_iso": "2026-09-20T19:30:00",
+      "berco": "BARRA 102",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Aquitania",
+      "imo": "9300491",
+      "agencia": "CARGONAVE",
+      "data_chegada_texto": "05/09/2026 20:36",
+      "data_chegada_iso": "2026-09-05T20:36:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "20/09/2026 19:45",
+      "data_manobra_iso": "2026-09-20T19:45:00",
+      "berco": "102 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "MBA Future",
+      "imo": "9494084",
+      "agencia": "LITORAL",
+      "data_chegada_texto": "15/09/2026 19:00",
+      "data_chegada_iso": "2026-09-15T19:00:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "20/09/2026 21:30",
+      "data_manobra_iso": "2026-09-20T21:30:00",
+      "berco": "BARRA 101",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Dragon",
+      "imo": "9588005",
+      "agencia": "LITORAL",
+      "data_chegada_texto": "11/09/2026 13:06",
+      "data_chegada_iso": "2026-09-11T13:06:00",
+      "manobra": "Desatracação e Fundeio",
+      "data_manobra": "20/09/2026 21:30",
+      "data_manobra_iso": "2026-09-20T21:30:00",
+      "berco": "101 F3",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
       "navio": "Barcaça N09",
       "imo": "9326005",
       "agencia": "WILSON SONS",
       "data_chegada_texto": "14/09/2026 08:28",
       "data_chegada_iso": "2026-09-14T08:28:00",
       "manobra": "Desatracação e Saída",
-      "data_manobra": "20/09/2026 22:30",
-      "data_manobra_iso": "2026-09-20T22:30:00",
+      "data_manobra": "20/09/2026 23:00",
+      "data_manobra_iso": "2026-09-20T23:00:00",
       "berco": "302 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
