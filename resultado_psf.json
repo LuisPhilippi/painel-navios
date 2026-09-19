@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-19T18:24:01.217292",
+  "gerado_em": "2026-09-19T21:16:21.345476",
   "navios": [
     {
       "navio": "MSC Meline",
@@ -28,17 +28,30 @@
       "secao": "Movimentações"
     },
     {
-      "navio": "MSC Carole",
-      "imo": "9785445",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "15/09/2026 20:49",
-      "data_chegada_iso": "2026-09-15T20:49:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "902",
-      "situacao": null,
-      "secao": "Navios Atracados"
+      "navio": "Aquitania",
+      "imo": "9300491",
+      "agencia": "CARGONAVE",
+      "data_chegada_texto": "05/09/2026 20:36",
+      "data_chegada_iso": "2026-09-05T20:36:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "20/09/2026 07:30",
+      "data_manobra_iso": "2026-09-20T07:30:00",
+      "berco": "102 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "MBA Future",
+      "imo": "9494084",
+      "agencia": "LITORAL",
+      "data_chegada_texto": "15/09/2026 19:00",
+      "data_chegada_iso": "2026-09-15T19:00:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "20/09/2026 08:00",
+      "data_manobra_iso": "2026-09-20T08:00:00",
+      "berco": "BARRA 101",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
     },
     {
       "navio": "Dragon",
@@ -46,25 +59,77 @@
       "agencia": "LITORAL",
       "data_chegada_texto": "11/09/2026 13:06",
       "data_chegada_iso": "2026-09-11T13:06:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "101",
-      "situacao": null,
-      "secao": "Navios Atracados"
+      "manobra": "Desatracação e Fundeio",
+      "data_manobra": "20/09/2026 08:00",
+      "data_manobra_iso": "2026-09-20T08:00:00",
+      "berco": "101 F3",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
     },
     {
-      "navio": "Aquitania",
-      "imo": "9300491",
-      "agencia": "CARGONAVE",
-      "data_chegada_texto": "05/09/2026 20:36",
-      "data_chegada_iso": "2026-09-05T20:36:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "102",
-      "situacao": null,
-      "secao": "Navios Atracados"
+      "navio": "Conti Courage",
+      "imo": "9293789",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "19/09/2026 12:45",
+      "data_chegada_iso": "2026-09-19T12:45:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "20/09/2026 12:00",
+      "data_manobra_iso": "2026-09-20T12:00:00",
+      "berco": "BARRA 902",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "MSC Carole",
+      "imo": "9785445",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "15/09/2026 20:49",
+      "data_chegada_iso": "2026-09-15T20:49:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "20/09/2026 12:00",
+      "data_manobra_iso": "2026-09-20T12:00:00",
+      "berco": "902 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Port Kyoto",
+      "imo": "9942093",
+      "agencia": "SEATRADE",
+      "data_chegada_texto": "08/09/2026 17:54",
+      "data_chegada_iso": "2026-09-08T17:54:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "20/09/2026 14:00",
+      "data_manobra_iso": "2026-09-20T14:00:00",
+      "berco": "BARRA 102",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "CMA CGM Mississippi",
+      "imo": "9679907",
+      "agencia": "UNIMAR",
+      "data_chegada_texto": "20/09/2026 18:00",
+      "data_chegada_iso": "2026-09-20T18:00:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "20/09/2026 17:00",
+      "data_manobra_iso": "2026-09-20T17:00:00",
+      "berco": "BARRA 901",
+      "situacao": "A Confirmar",
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Barcaça N09",
+      "imo": "9326005",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "14/09/2026 08:28",
+      "data_chegada_iso": "2026-09-14T08:28:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "20/09/2026 22:30",
+      "data_manobra_iso": "2026-09-20T22:30:00",
+      "berco": "302 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
     },
     {
       "navio": "Anemon",
@@ -93,19 +158,6 @@
       "secao": "Navios Atracados"
     },
     {
-      "navio": "Barcaça N09",
-      "imo": "9326005",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "14/09/2026 08:28",
-      "data_chegada_iso": "2026-09-14T08:28:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "302",
-      "situacao": null,
-      "secao": "Navios Atracados"
-    },
-    {
       "navio": "TSHD Galileo Galilei",
       "imo": "9872365",
       "agencia": "LITORAL",
@@ -130,19 +182,6 @@
       "berco": "F4 (P2)",
       "situacao": null,
       "secao": "Navios Fundeados (Internos)"
-    },
-    {
-      "navio": "Port Kyoto",
-      "imo": "9942093",
-      "agencia": "SEATRADE",
-      "data_chegada_texto": "08/09/2026 17:54",
-      "data_chegada_iso": "2026-09-08T17:54:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": null,
-      "situacao": null,
-      "secao": "Navios Fundeados (Barra)"
     },
     {
       "navio": "Capetan Vassilis II",
@@ -223,19 +262,6 @@
       "secao": "Navios Fundeados (Barra)"
     },
     {
-      "navio": "MBA Future",
-      "imo": "9494084",
-      "agencia": "LITORAL",
-      "data_chegada_texto": "15/09/2026 19:00",
-      "data_chegada_iso": "2026-09-15T19:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": null,
-      "situacao": null,
-      "secao": "Navios Fundeados (Barra)"
-    },
-    {
       "navio": "Bao Lucky",
       "imo": "9718337",
       "agencia": "ORION",
@@ -249,19 +275,6 @@
       "secao": "Navios Fundeados (Barra)"
     },
     {
-      "navio": "Conti Courage",
-      "imo": "9293789",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "19/09/2026 12:45",
-      "data_chegada_iso": "2026-09-19T12:45:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Fundeados (Barra)"
-    },
-    {
       "navio": "Olympia.GR",
       "imo": "9817523",
       "agencia": "CARGONAVE",
@@ -271,19 +284,6 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "SFS",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "CMA CGM Mississippi",
-      "imo": "9679907",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "20/09/2026 18:00",
-      "data_chegada_iso": "2026-09-20T18:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Esperados"
     },
