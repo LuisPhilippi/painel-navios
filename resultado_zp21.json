@@ -1,26 +1,6 @@
 {
-  "gerado_em": "2026-09-20T13:55:22.018805",
+  "gerado_em": "2026-09-20T17:16:54.478907",
   "navios": [
-    {
-      "navio": "CAPE ARTEMISIO",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "20/09/2026",
-      "data_hora_iso": "2026-09-20T00:00:00",
-      "calado": "11,70 EK",
-      "rota": "",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
-      "navio": "LE HAVRE EXPRESS",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "20/09/2026",
-      "data_hora_iso": "2026-09-20T00:00:00",
-      "calado": "11,55/11,60",
-      "rota": "Bacia 2",
-      "berco": "JBS 2",
-      "posicao": null
-    },
     {
       "navio": "CMA CGM GEORGE SAND",
       "status": "ManobraPrevista",
@@ -59,6 +39,16 @@
       "calado": "7,50/8,10",
       "rota": "Bacia 1",
       "berco": "JBS 4",
+      "posicao": null
+    },
+    {
+      "navio": "CAPE ARTEMISIO",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "21/09/2026",
+      "data_hora_iso": "2026-09-21T00:00:00",
+      "calado": "8,70/9,50",
+      "rota": "",
+      "berco": "PNAVE 02",
       "posicao": null
     },
     {
