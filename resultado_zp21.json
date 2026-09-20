@@ -1,24 +1,14 @@
 {
-  "gerado_em": "2026-09-20T03:14:46.141565",
+  "gerado_em": "2026-09-20T09:02:42.248930",
   "navios": [
     {
       "navio": "SANTA CATARINA EXPRESS",
       "status": "ManobraPrevista",
       "data_hora_texto": "20/09/2026",
       "data_hora_iso": "2026-09-20T00:00:00",
-      "calado": "11,50/11,55",
+      "calado": "11,30/11,50",
       "rota": "Bacia 2",
       "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
-      "navio": "LI DA XING",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "20/09/2026",
-      "data_hora_iso": "2026-09-20T00:00:00",
-      "calado": "7,50/8,10",
-      "rota": "Bacia 1",
-      "berco": "JBS 4",
       "posicao": null
     },
     {
@@ -69,6 +59,16 @@
       "calado": "9,40/10,60",
       "rota": "",
       "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
+      "navio": "LI DA XING",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "20/09/2026",
+      "data_hora_iso": "2026-09-20T00:00:00",
+      "calado": "7,50/8,10",
+      "rota": "Bacia 1",
+      "berco": "JBS 4",
       "posicao": null
     },
     {
