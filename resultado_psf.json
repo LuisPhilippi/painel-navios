@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-19T23:52:58.652159",
+  "gerado_em": "2026-09-20T03:14:52.320077",
   "navios": [
     {
       "navio": "MSC Meline",
@@ -11,7 +11,7 @@
       "data_manobra": "19/09/2026 23:30",
       "data_manobra_iso": "2026-09-19T23:30:00",
       "berco": "BARRA 901",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -24,7 +24,7 @@
       "data_manobra": "19/09/2026 23:30",
       "data_manobra_iso": "2026-09-19T23:30:00",
       "berco": "901 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -34,8 +34,8 @@
       "data_chegada_texto": "19/09/2026 12:45",
       "data_chegada_iso": "2026-09-19T12:45:00",
       "manobra": "Entrada e Atracação",
-      "data_manobra": "20/09/2026 12:00",
-      "data_manobra_iso": "2026-09-20T12:00:00",
+      "data_manobra": "20/09/2026 08:30",
+      "data_manobra_iso": "2026-09-20T08:30:00",
       "berco": "BARRA 902",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
@@ -47,8 +47,8 @@
       "data_chegada_texto": "15/09/2026 20:49",
       "data_chegada_iso": "2026-09-15T20:49:00",
       "manobra": "Desatracação e Saída",
-      "data_manobra": "20/09/2026 12:00",
-      "data_manobra_iso": "2026-09-20T12:00:00",
+      "data_manobra": "20/09/2026 08:30",
+      "data_manobra_iso": "2026-09-20T08:30:00",
       "berco": "902 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
