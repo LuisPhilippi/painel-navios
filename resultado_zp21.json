@@ -1,24 +1,14 @@
 {
-  "gerado_em": "2026-09-20T20:16:46.169921",
+  "gerado_em": "2026-09-20T22:56:56.302200",
   "navios": [
     {
-      "navio": "COSCO SHIPPING DANUBE",
+      "navio": "UML VICTORIA",
       "status": "ManobraPrevista",
-      "data_hora_texto": "20/09/2026",
-      "data_hora_iso": "2026-09-20T00:00:00",
-      "calado": "9,40/10,60",
+      "data_hora_texto": "21/09/2026",
+      "data_hora_iso": "2026-09-21T00:00:00",
+      "calado": "3,90/5,90",
       "rota": "",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "LI DA XING",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "20/09/2026",
-      "data_hora_iso": "2026-09-20T00:00:00",
-      "calado": "7,00/8,10",
-      "rota": "Bacia 1",
-      "berco": "JBS 4",
+      "berco": "POLY TERMINAIS",
       "posicao": null
     },
     {
@@ -27,7 +17,7 @@
       "data_hora_texto": "21/09/2026",
       "data_hora_iso": "2026-09-21T00:00:00",
       "calado": "8,70/9,50",
-      "rota": "",
+      "rota": "Bacia 2",
       "berco": "PNAVE 02",
       "posicao": null
     },
@@ -47,8 +37,18 @@
       "data_hora_texto": "21/09/2026",
       "data_hora_iso": "2026-09-21T00:00:00",
       "calado": "11,80 EK",
-      "rota": "",
+      "rota": "Bacia 2",
       "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "COSCO SHIPPING DANUBE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "21/09/2026",
+      "data_hora_iso": "2026-09-21T00:00:00",
+      "calado": "7,40/9,90",
+      "rota": "Bacia 2",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
@@ -69,16 +69,6 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
-      "posicao": null
-    },
-    {
-      "navio": "UML VICTORIA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "22/09/2026",
-      "data_hora_iso": "2026-09-22T00:00:00",
-      "calado": "3,90/5,90",
-      "rota": "",
-      "berco": "POLY TERMINAIS",
       "posicao": null
     },
     {
