@@ -1,32 +1,6 @@
 {
-  "gerado_em": "2026-09-20T09:02:49.534245",
+  "gerado_em": "2026-09-20T13:55:28.334310",
   "navios": [
-    {
-      "navio": "Conti Courage",
-      "imo": "9293789",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "19/09/2026 12:45",
-      "data_chegada_iso": "2026-09-19T12:45:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "20/09/2026 08:30",
-      "data_manobra_iso": "2026-09-20T08:30:00",
-      "berco": "BARRA 902",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "MSC Carole",
-      "imo": "9785445",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "15/09/2026 20:49",
-      "data_chegada_iso": "2026-09-15T20:49:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "20/09/2026 08:30",
-      "data_manobra_iso": "2026-09-20T08:30:00",
-      "berco": "902 BARRA",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
     {
       "navio": "CMA CGM Mississippi",
       "imo": "9679907",
@@ -80,32 +54,6 @@
       "secao": "Movimentações"
     },
     {
-      "navio": "MBA Future",
-      "imo": "9494084",
-      "agencia": "LITORAL",
-      "data_chegada_texto": "15/09/2026 19:00",
-      "data_chegada_iso": "2026-09-15T19:00:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "20/09/2026 21:30",
-      "data_manobra_iso": "2026-09-20T21:30:00",
-      "berco": "BARRA 101",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Dragon",
-      "imo": "9588005",
-      "agencia": "LITORAL",
-      "data_chegada_texto": "11/09/2026 13:06",
-      "data_chegada_iso": "2026-09-11T13:06:00",
-      "manobra": "Desatracação e Fundeio",
-      "data_manobra": "20/09/2026 21:30",
-      "data_manobra_iso": "2026-09-20T21:30:00",
-      "berco": "101 F3",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
       "navio": "Barcaça N09",
       "imo": "9326005",
       "agencia": "WILSON SONS",
@@ -117,6 +65,32 @@
       "berco": "302 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
+    },
+    {
+      "navio": "Conti Courage",
+      "imo": "9293789",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "19/09/2026 12:45",
+      "data_chegada_iso": "2026-09-19T12:45:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "902",
+      "situacao": null,
+      "secao": "Navios Atracados"
+    },
+    {
+      "navio": "Dragon",
+      "imo": "9588005",
+      "agencia": "LITORAL",
+      "data_chegada_texto": "11/09/2026 13:06",
+      "data_chegada_iso": "2026-09-11T13:06:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "101",
+      "situacao": null,
+      "secao": "Navios Atracados"
     },
     {
       "navio": "Anemon",
@@ -245,6 +219,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "TESC",
+      "situacao": null,
+      "secao": "Navios Fundeados (Barra)"
+    },
+    {
+      "navio": "MBA Future",
+      "imo": "9494084",
+      "agencia": "LITORAL",
+      "data_chegada_texto": "15/09/2026 19:00",
+      "data_chegada_iso": "2026-09-15T19:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": null,
       "situacao": null,
       "secao": "Navios Fundeados (Barra)"
     },

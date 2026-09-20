@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-09-20T09:02:42.248930",
+  "gerado_em": "2026-09-20T13:55:22.018805",
   "navios": [
-    {
-      "navio": "SANTA CATARINA EXPRESS",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "20/09/2026",
-      "data_hora_iso": "2026-09-20T00:00:00",
-      "calado": "11,30/11,50",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
     {
       "navio": "CAPE ARTEMISIO",
       "status": "ManobraPrevista",
@@ -26,8 +16,18 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "20/09/2026",
       "data_hora_iso": "2026-09-20T00:00:00",
-      "calado": "11,62/11,64",
+      "calado": "11,55/11,60",
       "rota": "Bacia 2",
+      "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "CMA CGM GEORGE SAND",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "20/09/2026",
+      "data_hora_iso": "2026-09-20T00:00:00",
+      "calado": "10,70/11,20",
+      "rota": "",
       "berco": "JBS 2",
       "posicao": null
     },
@@ -39,16 +39,6 @@
       "calado": "10,10/10,50",
       "rota": "Bacia 2",
       "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "CMA CGM GEORGE SAND",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "20/09/2026",
-      "data_hora_iso": "2026-09-20T00:00:00",
-      "calado": "10,70/11,20",
-      "rota": "",
-      "berco": "JBS 2",
       "posicao": null
     },
     {
