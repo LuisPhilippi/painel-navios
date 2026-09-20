@@ -1,32 +1,6 @@
 {
-  "gerado_em": "2026-09-20T17:17:01.936371",
+  "gerado_em": "2026-09-20T20:16:52.372290",
   "navios": [
-    {
-      "navio": "CMA CGM Mississippi",
-      "imo": "9679907",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "20/09/2026 15:00",
-      "data_chegada_iso": "2026-09-20T15:00:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "20/09/2026 15:30",
-      "data_manobra_iso": "2026-09-20T15:30:00",
-      "berco": "BARRA 901",
-      "situacao": "Confirmado",
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "MSC Meline",
-      "imo": "9702077",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "18/09/2026 14:00",
-      "data_chegada_iso": "2026-09-18T14:00:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "20/09/2026 15:30",
-      "data_manobra_iso": "2026-09-20T15:30:00",
-      "berco": "901 BARRA",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Barcaça N09",
       "imo": "9326005",
@@ -39,6 +13,19 @@
       "berco": "302 F4 (P1)",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
+    },
+    {
+      "navio": "CMA CGM Mississippi",
+      "imo": "9679907",
+      "agencia": "UNIMAR",
+      "data_chegada_texto": "20/09/2026 15:30",
+      "data_chegada_iso": "2026-09-20T15:30:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "901",
+      "situacao": null,
+      "secao": "Navios Atracados"
     },
     {
       "navio": "Conti Courage",
