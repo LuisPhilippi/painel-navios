@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-09-21T05:52:01.971130",
+  "gerado_em": "2026-09-21T11:54:59.485333",
   "navios": [
-    {
-      "navio": "UML VICTORIA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "21/09/2026",
-      "data_hora_iso": "2026-09-21T00:00:00",
-      "calado": "3,90/5,90",
-      "rota": "",
-      "berco": "POLY TERMINAIS",
-      "posicao": null
-    },
     {
       "navio": "CAPE ARTEMISIO",
       "status": "ManobraPrevista",
@@ -72,6 +62,16 @@
       "posicao": null
     },
     {
+      "navio": "MSC SOTIRIA III",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "22/09/2026",
+      "data_hora_iso": "2026-09-22T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
       "navio": "MSC BIANCA",
       "status": "ManobraPrevista",
       "data_hora_texto": "22/09/2026",
@@ -82,6 +82,16 @@
       "posicao": null
     },
     {
+      "navio": "UML VICTORIA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "22/09/2026",
+      "data_hora_iso": "2026-09-22T00:00:00",
+      "calado": "3,90/5,90",
+      "rota": "",
+      "berco": "POLY TERMINAIS",
+      "posicao": null
+    },
+    {
       "navio": "HMM JUNIPER",
       "status": "ManobraPrevista",
       "data_hora_texto": "22/09/2026",
@@ -89,16 +99,6 @@
       "calado": "11,64/11,40",
       "rota": "",
       "berco": "PNAVE",
-      "posicao": null
-    },
-    {
-      "navio": "BBC RAISE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "22/09/2026",
-      "data_hora_iso": "2026-09-22T00:00:00",
-      "calado": "5,70/6,25",
-      "rota": "",
-      "berco": "TEPORTI",
       "posicao": null
     },
     {
@@ -119,6 +119,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "BBC RAISE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "23/09/2026",
+      "data_hora_iso": "2026-09-23T00:00:00",
+      "calado": "5,70/6,25",
+      "rota": "",
+      "berco": "TEPORTI",
       "posicao": null
     },
     {
@@ -179,6 +189,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "LOG-IN EVOLUTION",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "22/09/2029",
+      "data_hora_iso": "2029-09-22T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
       "posicao": null
     },
     {

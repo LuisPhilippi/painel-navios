@@ -1,19 +1,6 @@
 {
-  "gerado_em": "2026-09-21T05:52:08.318488",
+  "gerado_em": "2026-09-21T11:55:05.844410",
   "navios": [
-    {
-      "navio": "Barcaça N09",
-      "imo": "9326005",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "14/09/2026 08:28",
-      "data_chegada_iso": "2026-09-14T08:28:00",
-      "manobra": "Desatracação e Fundeio",
-      "data_manobra": "21/09/2026 06:00",
-      "data_manobra_iso": "2026-09-21T06:00:00",
-      "berco": "302 F4 (P1)",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Port Kyoto",
       "imo": "9942093",
@@ -24,7 +11,7 @@
       "data_manobra": "21/09/2026 06:45",
       "data_manobra_iso": "2026-09-21T06:45:00",
       "berco": "BARRA 102",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -37,7 +24,7 @@
       "data_manobra": "21/09/2026 06:45",
       "data_manobra_iso": "2026-09-21T06:45:00",
       "berco": "102 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -50,7 +37,7 @@
       "data_manobra": "21/09/2026 08:45",
       "data_manobra_iso": "2026-09-21T08:45:00",
       "berco": "BARRA 101",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -63,7 +50,7 @@
       "data_manobra": "21/09/2026 08:45",
       "data_manobra_iso": "2026-09-21T08:45:00",
       "berco": "101 F3",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -76,7 +63,7 @@
       "data_manobra": "21/09/2026 08:50",
       "data_manobra_iso": "2026-09-21T08:50:00",
       "berco": "BARRA 302",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -154,6 +141,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "F4 (P2)",
+      "situacao": null,
+      "secao": "Navios Fundeados (Internos)"
+    },
+    {
+      "navio": "Barcaça N09",
+      "imo": "9326005",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "14/09/2026 08:28",
+      "data_chegada_iso": "2026-09-14T08:28:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "F4 (P1)",
       "situacao": null,
       "secao": "Navios Fundeados (Internos)"
     },
