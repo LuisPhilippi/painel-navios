@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-21T00:52:34.963580",
+  "gerado_em": "2026-09-21T05:52:01.971130",
   "navios": [
     {
       "navio": "UML VICTORIA",
@@ -86,7 +86,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "22/09/2026",
       "data_hora_iso": "2026-09-22T00:00:00",
-      "calado": "TBC",
+      "calado": "11,64/11,40",
       "rota": "",
       "berco": "PNAVE",
       "posicao": null
