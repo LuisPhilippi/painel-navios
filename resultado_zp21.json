@@ -1,54 +1,44 @@
 {
-  "gerado_em": "2026-09-21T17:49:49.568272",
+  "gerado_em": "2026-09-21T21:40:40.368301",
   "navios": [
-    {
-      "navio": "CAPE ARTEMISIO",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "21/09/2026",
-      "data_hora_iso": "2026-09-21T00:00:00",
-      "calado": "8,70/9,50",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
     {
       "navio": "CMA CGM GEORGE SAND",
       "status": "ManobraPrevista",
       "data_hora_texto": "21/09/2026",
       "data_hora_iso": "2026-09-21T00:00:00",
-      "calado": "11,80 EK",
+      "calado": "11,80/11,70",
       "rota": "Bacia 2",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "COSCO SHIPPING PERU",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "21/09/2026",
-      "data_hora_iso": "2026-09-21T00:00:00",
-      "calado": "11,10 EK",
-      "rota": "",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
-      "navio": "MSC CAROLE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "21/09/2026",
-      "data_hora_iso": "2026-09-21T00:00:00",
-      "calado": "10,60/10,70",
-      "rota": "",
       "berco": "JBS 2",
       "posicao": null
     },
     {
       "navio": "COSCO SHIPPING DANUBE",
       "status": "ManobraPrevista",
-      "data_hora_texto": "21/09/2026",
-      "data_hora_iso": "2026-09-21T00:00:00",
+      "data_hora_texto": "22/09/2026",
+      "data_hora_iso": "2026-09-22T00:00:00",
       "calado": "7,40/9,90",
       "rota": "Bacia 2",
       "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
+      "navio": "MSC CAROLE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "22/09/2026",
+      "data_hora_iso": "2026-09-22T00:00:00",
+      "calado": "10,60/10,70",
+      "rota": "",
+      "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "COSCO SHIPPING PERU",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "22/09/2026",
+      "data_hora_iso": "2026-09-22T00:00:00",
+      "calado": "11,10 EK",
+      "rota": "",
+      "berco": "PNAVE 02",
       "posicao": null
     },
     {
@@ -62,31 +52,11 @@
       "posicao": null
     },
     {
-      "navio": "UML VICTORIA",
+      "navio": "CMA CGM MISSISSIPPI",
       "status": "ManobraPrevista",
       "data_hora_texto": "22/09/2026",
       "data_hora_iso": "2026-09-22T00:00:00",
-      "calado": "3,90/5,90",
-      "rota": "",
-      "berco": "POLY TERMINAIS",
-      "posicao": null
-    },
-    {
-      "navio": "HMM JUNIPER",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "22/09/2026",
-      "data_hora_iso": "2026-09-22T00:00:00",
-      "calado": "11,50 EK",
-      "rota": "",
-      "berco": "PNAVE",
-      "posicao": null
-    },
-    {
-      "navio": "GREEN BRAZIL",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "22/09/2026",
-      "data_hora_iso": "2026-09-22T00:00:00",
-      "calado": "11,95 EK",
+      "calado": "TBC",
       "rota": "",
       "berco": "JBS",
       "posicao": null
@@ -112,6 +82,26 @@
       "posicao": null
     },
     {
+      "navio": "UML VICTORIA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "23/09/2026",
+      "data_hora_iso": "2026-09-23T00:00:00",
+      "calado": "3,90/5,90",
+      "rota": "",
+      "berco": "POLY TERMINAIS",
+      "posicao": null
+    },
+    {
+      "navio": "HMM JUNIPER",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "23/09/2026",
+      "data_hora_iso": "2026-09-23T00:00:00",
+      "calado": "11,50 EK",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
       "navio": "BBC RAISE",
       "status": "ManobraPrevista",
       "data_hora_texto": "23/09/2026",
@@ -119,6 +109,16 @@
       "calado": "5,70/6,25",
       "rota": "",
       "berco": "TEPORTI",
+      "posicao": null
+    },
+    {
+      "navio": "GREEN BRAZIL",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "23/09/2026",
+      "data_hora_iso": "2026-09-23T00:00:00",
+      "calado": "11,95 EK",
+      "rota": "",
+      "berco": "JBS",
       "posicao": null
     },
     {
