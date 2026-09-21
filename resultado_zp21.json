@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-21T11:54:59.485333",
+  "gerado_em": "2026-09-21T17:49:49.568272",
   "navios": [
     {
       "navio": "CAPE ARTEMISIO",
@@ -8,16 +8,6 @@
       "data_hora_iso": "2026-09-21T00:00:00",
       "calado": "8,70/9,50",
       "rota": "Bacia 2",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
-      "navio": "COSCO SHIPPING PERU",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "21/09/2026",
-      "data_hora_iso": "2026-09-21T00:00:00",
-      "calado": "TBC",
-      "rota": "",
       "berco": "PNAVE 02",
       "posicao": null
     },
@@ -32,13 +22,13 @@
       "posicao": null
     },
     {
-      "navio": "COSCO SHIPPING DANUBE",
+      "navio": "COSCO SHIPPING PERU",
       "status": "ManobraPrevista",
       "data_hora_texto": "21/09/2026",
       "data_hora_iso": "2026-09-21T00:00:00",
-      "calado": "7,40/9,90",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 01",
+      "calado": "11,10 EK",
+      "rota": "",
+      "berco": "PNAVE 02",
       "posicao": null
     },
     {
@@ -52,13 +42,13 @@
       "posicao": null
     },
     {
-      "navio": "IRENES RULE",
+      "navio": "COSCO SHIPPING DANUBE",
       "status": "ManobraPrevista",
-      "data_hora_texto": "22/09/2026",
-      "data_hora_iso": "2026-09-22T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS",
+      "data_hora_texto": "21/09/2026",
+      "data_hora_iso": "2026-09-21T00:00:00",
+      "calado": "7,40/9,90",
+      "rota": "Bacia 2",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
@@ -67,16 +57,6 @@
       "data_hora_texto": "22/09/2026",
       "data_hora_iso": "2026-09-22T00:00:00",
       "calado": "TBC",
-      "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
-      "navio": "MSC BIANCA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "22/09/2026",
-      "data_hora_iso": "2026-09-22T00:00:00",
-      "calado": "9,60/10,10",
       "rota": "",
       "berco": "JBS",
       "posicao": null
@@ -96,7 +76,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "22/09/2026",
       "data_hora_iso": "2026-09-22T00:00:00",
-      "calado": "11,64/11,40",
+      "calado": "11,50 EK",
       "rota": "",
       "berco": "PNAVE",
       "posicao": null
@@ -122,6 +102,16 @@
       "posicao": null
     },
     {
+      "navio": "MSC BIANCA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "23/09/2026",
+      "data_hora_iso": "2026-09-23T00:00:00",
+      "calado": "9,60/10,10",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
       "navio": "BBC RAISE",
       "status": "ManobraPrevista",
       "data_hora_texto": "23/09/2026",
@@ -129,6 +119,16 @@
       "calado": "5,70/6,25",
       "rota": "",
       "berco": "TEPORTI",
+      "posicao": null
+    },
+    {
+      "navio": "CONTI COURAGE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "24/09/2026",
+      "data_hora_iso": "2026-09-24T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
       "posicao": null
     },
     {
@@ -152,6 +152,16 @@
       "posicao": null
     },
     {
+      "navio": "LOG-IN RESILIENTE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "24/09/2026",
+      "data_hora_iso": "2026-09-24T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
       "navio": "ORANGE FROST",
       "status": "ManobraPrevista",
       "data_hora_texto": "24/09/2026",
@@ -166,6 +176,66 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "25/09/2026",
       "data_hora_iso": "2026-09-25T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "MSC MELINE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "25/09/2026",
+      "data_hora_iso": "2026-09-25T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "MSC INIYA V",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "25/09/2026",
+      "data_hora_iso": "2026-09-25T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "IRENES RULE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "27/09/2026",
+      "data_hora_iso": "2026-09-27T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "LOG-IN JATOBÁ",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "27/09/2026",
+      "data_hora_iso": "2026-09-27T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "LAEM CHABANG EXPRESS",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "28/09/2026",
+      "data_hora_iso": "2026-09-28T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "NC BRAVO",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "28/09/2026",
+      "data_hora_iso": "2026-09-28T00:00:00",
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
