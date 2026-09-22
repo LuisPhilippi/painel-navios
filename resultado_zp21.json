@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-22T10:55:26.795320",
+  "gerado_em": "2026-09-22T15:24:37.887028",
   "navios": [
     {
       "navio": "CMA CGM GEORGE SAND",
@@ -7,7 +7,7 @@
       "data_hora_texto": "22/09/2026",
       "data_hora_iso": "2026-09-22T00:00:00",
       "calado": "11,80/11,70",
-      "rota": "Bacia 2",
+      "rota": "",
       "berco": "PNAVE 02",
       "posicao": null
     },
@@ -66,7 +66,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "23/09/2026",
       "data_hora_iso": "2026-09-23T00:00:00",
-      "calado": "11,50 EK",
+      "calado": "11,70 EK",
       "rota": "",
       "berco": "PNAVE",
       "posicao": null
@@ -106,7 +106,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "23/09/2026",
       "data_hora_iso": "2026-09-23T00:00:00",
-      "calado": "TBC",
+      "calado": "9,00/10,10",
       "rota": "Bacia 1",
       "berco": "PNAVE 01",
       "posicao": null
@@ -136,7 +136,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "24/09/2026",
       "data_hora_iso": "2026-09-24T00:00:00",
-      "calado": "TBC",
+      "calado": "11,30 EK",
       "rota": "",
       "berco": "JBS",
       "posicao": null
@@ -156,7 +156,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "24/09/2026",
       "data_hora_iso": "2026-09-24T00:00:00",
-      "calado": "TBC",
+      "calado": "7,70/10,55",
       "rota": "",
       "berco": "JBS 4",
       "posicao": null
