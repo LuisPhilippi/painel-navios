@@ -1,17 +1,30 @@
 {
-  "gerado_em": "2026-09-22T19:33:01.665673",
+  "gerado_em": "2026-09-22T22:42:50.267846",
   "navios": [
     {
       "navio": "Fernão de Magalhães",
       "imo": "9603221",
       "agencia": "LACHMANN",
-      "data_chegada_texto": "22/09/2026 12:00",
-      "data_chegada_iso": "2026-09-22T12:00:00",
+      "data_chegada_texto": "22/09/2026 18:00",
+      "data_chegada_iso": "2026-09-22T18:00:00",
       "manobra": "Entrada e Atracação",
       "data_manobra": "22/09/2026 18:00",
       "data_manobra_iso": "2026-09-22T18:00:00",
       "berco": "BARRA 902",
-      "situacao": "Confirmado",
+      "situacao": "Em Andamento",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Maersk Lins",
+      "imo": "9527025",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "23/09/2026 07:00",
+      "data_chegada_iso": "2026-09-23T07:00:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "23/09/2026 07:00",
+      "data_manobra_iso": "2026-09-23T07:00:00",
+      "berco": "BARRA 901",
+      "situacao": "A Confirmar",
       "secao": "Navios Esperados"
     },
     {
@@ -20,12 +33,38 @@
       "agencia": "UNIMAR",
       "data_chegada_texto": "22/09/2026 06:00",
       "data_chegada_iso": "2026-09-22T06:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "901",
-      "situacao": null,
-      "secao": "Navios Atracados"
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "23/09/2026 07:00",
+      "data_manobra_iso": "2026-09-23T07:00:00",
+      "berco": "901 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Maersk Acadia",
+      "imo": "9928188",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "23/09/2026 11:00",
+      "data_chegada_iso": "2026-09-23T11:00:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "23/09/2026 11:00",
+      "data_manobra_iso": "2026-09-23T11:00:00",
+      "berco": "BARRA 902",
+      "situacao": "A Confirmar",
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Bartolomeu Dias",
+      "imo": "9625384",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "23/09/2026 13:00",
+      "data_chegada_iso": "2026-09-23T13:00:00",
+      "manobra": "Entrada e Fundeio",
+      "data_manobra": "23/09/2026 13:00",
+      "data_manobra_iso": "2026-09-23T13:00:00",
+      "berco": "BARRA F5",
+      "situacao": "A Confirmar",
+      "secao": "Navios Esperados"
     },
     {
       "navio": "MBA Future",
@@ -223,19 +262,6 @@
       "secao": "Navios Fundeados (Barra)"
     },
     {
-      "navio": "Maersk Lins",
-      "imo": "9527025",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "23/09/2026 07:00",
-      "data_chegada_iso": "2026-09-23T07:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
       "navio": "YI Chun 15",
       "imo": "9631474",
       "agencia": "OCEÂNICA",
@@ -245,32 +271,6 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "SFS",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Bartolomeu Dias",
-      "imo": "9625384",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "23/09/2026 19:00",
-      "data_chegada_iso": "2026-09-23T19:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Maersk Acadia",
-      "imo": "9928188",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "23/09/2026 20:00",
-      "data_chegada_iso": "2026-09-23T20:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Esperados"
     },
