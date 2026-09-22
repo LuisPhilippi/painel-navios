@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-09-22T05:49:58.839518",
+  "gerado_em": "2026-09-22T10:55:26.795320",
   "navios": [
-    {
-      "navio": "COSCO SHIPPING DANUBE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "22/09/2026",
-      "data_hora_iso": "2026-09-22T00:00:00",
-      "calado": "7,40/9,90",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "CMA CGM GEORGE SAND",
       "status": "ManobraPrevista",
@@ -18,47 +8,27 @@
       "data_hora_iso": "2026-09-22T00:00:00",
       "calado": "11,80/11,70",
       "rota": "Bacia 2",
-      "berco": "JBS 2",
+      "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
+      "navio": "COSCO SHIPPING DANUBE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "23/09/2026",
+      "data_hora_iso": "2026-09-23T00:00:00",
+      "calado": "7,30/10,00",
+      "rota": "Bacia 2",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
       "navio": "COSCO SHIPPING PERU",
       "status": "ManobraPrevista",
-      "data_hora_texto": "22/09/2026",
-      "data_hora_iso": "2026-09-22T00:00:00",
+      "data_hora_texto": "23/09/2026",
+      "data_hora_iso": "2026-09-23T00:00:00",
       "calado": "11,10 EK",
       "rota": "",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
-      "navio": "CMA CGM MISSISSIPPI",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "22/09/2026",
-      "data_hora_iso": "2026-09-22T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS 4",
-      "posicao": null
-    },
-    {
-      "navio": "MSC CAROLE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "22/09/2026",
-      "data_hora_iso": "2026-09-22T00:00:00",
-      "calado": "10,60/10,70",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "LOG-IN EVOLUTION",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "22/09/2026",
-      "data_hora_iso": "2026-09-22T00:00:00",
-      "calado": "TBC",
-      "rota": "Bacia 1",
-      "berco": "PNAVE 01",
+      "berco": "PNAVE",
       "posicao": null
     },
     {
@@ -116,9 +86,29 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "23/09/2026",
       "data_hora_iso": "2026-09-23T00:00:00",
-      "calado": "TBC",
+      "calado": "6,40/8,40",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "MSC CAROLE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "23/09/2026",
+      "data_hora_iso": "2026-09-23T00:00:00",
+      "calado": "10,60/10,70",
+      "rota": "",
+      "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "LOG-IN EVOLUTION",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "23/09/2026",
+      "data_hora_iso": "2026-09-23T00:00:00",
+      "calado": "TBC",
+      "rota": "Bacia 1",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
@@ -159,6 +149,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "TEPORTI",
+      "posicao": null
+    },
+    {
+      "navio": "CMA CGM MISSISSIPPI",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "24/09/2026",
+      "data_hora_iso": "2026-09-24T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS 4",
       "posicao": null
     },
     {
