@@ -1,19 +1,6 @@
 {
-  "gerado_em": "2026-09-22T15:24:44.088826",
+  "gerado_em": "2026-09-22T19:33:01.665673",
   "navios": [
-    {
-      "navio": "Maersk Chambal",
-      "imo": "9525376",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "21/09/2026 15:27",
-      "data_chegada_iso": "2026-09-21T15:27:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "22/09/2026 13:30",
-      "data_manobra_iso": "2026-09-22T13:30:00",
-      "berco": "902 BARRA",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Fernão de Magalhães",
       "imo": "9603221",
@@ -21,10 +8,10 @@
       "data_chegada_texto": "22/09/2026 12:00",
       "data_chegada_iso": "2026-09-22T12:00:00",
       "manobra": "Entrada e Atracação",
-      "data_manobra": "22/09/2026 17:00",
-      "data_manobra_iso": "2026-09-22T17:00:00",
+      "data_manobra": "22/09/2026 18:00",
+      "data_manobra_iso": "2026-09-22T18:00:00",
       "berco": "BARRA 902",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Navios Esperados"
     },
     {
