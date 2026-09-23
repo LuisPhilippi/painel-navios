@@ -1,19 +1,6 @@
 {
-  "gerado_em": "2026-09-22T22:42:50.267846",
+  "gerado_em": "2026-09-23T01:13:41.051627",
   "navios": [
-    {
-      "navio": "Fernão de Magalhães",
-      "imo": "9603221",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "22/09/2026 18:00",
-      "data_chegada_iso": "2026-09-22T18:00:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "22/09/2026 18:00",
-      "data_manobra_iso": "2026-09-22T18:00:00",
-      "berco": "BARRA 902",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Maersk Lins",
       "imo": "9527025",
@@ -52,6 +39,19 @@
       "berco": "BARRA 902",
       "situacao": "A Confirmar",
       "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Fernão de Magalhães",
+      "imo": "9603221",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "22/09/2026 18:00",
+      "data_chegada_iso": "2026-09-22T18:00:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "23/09/2026 11:00",
+      "data_manobra_iso": "2026-09-23T11:00:00",
+      "berco": "902 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
     },
     {
       "navio": "Bartolomeu Dias",
