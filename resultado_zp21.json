@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-23T18:13:50.668418",
+  "gerado_em": "2026-09-23T22:01:10.479166",
   "navios": [
     {
       "navio": "COSCO SHIPPING PERU",
@@ -8,7 +8,7 @@
       "data_hora_iso": "2026-09-24T00:00:00",
       "calado": "11,10 EK",
       "rota": "",
-      "berco": "PNAVE",
+      "berco": "PNAVE 02",
       "posicao": null
     },
     {
@@ -32,6 +32,16 @@
       "posicao": null
     },
     {
+      "navio": "MSC SOTIRIA III",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "24/09/2026",
+      "data_hora_iso": "2026-09-24T00:00:00",
+      "calado": "6,40/8,40",
+      "rota": "",
+      "berco": "JBS 4",
+      "posicao": null
+    },
+    {
       "navio": "ORANGE FROST",
       "status": "ManobraPrevista",
       "data_hora_texto": "24/09/2026",
@@ -39,6 +49,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "BRASKARNE",
+      "posicao": null
+    },
+    {
+      "navio": "CONTI COURAGE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "24/09/2026",
+      "data_hora_iso": "2026-09-24T00:00:00",
+      "calado": "9,80/10,50",
+      "rota": "",
+      "berco": "JBS 4",
       "posicao": null
     },
     {
@@ -66,7 +86,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "25/09/2026",
       "data_hora_iso": "2026-09-25T00:00:00",
-      "calado": "TBC",
+      "calado": "9,00/10,20",
       "rota": "",
       "berco": "PNAVE",
       "posicao": null
@@ -112,26 +132,6 @@
       "posicao": null
     },
     {
-      "navio": "CONTI COURAGE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "26/09/2026",
-      "data_hora_iso": "2026-09-26T00:00:00",
-      "calado": "9,80/10,50",
-      "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
-      "navio": "COSTA RICA EXPRESS",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "26/09/2026",
-      "data_hora_iso": "2026-09-26T00:00:00",
-      "calado": "11,30 EK",
-      "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
       "navio": "MSC BIANCA",
       "status": "ManobraPrevista",
       "data_hora_texto": "26/09/2026",
@@ -142,16 +142,6 @@
       "posicao": null
     },
     {
-      "navio": "MSC SOTIRIA III",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "26/09/2026",
-      "data_hora_iso": "2026-09-26T00:00:00",
-      "calado": "6,40/8,40",
-      "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
       "navio": "PIO GRANDE",
       "status": "ManobraPrevista",
       "data_hora_texto": "26/09/2026",
@@ -159,6 +149,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "TEPORTI",
+      "posicao": null
+    },
+    {
+      "navio": "COSTA RICA EXPRESS",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "26/09/2026",
+      "data_hora_iso": "2026-09-26T00:00:00",
+      "calado": "11,30 EK",
+      "rota": "",
+      "berco": "JBS 4",
       "posicao": null
     },
     {
