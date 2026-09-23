@@ -1,32 +1,6 @@
 {
-  "gerado_em": "2026-09-23T07:18:00.851700",
+  "gerado_em": "2026-09-23T13:19:56.702403",
   "navios": [
-    {
-      "navio": "Maersk Lins",
-      "imo": "9527025",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "23/09/2026 07:00",
-      "data_chegada_iso": "2026-09-23T07:00:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "23/09/2026 07:00",
-      "data_manobra_iso": "2026-09-23T07:00:00",
-      "berco": "BARRA 901",
-      "situacao": "A Confirmar",
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "YM Maturity",
-      "imo": "9438535",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "22/09/2026 06:00",
-      "data_chegada_iso": "2026-09-22T06:00:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "23/09/2026 07:00",
-      "data_manobra_iso": "2026-09-23T07:00:00",
-      "berco": "901 BARRA",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Maersk Acadia",
       "imo": "9928188",
@@ -37,7 +11,7 @@
       "data_manobra": "23/09/2026 11:00",
       "data_manobra_iso": "2026-09-23T11:00:00",
       "berco": "BARRA 902",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Navios Esperados"
     },
     {
@@ -50,7 +24,7 @@
       "data_manobra": "23/09/2026 11:00",
       "data_manobra_iso": "2026-09-23T11:00:00",
       "berco": "902 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -65,6 +39,19 @@
       "berco": "BARRA F5",
       "situacao": "A Confirmar",
       "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Maersk Lins",
+      "imo": "9527025",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "23/09/2026 07:00",
+      "data_chegada_iso": "2026-09-23T07:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "901",
+      "situacao": null,
+      "secao": "Navios Atracados"
     },
     {
       "navio": "MBA Future",
@@ -258,6 +245,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "SFS",
+      "situacao": null,
+      "secao": "Navios Fundeados (Barra)"
+    },
+    {
+      "navio": "Sakizaya Future",
+      "imo": "9713818",
+      "agencia": "LITORAL",
+      "data_chegada_texto": "23/09/2026 09:48",
+      "data_chegada_iso": "2026-09-23T09:48:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "101",
       "situacao": null,
       "secao": "Navios Fundeados (Barra)"
     },
