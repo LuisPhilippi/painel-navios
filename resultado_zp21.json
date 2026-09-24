@@ -1,26 +1,6 @@
 {
-  "gerado_em": "2026-09-24T18:09:06.330621",
+  "gerado_em": "2026-09-24T21:56:38.209678",
   "navios": [
-    {
-      "navio": "COSCO SHIPPING PERU",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "24/09/2026",
-      "data_hora_iso": "2026-09-24T00:00:00",
-      "calado": "11,10 EK",
-      "rota": "",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
-      "navio": "LOG-IN EVOLUTION",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "24/09/2026",
-      "data_hora_iso": "2026-09-24T00:00:00",
-      "calado": "9,00/10,10",
-      "rota": "",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "ORANGE FROST",
       "status": "ManobraPrevista",
@@ -29,26 +9,6 @@
       "calado": "2,70/6,70",
       "rota": "",
       "berco": "BRASKARNE",
-      "posicao": null
-    },
-    {
-      "navio": "MSC SOTIRIA III",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "24/09/2026",
-      "data_hora_iso": "2026-09-24T00:00:00",
-      "calado": "7,70/9,20",
-      "rota": "",
-      "berco": "JBS 4",
-      "posicao": null
-    },
-    {
-      "navio": "CONTI COURAGE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "24/09/2026",
-      "data_hora_iso": "2026-09-24T00:00:00",
-      "calado": "9,80/10,50",
-      "rota": "",
-      "berco": "JBS 4",
       "posicao": null
     },
     {
@@ -62,83 +22,63 @@
       "posicao": null
     },
     {
-      "navio": "SEASPAN BELIEF",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "25/09/2026",
-      "data_hora_iso": "2026-09-25T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE",
-      "posicao": null
-    },
-    {
       "navio": "MARIA H",
       "status": "ManobraPrevista",
       "data_hora_texto": "25/09/2026",
       "data_hora_iso": "2026-09-25T00:00:00",
       "calado": "10,00/11,00",
       "rota": "",
-      "berco": "JBS",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
-      "navio": "MAERSK CHAMBAL",
+      "navio": "MSC SOTIRIA III",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "25/09/2026",
+      "data_hora_iso": "2026-09-25T00:00:00",
+      "calado": "7,70/9,20",
+      "rota": "",
+      "berco": "JBS 4",
+      "posicao": null
+    },
+    {
+      "navio": "CONTI COURAGE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "25/09/2026",
+      "data_hora_iso": "2026-09-25T00:00:00",
+      "calado": "9,80/10,50",
+      "rota": "Bacia 2",
+      "berco": "JBS 4",
+      "posicao": null
+    },
+    {
+      "navio": "AGIOS PORFYRIOS",
       "status": "ManobraPrevista",
       "data_hora_texto": "25/09/2026",
       "data_hora_iso": "2026-09-25T00:00:00",
       "calado": "TBC",
       "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
-      "navio": "MSC MELINE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "25/09/2026",
-      "data_hora_iso": "2026-09-25T00:00:00",
-      "calado": "9,00/10,20",
-      "rota": "",
-      "berco": "PNAVE",
-      "posicao": null
-    },
-    {
-      "navio": "UML VICTORIA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "25/09/2026",
-      "data_hora_iso": "2026-09-25T00:00:00",
-      "calado": "3,90/5,90",
-      "rota": "",
-      "berco": "POLY TERMINAIS",
+      "berco": "BRASKARNE",
       "posicao": null
     },
     {
       "navio": "BBC RAISE",
       "status": "ManobraPrevista",
-      "data_hora_texto": "25/09/2026",
-      "data_hora_iso": "2026-09-25T00:00:00",
-      "calado": "5,70/6,25",
+      "data_hora_texto": "26/09/2026",
+      "data_hora_iso": "2026-09-26T00:00:00",
+      "calado": "TBC",
       "rota": "",
       "berco": "TEPORTI",
       "posicao": null
     },
     {
-      "navio": "GREEN BRAZIL",
+      "navio": "COSCO SHIPPING PERU",
       "status": "ManobraPrevista",
-      "data_hora_texto": "25/09/2026",
-      "data_hora_iso": "2026-09-25T00:00:00",
-      "calado": "11,95 EK",
-      "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
-      "navio": "MSC INIYA V",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "25/09/2026",
-      "data_hora_iso": "2026-09-25T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS",
+      "data_hora_texto": "26/09/2026",
+      "data_hora_iso": "2026-09-26T00:00:00",
+      "calado": "9,70/10,70",
+      "rota": "Bacia 2",
+      "berco": "PNAVE 02",
       "posicao": null
     },
     {
@@ -152,6 +92,46 @@
       "posicao": null
     },
     {
+      "navio": "SEASPAN BELIEF",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "26/09/2026",
+      "data_hora_iso": "2026-09-26T00:00:00",
+      "calado": "11,85 EK",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "MAERSK CHAMBAL",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "26/09/2026",
+      "data_hora_iso": "2026-09-26T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "MSC MELINE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "26/09/2026",
+      "data_hora_iso": "2026-09-26T00:00:00",
+      "calado": "9,00/10,20",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "LOG-IN EVOLUTION",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "26/09/2026",
+      "data_hora_iso": "2026-09-26T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
       "navio": "PIO GRANDE",
       "status": "ManobraPrevista",
       "data_hora_texto": "26/09/2026",
@@ -162,6 +142,16 @@
       "posicao": null
     },
     {
+      "navio": "UML VICTORIA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "26/09/2026",
+      "data_hora_iso": "2026-09-26T00:00:00",
+      "calado": "3,90/5,90",
+      "rota": "",
+      "berco": "POLY TERMINAIS",
+      "posicao": null
+    },
+    {
       "navio": "HYUNDAI PREMIUM",
       "status": "ManobraPrevista",
       "data_hora_texto": "26/09/2026",
@@ -169,6 +159,26 @@
       "calado": "TBC",
       "rota": "",
       "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "MSC INIYA V",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "26/09/2026",
+      "data_hora_iso": "2026-09-26T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "GREEN BRAZIL",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "26/09/2026",
+      "data_hora_iso": "2026-09-26T00:00:00",
+      "calado": "11,95 EK",
+      "rota": "",
+      "berco": "JBS",
       "posicao": null
     },
     {
@@ -250,16 +260,6 @@
       "rota": "",
       "berco": "JBS",
       "posicao": null
-    },
-    {
-      "navio": "AGIOS PORFYRIOS",
-      "status": "Fundeado",
-      "data_hora_texto": "12/09/2026 - 21:21",
-      "data_hora_iso": "2026-09-12T21:21:00",
-      "calado": "4,50/6,20",
-      "rota": "",
-      "berco": null,
-      "posicao": "26 52,64 S / 048 29,77 W"
     },
     {
       "navio": "GEMSBOK",
