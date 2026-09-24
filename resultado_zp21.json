@@ -1,14 +1,14 @@
 {
-  "gerado_em": "2026-09-24T07:07:59.807518",
+  "gerado_em": "2026-09-24T13:09:09.173111",
   "navios": [
     {
-      "navio": "COSCO SHIPPING PERU",
+      "navio": "MSC CAROLE",
       "status": "ManobraPrevista",
       "data_hora_texto": "24/09/2026",
       "data_hora_iso": "2026-09-24T00:00:00",
-      "calado": "11,10 EK",
+      "calado": "10,60/10,70",
       "rota": "",
-      "berco": "PNAVE 02",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -22,13 +22,13 @@
       "posicao": null
     },
     {
-      "navio": "MSC CAROLE",
+      "navio": "COSCO SHIPPING PERU",
       "status": "ManobraPrevista",
       "data_hora_texto": "24/09/2026",
       "data_hora_iso": "2026-09-24T00:00:00",
-      "calado": "10,60/10,70",
+      "calado": "11,10 EK",
       "rota": "",
-      "berco": "JBS 2",
+      "berco": "PNAVE 02",
       "posicao": null
     },
     {
@@ -46,7 +46,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "24/09/2026",
       "data_hora_iso": "2026-09-24T00:00:00",
-      "calado": "TBC",
+      "calado": "2,70/6,70",
       "rota": "",
       "berco": "BRASKARNE",
       "posicao": null
