@@ -1,26 +1,6 @@
 {
-  "gerado_em": "2026-09-24T13:09:09.173111",
+  "gerado_em": "2026-09-24T18:09:06.330621",
   "navios": [
-    {
-      "navio": "MSC CAROLE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "24/09/2026",
-      "data_hora_iso": "2026-09-24T00:00:00",
-      "calado": "10,60/10,70",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "MSC SOTIRIA III",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "24/09/2026",
-      "data_hora_iso": "2026-09-24T00:00:00",
-      "calado": "6,40/8,40",
-      "rota": "Bacia 1",
-      "berco": "JBS 4",
-      "posicao": null
-    },
     {
       "navio": "COSCO SHIPPING PERU",
       "status": "ManobraPrevista",
@@ -52,6 +32,16 @@
       "posicao": null
     },
     {
+      "navio": "MSC SOTIRIA III",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "24/09/2026",
+      "data_hora_iso": "2026-09-24T00:00:00",
+      "calado": "7,70/9,20",
+      "rota": "",
+      "berco": "JBS 4",
+      "posicao": null
+    },
+    {
       "navio": "CONTI COURAGE",
       "status": "ManobraPrevista",
       "data_hora_texto": "24/09/2026",
@@ -59,6 +49,26 @@
       "calado": "9,80/10,50",
       "rota": "",
       "berco": "JBS 4",
+      "posicao": null
+    },
+    {
+      "navio": "MSC CAROLE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "25/09/2026",
+      "data_hora_iso": "2026-09-25T00:00:00",
+      "calado": "9,15/9,90",
+      "rota": "Bacia 2",
+      "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "SEASPAN BELIEF",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "25/09/2026",
+      "data_hora_iso": "2026-09-25T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
       "posicao": null
     },
     {
@@ -146,9 +156,19 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "26/09/2026",
       "data_hora_iso": "2026-09-26T00:00:00",
-      "calado": "TBC",
+      "calado": "4,90/5,40",
       "rota": "",
       "berco": "TEPORTI",
+      "posicao": null
+    },
+    {
+      "navio": "HYUNDAI PREMIUM",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "26/09/2026",
+      "data_hora_iso": "2026-09-26T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
       "posicao": null
     },
     {
@@ -172,21 +192,21 @@
       "posicao": null
     },
     {
-      "navio": "HMM JUNIPER",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "27/09/2026",
-      "data_hora_iso": "2026-09-27T00:00:00",
-      "calado": "11,70 EK",
-      "rota": "",
-      "berco": "PNAVE",
-      "posicao": null
-    },
-    {
       "navio": "LOG-IN JATOBÁ",
       "status": "ManobraPrevista",
       "data_hora_texto": "27/09/2026",
       "data_hora_iso": "2026-09-27T00:00:00",
       "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "HMM JUNIPER",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "27/09/2026",
+      "data_hora_iso": "2026-09-27T00:00:00",
+      "calado": "11,70 EK",
       "rota": "",
       "berco": "PNAVE",
       "posicao": null
