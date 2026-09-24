@@ -1,32 +1,6 @@
 {
-  "gerado_em": "2026-09-23T22:01:16.908513",
+  "gerado_em": "2026-09-24T01:02:07.728496",
   "navios": [
-    {
-      "navio": "Tenca Arrow",
-      "imo": "9385489",
-      "agencia": "SEATRADE",
-      "data_chegada_texto": "11/09/2026 03:36",
-      "data_chegada_iso": "2026-09-11T03:36:00",
-      "manobra": "Desatracação e Fundeio",
-      "data_manobra": "23/09/2026 23:45",
-      "data_manobra_iso": "2026-09-23T23:45:00",
-      "berco": "301 F3",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Barcaça N09",
-      "imo": "9326005",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "14/09/2026 08:28",
-      "data_chegada_iso": "2026-09-14T08:28:00",
-      "manobra": "Suspender e Atracar",
-      "data_manobra": "24/09/2026 00:15",
-      "data_manobra_iso": "2026-09-24T00:15:00",
-      "berco": "F4 (P1) 300",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Maersk Lins",
       "imo": "9527025",
@@ -54,15 +28,15 @@
       "secao": "Movimentações"
     },
     {
-      "navio": "Basel",
-      "imo": "9433614",
-      "agencia": "CARGONAVE",
-      "data_chegada_texto": "09/09/2026 15:52",
-      "data_chegada_iso": "2026-09-09T15:52:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "24/09/2026 07:00",
-      "data_manobra_iso": "2026-09-24T07:00:00",
-      "berco": "BARRA 301",
+      "navio": "Tenca Arrow",
+      "imo": "9385489",
+      "agencia": "SEATRADE",
+      "data_chegada_texto": "11/09/2026 03:36",
+      "data_chegada_iso": "2026-09-11T03:36:00",
+      "manobra": "Desatracação e Fundeio",
+      "data_manobra": "24/09/2026 06:45",
+      "data_manobra_iso": "2026-09-24T06:45:00",
+      "berco": "301 F3",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
     },
@@ -76,6 +50,32 @@
       "data_manobra": "24/09/2026 07:00",
       "data_manobra_iso": "2026-09-24T07:00:00",
       "berco": "302 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Barcaça N09",
+      "imo": "9326005",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "14/09/2026 08:28",
+      "data_chegada_iso": "2026-09-14T08:28:00",
+      "manobra": "Suspender e Atracar",
+      "data_manobra": "24/09/2026 07:30",
+      "data_manobra_iso": "2026-09-24T07:30:00",
+      "berco": "F4 (P1) 300",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Basel",
+      "imo": "9433614",
+      "agencia": "CARGONAVE",
+      "data_chegada_texto": "09/09/2026 15:52",
+      "data_chegada_iso": "2026-09-09T15:52:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "24/09/2026 09:00",
+      "data_manobra_iso": "2026-09-24T09:00:00",
+      "berco": "BARRA 301",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
     },

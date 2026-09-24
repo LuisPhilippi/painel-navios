@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-23T22:01:10.479166",
+  "gerado_em": "2026-09-24T01:02:01.682734",
   "navios": [
     {
       "navio": "COSCO SHIPPING PERU",
@@ -9,6 +9,16 @@
       "calado": "11,10 EK",
       "rota": "",
       "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
+      "navio": "MSC SOTIRIA III",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "24/09/2026",
+      "data_hora_iso": "2026-09-24T00:00:00",
+      "calado": "6,40/8,40",
+      "rota": "Bacia 1",
+      "berco": "JBS 4",
       "posicao": null
     },
     {
@@ -29,16 +39,6 @@
       "calado": "9,00/10,10",
       "rota": "",
       "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "MSC SOTIRIA III",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "24/09/2026",
-      "data_hora_iso": "2026-09-24T00:00:00",
-      "calado": "6,40/8,40",
-      "rota": "",
-      "berco": "JBS 4",
       "posicao": null
     },
     {
