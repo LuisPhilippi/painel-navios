@@ -1,18 +1,18 @@
 {
-  "gerado_em": "2026-09-25T05:45:48.787546",
+  "gerado_em": "2026-09-25T11:04:25.249611",
   "navios": [
     {
       "navio": "Stephanie C",
       "imo": "9694531",
       "agencia": "ROCHAMAR",
-      "data_chegada_texto": "25/09/2026 04:00",
-      "data_chegada_iso": "2026-09-25T04:00:00",
+      "data_chegada_texto": "25/09/2026 07:00",
+      "data_chegada_iso": "2026-09-25T07:00:00",
       "manobra": "Entrada e Atracação",
       "data_manobra": "25/09/2026 07:00",
       "data_manobra_iso": "2026-09-25T07:00:00",
       "berco": "BARRA 901",
-      "situacao": "A Confirmar",
-      "secao": "Navios Esperados"
+      "situacao": "Em Andamento",
+      "secao": "Movimentações"
     },
     {
       "navio": "Bartolomeu Dias",
@@ -24,7 +24,7 @@
       "data_manobra": "25/09/2026 07:00",
       "data_manobra_iso": "2026-09-25T07:00:00",
       "berco": "901 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -37,7 +37,7 @@
       "data_manobra": "25/09/2026 07:00",
       "data_manobra_iso": "2026-09-25T07:00:00",
       "berco": "F3 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
