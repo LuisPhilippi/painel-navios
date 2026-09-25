@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-24T21:56:38.209678",
+  "gerado_em": "2026-09-25T00:17:52.033238",
   "navios": [
     {
       "navio": "ORANGE FROST",
@@ -47,7 +47,7 @@
       "data_hora_texto": "25/09/2026",
       "data_hora_iso": "2026-09-25T00:00:00",
       "calado": "9,80/10,50",
-      "rota": "Bacia 2",
+      "rota": "",
       "berco": "JBS 4",
       "posicao": null
     },
