@@ -1,26 +1,6 @@
 {
-  "gerado_em": "2026-09-25T16:27:36.008154",
+  "gerado_em": "2026-09-25T20:13:28.114992",
   "navios": [
-    {
-      "navio": "MSC SOTIRIA III",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "25/09/2026",
-      "data_hora_iso": "2026-09-25T00:00:00",
-      "calado": "7,70/9,20",
-      "rota": "",
-      "berco": "JBS 4",
-      "posicao": null
-    },
-    {
-      "navio": "CONTI COURAGE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "25/09/2026",
-      "data_hora_iso": "2026-09-25T00:00:00",
-      "calado": "8,70/9,00",
-      "rota": "",
-      "berco": "JBS 4",
-      "posicao": null
-    },
     {
       "navio": "COSCO SHIPPING PERU",
       "status": "ManobraPrevista",
@@ -89,6 +69,16 @@
       "calado": "5,70/6,25",
       "rota": "",
       "berco": "TEPORTI",
+      "posicao": null
+    },
+    {
+      "navio": "CONTI COURAGE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "26/09/2026",
+      "data_hora_iso": "2026-09-26T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS 4",
       "posicao": null
     },
     {
@@ -236,6 +226,16 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "30/09/2026",
       "data_hora_iso": "2026-09-30T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "MAERSK LEON",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "06/10/2026",
+      "data_hora_iso": "2026-10-06T00:00:00",
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",

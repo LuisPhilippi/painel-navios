@@ -1,45 +1,6 @@
 {
-  "gerado_em": "2026-09-25T16:27:42.071298",
+  "gerado_em": "2026-09-25T20:13:34.243433",
   "navios": [
-    {
-      "navio": "Mercosul Guarujá",
-      "imo": "9539494",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "24/09/2026 23:17",
-      "data_chegada_iso": "2026-09-24T23:17:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "25/09/2026 12:30",
-      "data_manobra_iso": "2026-09-25T12:30:00",
-      "berco": "BARRA 902",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Maersk San Juan",
-      "imo": "9717204",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "24/09/2026 13:30",
-      "data_chegada_iso": "2026-09-24T13:30:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "25/09/2026 12:30",
-      "data_manobra_iso": "2026-09-25T12:30:00",
-      "berco": "902 BARRA",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "MBA Future",
-      "imo": "9494084",
-      "agencia": "LITORAL",
-      "data_chegada_texto": "15/09/2026 19:00",
-      "data_chegada_iso": "2026-09-15T19:00:00",
-      "manobra": "Suspender e Sair",
-      "data_manobra": "25/09/2026 12:30",
-      "data_manobra_iso": "2026-09-25T12:30:00",
-      "berco": "F5 BARRA",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Stephanie C",
       "imo": "9694531",
@@ -50,6 +11,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "901",
+      "situacao": null,
+      "secao": "Navios Atracados"
+    },
+    {
+      "navio": "Mercosul Guarujá",
+      "imo": "9539494",
+      "agencia": "UNIMAR",
+      "data_chegada_texto": "24/09/2026 23:17",
+      "data_chegada_iso": "2026-09-24T23:17:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "902",
       "situacao": null,
       "secao": "Navios Atracados"
     },
@@ -223,7 +197,7 @@
       "secao": "Navios Fundeados (Barra)"
     },
     {
-      "navio": "Adonis",
+      "navio": "Andonis",
       "imo": "9763916",
       "agencia": "WILSON SONS",
       "data_chegada_texto": "25/09/2026 12:51",
