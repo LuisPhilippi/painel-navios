@@ -1,58 +1,6 @@
 {
-  "gerado_em": "2026-09-25T11:04:25.249611",
+  "gerado_em": "2026-09-25T16:27:42.071298",
   "navios": [
-    {
-      "navio": "Stephanie C",
-      "imo": "9694531",
-      "agencia": "ROCHAMAR",
-      "data_chegada_texto": "25/09/2026 07:00",
-      "data_chegada_iso": "2026-09-25T07:00:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "25/09/2026 07:00",
-      "data_manobra_iso": "2026-09-25T07:00:00",
-      "berco": "BARRA 901",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Bartolomeu Dias",
-      "imo": "9625384",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "23/09/2026 12:57",
-      "data_chegada_iso": "2026-09-23T12:57:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "25/09/2026 07:00",
-      "data_manobra_iso": "2026-09-25T07:00:00",
-      "berco": "901 BARRA",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Tenca Arrow",
-      "imo": "9385489",
-      "agencia": "SEATRADE",
-      "data_chegada_texto": "11/09/2026 03:36",
-      "data_chegada_iso": "2026-09-11T03:36:00",
-      "manobra": "Suspender e Sair",
-      "data_manobra": "25/09/2026 07:00",
-      "data_manobra_iso": "2026-09-25T07:00:00",
-      "berco": "F3 BARRA",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "MBA Future",
-      "imo": "9494084",
-      "agencia": "LITORAL",
-      "data_chegada_texto": "15/09/2026 19:00",
-      "data_chegada_iso": "2026-09-15T19:00:00",
-      "manobra": "Suspender e Sair",
-      "data_manobra": "25/09/2026 12:15",
-      "data_manobra_iso": "2026-09-25T12:15:00",
-      "berco": "F5 BARRA",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Mercosul Guarujá",
       "imo": "9539494",
@@ -63,7 +11,7 @@
       "data_manobra": "25/09/2026 12:30",
       "data_manobra_iso": "2026-09-25T12:30:00",
       "berco": "BARRA 902",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -76,8 +24,34 @@
       "data_manobra": "25/09/2026 12:30",
       "data_manobra_iso": "2026-09-25T12:30:00",
       "berco": "902 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
+    },
+    {
+      "navio": "MBA Future",
+      "imo": "9494084",
+      "agencia": "LITORAL",
+      "data_chegada_texto": "15/09/2026 19:00",
+      "data_chegada_iso": "2026-09-15T19:00:00",
+      "manobra": "Suspender e Sair",
+      "data_manobra": "25/09/2026 12:30",
+      "data_manobra_iso": "2026-09-25T12:30:00",
+      "berco": "F5 BARRA",
+      "situacao": "Em Andamento",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Stephanie C",
+      "imo": "9694531",
+      "agencia": "ROCHAMAR",
+      "data_chegada_texto": "25/09/2026 07:00",
+      "data_chegada_iso": "2026-09-25T07:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "901",
+      "situacao": null,
+      "secao": "Navios Atracados"
     },
     {
       "navio": "Sakizaya Future",
@@ -252,14 +226,14 @@
       "navio": "Adonis",
       "imo": "9763916",
       "agencia": "WILSON SONS",
-      "data_chegada_texto": "25/09/2026 20:00",
-      "data_chegada_iso": "2026-09-25T20:00:00",
+      "data_chegada_texto": "25/09/2026 12:51",
+      "data_chegada_iso": "2026-09-25T12:51:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "SFS",
       "situacao": null,
-      "secao": "Navios Esperados"
+      "secao": "Navios Fundeados (Barra)"
     },
     {
       "navio": "Cap San Maleas",
@@ -392,6 +366,19 @@
       "secao": "Navios Esperados"
     },
     {
+      "navio": "Industrial Katharina",
+      "imo": "9435129",
+      "agencia": "ORION",
+      "data_chegada_texto": "28/09/2026 23:00",
+      "data_chegada_iso": "2026-09-28T23:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "TESC",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
       "navio": "MSC Albany",
       "imo": "9619438",
       "agencia": "WILSON SONS",
@@ -414,19 +401,6 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "SFS",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Industrial Katharina",
-      "imo": "9435129",
-      "agencia": "ORION",
-      "data_chegada_texto": "29/09/2026 12:00",
-      "data_chegada_iso": "2026-09-29T12:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "TESC",
       "situacao": null,
       "secao": "Navios Esperados"
     },
@@ -668,8 +642,8 @@
       "navio": "Oslo Venture",
       "imo": "9693185",
       "agencia": "ORION",
-      "data_chegada_texto": "07/10/2026 12:00",
-      "data_chegada_iso": "2026-10-07T12:00:00",
+      "data_chegada_texto": "08/10/2026 12:00",
+      "data_chegada_iso": "2026-10-08T12:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
