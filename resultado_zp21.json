@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-25T20:13:28.114992",
+  "gerado_em": "2026-09-25T23:46:59.434833",
   "navios": [
     {
       "navio": "COSCO SHIPPING PERU",
@@ -12,133 +12,23 @@
       "posicao": null
     },
     {
-      "navio": "MARIA H",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "26/09/2026",
-      "data_hora_iso": "2026-09-26T00:00:00",
-      "calado": "10,80/10,90",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
       "navio": "MSC BIANCA",
       "status": "ManobraPrevista",
       "data_hora_texto": "26/09/2026",
       "data_hora_iso": "2026-09-26T00:00:00",
       "calado": "9,60/10,10",
-      "rota": "",
-      "berco": "PNAVE",
+      "rota": "Bacia 2",
+      "berco": "PNAVE 02",
       "posicao": null
     },
     {
-      "navio": "SEASPAN BELIEF",
+      "navio": "MARIA H",
       "status": "ManobraPrevista",
       "data_hora_texto": "26/09/2026",
       "data_hora_iso": "2026-09-26T00:00:00",
-      "calado": "11,85 EK",
-      "rota": "",
-      "berco": "PNAVE",
-      "posicao": null
-    },
-    {
-      "navio": "MAERSK CHAMBAL",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "26/09/2026",
-      "data_hora_iso": "2026-09-26T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
-      "navio": "MSC MELINE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "26/09/2026",
-      "data_hora_iso": "2026-09-26T00:00:00",
-      "calado": "9,00/10,20",
-      "rota": "",
-      "berco": "PNAVE",
-      "posicao": null
-    },
-    {
-      "navio": "BBC RAISE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "26/09/2026",
-      "data_hora_iso": "2026-09-26T00:00:00",
-      "calado": "5,70/6,25",
-      "rota": "",
-      "berco": "TEPORTI",
-      "posicao": null
-    },
-    {
-      "navio": "CONTI COURAGE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "26/09/2026",
-      "data_hora_iso": "2026-09-26T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS 4",
-      "posicao": null
-    },
-    {
-      "navio": "LOG-IN EVOLUTION",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "26/09/2026",
-      "data_hora_iso": "2026-09-26T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "PIO GRANDE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "26/09/2026",
-      "data_hora_iso": "2026-09-26T00:00:00",
-      "calado": "4,90/5,40",
-      "rota": "",
-      "berco": "TEPORTI",
-      "posicao": null
-    },
-    {
-      "navio": "UML VICTORIA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "26/09/2026",
-      "data_hora_iso": "2026-09-26T00:00:00",
-      "calado": "3,90/5,90",
-      "rota": "",
-      "berco": "POLY TERMINAIS",
-      "posicao": null
-    },
-    {
-      "navio": "HYUNDAI PREMIUM",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "26/09/2026",
-      "data_hora_iso": "2026-09-26T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE",
-      "posicao": null
-    },
-    {
-      "navio": "MSC INIYA V",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "26/09/2026",
-      "data_hora_iso": "2026-09-26T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
-      "navio": "GREEN BRAZIL",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "26/09/2026",
-      "data_hora_iso": "2026-09-26T00:00:00",
-      "calado": "11,95 EK",
-      "rota": "",
-      "berco": "JBS",
+      "calado": "10,80/10,90",
+      "rota": "Bacia 2",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -146,19 +36,49 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "26/09/2026",
       "data_hora_iso": "2026-09-26T00:00:00",
-      "calado": "TBC",
+      "calado": "4,48/6,13",
       "rota": "",
       "berco": "BRASKARNE",
       "posicao": null
     },
     {
-      "navio": "COSTA RICA EXPRESS",
+      "navio": "LOG-IN EVOLUTION",
       "status": "ManobraPrevista",
       "data_hora_texto": "26/09/2026",
       "data_hora_iso": "2026-09-26T00:00:00",
-      "calado": "11,90/12,00",
+      "calado": "10,30/11,20",
+      "rota": "Bacia 1",
+      "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
+      "navio": "MSC INIYA V",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "27/09/2026",
+      "data_hora_iso": "2026-09-27T00:00:00",
+      "calado": "12,00 EK",
       "rota": "",
-      "berco": "JBS 4",
+      "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "HYUNDAI PREMIUM",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "27/09/2026",
+      "data_hora_iso": "2026-09-27T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
+      "navio": "BBC RAISE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "27/09/2026",
+      "data_hora_iso": "2026-09-27T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "TEPORTI",
       "posicao": null
     },
     {
@@ -172,13 +92,63 @@
       "posicao": null
     },
     {
+      "navio": "SEASPAN BELIEF",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "27/09/2026",
+      "data_hora_iso": "2026-09-27T00:00:00",
+      "calado": "11,85 EK",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "CONTI COURAGE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "27/09/2026",
+      "data_hora_iso": "2026-09-27T00:00:00",
+      "calado": "8,75/9,00",
+      "rota": "",
+      "berco": "JBS 4",
+      "posicao": null
+    },
+    {
+      "navio": "COSTA RICA EXPRESS",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "27/09/2026",
+      "data_hora_iso": "2026-09-27T00:00:00",
+      "calado": "11,90/12,00",
+      "rota": "",
+      "berco": "JBS 4",
+      "posicao": null
+    },
+    {
       "navio": "LOG-IN JATOBÁ",
       "status": "ManobraPrevista",
       "data_hora_texto": "27/09/2026",
       "data_hora_iso": "2026-09-27T00:00:00",
       "calado": "TBC",
       "rota": "",
-      "berco": "PNAVE",
+      "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
+      "navio": "PIO GRANDE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "27/09/2026",
+      "data_hora_iso": "2026-09-27T00:00:00",
+      "calado": "4,90/5,40",
+      "rota": "",
+      "berco": "TEPORTI",
+      "posicao": null
+    },
+    {
+      "navio": "UML VICTORIA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "27/09/2026",
+      "data_hora_iso": "2026-09-27T00:00:00",
+      "calado": "3,90/5,90",
+      "rota": "",
+      "berco": "POLY TERMINAIS",
       "posicao": null
     },
     {
@@ -188,7 +158,27 @@
       "data_hora_iso": "2026-09-27T00:00:00",
       "calado": "11,70 EK",
       "rota": "",
-      "berco": "PNAVE",
+      "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
+      "navio": "GREEN BRAZIL",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "27/09/2026",
+      "data_hora_iso": "2026-09-27T00:00:00",
+      "calado": "11,95 EK",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "MAERSK CHAMBAL",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "27/09/2026",
+      "data_hora_iso": "2026-09-27T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -197,6 +187,16 @@
       "data_hora_texto": "28/09/2026",
       "data_hora_iso": "2026-09-28T00:00:00",
       "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "MSC MELINE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "28/09/2026",
+      "data_hora_iso": "2026-09-28T00:00:00",
+      "calado": "9,00/10,20",
       "rota": "",
       "berco": "PNAVE",
       "posicao": null
