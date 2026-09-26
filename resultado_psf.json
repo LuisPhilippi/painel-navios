@@ -1,56 +1,17 @@
 {
-  "gerado_em": "2026-09-26T14:03:34.889454",
+  "gerado_em": "2026-09-26T18:17:12.319967",
   "navios": [
-    {
-      "navio": "Lyra M",
-      "imo": "9668063",
-      "agencia": "ZPORT AGENCIA",
-      "data_chegada_texto": "14/09/2026 06:36",
-      "data_chegada_iso": "2026-09-14T06:36:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "26/09/2026 10:00",
-      "data_manobra_iso": "2026-09-26T10:00:00",
-      "berco": "BARRA 102",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Port Kyoto",
-      "imo": "9942093",
-      "agencia": "SEATRADE",
-      "data_chegada_texto": "08/09/2026 17:54",
-      "data_chegada_iso": "2026-09-08T17:54:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "26/09/2026 10:00",
-      "data_manobra_iso": "2026-09-26T10:00:00",
-      "berco": "102 BARRA",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Cap San Maleas",
       "imo": "9633941",
       "agencia": "LACHMANN",
-      "data_chegada_texto": "26/09/2026 13:30",
-      "data_chegada_iso": "2026-09-26T13:30:00",
+      "data_chegada_texto": "26/09/2026 13:27",
+      "data_chegada_iso": "2026-09-26T13:27:00",
       "manobra": "Entrada e Atracação",
       "data_manobra": "26/09/2026 13:30",
       "data_manobra_iso": "2026-09-26T13:30:00",
       "berco": "BARRA 901",
-      "situacao": "A Confirmar",
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Maersk Venezia",
-      "imo": "9344681",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "24/09/2026 18:30",
-      "data_chegada_iso": "2026-09-24T18:30:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "26/09/2026 13:30",
-      "data_manobra_iso": "2026-09-26T13:30:00",
-      "berco": "901 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -115,6 +76,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "101",
+      "situacao": null,
+      "secao": "Navios Atracados"
+    },
+    {
+      "navio": "Lyra M",
+      "imo": "9668063",
+      "agencia": "ZPORT AGENCIA",
+      "data_chegada_texto": "14/09/2026 06:36",
+      "data_chegada_iso": "2026-09-14T06:36:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "102",
       "situacao": null,
       "secao": "Navios Atracados"
     },
@@ -223,19 +197,6 @@
       "secao": "Navios Fundeados (Barra)"
     },
     {
-      "navio": "MSC Albany",
-      "imo": "9619438",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "26/09/2026 12:00",
-      "data_chegada_iso": "2026-09-26T12:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
       "navio": "Afentis Xristos Ath",
       "imo": "9644196",
       "agencia": "ZPORT AGENCIA",
@@ -244,7 +205,20 @@
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
-      "berco": "SFS",
+      "berco": "BARRA SFS",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "MSC Albany",
+      "imo": "9619438",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "26/09/2026 17:30",
+      "data_chegada_iso": "2026-09-26T17:30:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Esperados"
     },
@@ -301,19 +275,6 @@
       "secao": "Navios Esperados"
     },
     {
-      "navio": "CMA CGM Osmium",
-      "imo": "9996757",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "28/09/2026 01:00",
-      "data_chegada_iso": "2026-09-28T01:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
       "navio": "Spanaco Adventure",
       "imo": "9014078",
       "agencia": "SEATRADE",
@@ -327,11 +288,37 @@
       "secao": "Navios Esperados"
     },
     {
+      "navio": "CMA CGM Osmium",
+      "imo": "9996757",
+      "agencia": "UNIMAR",
+      "data_chegada_texto": "28/09/2026 11:00",
+      "data_chegada_iso": "2026-09-28T11:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
       "navio": "Industrial Katharina",
       "imo": "9435129",
       "agencia": "ORION",
       "data_chegada_texto": "28/09/2026 23:00",
       "data_chegada_iso": "2026-09-28T23:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "TESC",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Grand Vega",
+      "imo": "9355252",
+      "agencia": "UNIMAR",
+      "data_chegada_texto": "29/09/2026 07:00",
+      "data_chegada_iso": "2026-09-29T07:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
