@@ -1,19 +1,6 @@
 {
-  "gerado_em": "2026-09-26T18:17:12.319967",
+  "gerado_em": "2026-09-26T21:47:44.249331",
   "navios": [
-    {
-      "navio": "Cap San Maleas",
-      "imo": "9633941",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "26/09/2026 13:27",
-      "data_chegada_iso": "2026-09-26T13:27:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "26/09/2026 13:30",
-      "data_manobra_iso": "2026-09-26T13:30:00",
-      "berco": "BARRA 901",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Américo Vespúcio",
       "imo": "9603233",
@@ -21,8 +8,8 @@
       "data_chegada_texto": "26/09/2026 19:30",
       "data_chegada_iso": "2026-09-26T19:30:00",
       "manobra": "Entrada e Atracação",
-      "data_manobra": "26/09/2026 19:30",
-      "data_manobra_iso": "2026-09-26T19:30:00",
+      "data_manobra": "26/09/2026 21:30",
+      "data_manobra_iso": "2026-09-26T21:30:00",
       "berco": "BARRA 902",
       "situacao": "A Confirmar",
       "secao": "Navios Esperados"
@@ -34,8 +21,8 @@
       "data_chegada_texto": "26/09/2026 01:00",
       "data_chegada_iso": "2026-09-26T01:00:00",
       "manobra": "Desatracação e Saída",
-      "data_manobra": "26/09/2026 19:30",
-      "data_manobra_iso": "2026-09-26T19:30:00",
+      "data_manobra": "26/09/2026 21:30",
+      "data_manobra_iso": "2026-09-26T21:30:00",
       "berco": "902 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
@@ -47,8 +34,8 @@
       "data_chegada_texto": "11/09/2026 06:01",
       "data_chegada_iso": "2026-09-11T06:01:00",
       "manobra": "Entrada e Atracação",
-      "data_manobra": "26/09/2026 19:35",
-      "data_manobra_iso": "2026-09-26T19:35:00",
+      "data_manobra": "26/09/2026 21:35",
+      "data_manobra_iso": "2026-09-26T21:35:00",
       "berco": "BARRA 201",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
@@ -60,9 +47,35 @@
       "data_chegada_texto": "09/09/2026 14:27",
       "data_chegada_iso": "2026-09-09T14:27:00",
       "manobra": "Desatracação e Saída",
-      "data_manobra": "26/09/2026 19:35",
-      "data_manobra_iso": "2026-09-26T19:35:00",
+      "data_manobra": "26/09/2026 21:35",
+      "data_manobra_iso": "2026-09-26T21:35:00",
       "berco": "201 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "MSC Albany",
+      "imo": "9619438",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "26/09/2026 20:00",
+      "data_chegada_iso": "2026-09-26T20:00:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "27/09/2026 08:00",
+      "data_manobra_iso": "2026-09-27T08:00:00",
+      "berco": "BARRA 902",
+      "situacao": "A Confirmar",
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Maria P",
+      "imo": "1078028",
+      "agencia": "LITORAL",
+      "data_chegada_texto": "13/09/2026 02:24",
+      "data_chegada_iso": "2026-09-13T02:24:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "27/09/2026 13:45",
+      "data_manobra_iso": "2026-09-27T13:45:00",
+      "berco": "BARRA 101",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
     },
@@ -72,10 +85,23 @@
       "agencia": "LITORAL",
       "data_chegada_texto": "23/09/2026 09:48",
       "data_chegada_iso": "2026-09-23T09:48:00",
+      "manobra": "Desatracação e Fundeio",
+      "data_manobra": "27/09/2026 13:45",
+      "data_manobra_iso": "2026-09-27T13:45:00",
+      "berco": "101 F3",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Cap San Maleas",
+      "imo": "9633941",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "26/09/2026 13:27",
+      "data_chegada_iso": "2026-09-26T13:27:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
-      "berco": "101",
+      "berco": "901",
       "situacao": null,
       "secao": "Navios Atracados"
     },
@@ -130,19 +156,6 @@
       "berco": "F1",
       "situacao": null,
       "secao": "Navios Fundeados (Internos)"
-    },
-    {
-      "navio": "Maria P",
-      "imo": "1078028",
-      "agencia": "LITORAL",
-      "data_chegada_texto": "13/09/2026 02:24",
-      "data_chegada_iso": "2026-09-13T02:24:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "SFS",
-      "situacao": null,
-      "secao": "Navios Fundeados (Barra)"
     },
     {
       "navio": "Bao Lucky",
@@ -206,19 +219,6 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "BARRA SFS",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "MSC Albany",
-      "imo": "9619438",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "26/09/2026 17:30",
-      "data_chegada_iso": "2026-09-26T17:30:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Esperados"
     },
