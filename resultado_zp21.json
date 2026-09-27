@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-09-27T06:09:50.458744",
+  "gerado_em": "2026-09-27T12:42:27.126146",
   "navios": [
-    {
-      "navio": "LOG-IN EVOLUTION",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "27/09/2026",
-      "data_hora_iso": "2026-09-27T00:00:00",
-      "calado": "10,50/11,20",
-      "rota": "Bacia 1",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "AGIOS PORFYRIOS",
       "status": "ManobraPrevista",
@@ -42,6 +32,16 @@
       "posicao": null
     },
     {
+      "navio": "MSC BIANCA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "27/09/2026",
+      "data_hora_iso": "2026-09-27T00:00:00",
+      "calado": "10,15/10,20",
+      "rota": "Bacia 2",
+      "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
       "navio": "COSTA RICA EXPRESS",
       "status": "ManobraPrevista",
       "data_hora_texto": "27/09/2026",
@@ -68,16 +68,6 @@
       "data_hora_iso": "2026-09-27T00:00:00",
       "calado": "TBC",
       "rota": "Bacia 2",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "MSC BIANCA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "27/09/2026",
-      "data_hora_iso": "2026-09-27T00:00:00",
-      "calado": "10,15/10,20",
-      "rota": "",
       "berco": "JBS 2",
       "posicao": null
     },
