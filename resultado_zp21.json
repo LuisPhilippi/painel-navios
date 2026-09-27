@@ -1,24 +1,24 @@
 {
-  "gerado_em": "2026-09-27T00:11:45.282987",
+  "gerado_em": "2026-09-27T06:09:50.458744",
   "navios": [
-    {
-      "navio": "AGIOS PORFYRIOS",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "26/09/2026",
-      "data_hora_iso": "2026-09-26T00:00:00",
-      "calado": "4,48/6,13",
-      "rota": "",
-      "berco": "BRASKARNE",
-      "posicao": null
-    },
     {
       "navio": "LOG-IN EVOLUTION",
       "status": "ManobraPrevista",
-      "data_hora_texto": "26/09/2026",
-      "data_hora_iso": "2026-09-26T00:00:00",
+      "data_hora_texto": "27/09/2026",
+      "data_hora_iso": "2026-09-27T00:00:00",
       "calado": "10,50/11,20",
       "rota": "Bacia 1",
       "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
+      "navio": "AGIOS PORFYRIOS",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "27/09/2026",
+      "data_hora_iso": "2026-09-27T00:00:00",
+      "calado": "4,48/6,13",
+      "rota": "",
+      "berco": "BRASKARNE",
       "posicao": null
     },
     {
@@ -29,16 +29,6 @@
       "calado": "11,80 EK",
       "rota": "",
       "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "MSC INIYA V",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "27/09/2026",
-      "data_hora_iso": "2026-09-27T00:00:00",
-      "calado": "12,00 EK",
-      "rota": "",
-      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -62,16 +52,6 @@
       "posicao": null
     },
     {
-      "navio": "MSC BIANCA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "27/09/2026",
-      "data_hora_iso": "2026-09-27T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
       "navio": "LOG-IN JATOBÁ",
       "status": "ManobraPrevista",
       "data_hora_texto": "27/09/2026",
@@ -82,13 +62,33 @@
       "posicao": null
     },
     {
+      "navio": "MSC INIYA V",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "27/09/2026",
+      "data_hora_iso": "2026-09-27T00:00:00",
+      "calado": "TBC",
+      "rota": "Bacia 2",
+      "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "MSC BIANCA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "27/09/2026",
+      "data_hora_iso": "2026-09-27T00:00:00",
+      "calado": "10,15/10,20",
+      "rota": "",
+      "berco": "JBS 2",
+      "posicao": null
+    },
+    {
       "navio": "HMM JUNIPER",
       "status": "ManobraPrevista",
       "data_hora_texto": "28/09/2026",
       "data_hora_iso": "2026-09-28T00:00:00",
       "calado": "11,70 EK",
-      "rota": "Bacia 1",
-      "berco": "PNAVE 01",
+      "rota": "",
+      "berco": "PNAVE",
       "posicao": null
     },
     {
