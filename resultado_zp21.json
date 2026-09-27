@@ -1,12 +1,12 @@
 {
-  "gerado_em": "2026-09-27T20:49:34.476696",
+  "gerado_em": "2026-09-27T23:36:49.408717",
   "navios": [
     {
       "navio": "MSC INIYA V",
       "status": "ManobraPrevista",
       "data_hora_texto": "27/09/2026",
       "data_hora_iso": "2026-09-27T00:00:00",
-      "calado": "TBC",
+      "calado": "11,70/12,10",
       "rota": "Bacia 2",
       "berco": "JBS 2",
       "posicao": null
@@ -37,7 +37,7 @@
       "data_hora_texto": "28/09/2026",
       "data_hora_iso": "2026-09-28T00:00:00",
       "calado": "TBC",
-      "rota": "",
+      "rota": "Bacia 2",
       "berco": "JBS 4",
       "posicao": null
     },
@@ -57,18 +57,18 @@
       "data_hora_texto": "28/09/2026",
       "data_hora_iso": "2026-09-28T00:00:00",
       "calado": "11,30/11,60",
-      "rota": "",
+      "rota": "Bacia 2",
       "berco": "PNAVE 01",
       "posicao": null
     },
     {
-      "navio": "UML VICTORIA",
+      "navio": "BBC RAISE",
       "status": "ManobraPrevista",
       "data_hora_texto": "28/09/2026",
       "data_hora_iso": "2026-09-28T00:00:00",
-      "calado": "3,90/5,90",
+      "calado": "5,70/6,25",
       "rota": "",
-      "berco": "POLY TERMINAIS",
+      "berco": "TEPORTI",
       "posicao": null
     },
     {
@@ -77,18 +77,8 @@
       "data_hora_texto": "28/09/2026",
       "data_hora_iso": "2026-09-28T00:00:00",
       "calado": "9,00/10,20",
-      "rota": "",
+      "rota": "Bacia 2",
       "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "BBC RAISE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "29/09/2026",
-      "data_hora_iso": "2026-09-29T00:00:00",
-      "calado": "5,70/6,25",
-      "rota": "",
-      "berco": "TEPORTI",
       "posicao": null
     },
     {
@@ -99,6 +89,16 @@
       "calado": "4,90/5,40",
       "rota": "",
       "berco": "TEPORTI",
+      "posicao": null
+    },
+    {
+      "navio": "UML VICTORIA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "29/09/2026",
+      "data_hora_iso": "2026-09-29T00:00:00",
+      "calado": "4,50/6,20",
+      "rota": "",
+      "berco": "POLY TERMINAIS",
       "posicao": null
     },
     {
@@ -189,6 +189,26 @@
       "calado": "TBC",
       "rota": "",
       "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "IRENES WISDOM",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "04/10/2026",
+      "data_hora_iso": "2026-10-04T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "NC BRUMA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "04/10/2026",
+      "data_hora_iso": "2026-10-04T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
       "posicao": null
     },
     {

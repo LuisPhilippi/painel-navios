@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-27T20:49:42.468164",
+  "gerado_em": "2026-09-27T23:36:55.576714",
   "navios": [
     {
       "navio": "Maersk Lamanai",
@@ -11,7 +11,7 @@
       "data_manobra": "27/09/2026 19:00",
       "data_manobra_iso": "2026-09-27T19:00:00",
       "berco": "BARRA 902",
-      "situacao": "Confirmado",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -24,7 +24,7 @@
       "data_manobra": "27/09/2026 19:00",
       "data_manobra_iso": "2026-09-27T19:00:00",
       "berco": "902 BARRA",
-      "situacao": "Confirmado",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -37,7 +37,7 @@
       "data_manobra": "27/09/2026 19:05",
       "data_manobra_iso": "2026-09-27T19:05:00",
       "berco": "BARRA 901",
-      "situacao": "Confirmado",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -102,19 +102,6 @@
       "data_manobra": "28/09/2026 11:00",
       "data_manobra_iso": "2026-09-28T11:00:00",
       "berco": "BARRA 901",
-      "situacao": "A Confirmar",
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Grand Vega",
-      "imo": "9355252",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "28/09/2026 14:30",
-      "data_chegada_iso": "2026-09-28T14:30:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "28/09/2026 14:30",
-      "data_manobra_iso": "2026-09-28T14:30:00",
-      "berco": "BARRA 301",
       "situacao": "A Confirmar",
       "secao": "Navios Esperados"
     },
@@ -271,6 +258,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "TESC",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Grand Vega",
+      "imo": "9355252",
+      "agencia": "UNIMAR",
+      "data_chegada_texto": "28/09/2026 14:30",
+      "data_chegada_iso": "2026-09-28T14:30:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": null,
       "situacao": null,
       "secao": "Navios Esperados"
     },
