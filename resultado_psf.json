@@ -1,57 +1,18 @@
 {
-  "gerado_em": "2026-09-27T17:27:44.454354",
+  "gerado_em": "2026-09-27T20:49:42.468164",
   "navios": [
-    {
-      "navio": "Jamaica Bay",
-      "imo": "9610717",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "26/09/2026 21:00",
-      "data_chegada_iso": "2026-09-26T21:00:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "27/09/2026 13:45",
-      "data_manobra_iso": "2026-09-27T13:45:00",
-      "berco": "BARRA 301",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Basel",
-      "imo": "9433614",
-      "agencia": "CARGONAVE",
-      "data_chegada_texto": "09/09/2026 15:52",
-      "data_chegada_iso": "2026-09-09T15:52:00",
-      "manobra": "Desatracação e Fundeio",
-      "data_manobra": "27/09/2026 13:45",
-      "data_manobra_iso": "2026-09-27T13:45:00",
-      "berco": "301 F5",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Cap San Maleas",
-      "imo": "9633941",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "26/09/2026 13:27",
-      "data_chegada_iso": "2026-09-26T13:27:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "27/09/2026 14:30",
-      "data_manobra_iso": "2026-09-27T14:30:00",
-      "berco": "901 BARRA",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Maersk Lamanai",
       "imo": "9527051",
       "agencia": "LACHMANN",
-      "data_chegada_texto": "27/09/2026 17:00",
-      "data_chegada_iso": "2026-09-27T17:00:00",
+      "data_chegada_texto": "27/09/2026 15:56",
+      "data_chegada_iso": "2026-09-27T15:56:00",
       "manobra": "Entrada e Atracação",
       "data_manobra": "27/09/2026 19:00",
       "data_manobra_iso": "2026-09-27T19:00:00",
       "berco": "BARRA 902",
       "situacao": "Confirmado",
-      "secao": "Navios Esperados"
+      "secao": "Movimentações"
     },
     {
       "navio": "Américo Vespúcio",
@@ -63,7 +24,7 @@
       "data_manobra": "27/09/2026 19:00",
       "data_manobra_iso": "2026-09-27T19:00:00",
       "berco": "902 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -76,7 +37,7 @@
       "data_manobra": "27/09/2026 19:05",
       "data_manobra_iso": "2026-09-27T19:05:00",
       "berco": "BARRA 901",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -119,6 +80,19 @@
       "secao": "Navios Esperados"
     },
     {
+      "navio": "Jamaica Bay",
+      "imo": "9610717",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "26/09/2026 21:00",
+      "data_chegada_iso": "2026-09-26T21:00:00",
+      "manobra": "Mudança de Berço",
+      "data_manobra": "28/09/2026 08:30",
+      "data_manobra_iso": "2026-09-28T08:30:00",
+      "berco": "301 302",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
       "navio": "CMA CGM Osmium",
       "imo": "9996757",
       "agencia": "UNIMAR",
@@ -143,6 +117,19 @@
       "berco": "BARRA 301",
       "situacao": "A Confirmar",
       "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Basel",
+      "imo": "9433614",
+      "agencia": "CARGONAVE",
+      "data_chegada_texto": "09/09/2026 15:52",
+      "data_chegada_iso": "2026-09-09T15:52:00",
+      "manobra": "Suspender e Sair",
+      "data_manobra": "28/09/2026 14:30",
+      "data_manobra_iso": "2026-09-28T14:30:00",
+      "berco": "F5 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
     },
     {
       "navio": "Lyra M",
@@ -252,12 +239,25 @@
       "navio": "Afentis Xristos Ath",
       "imo": "9644196",
       "agencia": "ZPORT AGENCIA",
-      "data_chegada_texto": "26/09/2026 15:00",
-      "data_chegada_iso": "2026-09-26T15:00:00",
+      "data_chegada_texto": "25/09/2026 16:30",
+      "data_chegada_iso": "2026-09-25T16:30:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
-      "berco": "BARRA SFS",
+      "berco": "SFS",
+      "situacao": null,
+      "secao": "Navios Fundeados (Barra)"
+    },
+    {
+      "navio": "Spanaco Adventure",
+      "imo": "9014078",
+      "agencia": "SEATRADE",
+      "data_chegada_texto": "27/09/2026 20:30",
+      "data_chegada_iso": "2026-09-27T20:30:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "SFS",
       "situacao": null,
       "secao": "Navios Esperados"
     },
@@ -265,25 +265,12 @@
       "navio": "Babitonga Bay",
       "imo": "9663776",
       "agencia": "WILSON SONS",
-      "data_chegada_texto": "27/09/2026 19:00",
-      "data_chegada_iso": "2026-09-27T19:00:00",
+      "data_chegada_texto": "27/09/2026 21:00",
+      "data_chegada_iso": "2026-09-27T21:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "TESC",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Spanaco Adventure",
-      "imo": "9014078",
-      "agencia": "SEATRADE",
-      "data_chegada_texto": "28/09/2026 03:00",
-      "data_chegada_iso": "2026-09-28T03:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "SFS",
       "situacao": null,
       "secao": "Navios Esperados"
     },
@@ -297,6 +284,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "TESC",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "YM Milestone",
+      "imo": "9484998",
+      "agencia": "UNIMAR",
+      "data_chegada_texto": "29/09/2026 05:00",
+      "data_chegada_iso": "2026-09-29T05:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Esperados"
     },
