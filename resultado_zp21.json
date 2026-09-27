@@ -1,36 +1,6 @@
 {
-  "gerado_em": "2026-09-27T12:42:27.126146",
+  "gerado_em": "2026-09-27T17:27:38.318532",
   "navios": [
-    {
-      "navio": "AGIOS PORFYRIOS",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "27/09/2026",
-      "data_hora_iso": "2026-09-27T00:00:00",
-      "calado": "4,48/6,13",
-      "rota": "",
-      "berco": "BRASKARNE",
-      "posicao": null
-    },
-    {
-      "navio": "HYUNDAI PREMIUM",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "27/09/2026",
-      "data_hora_iso": "2026-09-27T00:00:00",
-      "calado": "11,80 EK",
-      "rota": "",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "CONTI COURAGE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "27/09/2026",
-      "data_hora_iso": "2026-09-27T00:00:00",
-      "calado": "8,75/9,00",
-      "rota": "Bacia 2",
-      "berco": "JBS 4",
-      "posicao": null
-    },
     {
       "navio": "MSC BIANCA",
       "status": "ManobraPrevista",
@@ -56,7 +26,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "27/09/2026",
       "data_hora_iso": "2026-09-27T00:00:00",
-      "calado": "TBC",
+      "calado": "11,50/11,70",
       "rota": "Bacia 1",
       "berco": "PNAVE 02",
       "posicao": null
@@ -69,6 +39,16 @@
       "calado": "TBC",
       "rota": "Bacia 2",
       "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "HYUNDAI PREMIUM",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "28/09/2026",
+      "data_hora_iso": "2026-09-28T00:00:00",
+      "calado": "TBC",
+      "rota": "Bacia 1",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
@@ -219,6 +199,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "AGIOS PORFYRIOS",
+      "status": "Atracado",
+      "data_hora_texto": "27/09/2026 - 11:28",
+      "data_hora_iso": "2026-09-27T11:28:00",
+      "calado": null,
+      "rota": "",
+      "berco": "BRASKARNE",
       "posicao": null
     },
     {
