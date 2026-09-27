@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-26T21:47:38.165513",
+  "gerado_em": "2026-09-27T00:11:45.282987",
   "navios": [
     {
       "navio": "AGIOS PORFYRIOS",
@@ -16,7 +16,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "26/09/2026",
       "data_hora_iso": "2026-09-26T00:00:00",
-      "calado": "10,30/11,20",
+      "calado": "10,50/11,20",
       "rota": "Bacia 1",
       "berco": "PNAVE 01",
       "posicao": null
@@ -42,32 +42,12 @@
       "posicao": null
     },
     {
-      "navio": "IRENES RULE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "27/09/2026",
-      "data_hora_iso": "2026-09-27T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
-      "navio": "SEASPAN BELIEF",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "27/09/2026",
-      "data_hora_iso": "2026-09-27T00:00:00",
-      "calado": "11,85 EK",
-      "rota": "",
-      "berco": "PNAVE",
-      "posicao": null
-    },
-    {
       "navio": "CONTI COURAGE",
       "status": "ManobraPrevista",
       "data_hora_texto": "27/09/2026",
       "data_hora_iso": "2026-09-27T00:00:00",
       "calado": "8,75/9,00",
-      "rota": "",
+      "rota": "Bacia 2",
       "berco": "JBS 4",
       "posicao": null
     },
@@ -82,67 +62,7 @@
       "posicao": null
     },
     {
-      "navio": "BBC RAISE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "27/09/2026",
-      "data_hora_iso": "2026-09-27T00:00:00",
-      "calado": "5,70/6,25",
-      "rota": "",
-      "berco": "TEPORTI",
-      "posicao": null
-    },
-    {
-      "navio": "LOG-IN JATOBÁ",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "27/09/2026",
-      "data_hora_iso": "2026-09-27T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
       "navio": "MSC BIANCA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "27/09/2026",
-      "data_hora_iso": "2026-09-27T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
-      "navio": "UML VICTORIA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "27/09/2026",
-      "data_hora_iso": "2026-09-27T00:00:00",
-      "calado": "3,90/5,90",
-      "rota": "",
-      "berco": "POLY TERMINAIS",
-      "posicao": null
-    },
-    {
-      "navio": "HMM JUNIPER",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "27/09/2026",
-      "data_hora_iso": "2026-09-27T00:00:00",
-      "calado": "11,70 EK",
-      "rota": "",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "GREEN BRAZIL",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "27/09/2026",
-      "data_hora_iso": "2026-09-27T00:00:00",
-      "calado": "11,95 EK",
-      "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
-      "navio": "MAERSK CHAMBAL",
       "status": "ManobraPrevista",
       "data_hora_texto": "27/09/2026",
       "data_hora_iso": "2026-09-27T00:00:00",
@@ -152,11 +72,51 @@
       "posicao": null
     },
     {
+      "navio": "LOG-IN JATOBÁ",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "27/09/2026",
+      "data_hora_iso": "2026-09-27T00:00:00",
+      "calado": "TBC",
+      "rota": "Bacia 1",
+      "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
+      "navio": "HMM JUNIPER",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "28/09/2026",
+      "data_hora_iso": "2026-09-28T00:00:00",
+      "calado": "11,70 EK",
+      "rota": "Bacia 1",
+      "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
+      "navio": "IRENES RULE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "28/09/2026",
+      "data_hora_iso": "2026-09-28T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
       "navio": "LAEM CHABANG EXPRESS",
       "status": "ManobraPrevista",
       "data_hora_texto": "28/09/2026",
       "data_hora_iso": "2026-09-28T00:00:00",
       "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "SEASPAN BELIEF",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "28/09/2026",
+      "data_hora_iso": "2026-09-28T00:00:00",
+      "calado": "11,85 EK",
       "rota": "",
       "berco": "PNAVE",
       "posicao": null
@@ -172,6 +132,16 @@
       "posicao": null
     },
     {
+      "navio": "BBC RAISE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "28/09/2026",
+      "data_hora_iso": "2026-09-28T00:00:00",
+      "calado": "5,70/6,25",
+      "rota": "",
+      "berco": "TEPORTI",
+      "posicao": null
+    },
+    {
       "navio": "NC BRAVO",
       "status": "ManobraPrevista",
       "data_hora_texto": "28/09/2026",
@@ -179,6 +149,36 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "UML VICTORIA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "28/09/2026",
+      "data_hora_iso": "2026-09-28T00:00:00",
+      "calado": "3,90/5,90",
+      "rota": "",
+      "berco": "POLY TERMINAIS",
+      "posicao": null
+    },
+    {
+      "navio": "GREEN BRAZIL",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "28/09/2026",
+      "data_hora_iso": "2026-09-28T00:00:00",
+      "calado": "11,95 EK",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "MAERSK CHAMBAL",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "28/09/2026",
+      "data_hora_iso": "2026-09-28T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS 2",
       "posicao": null
     },
     {

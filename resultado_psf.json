@@ -1,18 +1,18 @@
 {
-  "gerado_em": "2026-09-26T21:47:44.249331",
+  "gerado_em": "2026-09-27T00:11:51.463853",
   "navios": [
     {
       "navio": "Américo Vespúcio",
       "imo": "9603233",
       "agencia": "LACHMANN",
-      "data_chegada_texto": "26/09/2026 19:30",
-      "data_chegada_iso": "2026-09-26T19:30:00",
+      "data_chegada_texto": "26/09/2026 19:00",
+      "data_chegada_iso": "2026-09-26T19:00:00",
       "manobra": "Entrada e Atracação",
-      "data_manobra": "26/09/2026 21:30",
-      "data_manobra_iso": "2026-09-26T21:30:00",
+      "data_manobra": "27/09/2026 08:00",
+      "data_manobra_iso": "2026-09-27T08:00:00",
       "berco": "BARRA 902",
       "situacao": "A Confirmar",
-      "secao": "Navios Esperados"
+      "secao": "Movimentações"
     },
     {
       "navio": "Loncomilla",
@@ -21,8 +21,8 @@
       "data_chegada_texto": "26/09/2026 01:00",
       "data_chegada_iso": "2026-09-26T01:00:00",
       "manobra": "Desatracação e Saída",
-      "data_manobra": "26/09/2026 21:30",
-      "data_manobra_iso": "2026-09-26T21:30:00",
+      "data_manobra": "27/09/2026 08:00",
+      "data_manobra_iso": "2026-09-27T08:00:00",
       "berco": "902 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
@@ -34,8 +34,8 @@
       "data_chegada_texto": "11/09/2026 06:01",
       "data_chegada_iso": "2026-09-11T06:01:00",
       "manobra": "Entrada e Atracação",
-      "data_manobra": "26/09/2026 21:35",
-      "data_manobra_iso": "2026-09-26T21:35:00",
+      "data_manobra": "27/09/2026 08:05",
+      "data_manobra_iso": "2026-09-27T08:05:00",
       "berco": "BARRA 201",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
@@ -47,24 +47,11 @@
       "data_chegada_texto": "09/09/2026 14:27",
       "data_chegada_iso": "2026-09-09T14:27:00",
       "manobra": "Desatracação e Saída",
-      "data_manobra": "26/09/2026 21:35",
-      "data_manobra_iso": "2026-09-26T21:35:00",
+      "data_manobra": "27/09/2026 08:05",
+      "data_manobra_iso": "2026-09-27T08:05:00",
       "berco": "201 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
-    },
-    {
-      "navio": "MSC Albany",
-      "imo": "9619438",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "26/09/2026 20:00",
-      "data_chegada_iso": "2026-09-26T20:00:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "27/09/2026 08:00",
-      "data_manobra_iso": "2026-09-27T08:00:00",
-      "berco": "BARRA 902",
-      "situacao": "A Confirmar",
-      "secao": "Navios Esperados"
     },
     {
       "navio": "Maria P",
@@ -89,6 +76,19 @@
       "data_manobra": "27/09/2026 13:45",
       "data_manobra_iso": "2026-09-27T13:45:00",
       "berco": "101 F3",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "MSC Albany",
+      "imo": "9619438",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "26/09/2026 20:00",
+      "data_chegada_iso": "2026-09-26T20:00:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "27/09/2026 19:00",
+      "data_manobra_iso": "2026-09-27T19:00:00",
+      "berco": "BARRA 902",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
     },
@@ -226,8 +226,8 @@
       "navio": "Jamaica Bay",
       "imo": "9610717",
       "agencia": "WILSON SONS",
-      "data_chegada_texto": "26/09/2026 22:00",
-      "data_chegada_iso": "2026-09-26T22:00:00",
+      "data_chegada_texto": "26/09/2026 21:00",
+      "data_chegada_iso": "2026-09-26T21:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
