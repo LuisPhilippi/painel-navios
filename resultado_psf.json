@@ -1,45 +1,6 @@
 {
-  "gerado_em": "2026-09-28T10:30:43.711823",
+  "gerado_em": "2026-09-28T18:24:50.233750",
   "navios": [
-    {
-      "navio": "Barcaça N12",
-      "imo": "9326031",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "27/09/2026 19:52",
-      "data_chegada_iso": "2026-09-27T19:52:00",
-      "manobra": "Entrada e Fundeio",
-      "data_manobra": "28/09/2026 08:30",
-      "data_manobra_iso": "2026-09-28T08:30:00",
-      "berco": "BARRA F4 (P3)",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "CMA CGM Osmium",
-      "imo": "9996757",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "28/09/2026 11:00",
-      "data_chegada_iso": "2026-09-28T11:00:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "28/09/2026 11:00",
-      "data_manobra_iso": "2026-09-28T11:00:00",
-      "berco": "BARRA 901",
-      "situacao": "A Confirmar",
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "MSC Albany",
-      "imo": "9619438",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "26/09/2026 20:00",
-      "data_chegada_iso": "2026-09-26T20:00:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "28/09/2026 11:00",
-      "data_manobra_iso": "2026-09-28T11:00:00",
-      "berco": "901 BARRA",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Basel",
       "imo": "9433614",
@@ -50,7 +11,7 @@
       "data_manobra": "28/09/2026 14:30",
       "data_manobra_iso": "2026-09-28T14:30:00",
       "berco": "F5 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -63,8 +24,73 @@
       "data_manobra": "28/09/2026 14:30",
       "data_manobra_iso": "2026-09-28T14:30:00",
       "berco": "F3 BARRA",
+      "situacao": "Em Andamento",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Jamaica Bay",
+      "imo": "9610717",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "26/09/2026 21:00",
+      "data_chegada_iso": "2026-09-26T21:00:00",
+      "manobra": "Mudança de Berço",
+      "data_manobra": "28/09/2026 15:30",
+      "data_manobra_iso": "2026-09-28T15:30:00",
+      "berco": "301 302",
+      "situacao": "Confirmado",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Bao Lucky",
+      "imo": "9718337",
+      "agencia": "ORION",
+      "data_chegada_texto": "17/09/2026 06:42",
+      "data_chegada_iso": "2026-09-17T06:42:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "28/09/2026 20:45",
+      "data_manobra_iso": "2026-09-28T20:45:00",
+      "berco": "BARRA 201",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
+    },
+    {
+      "navio": "Astro Castor",
+      "imo": "9767314",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "11/09/2026 06:01",
+      "data_chegada_iso": "2026-09-11T06:01:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "28/09/2026 20:45",
+      "data_manobra_iso": "2026-09-28T20:45:00",
+      "berco": "201 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Grand Vega",
+      "imo": "9355252",
+      "agencia": "UNIMAR",
+      "data_chegada_texto": "28/09/2026 14:30",
+      "data_chegada_iso": "2026-09-28T14:30:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "28/09/2026 20:50",
+      "data_manobra_iso": "2026-09-28T20:50:00",
+      "berco": "BARRA 301",
+      "situacao": "A Confirmar",
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "CMA CGM Osmium",
+      "imo": "9996757",
+      "agencia": "UNIMAR",
+      "data_chegada_texto": "28/09/2026 10:53",
+      "data_chegada_iso": "2026-09-28T10:53:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "901",
+      "situacao": null,
+      "secao": "Navios Atracados"
     },
     {
       "navio": "Maersk Lamanai",
@@ -106,32 +132,6 @@
       "secao": "Navios Atracados"
     },
     {
-      "navio": "Astro Castor",
-      "imo": "9767314",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "11/09/2026 06:01",
-      "data_chegada_iso": "2026-09-11T06:01:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "201",
-      "situacao": null,
-      "secao": "Navios Atracados"
-    },
-    {
-      "navio": "Jamaica Bay",
-      "imo": "9610717",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "26/09/2026 21:00",
-      "data_chegada_iso": "2026-09-26T21:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "301",
-      "situacao": null,
-      "secao": "Navios Atracados"
-    },
-    {
       "navio": "TSHD Galileo Galilei",
       "imo": "9872365",
       "agencia": "LITORAL",
@@ -141,6 +141,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "LJ Grande",
+      "situacao": null,
+      "secao": "Navios Fundeados (Internos)"
+    },
+    {
+      "navio": "Barcaça N12",
+      "imo": "9326031",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "27/09/2026 19:52",
+      "data_chegada_iso": "2026-09-27T19:52:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "F4 (P3)",
       "situacao": null,
       "secao": "Navios Fundeados (Internos)"
     },
@@ -156,19 +169,6 @@
       "berco": "F1",
       "situacao": null,
       "secao": "Navios Fundeados (Internos)"
-    },
-    {
-      "navio": "Bao Lucky",
-      "imo": "9718337",
-      "agencia": "ORION",
-      "data_chegada_texto": "17/09/2026 06:42",
-      "data_chegada_iso": "2026-09-17T06:42:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "SFS",
-      "situacao": null,
-      "secao": "Navios Fundeados (Barra)"
     },
     {
       "navio": "Star Hamburg",
@@ -262,24 +262,11 @@
       "secao": "Navios Fundeados (Barra)"
     },
     {
-      "navio": "Grand Vega",
-      "imo": "9355252",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "28/09/2026 14:30",
-      "data_chegada_iso": "2026-09-28T14:30:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": null,
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
       "navio": "Industrial Katharina",
       "imo": "9435129",
       "agencia": "ORION",
-      "data_chegada_texto": "28/09/2026 23:00",
-      "data_chegada_iso": "2026-09-28T23:00:00",
+      "data_chegada_texto": "28/09/2026 17:00",
+      "data_chegada_iso": "2026-09-28T17:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
