@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-09-27T23:36:49.408717",
+  "gerado_em": "2026-09-28T03:28:13.800189",
   "navios": [
-    {
-      "navio": "MSC INIYA V",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "27/09/2026",
-      "data_hora_iso": "2026-09-27T00:00:00",
-      "calado": "11,70/12,10",
-      "rota": "Bacia 2",
-      "berco": "JBS 2",
-      "posicao": null
-    },
     {
       "navio": "MSC BIANCA",
       "status": "ManobraPrevista",
