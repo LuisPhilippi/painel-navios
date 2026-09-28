@@ -1,26 +1,6 @@
 {
-  "gerado_em": "2026-09-28T18:24:44.045445",
+  "gerado_em": "2026-09-28T23:40:14.596159",
   "navios": [
-    {
-      "navio": "MSC MELINE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "28/09/2026",
-      "data_hora_iso": "2026-09-28T00:00:00",
-      "calado": "9,10/10,40",
-      "rota": "",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "MSC BIANCA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "29/09/2026",
-      "data_hora_iso": "2026-09-29T00:00:00",
-      "calado": "TBC",
-      "rota": "Bacia 2",
-      "berco": "JBS 2",
-      "posicao": null
-    },
     {
       "navio": "KOTA ELAN",
       "status": "ManobraPrevista",
@@ -28,27 +8,27 @@
       "data_hora_iso": "2026-09-29T00:00:00",
       "calado": "11,20 EK",
       "rota": "",
-      "berco": "JBS",
+      "berco": "JBS 4",
       "posicao": null
     },
     {
-      "navio": "UML VICTORIA",
+      "navio": "MSC BIANCA",
       "status": "ManobraPrevista",
       "data_hora_texto": "29/09/2026",
       "data_hora_iso": "2026-09-29T00:00:00",
-      "calado": "3,90/5,90",
-      "rota": "",
-      "berco": "POLY TERMINAIS",
+      "calado": "11,85/12,10",
+      "rota": "Bacia 2",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
-      "navio": "MAERSK LAMANAI",
+      "navio": "BBC RAISE",
       "status": "ManobraPrevista",
       "data_hora_texto": "29/09/2026",
       "data_hora_iso": "2026-09-29T00:00:00",
-      "calado": "TBC",
+      "calado": "6,30/6,50",
       "rota": "",
-      "berco": "JBS",
+      "berco": "TEPORTI",
       "posicao": null
     },
     {
@@ -57,8 +37,18 @@
       "data_hora_texto": "29/09/2026",
       "data_hora_iso": "2026-09-29T00:00:00",
       "calado": "10,70 EK",
-      "rota": "",
+      "rota": "Bacia 2",
       "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
+      "navio": "MAERSK LAMANAI",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "29/09/2026",
+      "data_hora_iso": "2026-09-29T00:00:00",
+      "calado": "11,00/11,40",
+      "rota": "",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -66,19 +56,19 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "29/09/2026",
       "data_hora_iso": "2026-09-29T00:00:00",
-      "calado": "9,80/10,20",
+      "calado": "9,80/10,40",
       "rota": "Bacia 1",
       "berco": "PNAVE 02",
       "posicao": null
     },
     {
-      "navio": "BBC RAISE",
+      "navio": "MSC MELINE",
       "status": "ManobraPrevista",
       "data_hora_texto": "30/09/2026",
       "data_hora_iso": "2026-09-30T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "TEPORTI",
+      "calado": "9,90/10,80",
+      "rota": "Bacia 2",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
@@ -122,6 +112,16 @@
       "posicao": null
     },
     {
+      "navio": "SEASPAN BELIEF",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "30/09/2026",
+      "data_hora_iso": "2026-09-30T00:00:00",
+      "calado": "11,85 EK",
+      "rota": "",
+      "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
       "navio": "PIO GRANDE",
       "status": "ManobraPrevista",
       "data_hora_texto": "30/09/2026",
@@ -129,6 +129,16 @@
       "calado": "4,90/5,40",
       "rota": "",
       "berco": "TEPORTI",
+      "posicao": null
+    },
+    {
+      "navio": "UML VICTORIA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "30/09/2026",
+      "data_hora_iso": "2026-09-30T00:00:00",
+      "calado": "4,50/6,20",
+      "rota": "",
+      "berco": "POLY TERMINAIS",
       "posicao": null
     },
     {
@@ -162,31 +172,11 @@
       "posicao": null
     },
     {
-      "navio": "MAERSK CHAMBAL",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "01/10/2026",
-      "data_hora_iso": "2026-10-01T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
       "navio": "MSC ALBANY",
       "status": "ManobraPrevista",
       "data_hora_texto": "01/10/2026",
       "data_hora_iso": "2026-10-01T00:00:00",
       "calado": "9,60/10,00",
-      "rota": "",
-      "berco": "PNAVE",
-      "posicao": null
-    },
-    {
-      "navio": "SEASPAN BELIEF",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "02/10/2026",
-      "data_hora_iso": "2026-10-02T00:00:00",
-      "calado": "11,85 EK",
       "rota": "",
       "berco": "PNAVE",
       "posicao": null
