@@ -1,36 +1,6 @@
 {
-  "gerado_em": "2026-09-29T11:03:20.602965",
+  "gerado_em": "2026-09-29T17:34:11.298888",
   "navios": [
-    {
-      "navio": "KOTA ELAN",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "29/09/2026",
-      "data_hora_iso": "2026-09-29T00:00:00",
-      "calado": "11,20 EK",
-      "rota": "",
-      "berco": "JBS 4",
-      "posicao": null
-    },
-    {
-      "navio": "MSC BIANCA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "29/09/2026",
-      "data_hora_iso": "2026-09-29T00:00:00",
-      "calado": "11,70/12,20",
-      "rota": "Bacia 2",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "BBC RAISE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "29/09/2026",
-      "data_hora_iso": "2026-09-29T00:00:00",
-      "calado": "6,30/6,50",
-      "rota": "",
-      "berco": "TEPORTI",
-      "posicao": null
-    },
     {
       "navio": "HMM JUNIPER",
       "status": "ManobraPrevista",
@@ -96,7 +66,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "30/09/2026",
       "data_hora_iso": "2026-09-30T00:00:00",
-      "calado": "TBC",
+      "calado": "10,80/11,40",
       "rota": "",
       "berco": "JBS",
       "posicao": null
@@ -106,7 +76,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "30/09/2026",
       "data_hora_iso": "2026-09-30T00:00:00",
-      "calado": "TBC",
+      "calado": "11,20 EK",
       "rota": "",
       "berco": "JBS",
       "posicao": null
@@ -139,6 +109,26 @@
       "calado": "3,90/5,90",
       "rota": "",
       "berco": "POLY TERMINAIS",
+      "posicao": null
+    },
+    {
+      "navio": "BBC RAISE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "30/09/2026",
+      "data_hora_iso": "2026-09-30T00:00:00",
+      "calado": "6,30/6,50",
+      "rota": "",
+      "berco": "TEPORTI",
+      "posicao": null
+    },
+    {
+      "navio": "KOTA ELAN",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "01/10/2026",
+      "data_hora_iso": "2026-10-01T00:00:00",
+      "calado": "8,00/10,00",
+      "rota": "",
+      "berco": "JBS 4",
       "posicao": null
     },
     {
@@ -179,6 +169,16 @@
       "calado": "9,60/10,00",
       "rota": "",
       "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "MSC DAMLA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "02/10/2026",
+      "data_hora_iso": "2026-10-02T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
       "posicao": null
     },
     {
@@ -226,7 +226,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "05/10/2026",
       "data_hora_iso": "2026-10-05T00:00:00",
-      "calado": "8,00/8,80",
+      "calado": "7,20/9,30",
       "rota": "",
       "berco": "PNAVE",
       "posicao": null
