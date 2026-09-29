@@ -1,58 +1,6 @@
 {
-  "gerado_em": "2026-09-29T17:34:18.009044",
+  "gerado_em": "2026-09-29T21:49:14.933842",
   "navios": [
-    {
-      "navio": "Bao Lucky",
-      "imo": "9718337",
-      "agencia": "ORION",
-      "data_chegada_texto": "17/09/2026 06:42",
-      "data_chegada_iso": "2026-09-17T06:42:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "29/09/2026 13:00",
-      "data_manobra_iso": "2026-09-29T13:00:00",
-      "berco": "BARRA 201",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Astro Castor",
-      "imo": "9767314",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "11/09/2026 06:01",
-      "data_chegada_iso": "2026-09-11T06:01:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "29/09/2026 13:00",
-      "data_manobra_iso": "2026-09-29T13:00:00",
-      "berco": "201 BARRA",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Industrial Katharina",
-      "imo": "9435129",
-      "agencia": "ORION",
-      "data_chegada_texto": "28/09/2026 17:05",
-      "data_chegada_iso": "2026-09-28T17:05:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "29/09/2026 15:00",
-      "data_manobra_iso": "2026-09-29T15:00:00",
-      "berco": "BARRA 300",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Maersk Lamanai",
-      "imo": "9527051",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "27/09/2026 15:56",
-      "data_chegada_iso": "2026-09-27T15:56:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "29/09/2026 15:00",
-      "data_manobra_iso": "2026-09-29T15:00:00",
-      "berco": "902 BARRA",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Star Hamburg",
       "imo": "9698587",
@@ -60,8 +8,8 @@
       "data_chegada_texto": "21/09/2026 18:36",
       "data_chegada_iso": "2026-09-21T18:36:00",
       "manobra": "Entrada e Atracação",
-      "data_manobra": "29/09/2026 21:15",
-      "data_manobra_iso": "2026-09-29T21:15:00",
+      "data_manobra": "30/09/2026 03:30",
+      "data_manobra_iso": "2026-09-30T03:30:00",
       "berco": "BARRA 102",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
@@ -73,11 +21,37 @@
       "data_chegada_texto": "14/09/2026 06:36",
       "data_chegada_iso": "2026-09-14T06:36:00",
       "manobra": "Desatracação e Saída",
-      "data_manobra": "29/09/2026 21:15",
-      "data_manobra_iso": "2026-09-29T21:15:00",
+      "data_manobra": "30/09/2026 03:30",
+      "data_manobra_iso": "2026-09-30T03:30:00",
       "berco": "102 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
+    },
+    {
+      "navio": "Maersk Leticia",
+      "imo": "9526916",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "30/09/2026 04:00",
+      "data_chegada_iso": "2026-09-30T04:00:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "30/09/2026 03:45",
+      "data_manobra_iso": "2026-09-30T03:45:00",
+      "berco": "BARRA 902",
+      "situacao": "A Confirmar",
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Maliakos",
+      "imo": "9464247",
+      "agencia": "ROCHAMAR",
+      "data_chegada_texto": "30/09/2026 12:00",
+      "data_chegada_iso": "2026-09-30T12:00:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "30/09/2026 13:00",
+      "data_manobra_iso": "2026-09-30T13:00:00",
+      "berco": "BARRA 901",
+      "situacao": "A Confirmar",
+      "secao": "Navios Esperados"
     },
     {
       "navio": "CMA CGM Osmium",
@@ -85,12 +59,12 @@
       "agencia": "UNIMAR",
       "data_chegada_texto": "28/09/2026 10:53",
       "data_chegada_iso": "2026-09-28T10:53:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "901",
-      "situacao": null,
-      "secao": "Navios Atracados"
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "30/09/2026 13:00",
+      "data_manobra_iso": "2026-09-30T13:00:00",
+      "berco": "901 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
     },
     {
       "navio": "Maria P",
@@ -102,6 +76,32 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "101",
+      "situacao": null,
+      "secao": "Navios Atracados"
+    },
+    {
+      "navio": "Bao Lucky",
+      "imo": "9718337",
+      "agencia": "ORION",
+      "data_chegada_texto": "17/09/2026 06:42",
+      "data_chegada_iso": "2026-09-17T06:42:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "201",
+      "situacao": null,
+      "secao": "Navios Atracados"
+    },
+    {
+      "navio": "Industrial Katharina",
+      "imo": "9435129",
+      "agencia": "ORION",
+      "data_chegada_texto": "28/09/2026 17:05",
+      "data_chegada_iso": "2026-09-28T17:05:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "300",
       "situacao": null,
       "secao": "Navios Atracados"
     },
@@ -262,32 +262,6 @@
       "secao": "Navios Esperados"
     },
     {
-      "navio": "Maersk Leticia",
-      "imo": "9526916",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "30/09/2026 12:00",
-      "data_chegada_iso": "2026-09-30T12:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Maliakos",
-      "imo": "9464247",
-      "agencia": "ROCHAMAR",
-      "data_chegada_texto": "30/09/2026 12:00",
-      "data_chegada_iso": "2026-09-30T12:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
       "navio": "Salt Lake",
       "imo": "9835977",
       "agencia": "ALPHAMAR",
@@ -297,6 +271,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "TESC",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Angelina The Great N",
+      "imo": "9593725",
+      "agencia": "SEATRADE",
+      "data_chegada_texto": "30/09/2026 23:59",
+      "data_chegada_iso": "2026-09-30T23:59:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": null,
       "situacao": null,
       "secao": "Navios Esperados"
     },
@@ -730,6 +717,19 @@
       "secao": "Navios Esperados"
     },
     {
+      "navio": "MSC Magnum VII",
+      "imo": "9252541",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "12/10/2026 19:00",
+      "data_chegada_iso": "2026-10-12T19:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": null,
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
       "navio": "Unity Spirit",
       "imo": "9725938",
       "agencia": "LITORAL",
@@ -752,6 +752,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "TESC",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Jasmine K",
+      "imo": "9951915",
+      "agencia": "SEATRADE",
+      "data_chegada_texto": "25/10/2026 23:59",
+      "data_chegada_iso": "2026-10-25T23:59:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": null,
       "situacao": null,
       "secao": "Navios Esperados"
     },
