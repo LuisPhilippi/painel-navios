@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-28T23:40:14.596159",
+  "gerado_em": "2026-09-29T04:03:50.656506",
   "navios": [
     {
       "navio": "KOTA ELAN",
@@ -136,7 +136,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "30/09/2026",
       "data_hora_iso": "2026-09-30T00:00:00",
-      "calado": "4,50/6,20",
+      "calado": "3,90/5,90",
       "rota": "",
       "berco": "POLY TERMINAIS",
       "posicao": null
