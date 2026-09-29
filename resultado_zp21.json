@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-29T04:03:50.656506",
+  "gerado_em": "2026-09-29T11:03:20.602965",
   "navios": [
     {
       "navio": "KOTA ELAN",
@@ -16,7 +16,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "29/09/2026",
       "data_hora_iso": "2026-09-29T00:00:00",
-      "calado": "11,85/12,10",
+      "calado": "11,70/12,20",
       "rota": "Bacia 2",
       "berco": "JBS 2",
       "posicao": null
