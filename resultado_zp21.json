@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-09-30T07:54:59.150901",
+  "gerado_em": "2026-09-30T14:35:55.047519",
   "navios": [
-    {
-      "navio": "MSC MELINE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "30/09/2026",
-      "data_hora_iso": "2026-09-30T00:00:00",
-      "calado": "9,90/10,80",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "SEASPAN BELIEF",
       "status": "ManobraPrevista",
@@ -26,7 +16,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "30/09/2026",
       "data_hora_iso": "2026-09-30T00:00:00",
-      "calado": "11,46/11,90",
+      "calado": "11,90/12,20",
       "rota": "Bacia 2",
       "berco": "JBS 2",
       "posicao": null
@@ -42,11 +32,21 @@
       "posicao": null
     },
     {
+      "navio": "X-PRESS PISCES",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "30/09/2026",
+      "data_hora_iso": "2026-09-30T00:00:00",
+      "calado": "10,80/11,40",
+      "rota": "",
+      "berco": "JBS 2",
+      "posicao": null
+    },
+    {
       "navio": "LOG-IN JACARANDA",
       "status": "ManobraPrevista",
       "data_hora_texto": "30/09/2026",
       "data_hora_iso": "2026-09-30T00:00:00",
-      "calado": "TBC",
+      "calado": "11,50 EK",
       "rota": "Bacia 1",
       "berco": "PNAVE 02",
       "posicao": null
@@ -62,21 +62,11 @@
       "posicao": null
     },
     {
-      "navio": "X-PRESS PISCES",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "30/09/2026",
-      "data_hora_iso": "2026-09-30T00:00:00",
-      "calado": "10,80/11,40",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
       "navio": "LAEM CHABANG EXPRESS",
       "status": "ManobraPrevista",
       "data_hora_texto": "01/10/2026",
       "data_hora_iso": "2026-10-01T00:00:00",
-      "calado": "TBC",
+      "calado": "11,75/11,80",
       "rota": "",
       "berco": "PNAVE",
       "posicao": null
@@ -116,7 +106,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "01/10/2026",
       "data_hora_iso": "2026-10-01T00:00:00",
-      "calado": "11,20 EK",
+      "calado": "11,20/11,30",
       "rota": "",
       "berco": "JBS",
       "posicao": null
@@ -136,7 +126,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "01/10/2026",
       "data_hora_iso": "2026-10-01T00:00:00",
-      "calado": "4,50/6,20",
+      "calado": "3,90/5,90",
       "rota": "",
       "berco": "POLY TERMINAIS",
       "posicao": null
@@ -259,6 +249,26 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "MAERSK CHACHAI",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "09/10/2026",
+      "data_hora_iso": "2026-10-09T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "NP BENEVENTE",
+      "status": "Atracado",
+      "data_hora_texto": "30/09/2026 - 08:34",
+      "data_hora_iso": "2026-09-30T08:34:00",
+      "calado": null,
+      "rota": "",
+      "berco": "DELEMAR",
       "posicao": null
     },
     {
