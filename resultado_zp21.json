@@ -1,12 +1,12 @@
 {
-  "gerado_em": "2026-09-29T21:49:07.500419",
+  "gerado_em": "2026-09-30T01:01:40.687633",
   "navios": [
     {
       "navio": "MAERSK LAMANAI",
       "status": "ManobraPrevista",
       "data_hora_texto": "29/09/2026",
       "data_hora_iso": "2026-09-29T00:00:00",
-      "calado": "11,00/11,40",
+      "calado": "11,20/11,50",
       "rota": "",
       "berco": "JBS 2",
       "posicao": null
@@ -17,7 +17,7 @@
       "data_hora_texto": "29/09/2026",
       "data_hora_iso": "2026-09-29T00:00:00",
       "calado": "9,80/10,40",
-      "rota": "Bacia 1",
+      "rota": "",
       "berco": "PNAVE 02",
       "posicao": null
     },
@@ -37,7 +37,7 @@
       "data_hora_texto": "30/09/2026",
       "data_hora_iso": "2026-09-30T00:00:00",
       "calado": "11,85 EK",
-      "rota": "Bacia 2",
+      "rota": "",
       "berco": "PNAVE 01",
       "posicao": null
     },
@@ -49,6 +49,16 @@
       "calado": "6,30/6,50",
       "rota": "",
       "berco": "TEPORTI",
+      "posicao": null
+    },
+    {
+      "navio": "FELIXSTOWE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "30/09/2026",
+      "data_hora_iso": "2026-09-30T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE 02",
       "posicao": null
     },
     {
