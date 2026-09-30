@@ -1,34 +1,14 @@
 {
-  "gerado_em": "2026-09-30T14:35:55.047519",
+  "gerado_em": "2026-09-30T19:47:52.275042",
   "navios": [
-    {
-      "navio": "SEASPAN BELIEF",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "30/09/2026",
-      "data_hora_iso": "2026-09-30T00:00:00",
-      "calado": "11,85 EK",
-      "rota": "",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "MAERSK LAMANAI",
       "status": "ManobraPrevista",
       "data_hora_texto": "30/09/2026",
       "data_hora_iso": "2026-09-30T00:00:00",
-      "calado": "11,90/12,20",
+      "calado": "11,80/12,10",
       "rota": "Bacia 2",
       "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "BBC RAISE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "30/09/2026",
-      "data_hora_iso": "2026-09-30T00:00:00",
-      "calado": "6,30/6,50",
-      "rota": "",
-      "berco": "TEPORTI",
       "posicao": null
     },
     {
@@ -56,7 +36,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "30/09/2026",
       "data_hora_iso": "2026-09-30T00:00:00",
-      "calado": "TBC",
+      "calado": "9,15/11,00",
       "rota": "",
       "berco": "PNAVE 02",
       "posicao": null
@@ -82,13 +62,13 @@
       "posicao": null
     },
     {
-      "navio": "EVER LEADER",
+      "navio": "BBC RAISE",
       "status": "ManobraPrevista",
       "data_hora_texto": "01/10/2026",
       "data_hora_iso": "2026-10-01T00:00:00",
-      "calado": "8,60/9,50",
+      "calado": "6,30/6,40",
       "rota": "",
-      "berco": "PNAVE",
+      "berco": "TEPORTI",
       "posicao": null
     },
     {
@@ -99,6 +79,26 @@
       "calado": "8,00/10,00",
       "rota": "",
       "berco": "JBS 4",
+      "posicao": null
+    },
+    {
+      "navio": "SEASPAN BELIEF",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "01/10/2026",
+      "data_hora_iso": "2026-10-01T00:00:00",
+      "calado": "7,50/11,10",
+      "rota": "Bacia 2",
+      "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
+      "navio": "EVER LEADER",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "01/10/2026",
+      "data_hora_iso": "2026-10-01T00:00:00",
+      "calado": "8,60/9,50",
+      "rota": "",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
@@ -119,6 +119,16 @@
       "calado": "4,90/5,40",
       "rota": "",
       "berco": "TEPORTI",
+      "posicao": null
+    },
+    {
+      "navio": "MERCOSUL SUAPE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "01/10/2026",
+      "data_hora_iso": "2026-10-01T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE 02",
       "posicao": null
     },
     {
@@ -144,11 +154,11 @@
     {
       "navio": "MSC ALBANY",
       "status": "ManobraPrevista",
-      "data_hora_texto": "01/10/2026",
-      "data_hora_iso": "2026-10-01T00:00:00",
+      "data_hora_texto": "02/10/2026",
+      "data_hora_iso": "2026-10-02T00:00:00",
       "calado": "9,60/10,00",
       "rota": "",
-      "berco": "PNAVE",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
