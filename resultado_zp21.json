@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-01T03:59:05.339657",
+  "gerado_em": "2026-10-01T10:50:19.051839",
   "navios": [
     {
       "navio": "SEASPAN BELIEF",
@@ -26,7 +26,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "01/10/2026",
       "data_hora_iso": "2026-10-01T00:00:00",
-      "calado": "TBC",
+      "calado": "11,35/11,40",
       "rota": "Bacia 1",
       "berco": "PNAVE 02",
       "posicao": null
@@ -66,7 +66,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "01/10/2026",
       "data_hora_iso": "2026-10-01T00:00:00",
-      "calado": "TBC",
+      "calado": "8,80/9,90",
       "rota": "",
       "berco": "JBS 4",
       "posicao": null

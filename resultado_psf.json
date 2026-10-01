@@ -1,32 +1,6 @@
 {
-  "gerado_em": "2026-10-01T03:59:12.664277",
+  "gerado_em": "2026-10-01T10:50:26.683662",
   "navios": [
-    {
-      "navio": "Maersk Leticia",
-      "imo": "9526916",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "30/09/2026 03:25",
-      "data_chegada_iso": "2026-09-30T03:25:00",
-      "manobra": "Desatracação e Fundeio",
-      "data_manobra": "01/10/2026 00:00",
-      "data_manobra_iso": "2026-10-01T00:00:00",
-      "berco": "902 F5",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "YM Milestone",
-      "imo": "9484998",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "30/09/2026 02:00",
-      "data_chegada_iso": "2026-09-30T02:00:00",
-      "manobra": "Suspender e Atracar",
-      "data_manobra": "01/10/2026 00:00",
-      "data_manobra_iso": "2026-10-01T00:00:00",
-      "berco": "F5 902",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Vicente Pinzon",
       "imo": "9625396",
@@ -37,7 +11,7 @@
       "data_manobra": "01/10/2026 09:00",
       "data_manobra_iso": "2026-10-01T09:00:00",
       "berco": "BARRA 901",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Navios Esperados"
     },
     {
@@ -50,7 +24,7 @@
       "data_manobra": "01/10/2026 09:00",
       "data_manobra_iso": "2026-10-01T09:00:00",
       "berco": "901 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -65,6 +39,19 @@
       "berco": "300 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
+    },
+    {
+      "navio": "YM Milestone",
+      "imo": "9484998",
+      "agencia": "UNIMAR",
+      "data_chegada_texto": "30/09/2026 02:00",
+      "data_chegada_iso": "2026-09-30T02:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "902",
+      "situacao": null,
+      "secao": "Navios Atracados"
     },
     {
       "navio": "Maria P",
