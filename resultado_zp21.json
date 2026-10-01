@@ -1,26 +1,6 @@
 {
-  "gerado_em": "2026-09-30T23:25:54.106865",
+  "gerado_em": "2026-10-01T03:59:05.339657",
   "navios": [
-    {
-      "navio": "LOG-IN JACARANDA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "30/09/2026",
-      "data_hora_iso": "2026-09-30T00:00:00",
-      "calado": "11,30/11,50",
-      "rota": "Bacia 1",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
-      "navio": "FELIXSTOWE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "30/09/2026",
-      "data_hora_iso": "2026-09-30T00:00:00",
-      "calado": "9,15/11,00",
-      "rota": "",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
     {
       "navio": "SEASPAN BELIEF",
       "status": "ManobraPrevista",
@@ -39,6 +19,16 @@
       "calado": "8,60/9,50",
       "rota": "Bacia 2",
       "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
+      "navio": "FELIXSTOWE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "01/10/2026",
+      "data_hora_iso": "2026-10-01T00:00:00",
+      "calado": "TBC",
+      "rota": "Bacia 1",
+      "berco": "PNAVE 02",
       "posicao": null
     },
     {
@@ -107,7 +97,7 @@
       "data_hora_texto": "02/10/2026",
       "data_hora_iso": "2026-10-02T00:00:00",
       "calado": "9,60/10,00",
-      "rota": "Bacia 2",
+      "rota": "",
       "berco": "PNAVE 01",
       "posicao": null
     },
