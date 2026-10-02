@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-01T22:18:51.017378",
+  "gerado_em": "2026-10-02T01:58:28.225766",
   "navios": [
     {
       "navio": "SEASPAN BELIEF",
@@ -42,16 +42,6 @@
       "posicao": null
     },
     {
-      "navio": "BBC RAISE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "02/10/2026",
-      "data_hora_iso": "2026-10-02T00:00:00",
-      "calado": "6,30/6,40",
-      "rota": "",
-      "berco": "TEPORTI",
-      "posicao": null
-    },
-    {
       "navio": "MERCOSUL SUAPE",
       "status": "ManobraPrevista",
       "data_hora_texto": "02/10/2026",
@@ -59,16 +49,6 @@
       "calado": "9,70/10,00",
       "rota": "Bacia 1",
       "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "UML VICTORIA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "02/10/2026",
-      "data_hora_iso": "2026-10-02T00:00:00",
-      "calado": "3,90/5,90",
-      "rota": "",
-      "berco": "POLY TERMINAIS",
       "posicao": null
     },
     {
@@ -132,6 +112,16 @@
       "posicao": null
     },
     {
+      "navio": "BBC RAISE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "03/10/2026",
+      "data_hora_iso": "2026-10-03T00:00:00",
+      "calado": "6,30/6,40",
+      "rota": "",
+      "berco": "TEPORTI",
+      "posicao": null
+    },
+    {
       "navio": "PIO GRANDE",
       "status": "ManobraPrevista",
       "data_hora_texto": "03/10/2026",
@@ -139,6 +129,16 @@
       "calado": "4,90/5,40",
       "rota": "",
       "berco": "TEPORTI",
+      "posicao": null
+    },
+    {
+      "navio": "UML VICTORIA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "03/10/2026",
+      "data_hora_iso": "2026-10-03T00:00:00",
+      "calado": "3,90/5,90",
+      "rota": "",
+      "berco": "POLY TERMINAIS",
       "posicao": null
     },
     {
