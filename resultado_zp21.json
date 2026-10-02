@@ -1,46 +1,6 @@
 {
-  "gerado_em": "2026-10-02T15:20:18.686813",
+  "gerado_em": "2026-10-02T20:19:13.896806",
   "navios": [
-    {
-      "navio": "SEASPAN BELIEF",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "02/10/2026",
-      "data_hora_iso": "2026-10-02T00:00:00",
-      "calado": "7,45/11,15",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "KOTA ELAN",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "02/10/2026",
-      "data_hora_iso": "2026-10-02T00:00:00",
-      "calado": "8,00/10,00",
-      "rota": "Bacia 2",
-      "berco": "JBS 4",
-      "posicao": null
-    },
-    {
-      "navio": "FELIXSTOWE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "02/10/2026",
-      "data_hora_iso": "2026-10-02T00:00:00",
-      "calado": "11,40 EK",
-      "rota": "Bacia 1",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
-      "navio": "X-PRESS PISCES",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "02/10/2026",
-      "data_hora_iso": "2026-10-02T00:00:00",
-      "calado": "11,60/11,70",
-      "rota": "Bacia 1",
-      "berco": "JBS 2",
-      "posicao": null
-    },
     {
       "navio": "EVER LEADER",
       "status": "ManobraPrevista",
@@ -52,11 +12,11 @@
       "posicao": null
     },
     {
-      "navio": "MSC DAMLA",
+      "navio": "IRENES RULE",
       "status": "ManobraPrevista",
       "data_hora_texto": "02/10/2026",
       "data_hora_iso": "2026-10-02T00:00:00",
-      "calado": "8,40/10,30",
+      "calado": "8,80/9,90",
       "rota": "",
       "berco": "JBS 2",
       "posicao": null
@@ -69,26 +29,6 @@
       "calado": "7,80/9,80",
       "rota": "",
       "berco": "PNAVE",
-      "posicao": null
-    },
-    {
-      "navio": "IRENES RULE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "03/10/2026",
-      "data_hora_iso": "2026-10-03T00:00:00",
-      "calado": "8,80/9,90",
-      "rota": "",
-      "berco": "JBS 4",
-      "posicao": null
-    },
-    {
-      "navio": "MERCOSUL SUAPE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "03/10/2026",
-      "data_hora_iso": "2026-10-03T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE 01",
       "posicao": null
     },
     {
@@ -122,6 +62,16 @@
       "posicao": null
     },
     {
+      "navio": "MSC DAMLA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "03/10/2026",
+      "data_hora_iso": "2026-10-03T00:00:00",
+      "calado": "8,40/10,30",
+      "rota": "",
+      "berco": "JBS 2",
+      "posicao": null
+    },
+    {
       "navio": "PIO GRANDE",
       "status": "ManobraPrevista",
       "data_hora_texto": "03/10/2026",
@@ -129,6 +79,16 @@
       "calado": "4,90/5,40",
       "rota": "",
       "berco": "TEPORTI",
+      "posicao": null
+    },
+    {
+      "navio": "MERCOSUL SUAPE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "03/10/2026",
+      "data_hora_iso": "2026-10-03T00:00:00",
+      "calado": "9,80/10,20",
+      "rota": "",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
@@ -159,16 +119,6 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
-      "posicao": null
-    },
-    {
-      "navio": "LOG-IN RESILIENTE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "04/10/2026",
-      "data_hora_iso": "2026-10-04T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE",
       "posicao": null
     },
     {
@@ -217,6 +167,16 @@
       "data_hora_texto": "05/10/2026",
       "data_hora_iso": "2026-10-05T00:00:00",
       "calado": "3,90/5,40",
+      "rota": "",
+      "berco": "BRASKARNE",
+      "posicao": null
+    },
+    {
+      "navio": "AGIOS PORFYRIOS",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "05/10/2026",
+      "data_hora_iso": "2026-10-05T00:00:00",
+      "calado": "4,50/6,30",
       "rota": "",
       "berco": "BRASKARNE",
       "posicao": null
@@ -299,16 +259,6 @@
       "calado": null,
       "rota": "",
       "berco": "DELEMAR",
-      "posicao": null
-    },
-    {
-      "navio": "AGIOS PORFYRIOS",
-      "status": "Atracado",
-      "data_hora_texto": "27/09/2026 - 11:28",
-      "data_hora_iso": "2026-09-27T11:28:00",
-      "calado": null,
-      "rota": "",
-      "berco": "BRASKARNE",
       "posicao": null
     },
     {
