@@ -1,12 +1,12 @@
 {
-  "gerado_em": "2026-10-02T08:11:41.195691",
+  "gerado_em": "2026-10-02T15:20:18.686813",
   "navios": [
     {
       "navio": "SEASPAN BELIEF",
       "status": "ManobraPrevista",
       "data_hora_texto": "02/10/2026",
       "data_hora_iso": "2026-10-02T00:00:00",
-      "calado": "7,50/11,10",
+      "calado": "7,45/11,15",
       "rota": "Bacia 2",
       "berco": "PNAVE 01",
       "posicao": null
@@ -26,7 +26,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "02/10/2026",
       "data_hora_iso": "2026-10-02T00:00:00",
-      "calado": "11,35/11,40",
+      "calado": "11,40 EK",
       "rota": "Bacia 1",
       "berco": "PNAVE 02",
       "posicao": null
@@ -36,28 +36,8 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "02/10/2026",
       "data_hora_iso": "2026-10-02T00:00:00",
-      "calado": "11,90 EK",
+      "calado": "11,60/11,70",
       "rota": "Bacia 1",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "MERCOSUL SUAPE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "02/10/2026",
-      "data_hora_iso": "2026-10-02T00:00:00",
-      "calado": "9,70/10,00",
-      "rota": "Bacia 1",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "MSC DAMLA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "02/10/2026",
-      "data_hora_iso": "2026-10-02T00:00:00",
-      "calado": "8,40/10,30",
-      "rota": "",
       "berco": "JBS 2",
       "posicao": null
     },
@@ -72,23 +52,13 @@
       "posicao": null
     },
     {
-      "navio": "IRENES RULE",
+      "navio": "MSC DAMLA",
       "status": "ManobraPrevista",
       "data_hora_texto": "02/10/2026",
       "data_hora_iso": "2026-10-02T00:00:00",
-      "calado": "8,80/9,90",
+      "calado": "8,40/10,30",
       "rota": "",
-      "berco": "JBS 4",
-      "posicao": null
-    },
-    {
-      "navio": "MSC ALBANY",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "03/10/2026",
-      "data_hora_iso": "2026-10-03T00:00:00",
-      "calado": "9,60/10,00",
-      "rota": "",
-      "berco": "PNAVE 01",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -99,6 +69,36 @@
       "calado": "7,80/9,80",
       "rota": "",
       "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "IRENES RULE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "03/10/2026",
+      "data_hora_iso": "2026-10-03T00:00:00",
+      "calado": "8,80/9,90",
+      "rota": "",
+      "berco": "JBS 4",
+      "posicao": null
+    },
+    {
+      "navio": "MERCOSUL SUAPE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "03/10/2026",
+      "data_hora_iso": "2026-10-03T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
+      "navio": "MSC ALBANY",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "03/10/2026",
+      "data_hora_iso": "2026-10-03T00:00:00",
+      "calado": "9,60/10,00",
+      "rota": "",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
@@ -182,11 +182,21 @@
       "posicao": null
     },
     {
-      "navio": "MSC MADHU B",
+      "navio": "EQUIPEMORIM30 + C TORMENTA",
       "status": "ManobraPrevista",
       "data_hora_texto": "04/10/2026",
       "data_hora_iso": "2026-10-04T00:00:00",
       "calado": "TBC",
+      "rota": "",
+      "berco": "SEATRIUM",
+      "posicao": null
+    },
+    {
+      "navio": "MSC MADHU B",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "04/10/2026",
+      "data_hora_iso": "2026-10-04T00:00:00",
+      "calado": "11,50 EK",
       "rota": "",
       "berco": "JBS",
       "posicao": null
