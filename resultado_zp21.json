@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-10-03T18:58:55.470763",
+  "gerado_em": "2026-10-03T22:04:21.175189",
   "navios": [
-    {
-      "navio": "MERCOSUL SUAPE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "03/10/2026",
-      "data_hora_iso": "2026-10-03T00:00:00",
-      "calado": "TBC",
-      "rota": "Bacia 1",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "MSC DAMLA",
       "status": "ManobraPrevista",
@@ -32,16 +22,6 @@
       "posicao": null
     },
     {
-      "navio": "MSC MADHU B",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "04/10/2026",
-      "data_hora_iso": "2026-10-04T00:00:00",
-      "calado": "9,60/10,00",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
       "navio": "CAPE ARTEMISIO",
       "status": "ManobraPrevista",
       "data_hora_texto": "04/10/2026",
@@ -59,6 +39,16 @@
       "calado": "9,60/10,00",
       "rota": "",
       "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
+      "navio": "MSC MADHU B",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "04/10/2026",
+      "data_hora_iso": "2026-10-04T00:00:00",
+      "calado": "11,50 EK",
+      "rota": "",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
