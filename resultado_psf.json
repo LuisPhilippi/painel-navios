@@ -1,32 +1,6 @@
 {
-  "gerado_em": "2026-10-02T20:19:20.288629",
+  "gerado_em": "2026-10-03T00:08:07.345769",
   "navios": [
-    {
-      "navio": "CMA CGM Santos",
-      "imo": "9649835",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "02/10/2026 15:46",
-      "data_chegada_iso": "2026-10-02T15:46:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "02/10/2026 16:00",
-      "data_manobra_iso": "2026-10-02T16:00:00",
-      "berco": "BARRA 901",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Vicente Pinzon",
-      "imo": "9625396",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "01/10/2026 09:00",
-      "data_chegada_iso": "2026-10-01T09:00:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "02/10/2026 16:00",
-      "data_manobra_iso": "2026-10-02T16:00:00",
-      "berco": "901 BARRA",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Andonis",
       "imo": "9763916",
@@ -60,8 +34,8 @@
       "data_chegada_texto": "02/10/2026 07:49",
       "data_chegada_iso": "2026-10-02T07:49:00",
       "manobra": "Entrada e Atracação",
-      "data_manobra": "03/10/2026 04:30",
-      "data_manobra_iso": "2026-10-03T04:30:00",
+      "data_manobra": "03/10/2026 03:00",
+      "data_manobra_iso": "2026-10-03T03:00:00",
       "berco": "BARRA 902",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
@@ -73,9 +47,22 @@
       "data_chegada_texto": "02/10/2026 02:55",
       "data_chegada_iso": "2026-10-02T02:55:00",
       "manobra": "Desatracação e Fundeio",
-      "data_manobra": "03/10/2026 04:30",
-      "data_manobra_iso": "2026-10-03T04:30:00",
+      "data_manobra": "03/10/2026 03:00",
+      "data_manobra_iso": "2026-10-03T03:00:00",
       "berco": "902 F5",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "CMA CGM Santos",
+      "imo": "9649835",
+      "agencia": "UNIMAR",
+      "data_chegada_texto": "02/10/2026 15:46",
+      "data_chegada_iso": "2026-10-02T15:46:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "03/10/2026 08:00",
+      "data_manobra_iso": "2026-10-03T08:00:00",
+      "berco": "901 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
     },
@@ -83,14 +70,14 @@
       "navio": "MSC Madhu B",
       "imo": "9778088",
       "agencia": "WILSON SONS",
-      "data_chegada_texto": "02/10/2026 15:00",
-      "data_chegada_iso": "2026-10-02T15:00:00",
+      "data_chegada_texto": "02/10/2026 17:49",
+      "data_chegada_iso": "2026-10-02T17:49:00",
       "manobra": "Entrada e Atracação",
-      "data_manobra": "03/10/2026 10:15",
-      "data_manobra_iso": "2026-10-03T10:15:00",
+      "data_manobra": "03/10/2026 10:00",
+      "data_manobra_iso": "2026-10-03T10:00:00",
       "berco": "BARRA 901",
       "situacao": "A Confirmar",
-      "secao": "Navios Esperados"
+      "secao": "Movimentações"
     },
     {
       "navio": "YI Chun 15",
