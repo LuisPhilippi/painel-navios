@@ -1,36 +1,6 @@
 {
-  "gerado_em": "2026-10-03T11:32:39.699208",
+  "gerado_em": "2026-10-03T15:40:31.091603",
   "navios": [
-    {
-      "navio": "MERCOSUL SUAPE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "03/10/2026",
-      "data_hora_iso": "2026-10-03T00:00:00",
-      "calado": "9,80/10,20",
-      "rota": "",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "MSC DAMLA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "03/10/2026",
-      "data_hora_iso": "2026-10-03T00:00:00",
-      "calado": "8,40/10,30",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "EVER LEADER",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "03/10/2026",
-      "data_hora_iso": "2026-10-03T00:00:00",
-      "calado": "10,15 EK",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
     {
       "navio": "LAEM CHABANG EXPRESS",
       "status": "ManobraPrevista",
@@ -52,6 +22,16 @@
       "posicao": null
     },
     {
+      "navio": "MERCOSUL SUAPE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "03/10/2026",
+      "data_hora_iso": "2026-10-03T00:00:00",
+      "calado": "TBC",
+      "rota": "Bacia 1",
+      "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
       "navio": "CAPE ARTEMISIO",
       "status": "ManobraPrevista",
       "data_hora_texto": "04/10/2026",
@@ -59,6 +39,16 @@
       "calado": "8,00/9,05",
       "rota": "",
       "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
+      "navio": "MSC DAMLA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "04/10/2026",
+      "data_hora_iso": "2026-10-04T00:00:00",
+      "calado": "11,40/11,60",
+      "rota": "",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -72,16 +62,6 @@
       "posicao": null
     },
     {
-      "navio": "BBC RAISE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "04/10/2026",
-      "data_hora_iso": "2026-10-04T00:00:00",
-      "calado": "6,30/6,40",
-      "rota": "",
-      "berco": "TEPORTI",
-      "posicao": null
-    },
-    {
       "navio": "MSC MADHU B",
       "status": "ManobraPrevista",
       "data_hora_texto": "04/10/2026",
@@ -89,6 +69,16 @@
       "calado": "9,60/10,00",
       "rota": "",
       "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "BBC RAISE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "04/10/2026",
+      "data_hora_iso": "2026-10-04T00:00:00",
+      "calado": "6,30/6,40",
+      "rota": "",
+      "berco": "TEPORTI",
       "posicao": null
     },
     {
