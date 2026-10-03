@@ -1,12 +1,12 @@
 {
-  "gerado_em": "2026-10-03T00:08:01.268866",
+  "gerado_em": "2026-10-03T06:00:14.370064",
   "navios": [
     {
       "navio": "IRENES RULE",
       "status": "ManobraPrevista",
       "data_hora_texto": "03/10/2026",
       "data_hora_iso": "2026-10-03T00:00:00",
-      "calado": "TBC",
+      "calado": "10,00/10,60",
       "rota": "Bacia 1",
       "berco": "JBS 2",
       "posicao": null
