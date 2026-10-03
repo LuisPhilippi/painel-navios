@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-10-03T06:00:14.370064",
+  "gerado_em": "2026-10-03T11:32:39.699208",
   "navios": [
-    {
-      "navio": "IRENES RULE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "03/10/2026",
-      "data_hora_iso": "2026-10-03T00:00:00",
-      "calado": "10,00/10,60",
-      "rota": "Bacia 1",
-      "berco": "JBS 2",
-      "posicao": null
-    },
     {
       "navio": "MERCOSUL SUAPE",
       "status": "ManobraPrevista",
@@ -36,7 +26,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "03/10/2026",
       "data_hora_iso": "2026-10-03T00:00:00",
-      "calado": "11,50 EK",
+      "calado": "10,15 EK",
       "rota": "Bacia 2",
       "berco": "PNAVE 02",
       "posicao": null
