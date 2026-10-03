@@ -1,26 +1,6 @@
 {
-  "gerado_em": "2026-10-03T15:40:31.091603",
+  "gerado_em": "2026-10-03T18:58:55.470763",
   "navios": [
-    {
-      "navio": "LAEM CHABANG EXPRESS",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "03/10/2026",
-      "data_hora_iso": "2026-10-03T00:00:00",
-      "calado": "11,75/11,80",
-      "rota": "",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
-      "navio": "GREEN BRAZIL",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "03/10/2026",
-      "data_hora_iso": "2026-10-03T00:00:00",
-      "calado": "11,95 EK",
-      "rota": "",
-      "berco": "JBS 4",
-      "posicao": null
-    },
     {
       "navio": "MERCOSUL SUAPE",
       "status": "ManobraPrevista",
@@ -32,33 +12,23 @@
       "posicao": null
     },
     {
-      "navio": "CAPE ARTEMISIO",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "04/10/2026",
-      "data_hora_iso": "2026-10-04T00:00:00",
-      "calado": "8,00/9,05",
-      "rota": "",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
       "navio": "MSC DAMLA",
       "status": "ManobraPrevista",
       "data_hora_texto": "04/10/2026",
       "data_hora_iso": "2026-10-04T00:00:00",
       "calado": "11,40/11,60",
-      "rota": "",
+      "rota": "Bacia 2",
       "berco": "JBS 2",
       "posicao": null
     },
     {
-      "navio": "MSC ALBANY",
+      "navio": "LAEM CHABANG EXPRESS",
       "status": "ManobraPrevista",
       "data_hora_texto": "04/10/2026",
       "data_hora_iso": "2026-10-04T00:00:00",
-      "calado": "9,60/10,00",
-      "rota": "",
-      "berco": "PNAVE 01",
+      "calado": "11,40/11,60",
+      "rota": "Bacia 2",
+      "berco": "PNAVE 02",
       "posicao": null
     },
     {
@@ -72,53 +42,23 @@
       "posicao": null
     },
     {
-      "navio": "BBC RAISE",
+      "navio": "CAPE ARTEMISIO",
       "status": "ManobraPrevista",
       "data_hora_texto": "04/10/2026",
       "data_hora_iso": "2026-10-04T00:00:00",
-      "calado": "6,30/6,40",
+      "calado": "8,00/9,05",
       "rota": "",
-      "berco": "TEPORTI",
+      "berco": "PNAVE 02",
       "posicao": null
     },
     {
-      "navio": "MSC SHREYA B",
+      "navio": "MSC ALBANY",
       "status": "ManobraPrevista",
       "data_hora_texto": "04/10/2026",
       "data_hora_iso": "2026-10-04T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE",
-      "posicao": null
-    },
-    {
-      "navio": "COSCO SHIPPING DANUBE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "04/10/2026",
-      "data_hora_iso": "2026-10-04T00:00:00",
-      "calado": "7,80/9,80",
+      "calado": "9,60/10,00",
       "rota": "",
       "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "EQUIPEMORIM30 + C TORMENTA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "04/10/2026",
-      "data_hora_iso": "2026-10-04T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "SEATRIUM",
-      "posicao": null
-    },
-    {
-      "navio": "FRIO AEGEAN",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "05/10/2026",
-      "data_hora_iso": "2026-10-05T00:00:00",
-      "calado": "3,90/5,40",
-      "rota": "",
-      "berco": "BRASKARNE",
       "posicao": null
     },
     {
@@ -132,6 +72,46 @@
       "posicao": null
     },
     {
+      "navio": "COSCO SHIPPING DANUBE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "05/10/2026",
+      "data_hora_iso": "2026-10-05T00:00:00",
+      "calado": "7,80/9,80",
+      "rota": "",
+      "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
+      "navio": "FRIO AEGEAN",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "05/10/2026",
+      "data_hora_iso": "2026-10-05T00:00:00",
+      "calado": "3,90/5,40",
+      "rota": "",
+      "berco": "BRASKARNE",
+      "posicao": null
+    },
+    {
+      "navio": "BBC RAISE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "05/10/2026",
+      "data_hora_iso": "2026-10-05T00:00:00",
+      "calado": "6,30/6,40",
+      "rota": "",
+      "berco": "TEPORTI",
+      "posicao": null
+    },
+    {
+      "navio": "MSC SHREYA B",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "05/10/2026",
+      "data_hora_iso": "2026-10-05T00:00:00",
+      "calado": "11,90/12,00",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
       "navio": "MSC CAROLE",
       "status": "ManobraPrevista",
       "data_hora_texto": "05/10/2026",
@@ -139,6 +119,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "EQUIPEMORIM30 + C TORMENTA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "05/10/2026",
+      "data_hora_iso": "2026-10-05T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "SEATRIUM",
       "posicao": null
     },
     {
@@ -179,6 +169,16 @@
       "calado": "4,90/5,40",
       "rota": "",
       "berco": "TEPORTI",
+      "posicao": null
+    },
+    {
+      "navio": "GREEN BRAZIL",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "07/10/2026",
+      "data_hora_iso": "2026-10-07T00:00:00",
+      "calado": "12,06 EK",
+      "rota": "",
+      "berco": "JBS 4",
       "posicao": null
     },
     {
