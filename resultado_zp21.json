@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-03T22:04:21.175189",
+  "gerado_em": "2026-10-04T02:22:06.360332",
   "navios": [
     {
       "navio": "MSC DAMLA",
@@ -112,16 +112,6 @@
       "posicao": null
     },
     {
-      "navio": "EQUIPEMORIM30 + C TORMENTA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "05/10/2026",
-      "data_hora_iso": "2026-10-05T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "SEATRIUM",
-      "posicao": null
-    },
-    {
       "navio": "IRENES WISDOM",
       "status": "ManobraPrevista",
       "data_hora_texto": "05/10/2026",
@@ -159,6 +149,16 @@
       "calado": "4,90/5,40",
       "rota": "",
       "berco": "TEPORTI",
+      "posicao": null
+    },
+    {
+      "navio": "EQUIPEMORIM30 + C TORMENTA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "07/10/2026",
+      "data_hora_iso": "2026-10-07T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "SEATRIUM",
       "posicao": null
     },
     {

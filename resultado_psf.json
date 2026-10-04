@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-03T22:04:27.401223",
+  "gerado_em": "2026-10-04T02:22:12.801434",
   "navios": [
     {
       "navio": "Nordcheetah",
@@ -11,20 +11,7 @@
       "data_manobra": "03/10/2026 23:00",
       "data_manobra_iso": "2026-10-03T23:00:00",
       "berco": "902 BARRA",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Cap San Artemissio",
-      "imo": "9633939",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "03/10/2026 16:46",
-      "data_chegada_iso": "2026-10-03T16:46:00",
-      "manobra": "Suspender e Atracar",
-      "data_manobra": "03/10/2026 23:00",
-      "data_manobra_iso": "2026-10-03T23:00:00",
-      "berco": "F3 902",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -37,7 +24,7 @@
       "data_manobra": "04/10/2026 00:30",
       "data_manobra_iso": "2026-10-04T00:30:00",
       "berco": "301 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -47,9 +34,22 @@
       "data_chegada_texto": "27/09/2026 21:36",
       "data_chegada_iso": "2026-09-27T21:36:00",
       "manobra": "Desatracação e Saída",
+      "data_manobra": "04/10/2026 05:30",
+      "data_manobra_iso": "2026-10-04T05:30:00",
+      "berco": "302 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Star Hamburg",
+      "imo": "9698587",
+      "agencia": "ZPORT AGENCIA",
+      "data_chegada_texto": "21/09/2026 18:36",
+      "data_chegada_iso": "2026-09-21T18:36:00",
+      "manobra": "Desatracação e Saída",
       "data_manobra": "04/10/2026 06:00",
       "data_manobra_iso": "2026-10-04T06:00:00",
-      "berco": "302 BARRA",
+      "berco": "102 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
     },
@@ -60,9 +60,22 @@
       "data_chegada_texto": "01/08/2026 01:00",
       "data_chegada_iso": "2026-08-01T01:00:00",
       "manobra": "Suspender e Atracar",
-      "data_manobra": "04/10/2026 06:30",
-      "data_manobra_iso": "2026-10-04T06:30:00",
+      "data_manobra": "04/10/2026 07:45",
+      "data_manobra_iso": "2026-10-04T07:45:00",
       "berco": "LJ Grande 301",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "YI Chun 15",
+      "imo": "9631474",
+      "agencia": "OCEÂNICA",
+      "data_chegada_texto": "24/09/2026 01:48",
+      "data_chegada_iso": "2026-09-24T01:48:00",
+      "manobra": "Suspender e Atracar",
+      "data_manobra": "04/10/2026 08:30",
+      "data_manobra_iso": "2026-10-04T08:30:00",
+      "berco": "F5 102",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
     },
@@ -73,9 +86,9 @@
       "data_chegada_texto": "03/10/2026 15:36",
       "data_chegada_iso": "2026-10-03T15:36:00",
       "manobra": "Entrada e Atracação",
-      "data_manobra": "04/10/2026 08:30",
-      "data_manobra_iso": "2026-10-04T08:30:00",
-      "berco": "BARRA 902",
+      "data_manobra": "04/10/2026 10:45",
+      "data_manobra_iso": "2026-10-04T10:45:00",
+      "berco": "BARRA 901",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
     },
@@ -86,8 +99,8 @@
       "data_chegada_texto": "02/10/2026 17:49",
       "data_chegada_iso": "2026-10-02T17:49:00",
       "manobra": "Desatracação e Saída",
-      "data_manobra": "04/10/2026 08:30",
-      "data_manobra_iso": "2026-10-04T08:30:00",
+      "data_manobra": "04/10/2026 10:45",
+      "data_manobra_iso": "2026-10-04T10:45:00",
       "berco": "901 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
@@ -99,37 +112,24 @@
       "data_chegada_texto": "27/09/2026 19:52",
       "data_chegada_iso": "2026-09-27T19:52:00",
       "manobra": "Suspender e Atracar",
-      "data_manobra": "04/10/2026 09:00",
-      "data_manobra_iso": "2026-10-04T09:00:00",
+      "data_manobra": "04/10/2026 11:00",
+      "data_manobra_iso": "2026-10-04T11:00:00",
       "berco": "F4 (P3) 302",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
     },
     {
-      "navio": "Star Hamburg",
-      "imo": "9698587",
-      "agencia": "ZPORT AGENCIA",
-      "data_chegada_texto": "21/09/2026 18:36",
-      "data_chegada_iso": "2026-09-21T18:36:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "04/10/2026 12:30",
-      "data_manobra_iso": "2026-10-04T12:30:00",
-      "berco": "102 BARRA",
+      "navio": "Valor",
+      "imo": "9628154",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "04/10/2026 15:00",
+      "data_chegada_iso": "2026-10-04T15:00:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "04/10/2026 23:00",
+      "data_manobra_iso": "2026-10-04T23:00:00",
+      "berco": "BARRA 901",
       "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "YI Chun 15",
-      "imo": "9631474",
-      "agencia": "OCEÂNICA",
-      "data_chegada_texto": "24/09/2026 01:48",
-      "data_chegada_iso": "2026-09-24T01:48:00",
-      "manobra": "Suspender e Atracar",
-      "data_manobra": "04/10/2026 13:15",
-      "data_manobra_iso": "2026-10-04T13:15:00",
-      "berco": "F5 102",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
+      "secao": "Navios Esperados"
     },
     {
       "navio": "Andonis",
@@ -156,6 +156,19 @@
       "berco": "201",
       "situacao": null,
       "secao": "Navios Atracados"
+    },
+    {
+      "navio": "Cap San Artemissio",
+      "imo": "9633939",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "03/10/2026 16:46",
+      "data_chegada_iso": "2026-10-03T16:46:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "F3",
+      "situacao": null,
+      "secao": "Navios Fundeados (Internos)"
     },
     {
       "navio": "Barcaça N09",
@@ -249,19 +262,6 @@
       "secao": "Navios Fundeados (Barra)"
     },
     {
-      "navio": "Arietta Lily",
-      "imo": "9727479",
-      "agencia": "LITORAL",
-      "data_chegada_texto": "03/10/2026 18:00",
-      "data_chegada_iso": "2026-10-03T18:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "SFS",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
       "navio": "Sebastião Caboto",
       "imo": "9602875",
       "agencia": "LACHMANN",
@@ -275,6 +275,19 @@
       "secao": "Navios Esperados"
     },
     {
+      "navio": "Arietta Lily",
+      "imo": "9727479",
+      "agencia": "LITORAL",
+      "data_chegada_texto": "03/10/2026 23:30",
+      "data_chegada_iso": "2026-10-03T23:30:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "SFS",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
       "navio": "KM Weipa",
       "imo": "9782340",
       "agencia": "LITORAL",
@@ -284,19 +297,6 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "SFS",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Valor",
-      "imo": "9628154",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "04/10/2026 15:00",
-      "data_chegada_iso": "2026-10-04T15:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Esperados"
     },
