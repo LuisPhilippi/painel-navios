@@ -1,36 +1,6 @@
 {
-  "gerado_em": "2026-10-04T09:18:39.945352",
+  "gerado_em": "2026-10-04T15:07:23.378402",
   "navios": [
-    {
-      "navio": "MSC DAMLA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "04/10/2026",
-      "data_hora_iso": "2026-10-04T00:00:00",
-      "calado": "11,40/11,50",
-      "rota": "Bacia 2",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "LAEM CHABANG EXPRESS",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "04/10/2026",
-      "data_hora_iso": "2026-10-04T00:00:00",
-      "calado": "11,15/11,60",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
-      "navio": "CAPE ARTEMISIO",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "04/10/2026",
-      "data_hora_iso": "2026-10-04T00:00:00",
-      "calado": "8,00/9,05",
-      "rota": "",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
     {
       "navio": "MSC ALBANY",
       "status": "ManobraPrevista",
@@ -49,6 +19,16 @@
       "calado": "11,50 EK",
       "rota": "",
       "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "CAPE ARTEMISIO",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "05/10/2026",
+      "data_hora_iso": "2026-10-05T00:00:00",
+      "calado": "TBC",
+      "rota": "Bacia 2",
+      "berco": "PNAVE 02",
       "posicao": null
     },
     {
@@ -72,16 +52,6 @@
       "posicao": null
     },
     {
-      "navio": "FRIO AEGEAN",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "05/10/2026",
-      "data_hora_iso": "2026-10-05T00:00:00",
-      "calado": "3,90/5,40",
-      "rota": "",
-      "berco": "BRASKARNE",
-      "posicao": null
-    },
-    {
       "navio": "BBC RAISE",
       "status": "ManobraPrevista",
       "data_hora_texto": "05/10/2026",
@@ -89,6 +59,16 @@
       "calado": "6,30/6,40",
       "rota": "",
       "berco": "TEPORTI",
+      "posicao": null
+    },
+    {
+      "navio": "FRIO AEGEAN",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "05/10/2026",
+      "data_hora_iso": "2026-10-05T00:00:00",
+      "calado": "3,90/5,40",
+      "rota": "",
+      "berco": "BRASKARNE",
       "posicao": null
     },
     {
@@ -116,7 +96,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "05/10/2026",
       "data_hora_iso": "2026-10-05T00:00:00",
-      "calado": "TBC",
+      "calado": "5,10/7,00",
       "rota": "",
       "berco": "JBS 2",
       "posicao": null
