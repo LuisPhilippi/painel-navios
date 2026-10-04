@@ -1,6 +1,32 @@
 {
-  "gerado_em": "2026-10-04T19:00:57.053582",
+  "gerado_em": "2026-10-04T22:41:55.460185",
   "navios": [
+    {
+      "navio": "Maersk Leon",
+      "imo": "9526966",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "04/10/2026 13:00",
+      "data_chegada_iso": "2026-10-04T13:00:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "04/10/2026 23:00",
+      "data_manobra_iso": "2026-10-04T23:00:00",
+      "berco": "BARRA 902",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Felixstowe",
+      "imo": "9227039",
+      "agencia": "ZIM DO BRASIL",
+      "data_chegada_texto": "03/10/2026 15:36",
+      "data_chegada_iso": "2026-10-03T15:36:00",
+      "manobra": "Desatracação e Fundeio",
+      "data_manobra": "04/10/2026 23:00",
+      "data_manobra_iso": "2026-10-04T23:00:00",
+      "berco": "902 F5",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
     {
       "navio": "Valor",
       "imo": "9628154",
@@ -15,17 +41,17 @@
       "secao": "Movimentações"
     },
     {
-      "navio": "Felixstowe",
-      "imo": "9227039",
-      "agencia": "ZIM DO BRASIL",
-      "data_chegada_texto": "03/10/2026 15:36",
-      "data_chegada_iso": "2026-10-03T15:36:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "05/10/2026 08:00",
-      "data_manobra_iso": "2026-10-05T08:00:00",
-      "berco": "902 BARRA",
+      "navio": "Cosco Shipping Chile",
+      "imo": "9945887",
+      "agencia": "UNIMAR",
+      "data_chegada_texto": "05/10/2026 11:00",
+      "data_chegada_iso": "2026-10-05T11:00:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "05/10/2026 12:00",
+      "data_manobra_iso": "2026-10-05T12:00:00",
+      "berco": "BARRA 901",
       "situacao": "A Confirmar",
-      "secao": "Movimentações"
+      "secao": "Navios Esperados"
     },
     {
       "navio": "Andonis",
@@ -245,19 +271,6 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "SFS",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Cosco Shipping Chile",
-      "imo": "9945887",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "05/10/2026 11:00",
-      "data_chegada_iso": "2026-10-05T11:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Esperados"
     },

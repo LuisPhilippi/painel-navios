@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-04T19:00:49.383539",
+  "gerado_em": "2026-10-04T22:41:49.381952",
   "navios": [
     {
       "navio": "MSC MADHU B",
@@ -37,18 +37,8 @@
       "data_hora_texto": "05/10/2026",
       "data_hora_iso": "2026-10-05T00:00:00",
       "calado": "4,50/6,30",
-      "rota": "",
+      "rota": "Bacia 1",
       "berco": "BRASKARNE",
-      "posicao": null
-    },
-    {
-      "navio": "BBC RAISE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "05/10/2026",
-      "data_hora_iso": "2026-10-05T00:00:00",
-      "calado": "6,30/6,40",
-      "rota": "",
-      "berco": "TEPORTI",
       "posicao": null
     },
     {
@@ -82,16 +72,6 @@
       "posicao": null
     },
     {
-      "navio": "UML VICTORIA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "05/10/2026",
-      "data_hora_iso": "2026-10-05T00:00:00",
-      "calado": "3,90/5,90",
-      "rota": "",
-      "berco": "POLY TERMINAIS",
-      "posicao": null
-    },
-    {
       "navio": "GREEN BRAZIL",
       "status": "ManobraPrevista",
       "data_hora_texto": "05/10/2026",
@@ -112,6 +92,16 @@
       "posicao": null
     },
     {
+      "navio": "BBC RAISE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "06/10/2026",
+      "data_hora_iso": "2026-10-06T00:00:00",
+      "calado": "6,30/6,40",
+      "rota": "",
+      "berco": "TEPORTI",
+      "posicao": null
+    },
+    {
       "navio": "MSC CAROLE",
       "status": "ManobraPrevista",
       "data_hora_texto": "06/10/2026",
@@ -119,6 +109,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "UML VICTORIA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "06/10/2026",
+      "data_hora_iso": "2026-10-06T00:00:00",
+      "calado": "3,90/5,90",
+      "rota": "",
+      "berco": "POLY TERMINAIS",
       "posicao": null
     },
     {
