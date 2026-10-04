@@ -1,45 +1,6 @@
 {
-  "gerado_em": "2026-10-04T02:22:12.801434",
+  "gerado_em": "2026-10-04T09:18:47.417659",
   "navios": [
-    {
-      "navio": "Nordcheetah",
-      "imo": "9673630",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "02/10/2026 07:49",
-      "data_chegada_iso": "2026-10-02T07:49:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "03/10/2026 23:00",
-      "data_manobra_iso": "2026-10-03T23:00:00",
-      "berco": "902 BARRA",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Spanaco Adventure",
-      "imo": "9014078",
-      "agencia": "SEATRADE",
-      "data_chegada_texto": "27/09/2026 22:00",
-      "data_chegada_iso": "2026-09-27T22:00:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "04/10/2026 00:30",
-      "data_manobra_iso": "2026-10-04T00:30:00",
-      "berco": "301 BARRA",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Babitonga Bay",
-      "imo": "9663776",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "27/09/2026 21:36",
-      "data_chegada_iso": "2026-09-27T21:36:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "04/10/2026 05:30",
-      "data_manobra_iso": "2026-10-04T05:30:00",
-      "berco": "302 BARRA",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Star Hamburg",
       "imo": "9698587",
@@ -50,7 +11,7 @@
       "data_manobra": "04/10/2026 06:00",
       "data_manobra_iso": "2026-10-04T06:00:00",
       "berco": "102 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -63,7 +24,7 @@
       "data_manobra": "04/10/2026 07:45",
       "data_manobra_iso": "2026-10-04T07:45:00",
       "berco": "LJ Grande 301",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -106,14 +67,27 @@
       "secao": "Movimentações"
     },
     {
+      "navio": "Babitonga Bay",
+      "imo": "9663776",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "27/09/2026 21:36",
+      "data_chegada_iso": "2026-09-27T21:36:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "04/10/2026 12:15",
+      "data_manobra_iso": "2026-10-04T12:15:00",
+      "berco": "302 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
       "navio": "Barcaça N12",
       "imo": "9326031",
       "agencia": "WILSON SONS",
       "data_chegada_texto": "27/09/2026 19:52",
       "data_chegada_iso": "2026-09-27T19:52:00",
       "manobra": "Suspender e Atracar",
-      "data_manobra": "04/10/2026 11:00",
-      "data_manobra_iso": "2026-10-04T11:00:00",
+      "data_manobra": "04/10/2026 13:00",
+      "data_manobra_iso": "2026-10-04T13:00:00",
       "berco": "F4 (P3) 302",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
@@ -262,6 +236,19 @@
       "secao": "Navios Fundeados (Barra)"
     },
     {
+      "navio": "Arietta Lily",
+      "imo": "9727479",
+      "agencia": "LITORAL",
+      "data_chegada_texto": "03/10/2026 23:50",
+      "data_chegada_iso": "2026-10-03T23:50:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "SFS",
+      "situacao": null,
+      "secao": "Navios Fundeados (Barra)"
+    },
+    {
       "navio": "Sebastião Caboto",
       "imo": "9602875",
       "agencia": "LACHMANN",
@@ -271,19 +258,6 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": null,
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Arietta Lily",
-      "imo": "9727479",
-      "agencia": "LITORAL",
-      "data_chegada_texto": "03/10/2026 23:30",
-      "data_chegada_iso": "2026-10-03T23:30:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "SFS",
       "situacao": null,
       "secao": "Navios Esperados"
     },

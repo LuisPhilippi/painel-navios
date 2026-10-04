@@ -1,12 +1,12 @@
 {
-  "gerado_em": "2026-10-04T02:22:06.360332",
+  "gerado_em": "2026-10-04T09:18:39.945352",
   "navios": [
     {
       "navio": "MSC DAMLA",
       "status": "ManobraPrevista",
       "data_hora_texto": "04/10/2026",
       "data_hora_iso": "2026-10-04T00:00:00",
-      "calado": "11,40/11,60",
+      "calado": "11,40/11,50",
       "rota": "Bacia 2",
       "berco": "JBS 2",
       "posicao": null
@@ -16,7 +16,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "04/10/2026",
       "data_hora_iso": "2026-10-04T00:00:00",
-      "calado": "11,40/11,60",
+      "calado": "11,15/11,60",
       "rota": "Bacia 2",
       "berco": "PNAVE 02",
       "posicao": null
