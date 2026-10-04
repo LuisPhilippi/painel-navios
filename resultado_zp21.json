@@ -1,22 +1,12 @@
 {
-  "gerado_em": "2026-10-04T15:07:23.378402",
+  "gerado_em": "2026-10-04T19:00:49.383539",
   "navios": [
-    {
-      "navio": "MSC ALBANY",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "04/10/2026",
-      "data_hora_iso": "2026-10-04T00:00:00",
-      "calado": "9,60/10,00",
-      "rota": "",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "MSC MADHU B",
       "status": "ManobraPrevista",
       "data_hora_texto": "04/10/2026",
       "data_hora_iso": "2026-10-04T00:00:00",
-      "calado": "11,50 EK",
+      "calado": "10,00/11,50",
       "rota": "",
       "berco": "JBS 2",
       "posicao": null
@@ -26,8 +16,18 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "05/10/2026",
       "data_hora_iso": "2026-10-05T00:00:00",
-      "calado": "TBC",
+      "calado": "10,10/10,30",
       "rota": "Bacia 2",
+      "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
+      "navio": "COSCO SHIPPING DANUBE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "05/10/2026",
+      "data_hora_iso": "2026-10-05T00:00:00",
+      "calado": "7,80/9,80",
+      "rota": "",
       "berco": "PNAVE 02",
       "posicao": null
     },
@@ -39,16 +39,6 @@
       "calado": "4,50/6,30",
       "rota": "",
       "berco": "BRASKARNE",
-      "posicao": null
-    },
-    {
-      "navio": "COSCO SHIPPING DANUBE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "05/10/2026",
-      "data_hora_iso": "2026-10-05T00:00:00",
-      "calado": "7,80/9,80",
-      "rota": "",
-      "berco": "PNAVE 02",
       "posicao": null
     },
     {
@@ -72,26 +62,6 @@
       "posicao": null
     },
     {
-      "navio": "MSC SHREYA B",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "05/10/2026",
-      "data_hora_iso": "2026-10-05T00:00:00",
-      "calado": "11,90/12,00",
-      "rota": "",
-      "berco": "PNAVE",
-      "posicao": null
-    },
-    {
-      "navio": "MSC CAROLE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "05/10/2026",
-      "data_hora_iso": "2026-10-05T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE",
-      "posicao": null
-    },
-    {
       "navio": "IRENES WISDOM",
       "status": "ManobraPrevista",
       "data_hora_texto": "05/10/2026",
@@ -99,6 +69,16 @@
       "calado": "5,10/7,00",
       "rota": "",
       "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "MSC ALBANY",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "05/10/2026",
+      "data_hora_iso": "2026-10-05T00:00:00",
+      "calado": "10,10/10,80",
+      "rota": "Bacia 2",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
@@ -112,10 +92,40 @@
       "posicao": null
     },
     {
-      "navio": "MAERSK LEON",
+      "navio": "GREEN BRAZIL",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "05/10/2026",
+      "data_hora_iso": "2026-10-05T00:00:00",
+      "calado": "12,06 EK",
+      "rota": "",
+      "berco": "JBS 4",
+      "posicao": null
+    },
+    {
+      "navio": "MSC SHREYA B",
       "status": "ManobraPrevista",
       "data_hora_texto": "06/10/2026",
       "data_hora_iso": "2026-10-06T00:00:00",
+      "calado": "11,90/12,00",
+      "rota": "",
+      "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
+      "navio": "MSC CAROLE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "06/10/2026",
+      "data_hora_iso": "2026-10-06T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "MAERSK LEON",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "07/10/2026",
+      "data_hora_iso": "2026-10-07T00:00:00",
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
@@ -139,16 +149,6 @@
       "calado": "TBC",
       "rota": "",
       "berco": "SEATRIUM",
-      "posicao": null
-    },
-    {
-      "navio": "GREEN BRAZIL",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "07/10/2026",
-      "data_hora_iso": "2026-10-07T00:00:00",
-      "calado": "12,06 EK",
-      "rota": "",
-      "berco": "JBS 4",
       "posicao": null
     },
     {
