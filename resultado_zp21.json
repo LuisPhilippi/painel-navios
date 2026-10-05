@@ -1,56 +1,6 @@
 {
-  "gerado_em": "2026-10-05T08:15:27.283754",
+  "gerado_em": "2026-10-05T17:49:42.630648",
   "navios": [
-    {
-      "navio": "CAPE ARTEMISIO",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "05/10/2026",
-      "data_hora_iso": "2026-10-05T00:00:00",
-      "calado": "10,10/10,30",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
-      "navio": "COSCO SHIPPING DANUBE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "05/10/2026",
-      "data_hora_iso": "2026-10-05T00:00:00",
-      "calado": "7,80/9,80",
-      "rota": "",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
-      "navio": "AGIOS PORFYRIOS",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "05/10/2026",
-      "data_hora_iso": "2026-10-05T00:00:00",
-      "calado": "4,50/6,30",
-      "rota": "Bacia 1",
-      "berco": "BRASKARNE",
-      "posicao": null
-    },
-    {
-      "navio": "FRIO AEGEAN",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "05/10/2026",
-      "data_hora_iso": "2026-10-05T00:00:00",
-      "calado": "3,90/5,40",
-      "rota": "",
-      "berco": "BRASKARNE",
-      "posicao": null
-    },
-    {
-      "navio": "MSC MADHU B",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "05/10/2026",
-      "data_hora_iso": "2026-10-05T00:00:00",
-      "calado": "8,80/10,80",
-      "rota": "Bacia 2",
-      "berco": "JBS 2",
-      "posicao": null
-    },
     {
       "navio": "IRENES WISDOM",
       "status": "ManobraPrevista",
@@ -59,16 +9,6 @@
       "calado": "5,10/7,00",
       "rota": "",
       "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "MSC ALBANY",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "05/10/2026",
-      "data_hora_iso": "2026-10-05T00:00:00",
-      "calado": "10,10/10,80",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 01",
       "posicao": null
     },
     {
@@ -92,6 +32,16 @@
       "posicao": null
     },
     {
+      "navio": "COSCO SHIPPING DANUBE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "06/10/2026",
+      "data_hora_iso": "2026-10-06T00:00:00",
+      "calado": "10,50/10,70",
+      "rota": "",
+      "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
       "navio": "BBC RAISE",
       "status": "ManobraPrevista",
       "data_hora_texto": "06/10/2026",
@@ -99,6 +49,16 @@
       "calado": "6,30/6,40",
       "rota": "",
       "berco": "TEPORTI",
+      "posicao": null
+    },
+    {
+      "navio": "MSC ALBANY",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "06/10/2026",
+      "data_hora_iso": "2026-10-06T00:00:00",
+      "calado": "10,10/10,80",
+      "rota": "Bacia 2",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
@@ -126,7 +86,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "07/10/2026",
       "data_hora_iso": "2026-10-07T00:00:00",
-      "calado": "TBC",
+      "calado": "9,70/10,00",
       "rota": "",
       "berco": "JBS",
       "posicao": null
@@ -162,6 +122,16 @@
       "posicao": null
     },
     {
+      "navio": "FRIO AEGEAN",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "08/10/2026",
+      "data_hora_iso": "2026-10-08T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "BRASKARNE",
+      "posicao": null
+    },
+    {
       "navio": "MAERSK CHACHAI",
       "status": "ManobraPrevista",
       "data_hora_texto": "09/10/2026",
@@ -169,6 +139,36 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "GREEN PARK",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "12/10/2026",
+      "data_hora_iso": "2026-10-12T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "NC BREDA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "12/10/2026",
+      "data_hora_iso": "2026-10-12T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "ESPIRITO SANTO EXPRESS",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "12/10/2026",
+      "data_hora_iso": "2026-10-12T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
       "posicao": null
     },
     {
@@ -202,6 +202,16 @@
       "posicao": null
     },
     {
+      "navio": "SANTA INES",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "21/10/2026",
+      "data_hora_iso": "2026-10-21T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
       "navio": "MAERSK PANGANI",
       "status": "ManobraPrevista",
       "data_hora_texto": "23/10/2026",
@@ -212,14 +222,14 @@
       "posicao": null
     },
     {
-      "navio": "NP BENEVENTE",
-      "status": "Atracado",
-      "data_hora_texto": "30/09/2026 - 08:34",
-      "data_hora_iso": "2026-09-30T08:34:00",
-      "calado": null,
+      "navio": "AGIOS PORFYRIOS",
+      "status": "Fundeado",
+      "data_hora_texto": "05/10/2026 - 11:50",
+      "data_hora_iso": "2026-10-05T11:50:00",
+      "calado": "TBC",
       "rota": "",
-      "berco": "DELEMAR",
-      "posicao": null
+      "berco": null,
+      "posicao": "26 52,01 S / 048 31,17 W"
     },
     {
       "navio": "GEMSBOK",
