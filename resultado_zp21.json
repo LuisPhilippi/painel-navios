@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-10-04T22:41:49.381952",
+  "gerado_em": "2026-10-05T01:33:58.025967",
   "navios": [
-    {
-      "navio": "MSC MADHU B",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "04/10/2026",
-      "data_hora_iso": "2026-10-04T00:00:00",
-      "calado": "10,00/11,50",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
     {
       "navio": "CAPE ARTEMISIO",
       "status": "ManobraPrevista",
@@ -49,6 +39,16 @@
       "calado": "3,90/5,40",
       "rota": "",
       "berco": "BRASKARNE",
+      "posicao": null
+    },
+    {
+      "navio": "MSC MADHU B",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "05/10/2026",
+      "data_hora_iso": "2026-10-05T00:00:00",
+      "calado": "8,80/10,80",
+      "rota": "Bacia 2",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -106,7 +106,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "06/10/2026",
       "data_hora_iso": "2026-10-06T00:00:00",
-      "calado": "TBC",
+      "calado": "11,20 EK",
       "rota": "",
       "berco": "PNAVE",
       "posicao": null

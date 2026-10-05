@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-04T22:41:55.460185",
+  "gerado_em": "2026-10-05T01:34:04.256629",
   "navios": [
     {
       "navio": "Maersk Leon",
@@ -11,7 +11,7 @@
       "data_manobra": "04/10/2026 23:00",
       "data_manobra_iso": "2026-10-04T23:00:00",
       "berco": "BARRA 902",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -24,7 +24,7 @@
       "data_manobra": "04/10/2026 23:00",
       "data_manobra_iso": "2026-10-04T23:00:00",
       "berco": "902 F5",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
