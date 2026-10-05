@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-05T01:33:58.025967",
+  "gerado_em": "2026-10-05T08:15:27.283754",
   "navios": [
     {
       "navio": "CAPE ARTEMISIO",
@@ -77,7 +77,7 @@
       "data_hora_texto": "05/10/2026",
       "data_hora_iso": "2026-10-05T00:00:00",
       "calado": "12,06 EK",
-      "rota": "",
+      "rota": "Bacia 1",
       "berco": "JBS 4",
       "posicao": null
     },
