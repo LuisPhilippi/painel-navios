@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-10-06T17:52:29.442602",
+  "gerado_em": "2026-10-06T22:16:56.561860",
   "navios": [
-    {
-      "navio": "LOG-IN POLARIS",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "06/10/2026",
-      "data_hora_iso": "2026-10-06T00:00:00",
-      "calado": "5,70/8,20",
-      "rota": "",
-      "berco": "JBS 4",
-      "posicao": null
-    },
     {
       "navio": "MSC ALBANY",
       "status": "ManobraPrevista",
@@ -18,16 +8,6 @@
       "data_hora_iso": "2026-10-06T00:00:00",
       "calado": "10,10/10,80",
       "rota": "Bacia 2",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "MSC SHREYA B",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "06/10/2026",
-      "data_hora_iso": "2026-10-06T00:00:00",
-      "calado": "11,90/12,00",
-      "rota": "",
       "berco": "PNAVE 01",
       "posicao": null
     },
@@ -42,12 +22,22 @@
       "posicao": null
     },
     {
-      "navio": "MAERSK LEON",
+      "navio": "LOG-IN POLARIS",
       "status": "ManobraPrevista",
       "data_hora_texto": "07/10/2026",
       "data_hora_iso": "2026-10-07T00:00:00",
       "calado": "TBC",
       "rota": "",
+      "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
+      "navio": "MAERSK LEON",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "07/10/2026",
+      "data_hora_iso": "2026-10-07T00:00:00",
+      "calado": "10,15/10,80",
+      "rota": "Bacia 2",
       "berco": "JBS 2",
       "posicao": null
     },
@@ -56,9 +46,29 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "07/10/2026",
       "data_hora_iso": "2026-10-07T00:00:00",
-      "calado": "11,20 EK",
+      "calado": "TBC",
       "rota": "",
       "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "MSC SHREYA B",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "07/10/2026",
+      "data_hora_iso": "2026-10-07T00:00:00",
+      "calado": "11,90/12,00",
+      "rota": "",
+      "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
+      "navio": "NYK RUMINA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "07/10/2026",
+      "data_hora_iso": "2026-10-07T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
       "posicao": null
     },
     {
@@ -136,7 +146,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "09/10/2026",
       "data_hora_iso": "2026-10-09T00:00:00",
-      "calado": "9,10/10,40",
+      "calado": "9,20/10,55",
       "rota": "",
       "berco": "PNAVE",
       "posicao": null
