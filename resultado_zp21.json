@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-06T04:42:50.902820",
+  "gerado_em": "2026-10-06T11:45:36.125257",
   "navios": [
     {
       "navio": "IRENES WISDOM",
@@ -16,7 +16,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "06/10/2026",
       "data_hora_iso": "2026-10-06T00:00:00",
-      "calado": "6,30/6,40",
+      "calado": "6,15/6,25",
       "rota": "",
       "berco": "TEPORTI",
       "posicao": null
@@ -36,7 +36,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "06/10/2026",
       "data_hora_iso": "2026-10-06T00:00:00",
-      "calado": "9,70/10,00",
+      "calado": "10,10 EK",
       "rota": "",
       "berco": "JBS 2",
       "posicao": null
@@ -76,7 +76,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "07/10/2026",
       "data_hora_iso": "2026-10-07T00:00:00",
-      "calado": "TBC",
+      "calado": "5,70/8,20",
       "rota": "",
       "berco": "JBS",
       "posicao": null
@@ -126,7 +126,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "08/10/2026",
       "data_hora_iso": "2026-10-08T00:00:00",
-      "calado": "TBC",
+      "calado": "11,20/11,30",
       "rota": "",
       "berco": "JBS",
       "posicao": null
@@ -240,6 +240,16 @@
       "rota": "",
       "berco": null,
       "posicao": "26 52,01 S / 048 31,17 W"
+    },
+    {
+      "navio": "HYUNDAI HONG KONG",
+      "status": "Fundeado",
+      "data_hora_texto": "06/10/2026 - 06:17",
+      "data_hora_iso": "2026-10-06T06:17:00",
+      "calado": "12,12/12,15",
+      "rota": "",
+      "berco": null,
+      "posicao": "26 52,82 S / 048 30,87 W"
     },
     {
       "navio": "GEMSBOK",
