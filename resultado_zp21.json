@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-05T23:41:41.264233",
+  "gerado_em": "2026-10-06T04:42:50.902820",
   "navios": [
     {
       "navio": "IRENES WISDOM",
@@ -19,16 +19,6 @@
       "calado": "6,30/6,40",
       "rota": "",
       "berco": "TEPORTI",
-      "posicao": null
-    },
-    {
-      "navio": "MSC ALBANY",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "06/10/2026",
-      "data_hora_iso": "2026-10-06T00:00:00",
-      "calado": "10,10/10,80",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 01",
       "posicao": null
     },
     {
@@ -52,16 +42,6 @@
       "posicao": null
     },
     {
-      "navio": "MSC SHREYA B",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "06/10/2026",
-      "data_hora_iso": "2026-10-06T00:00:00",
-      "calado": "11,90/12,00",
-      "rota": "",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
       "navio": "COSCO SHIPPING DANUBE",
       "status": "ManobraPrevista",
       "data_hora_texto": "06/10/2026",
@@ -69,6 +49,26 @@
       "calado": "10,50/10,70",
       "rota": "Bacia 2",
       "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
+      "navio": "MSC ALBANY",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "06/10/2026",
+      "data_hora_iso": "2026-10-06T00:00:00",
+      "calado": "10,10/10,80",
+      "rota": "Bacia 2",
+      "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
+      "navio": "MSC SHREYA B",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "06/10/2026",
+      "data_hora_iso": "2026-10-06T00:00:00",
+      "calado": "11,90/12,00",
+      "rota": "",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {

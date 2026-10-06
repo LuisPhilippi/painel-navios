@@ -1,19 +1,6 @@
 {
-  "gerado_em": "2026-10-05T23:41:47.733059",
+  "gerado_em": "2026-10-06T04:42:57.048444",
   "navios": [
-    {
-      "navio": "TSHD Galileo Galilei",
-      "imo": "9872365",
-      "agencia": "LITORAL",
-      "data_chegada_texto": "01/08/2026 01:00",
-      "data_chegada_iso": "2026-08-01T01:00:00",
-      "manobra": "Desatracação e Fundeio",
-      "data_manobra": "05/10/2026 21:00",
-      "data_manobra_iso": "2026-10-05T21:00:00",
-      "berco": "301 LJ Grande",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Maersk Leon",
       "imo": "9526966",
@@ -50,19 +37,6 @@
       "data_manobra": "06/10/2026 07:00",
       "data_manobra_iso": "2026-10-06T07:00:00",
       "berco": "302 F4 (P1)",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Bao Lucky",
-      "imo": "9718337",
-      "agencia": "ORION",
-      "data_chegada_texto": "17/09/2026 06:42",
-      "data_chegada_iso": "2026-09-17T06:42:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "06/10/2026 09:45",
-      "data_manobra_iso": "2026-10-06T09:45:00",
-      "berco": "201 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
     },
@@ -143,6 +117,32 @@
       "berco": "102",
       "situacao": null,
       "secao": "Navios Atracados"
+    },
+    {
+      "navio": "Bao Lucky",
+      "imo": "9718337",
+      "agencia": "ORION",
+      "data_chegada_texto": "17/09/2026 06:42",
+      "data_chegada_iso": "2026-09-17T06:42:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "201",
+      "situacao": null,
+      "secao": "Navios Atracados"
+    },
+    {
+      "navio": "TSHD Galileo Galilei",
+      "imo": "9872365",
+      "agencia": "LITORAL",
+      "data_chegada_texto": "01/08/2026 01:00",
+      "data_chegada_iso": "2026-08-01T01:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "LJ Grande",
+      "situacao": null,
+      "secao": "Navios Fundeados (Internos)"
     },
     {
       "navio": "Olympia.GR",
