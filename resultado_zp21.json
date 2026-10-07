@@ -1,41 +1,11 @@
 {
-  "gerado_em": "2026-10-07T17:13:09.617921",
+  "gerado_em": "2026-10-07T22:39:44.231101",
   "navios": [
-    {
-      "navio": "MSC SHREYA B",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "08/10/2026",
-      "data_hora_iso": "2026-10-08T00:00:00",
-      "calado": "7,70/9,70",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
-      "navio": "MSC CAROLE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "08/10/2026",
-      "data_hora_iso": "2026-10-08T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE",
-      "posicao": null
-    },
-    {
-      "navio": "JAZAN",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "08/10/2026",
-      "data_hora_iso": "2026-10-08T00:00:00",
-      "calado": "11,30/11,40",
-      "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
     {
       "navio": "LOG-IN POLARIS",
       "status": "ManobraPrevista",
-      "data_hora_texto": "08/10/2026",
-      "data_hora_iso": "2026-10-08T00:00:00",
+      "data_hora_texto": "07/10/2026",
+      "data_hora_iso": "2026-10-07T00:00:00",
       "calado": "10,20/10,70",
       "rota": "Bacia 1",
       "berco": "PNAVE 01",
@@ -52,6 +22,26 @@
       "posicao": null
     },
     {
+      "navio": "HYUNDAI HONG KONG",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "08/10/2026",
+      "data_hora_iso": "2026-10-08T00:00:00",
+      "calado": "12,12/12,15",
+      "rota": "",
+      "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
+      "navio": "JAZAN",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "08/10/2026",
+      "data_hora_iso": "2026-10-08T00:00:00",
+      "calado": "11,30/11,40",
+      "rota": "",
+      "berco": "JBS 4",
+      "posicao": null
+    },
+    {
       "navio": "FRIO AEGEAN",
       "status": "ManobraPrevista",
       "data_hora_texto": "08/10/2026",
@@ -62,32 +52,22 @@
       "posicao": null
     },
     {
-      "navio": "MSC MARIA MARILYN X",
+      "navio": "MSC CAROLE",
       "status": "ManobraPrevista",
-      "data_hora_texto": "08/10/2026",
-      "data_hora_iso": "2026-10-08T00:00:00",
-      "calado": "10,90/12,00",
+      "data_hora_texto": "09/10/2026",
+      "data_hora_iso": "2026-10-09T00:00:00",
+      "calado": "TBC",
       "rota": "",
-      "berco": "JBS 4",
+      "berco": "PNAVE",
       "posicao": null
     },
     {
-      "navio": "UML VICTORIA",
+      "navio": "MSC SHREYA B",
       "status": "ManobraPrevista",
-      "data_hora_texto": "08/10/2026",
-      "data_hora_iso": "2026-10-08T00:00:00",
-      "calado": "3,90/5,90",
-      "rota": "",
-      "berco": "POLY TERMINAIS",
-      "posicao": null
-    },
-    {
-      "navio": "HYUNDAI HONG KONG",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "08/10/2026",
-      "data_hora_iso": "2026-10-08T00:00:00",
-      "calado": "12,12/12,15",
-      "rota": "",
+      "data_hora_texto": "09/10/2026",
+      "data_hora_iso": "2026-10-09T00:00:00",
+      "calado": "7,70/9,70",
+      "rota": "Bacia 2",
       "berco": "PNAVE 02",
       "posicao": null
     },
@@ -102,13 +82,13 @@
       "posicao": null
     },
     {
-      "navio": "EQUIPEMORIM30 + C TORMENTA",
+      "navio": "UML VICTORIA",
       "status": "ManobraPrevista",
       "data_hora_texto": "09/10/2026",
       "data_hora_iso": "2026-10-09T00:00:00",
-      "calado": "TBC",
+      "calado": "3,90/5,90",
       "rota": "",
-      "berco": "SEATRIUM",
+      "berco": "POLY TERMINAIS",
       "posicao": null
     },
     {
@@ -132,13 +112,13 @@
       "posicao": null
     },
     {
-      "navio": "PIO GRANDE",
+      "navio": "EQUIPEMORIM30 + C TORMENTA",
       "status": "ManobraPrevista",
       "data_hora_texto": "10/10/2026",
       "data_hora_iso": "2026-10-10T00:00:00",
-      "calado": "4,90/5,40",
+      "calado": "TBC",
       "rota": "",
-      "berco": "TEPORTI",
+      "berco": "SEATRIUM",
       "posicao": null
     },
     {
@@ -149,6 +129,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "PIO GRANDE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "11/10/2026",
+      "data_hora_iso": "2026-10-11T00:00:00",
+      "calado": "4,90/5,40",
+      "rota": "",
+      "berco": "TEPORTI",
       "posicao": null
     },
     {
@@ -189,6 +179,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "MSC MARIA MARILYN X",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "12/10/2026",
+      "data_hora_iso": "2026-10-12T00:00:00",
+      "calado": "10,90/12,00",
+      "rota": "",
+      "berco": "JBS 4",
       "posicao": null
     },
     {
