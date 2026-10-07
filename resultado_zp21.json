@@ -1,42 +1,12 @@
 {
-  "gerado_em": "2026-10-07T02:03:20.453574",
+  "gerado_em": "2026-10-07T09:45:14.024748",
   "navios": [
-    {
-      "navio": "MSC ALBANY",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "06/10/2026",
-      "data_hora_iso": "2026-10-06T00:00:00",
-      "calado": "10,10/10,30",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "LOG-IN POLARIS",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "06/10/2026",
-      "data_hora_iso": "2026-10-06T00:00:00",
-      "calado": "5,70/8,20",
-      "rota": "",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "COSCO SHIPPING DANUBE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "06/10/2026",
-      "data_hora_iso": "2026-10-06T00:00:00",
-      "calado": "10,50/10,70",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
     {
       "navio": "MAERSK LEON",
       "status": "ManobraPrevista",
       "data_hora_texto": "07/10/2026",
       "data_hora_iso": "2026-10-07T00:00:00",
-      "calado": "10,15/10,80",
+      "calado": "10,20/10,80",
       "rota": "Bacia 2",
       "berco": "JBS 2",
       "posicao": null
@@ -59,6 +29,16 @@
       "calado": "9,40/9,90",
       "rota": "",
       "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "LOG-IN POLARIS",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "07/10/2026",
+      "data_hora_iso": "2026-10-07T00:00:00",
+      "calado": "10,20/10,70",
+      "rota": "Bacia 1",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {

@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-07T02:03:27.975431",
+  "gerado_em": "2026-10-07T09:45:21.044593",
   "navios": [
     {
       "navio": "Kavo Alkyon",
@@ -236,6 +236,19 @@
       "secao": "Navios Esperados"
     },
     {
+      "navio": "Maersk Ganges",
+      "imo": "9694581",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "07/10/2026 08:00",
+      "data_chegada_iso": "2026-10-07T08:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
       "navio": "Oslo Venture",
       "imo": "9693185",
       "agencia": "ORION",
@@ -254,19 +267,6 @@
       "agencia": "UNIMAR",
       "data_chegada_texto": "07/10/2026 17:00",
       "data_chegada_iso": "2026-10-07T17:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Maersk Ganges",
-      "imo": "9694581",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "08/10/2026 05:00",
-      "data_chegada_iso": "2026-10-08T05:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
@@ -323,19 +323,6 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "SFS",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Jamaica Bay",
-      "imo": "9610717",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "09/10/2026 13:00",
-      "data_chegada_iso": "2026-10-09T13:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "TESC",
       "situacao": null,
       "secao": "Navios Esperados"
     },
@@ -453,6 +440,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "SFS",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Jamaica Bay",
+      "imo": "9610717",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "11/10/2026 05:00",
+      "data_chegada_iso": "2026-10-11T05:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "TESC",
       "situacao": null,
       "secao": "Navios Esperados"
     },
