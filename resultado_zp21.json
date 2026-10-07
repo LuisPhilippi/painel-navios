@@ -1,13 +1,23 @@
 {
-  "gerado_em": "2026-10-06T22:16:56.561860",
+  "gerado_em": "2026-10-07T02:03:20.453574",
   "navios": [
     {
       "navio": "MSC ALBANY",
       "status": "ManobraPrevista",
       "data_hora_texto": "06/10/2026",
       "data_hora_iso": "2026-10-06T00:00:00",
-      "calado": "10,10/10,80",
+      "calado": "10,10/10,30",
       "rota": "Bacia 2",
+      "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
+      "navio": "LOG-IN POLARIS",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "06/10/2026",
+      "data_hora_iso": "2026-10-06T00:00:00",
+      "calado": "5,70/8,20",
+      "rota": "",
       "berco": "PNAVE 01",
       "posicao": null
     },
@@ -22,16 +32,6 @@
       "posicao": null
     },
     {
-      "navio": "LOG-IN POLARIS",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "07/10/2026",
-      "data_hora_iso": "2026-10-07T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
       "navio": "MAERSK LEON",
       "status": "ManobraPrevista",
       "data_hora_texto": "07/10/2026",
@@ -42,23 +42,13 @@
       "posicao": null
     },
     {
-      "navio": "MSC CAROLE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "07/10/2026",
-      "data_hora_iso": "2026-10-07T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE",
-      "posicao": null
-    },
-    {
       "navio": "MSC SHREYA B",
       "status": "ManobraPrevista",
       "data_hora_texto": "07/10/2026",
       "data_hora_iso": "2026-10-07T00:00:00",
       "calado": "11,90/12,00",
       "rota": "",
-      "berco": "PNAVE 01",
+      "berco": "PNAVE 02",
       "posicao": null
     },
     {
@@ -66,9 +56,19 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "07/10/2026",
       "data_hora_iso": "2026-10-07T00:00:00",
-      "calado": "TBC",
+      "calado": "9,40/9,90",
       "rota": "",
-      "berco": "JBS",
+      "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "MSC MARIA MARILYN X",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "07/10/2026",
+      "data_hora_iso": "2026-10-07T00:00:00",
+      "calado": "10,90/12,00",
+      "rota": "",
+      "berco": "JBS 4",
       "posicao": null
     },
     {
@@ -82,31 +82,21 @@
       "posicao": null
     },
     {
-      "navio": "PIO GRANDE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "07/10/2026",
-      "data_hora_iso": "2026-10-07T00:00:00",
-      "calado": "4,90/5,40",
-      "rota": "",
-      "berco": "TEPORTI",
-      "posicao": null
-    },
-    {
-      "navio": "EQUIPEMORIM30 + C TORMENTA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "07/10/2026",
-      "data_hora_iso": "2026-10-07T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "SEATRIUM",
-      "posicao": null
-    },
-    {
       "navio": "HYUNDAI HONG KONG",
       "status": "ManobraPrevista",
       "data_hora_texto": "07/10/2026",
       "data_hora_iso": "2026-10-07T00:00:00",
       "calado": "12,12/12,15",
+      "rota": "",
+      "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
+      "navio": "MSC CAROLE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "08/10/2026",
+      "data_hora_iso": "2026-10-08T00:00:00",
+      "calado": "TBC",
       "rota": "",
       "berco": "PNAVE",
       "posicao": null
@@ -122,13 +112,13 @@
       "posicao": null
     },
     {
-      "navio": "MSC MARIA MARILYN X",
+      "navio": "PIO GRANDE",
       "status": "ManobraPrevista",
       "data_hora_texto": "08/10/2026",
       "data_hora_iso": "2026-10-08T00:00:00",
-      "calado": "10,80/12,00",
+      "calado": "4,90/5,40",
       "rota": "",
-      "berco": "JBS",
+      "berco": "TEPORTI",
       "posicao": null
     },
     {
@@ -139,6 +129,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "BRASKARNE",
+      "posicao": null
+    },
+    {
+      "navio": "EQUIPEMORIM30 + C TORMENTA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "08/10/2026",
+      "data_hora_iso": "2026-10-08T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "SEATRIUM",
       "posicao": null
     },
     {
@@ -280,6 +280,16 @@
       "rota": "",
       "berco": null,
       "posicao": "26 52,01 S / 048 31,17 W"
+    },
+    {
+      "navio": "COSCO SHIPPING CHILE",
+      "status": "Fundeado",
+      "data_hora_texto": "06/10/2026 - 22:50",
+      "data_hora_iso": "2026-10-06T22:50:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": null,
+      "posicao": "26 50,39 S / 048 31,47 W"
     },
     {
       "navio": "GEMSBOK",
