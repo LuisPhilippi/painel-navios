@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-10-07T22:39:44.231101",
+  "gerado_em": "2026-10-08T02:28:16.408859",
   "navios": [
-    {
-      "navio": "LOG-IN POLARIS",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "07/10/2026",
-      "data_hora_iso": "2026-10-07T00:00:00",
-      "calado": "10,20/10,70",
-      "rota": "Bacia 1",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "NYK RUMINA",
       "status": "ManobraPrevista",
@@ -19,16 +9,6 @@
       "calado": "9,40/9,90",
       "rota": "",
       "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "HYUNDAI HONG KONG",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "08/10/2026",
-      "data_hora_iso": "2026-10-08T00:00:00",
-      "calado": "12,12/12,15",
-      "rota": "",
-      "berco": "PNAVE 01",
       "posicao": null
     },
     {
@@ -42,6 +22,36 @@
       "posicao": null
     },
     {
+      "navio": "HYUNDAI HONG KONG",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "08/10/2026",
+      "data_hora_iso": "2026-10-08T00:00:00",
+      "calado": "12,12/12,15",
+      "rota": "",
+      "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
+      "navio": "MSC SHREYA B",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "08/10/2026",
+      "data_hora_iso": "2026-10-08T00:00:00",
+      "calado": "7,70/9,70",
+      "rota": "Bacia 2",
+      "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
+      "navio": "MSC CAROLE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "08/10/2026",
+      "data_hora_iso": "2026-10-08T00:00:00",
+      "calado": "12,20 EK",
+      "rota": "",
+      "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
       "navio": "FRIO AEGEAN",
       "status": "ManobraPrevista",
       "data_hora_texto": "08/10/2026",
@@ -49,26 +59,6 @@
       "calado": "TBC",
       "rota": "",
       "berco": "BRASKARNE",
-      "posicao": null
-    },
-    {
-      "navio": "MSC CAROLE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "09/10/2026",
-      "data_hora_iso": "2026-10-09T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE",
-      "posicao": null
-    },
-    {
-      "navio": "MSC SHREYA B",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "09/10/2026",
-      "data_hora_iso": "2026-10-09T00:00:00",
-      "calado": "7,70/9,70",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 02",
       "posicao": null
     },
     {
@@ -260,16 +250,6 @@
       "rota": "",
       "berco": null,
       "posicao": "26 52,01 S / 048 31,17 W"
-    },
-    {
-      "navio": "COSCO SHIPPING CHILE",
-      "status": "Fundeado",
-      "data_hora_texto": "06/10/2026 - 22:50",
-      "data_hora_iso": "2026-10-06T22:50:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": null,
-      "posicao": "26 50,39 S / 048 31,47 W"
     },
     {
       "navio": "GEMSBOK",
