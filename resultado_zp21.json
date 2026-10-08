@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-08T02:28:16.408859",
+  "gerado_em": "2026-10-08T09:55:39.524862",
   "navios": [
     {
       "navio": "NYK RUMINA",
@@ -46,7 +46,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "08/10/2026",
       "data_hora_iso": "2026-10-08T00:00:00",
-      "calado": "12,20 EK",
+      "calado": "11,20 EK",
       "rota": "",
       "berco": "PNAVE 02",
       "posicao": null
@@ -250,6 +250,16 @@
       "rota": "",
       "berco": null,
       "posicao": "26 52,01 S / 048 31,17 W"
+    },
+    {
+      "navio": "CMA CGM SYRACUSE",
+      "status": "Fundeado",
+      "data_hora_texto": "08/10/2026 - 03:57",
+      "data_hora_iso": "2026-10-08T03:57:00",
+      "calado": "11,40/11,70",
+      "rota": "",
+      "berco": null,
+      "posicao": "26 56,24 S / 048 25,99 W"
     },
     {
       "navio": "GEMSBOK",
