@@ -1,42 +1,12 @@
 {
-  "gerado_em": "2026-10-09T10:03:02.632171",
+  "gerado_em": "2026-10-09T16:55:40.598874",
   "navios": [
-    {
-      "navio": "NYK RUMINA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "09/10/2026",
-      "data_hora_iso": "2026-10-09T00:00:00",
-      "calado": "10,20/10,40",
-      "rota": "Bacia 2",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "EQUIPEMORIM30 + C TORMENTA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "09/10/2026",
-      "data_hora_iso": "2026-10-09T00:00:00",
-      "calado": "2,70 EK",
-      "rota": "",
-      "berco": "SEATRIUM",
-      "posicao": null
-    },
-    {
-      "navio": "HYUNDAI HONG KONG",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "09/10/2026",
-      "data_hora_iso": "2026-10-09T00:00:00",
-      "calado": "10,10/11,70",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "CMA CGM SYRACUSE",
       "status": "ManobraPrevista",
       "data_hora_texto": "09/10/2026",
       "data_hora_iso": "2026-10-09T00:00:00",
-      "calado": "11,40/11,70",
+      "calado": "11,40/11,55",
       "rota": "",
       "berco": "JBS 2",
       "posicao": null
@@ -112,6 +82,16 @@
       "posicao": null
     },
     {
+      "navio": "AGIOS PORFYRIOS",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "10/10/2026",
+      "data_hora_iso": "2026-10-10T00:00:00",
+      "calado": "5,25/6,58",
+      "rota": "",
+      "berco": "BRASKARNE",
+      "posicao": null
+    },
+    {
       "navio": "LOG-IN EXPERIENCE",
       "status": "ManobraPrevista",
       "data_hora_texto": "10/10/2026",
@@ -124,11 +104,11 @@
     {
       "navio": "MSC DAKAR X",
       "status": "ManobraPrevista",
-      "data_hora_texto": "10/10/2026",
-      "data_hora_iso": "2026-10-10T00:00:00",
-      "calado": "TBC",
+      "data_hora_texto": "11/10/2026",
+      "data_hora_iso": "2026-10-11T00:00:00",
+      "calado": "12,00/12,30",
       "rota": "",
-      "berco": "PNAVE",
+      "berco": "PNAVE 02",
       "posicao": null
     },
     {
@@ -252,14 +232,14 @@
       "posicao": null
     },
     {
-      "navio": "AGIOS PORFYRIOS",
-      "status": "Fundeado",
-      "data_hora_texto": "05/10/2026 - 11:50",
-      "data_hora_iso": "2026-10-05T11:50:00",
-      "calado": "TBC",
+      "navio": "EQUIPEMORIM 30 + C TORMENTA",
+      "status": "Atracado",
+      "data_hora_texto": "09/10/2026 - 13:36",
+      "data_hora_iso": "2026-10-09T13:36:00",
+      "calado": null,
       "rota": "",
-      "berco": null,
-      "posicao": "26 52,01 S / 048 31,17 W"
+      "berco": "SEATRIUM",
+      "posicao": null
     },
     {
       "navio": "GEMSBOK",
