@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-10-09T16:55:40.598874",
+  "gerado_em": "2026-10-09T21:28:21.001442",
   "navios": [
-    {
-      "navio": "CMA CGM SYRACUSE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "09/10/2026",
-      "data_hora_iso": "2026-10-09T00:00:00",
-      "calado": "11,40/11,55",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
     {
       "navio": "VALOR",
       "status": "ManobraPrevista",
@@ -24,21 +14,11 @@
     {
       "navio": "FRIO AEGEAN",
       "status": "ManobraPrevista",
-      "data_hora_texto": "09/10/2026",
-      "data_hora_iso": "2026-10-09T00:00:00",
+      "data_hora_texto": "10/10/2026",
+      "data_hora_iso": "2026-10-10T00:00:00",
       "calado": "5,00/6,50",
       "rota": "",
       "berco": "BRASKARNE",
-      "posicao": null
-    },
-    {
-      "navio": "CONTI COURAGE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "10/10/2026",
-      "data_hora_iso": "2026-10-10T00:00:00",
-      "calado": "9,80 EK",
-      "rota": "",
-      "berco": "JBS",
       "posicao": null
     },
     {
@@ -52,33 +32,43 @@
       "posicao": null
     },
     {
-      "navio": "SPYROS V",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "10/10/2026",
-      "data_hora_iso": "2026-10-10T00:00:00",
-      "calado": "10,40 EK",
-      "rota": "",
-      "berco": "PNAVE",
-      "posicao": null
-    },
-    {
       "navio": "JAZAN",
       "status": "ManobraPrevista",
       "data_hora_texto": "10/10/2026",
       "data_hora_iso": "2026-10-10T00:00:00",
       "calado": "12,10 EK",
+      "rota": "Bacia 2",
+      "berco": "JBS 4",
+      "posicao": null
+    },
+    {
+      "navio": "LOG-IN EXPERIENCE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "10/10/2026",
+      "data_hora_iso": "2026-10-10T00:00:00",
+      "calado": "9,40/9,90",
+      "rota": "",
+      "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
+      "navio": "MSC URSULA VI",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "10/10/2026",
+      "data_hora_iso": "2026-10-10T00:00:00",
+      "calado": "TBC",
       "rota": "",
       "berco": "JBS 4",
       "posicao": null
     },
     {
-      "navio": "UML VICTORIA",
+      "navio": "MSC DAKAR X",
       "status": "ManobraPrevista",
       "data_hora_texto": "10/10/2026",
       "data_hora_iso": "2026-10-10T00:00:00",
-      "calado": "4,50/6,20",
+      "calado": "12,00/12,20",
       "rota": "",
-      "berco": "POLY TERMINAIS",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
@@ -92,23 +82,43 @@
       "posicao": null
     },
     {
-      "navio": "LOG-IN EXPERIENCE",
+      "navio": "CMA CGM SYRACUSE",
       "status": "ManobraPrevista",
       "data_hora_texto": "10/10/2026",
       "data_hora_iso": "2026-10-10T00:00:00",
-      "calado": "9,40/9,90",
+      "calado": "11,50/11,70",
       "rota": "",
-      "berco": "PNAVE",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
-      "navio": "MSC DAKAR X",
+      "navio": "CONTI COURAGE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "10/10/2026",
+      "data_hora_iso": "2026-10-10T00:00:00",
+      "calado": "9,80 EK",
+      "rota": "",
+      "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "SPYROS V",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "10/10/2026",
+      "data_hora_iso": "2026-10-10T00:00:00",
+      "calado": "10,40 EK",
+      "rota": "",
+      "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
+      "navio": "UML VICTORIA",
       "status": "ManobraPrevista",
       "data_hora_texto": "11/10/2026",
       "data_hora_iso": "2026-10-11T00:00:00",
-      "calado": "12,00/12,30",
+      "calado": "4,50/6,20",
       "rota": "",
-      "berco": "PNAVE 02",
+      "berco": "POLY TERMINAIS",
       "posicao": null
     },
     {
@@ -119,16 +129,6 @@
       "calado": "4,90/5,40",
       "rota": "",
       "berco": "TEPORTI",
-      "posicao": null
-    },
-    {
-      "navio": "MSC URSULA VI",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "11/10/2026",
-      "data_hora_iso": "2026-10-11T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS",
       "posicao": null
     },
     {
