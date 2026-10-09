@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-08T22:50:27.509455",
+  "gerado_em": "2026-10-09T02:44:51.251938",
   "navios": [
     {
       "navio": "Cap San Maleas",
@@ -11,7 +11,7 @@
       "data_manobra": "09/10/2026 00:00",
       "data_manobra_iso": "2026-10-09T00:00:00",
       "berco": "BARRA 901",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -24,7 +24,7 @@
       "data_manobra": "09/10/2026 00:00",
       "data_manobra_iso": "2026-10-09T00:00:00",
       "berco": "901 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -223,19 +223,6 @@
       "secao": "Navios Fundeados (Barra)"
     },
     {
-      "navio": "Cap San Artemissio",
-      "imo": "9633939",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "07/10/2026 13:30",
-      "data_chegada_iso": "2026-10-07T13:30:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Fundeados (Barra)"
-    },
-    {
       "navio": "Oslo Venture",
       "imo": "9693185",
       "agencia": "ORION",
@@ -252,14 +239,14 @@
       "navio": "Maersk Venezia",
       "imo": "9344681",
       "agencia": "LACHMANN",
-      "data_chegada_texto": "08/10/2026 20:00",
-      "data_chegada_iso": "2026-10-08T20:00:00",
+      "data_chegada_texto": "08/10/2026 20:30",
+      "data_chegada_iso": "2026-10-08T20:30:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "ITAPOÁ",
       "situacao": null,
-      "secao": "Navios Esperados"
+      "secao": "Navios Fundeados (Barra)"
     },
     {
       "navio": "MSC Amalfi",
