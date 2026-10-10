@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-10-10T01:29:40.446255",
+  "gerado_em": "2026-10-10T08:04:05.183184",
   "navios": [
-    {
-      "navio": "FRIO AEGEAN",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "10/10/2026",
-      "data_hora_iso": "2026-10-10T00:00:00",
-      "calado": "5,00/6,50",
-      "rota": "",
-      "berco": "BRASKARNE",
-      "posicao": null
-    },
     {
       "navio": "MSC CAROLE",
       "status": "ManobraPrevista",
