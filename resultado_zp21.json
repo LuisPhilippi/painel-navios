@@ -1,12 +1,12 @@
 {
-  "gerado_em": "2026-10-10T19:42:40.063744",
+  "gerado_em": "2026-10-10T23:11:25.179866",
   "navios": [
     {
       "navio": "CMA CGM SYRACUSE",
       "status": "ManobraPrevista",
       "data_hora_texto": "10/10/2026",
       "data_hora_iso": "2026-10-10T00:00:00",
-      "calado": "11,60/11,65",
+      "calado": "11,60/11,70",
       "rota": "Bacia 2",
       "berco": "JBS 2",
       "posicao": null
@@ -62,6 +62,16 @@
       "posicao": null
     },
     {
+      "navio": "EVER FAR",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "11/10/2026",
+      "data_hora_iso": "2026-10-11T00:00:00",
+      "calado": "11,45 EK",
+      "rota": "",
+      "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
       "navio": "UML VICTORIA",
       "status": "ManobraPrevista",
       "data_hora_texto": "11/10/2026",
@@ -72,13 +82,13 @@
       "posicao": null
     },
     {
-      "navio": "PIO GRANDE",
+      "navio": "ZIM BANGKOK",
       "status": "ManobraPrevista",
       "data_hora_texto": "11/10/2026",
       "data_hora_iso": "2026-10-11T00:00:00",
-      "calado": "4,90/5,40",
+      "calado": "11,70 EK",
       "rota": "",
-      "berco": "TEPORTI",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -102,26 +112,6 @@
       "posicao": null
     },
     {
-      "navio": "ZIM BANGKOK",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "11/10/2026",
-      "data_hora_iso": "2026-10-11T00:00:00",
-      "calado": "11,70 EK",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "EVER FAR",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "11/10/2026",
-      "data_hora_iso": "2026-10-11T00:00:00",
-      "calado": "11,45 EK",
-      "rota": "",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
       "navio": "ESPIRITO SANTO EXPRESS",
       "status": "ManobraPrevista",
       "data_hora_texto": "12/10/2026",
@@ -142,13 +132,13 @@
       "posicao": null
     },
     {
-      "navio": "NC BREDA",
+      "navio": "PIO GRANDE",
       "status": "ManobraPrevista",
       "data_hora_texto": "12/10/2026",
       "data_hora_iso": "2026-10-12T00:00:00",
-      "calado": "TBC",
+      "calado": "4,90/5,40",
       "rota": "",
-      "berco": "JBS",
+      "berco": "TEPORTI",
       "posicao": null
     },
     {
@@ -164,8 +154,18 @@
     {
       "navio": "GREEN PARK",
       "status": "ManobraPrevista",
-      "data_hora_texto": "12/10/2026",
-      "data_hora_iso": "2026-10-12T00:00:00",
+      "data_hora_texto": "13/10/2026",
+      "data_hora_iso": "2026-10-13T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "NC BREDA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "13/10/2026",
+      "data_hora_iso": "2026-10-13T00:00:00",
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
