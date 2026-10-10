@@ -1,22 +1,12 @@
 {
-  "gerado_em": "2026-10-10T15:01:39.843602",
+  "gerado_em": "2026-10-10T19:42:40.063744",
   "navios": [
-    {
-      "navio": "JAZAN",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "10/10/2026",
-      "data_hora_iso": "2026-10-10T00:00:00",
-      "calado": "12,10 EK",
-      "rota": "Bacia 2",
-      "berco": "JBS 4",
-      "posicao": null
-    },
     {
       "navio": "CMA CGM SYRACUSE",
       "status": "ManobraPrevista",
       "data_hora_texto": "10/10/2026",
       "data_hora_iso": "2026-10-10T00:00:00",
-      "calado": "11,50/11,70",
+      "calado": "11,60/11,65",
       "rota": "Bacia 2",
       "berco": "JBS 2",
       "posicao": null
@@ -72,16 +62,6 @@
       "posicao": null
     },
     {
-      "navio": "SPYROS V",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "11/10/2026",
-      "data_hora_iso": "2026-10-11T00:00:00",
-      "calado": "10,40 EK",
-      "rota": "",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
       "navio": "UML VICTORIA",
       "status": "ManobraPrevista",
       "data_hora_texto": "11/10/2026",
@@ -102,23 +82,43 @@
       "posicao": null
     },
     {
-      "navio": "GREEN PARK",
+      "navio": "MERCOSUL SUAPE",
       "status": "ManobraPrevista",
-      "data_hora_texto": "12/10/2026",
-      "data_hora_iso": "2026-10-12T00:00:00",
-      "calado": "TBC",
+      "data_hora_texto": "11/10/2026",
+      "data_hora_iso": "2026-10-11T00:00:00",
+      "calado": "10,30/11,00",
       "rota": "",
-      "berco": "JBS",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
-      "navio": "NC BREDA",
+      "navio": "MSC URSULA VI",
       "status": "ManobraPrevista",
-      "data_hora_texto": "12/10/2026",
-      "data_hora_iso": "2026-10-12T00:00:00",
-      "calado": "TBC",
+      "data_hora_texto": "11/10/2026",
+      "data_hora_iso": "2026-10-11T00:00:00",
+      "calado": "9,70/9,80",
       "rota": "",
-      "berco": "JBS",
+      "berco": "JBS 4",
+      "posicao": null
+    },
+    {
+      "navio": "ZIM BANGKOK",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "11/10/2026",
+      "data_hora_iso": "2026-10-11T00:00:00",
+      "calado": "11,70 EK",
+      "rota": "",
+      "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "EVER FAR",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "11/10/2026",
+      "data_hora_iso": "2026-10-11T00:00:00",
+      "calado": "11,45 EK",
+      "rota": "",
+      "berco": "PNAVE 02",
       "posicao": null
     },
     {
@@ -142,13 +142,13 @@
       "posicao": null
     },
     {
-      "navio": "MSC MARIA MARILYN X",
+      "navio": "NC BREDA",
       "status": "ManobraPrevista",
       "data_hora_texto": "12/10/2026",
       "data_hora_iso": "2026-10-12T00:00:00",
-      "calado": "10,90/12,00",
+      "calado": "TBC",
       "rota": "",
-      "berco": "JBS 4",
+      "berco": "JBS",
       "posicao": null
     },
     {
@@ -162,13 +162,23 @@
       "posicao": null
     },
     {
-      "navio": "MERCOSUL SUAPE",
+      "navio": "GREEN PARK",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "12/10/2026",
+      "data_hora_iso": "2026-10-12T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "MSC MARIA MARILYN X",
       "status": "ManobraPrevista",
       "data_hora_texto": "13/10/2026",
       "data_hora_iso": "2026-10-13T00:00:00",
-      "calado": "10,30/11,00",
+      "calado": "10,90/12,00",
       "rota": "",
-      "berco": "PNAVE",
+      "berco": "JBS",
       "posicao": null
     },
     {
@@ -189,16 +199,6 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
-      "posicao": null
-    },
-    {
-      "navio": "MSC URSULA VI",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "14/10/2026",
-      "data_hora_iso": "2026-10-14T00:00:00",
-      "calado": "9,70/9,80",
-      "rota": "",
-      "berco": "JBS 4",
       "posicao": null
     },
     {
