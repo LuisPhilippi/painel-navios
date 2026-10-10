@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-10-09T21:28:21.001442",
+  "gerado_em": "2026-10-10T01:29:40.446255",
   "navios": [
-    {
-      "navio": "VALOR",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "09/10/2026",
-      "data_hora_iso": "2026-10-09T00:00:00",
-      "calado": "9,20/10,55",
-      "rota": "",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "FRIO AEGEAN",
       "status": "ManobraPrevista",
@@ -42,6 +32,16 @@
       "posicao": null
     },
     {
+      "navio": "MSC URSULA VI",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "10/10/2026",
+      "data_hora_iso": "2026-10-10T00:00:00",
+      "calado": "9,70/9,80",
+      "rota": "",
+      "berco": "JBS 4",
+      "posicao": null
+    },
+    {
       "navio": "LOG-IN EXPERIENCE",
       "status": "ManobraPrevista",
       "data_hora_texto": "10/10/2026",
@@ -49,26 +49,6 @@
       "calado": "9,40/9,90",
       "rota": "",
       "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
-      "navio": "MSC URSULA VI",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "10/10/2026",
-      "data_hora_iso": "2026-10-10T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS 4",
-      "posicao": null
-    },
-    {
-      "navio": "MSC DAKAR X",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "10/10/2026",
-      "data_hora_iso": "2026-10-10T00:00:00",
-      "calado": "12,00/12,20",
-      "rota": "",
-      "berco": "PNAVE 01",
       "posicao": null
     },
     {
@@ -87,8 +67,18 @@
       "data_hora_texto": "10/10/2026",
       "data_hora_iso": "2026-10-10T00:00:00",
       "calado": "11,50/11,70",
-      "rota": "",
+      "rota": "Bacia 2",
       "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "VALOR",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "10/10/2026",
+      "data_hora_iso": "2026-10-10T00:00:00",
+      "calado": "9,50/10,50",
+      "rota": "Bacia 2",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
@@ -102,10 +92,20 @@
       "posicao": null
     },
     {
+      "navio": "MSC DAKAR X",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "11/10/2026",
+      "data_hora_iso": "2026-10-11T00:00:00",
+      "calado": "12,00/12,20",
+      "rota": "",
+      "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
       "navio": "SPYROS V",
       "status": "ManobraPrevista",
-      "data_hora_texto": "10/10/2026",
-      "data_hora_iso": "2026-10-10T00:00:00",
+      "data_hora_texto": "11/10/2026",
+      "data_hora_iso": "2026-10-11T00:00:00",
       "calado": "10,40 EK",
       "rota": "",
       "berco": "PNAVE 02",
@@ -162,6 +162,16 @@
       "posicao": null
     },
     {
+      "navio": "KOTA PAHLAWAN",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "12/10/2026",
+      "data_hora_iso": "2026-10-12T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
       "navio": "MSC MARIA MARILYN X",
       "status": "ManobraPrevista",
       "data_hora_texto": "12/10/2026",
@@ -169,6 +179,26 @@
       "calado": "10,90/12,00",
       "rota": "",
       "berco": "JBS 4",
+      "posicao": null
+    },
+    {
+      "navio": "XIN WEI HAI",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "12/10/2026",
+      "data_hora_iso": "2026-10-12T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "MERCOSUL SUAPE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "13/10/2026",
+      "data_hora_iso": "2026-10-13T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
       "posicao": null
     },
     {

@@ -1,58 +1,6 @@
 {
-  "gerado_em": "2026-10-09T21:28:27.718081",
+  "gerado_em": "2026-10-10T01:29:46.996469",
   "navios": [
-    {
-      "navio": "Maersk Venezia",
-      "imo": "9344681",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "08/10/2026 20:30",
-      "data_chegada_iso": "2026-10-08T20:30:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "09/10/2026 18:30",
-      "data_manobra_iso": "2026-10-09T18:30:00",
-      "berco": "BARRA 902",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Maersk Ganges",
-      "imo": "9694581",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "07/10/2026 07:15",
-      "data_chegada_iso": "2026-10-07T07:15:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "09/10/2026 18:30",
-      "data_manobra_iso": "2026-10-09T18:30:00",
-      "berco": "902 BARRA",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Salt Lake",
-      "imo": "9835977",
-      "agencia": "ALPHAMAR",
-      "data_chegada_texto": "30/09/2026 20:30",
-      "data_chegada_iso": "2026-09-30T20:30:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "09/10/2026 18:35",
-      "data_manobra_iso": "2026-10-09T18:35:00",
-      "berco": "BARRA 301",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Barcaça N09",
-      "imo": "9326005",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "02/10/2026 11:52",
-      "data_chegada_iso": "2026-10-02T11:52:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "09/10/2026 18:35",
-      "data_manobra_iso": "2026-10-09T18:35:00",
-      "berco": "302 BARRA",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
     {
       "navio": "MSC Maria Marilyn X",
       "imo": "1031173",
@@ -132,6 +80,19 @@
       "secao": "Navios Esperados"
     },
     {
+      "navio": "Maersk Venezia",
+      "imo": "9344681",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "08/10/2026 20:30",
+      "data_chegada_iso": "2026-10-08T20:30:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "10/10/2026 18:30",
+      "data_manobra_iso": "2026-10-10T18:30:00",
+      "berco": "902 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
       "navio": "Afentis Xristos Ath",
       "imo": "9644196",
       "agencia": "ZPORT AGENCIA",
@@ -154,6 +115,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "201",
+      "situacao": null,
+      "secao": "Navios Atracados"
+    },
+    {
+      "navio": "Salt Lake",
+      "imo": "9835977",
+      "agencia": "ALPHAMAR",
+      "data_chegada_texto": "30/09/2026 20:30",
+      "data_chegada_iso": "2026-09-30T20:30:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "301",
       "situacao": null,
       "secao": "Navios Atracados"
     },
