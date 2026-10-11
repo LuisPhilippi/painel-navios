@@ -1,22 +1,12 @@
 {
-  "gerado_em": "2026-10-11T03:48:51.961741",
+  "gerado_em": "2026-10-11T10:34:41.699490",
   "navios": [
-    {
-      "navio": "MSC DAKAR X",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "11/10/2026",
-      "data_hora_iso": "2026-10-11T00:00:00",
-      "calado": "12,00/12,20",
-      "rota": "",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "LOG-IN EXPERIENCE",
       "status": "ManobraPrevista",
       "data_hora_texto": "11/10/2026",
       "data_hora_iso": "2026-10-11T00:00:00",
-      "calado": "6,40/7,80",
+      "calado": "6,50/8,10",
       "rota": "",
       "berco": "PNAVE 02",
       "posicao": null
@@ -39,6 +29,16 @@
       "calado": "11,10/11,15",
       "rota": "Bacia 2",
       "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "MSC DAKAR X",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "11/10/2026",
+      "data_hora_iso": "2026-10-11T00:00:00",
+      "calado": "12,30 EK",
+      "rota": "Bacia 2",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {

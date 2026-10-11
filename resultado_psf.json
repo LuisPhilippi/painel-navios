@@ -1,19 +1,6 @@
 {
-  "gerado_em": "2026-10-11T03:48:58.415999",
+  "gerado_em": "2026-10-11T10:34:48.078464",
   "navios": [
-    {
-      "navio": "Jamaica Bay",
-      "imo": "9610717",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "11/10/2026 00:38",
-      "data_chegada_iso": "2026-10-11T00:38:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "11/10/2026 00:45",
-      "data_manobra_iso": "2026-10-11T00:45:00",
-      "berco": "BARRA 302",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Spyros V",
       "imo": "9453365",
@@ -24,7 +11,7 @@
       "data_manobra": "11/10/2026 07:30",
       "data_manobra_iso": "2026-10-11T07:30:00",
       "berco": "BARRA 902",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -37,7 +24,7 @@
       "data_manobra": "11/10/2026 07:30",
       "data_manobra_iso": "2026-10-11T07:30:00",
       "berco": "902 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -50,7 +37,7 @@
       "data_manobra": "11/10/2026 09:00",
       "data_manobra_iso": "2026-10-11T09:00:00",
       "berco": "BARRA 901",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -63,7 +50,7 @@
       "data_manobra": "11/10/2026 09:00",
       "data_manobra_iso": "2026-10-11T09:00:00",
       "berco": "901 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -76,7 +63,7 @@
       "data_manobra": "11/10/2026 09:05",
       "data_manobra_iso": "2026-10-11T09:05:00",
       "berco": "BARRA F4 (P2)",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Navios Esperados"
     },
     {
@@ -167,6 +154,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "301",
+      "situacao": null,
+      "secao": "Navios Atracados"
+    },
+    {
+      "navio": "Jamaica Bay",
+      "imo": "9610717",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "11/10/2026 00:38",
+      "data_chegada_iso": "2026-10-11T00:38:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "302",
       "situacao": null,
       "secao": "Navios Atracados"
     },
@@ -262,24 +262,24 @@
       "secao": "Navios Fundeados (Barra)"
     },
     {
-      "navio": "Devbulk Kaya",
-      "imo": "9530711",
-      "agencia": "ZPORT AGENCIA",
-      "data_chegada_texto": "11/10/2026 00:00",
-      "data_chegada_iso": "2026-10-11T00:00:00",
+      "navio": "CL Changsha",
+      "imo": "9953286",
+      "agencia": "SEAPORT",
+      "data_chegada_texto": "11/10/2026 01:57",
+      "data_chegada_iso": "2026-10-11T01:57:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "SFS",
       "situacao": null,
-      "secao": "Navios Esperados"
+      "secao": "Navios Fundeados (Barra)"
     },
     {
-      "navio": "CL Changsha",
-      "imo": "9953286",
-      "agencia": "SEAPORT",
-      "data_chegada_texto": "11/10/2026 01:00",
-      "data_chegada_iso": "2026-10-11T01:00:00",
+      "navio": "Devbulk Kaya",
+      "imo": "9530711",
+      "agencia": "ZPORT AGENCIA",
+      "data_chegada_texto": "11/10/2026 00:00",
+      "data_chegada_iso": "2026-10-11T00:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
