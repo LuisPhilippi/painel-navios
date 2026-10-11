@@ -1,36 +1,6 @@
 {
-  "gerado_em": "2026-10-11T16:31:53.535961",
+  "gerado_em": "2026-10-11T20:46:31.098144",
   "navios": [
-    {
-      "navio": "ZIM BANGKOK",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "11/10/2026",
-      "data_hora_iso": "2026-10-11T00:00:00",
-      "calado": "11,80 EK",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "MSC DAKAR X",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "11/10/2026",
-      "data_hora_iso": "2026-10-11T00:00:00",
-      "calado": "12,15/12,20",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "MERCOSUL SUAPE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "11/10/2026",
-      "data_hora_iso": "2026-10-11T00:00:00",
-      "calado": "10,30/11,00",
-      "rota": "",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "MSC URSULA VI",
       "status": "ManobraPrevista",
@@ -39,6 +9,16 @@
       "calado": "9,70/9,80",
       "rota": "",
       "berco": "JBS 4",
+      "posicao": null
+    },
+    {
+      "navio": "MERCOSUL SUAPE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "12/10/2026",
+      "data_hora_iso": "2026-10-12T00:00:00",
+      "calado": "TBC",
+      "rota": "Bacia 1",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
@@ -72,16 +52,6 @@
       "posicao": null
     },
     {
-      "navio": "KOTA PAHLAWAN",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "12/10/2026",
-      "data_hora_iso": "2026-10-12T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE",
-      "posicao": null
-    },
-    {
       "navio": "PIO GRANDE",
       "status": "ManobraPrevista",
       "data_hora_texto": "12/10/2026",
@@ -92,13 +62,13 @@
       "posicao": null
     },
     {
-      "navio": "XIN WEI HAI",
+      "navio": "KOTA PAHLAWAN",
       "status": "ManobraPrevista",
       "data_hora_texto": "12/10/2026",
       "data_hora_iso": "2026-10-12T00:00:00",
-      "calado": "9,20/9,60",
+      "calado": "TBC",
       "rota": "",
-      "berco": "JBS",
+      "berco": "PNAVE 02",
       "posicao": null
     },
     {
@@ -122,13 +92,33 @@
       "posicao": null
     },
     {
+      "navio": "ZIM BANGKOK",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "13/10/2026",
+      "data_hora_iso": "2026-10-13T00:00:00",
+      "calado": "10,30 EK",
+      "rota": "Bacia 2",
+      "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "XIN WEI HAI",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "13/10/2026",
+      "data_hora_iso": "2026-10-13T00:00:00",
+      "calado": "9,20/9,60",
+      "rota": "",
+      "berco": "JBS 2",
+      "posicao": null
+    },
+    {
       "navio": "MSC MARIA MARILYN X",
       "status": "ManobraPrevista",
       "data_hora_texto": "13/10/2026",
       "data_hora_iso": "2026-10-13T00:00:00",
       "calado": "10,90/12,00",
       "rota": "",
-      "berco": "JBS",
+      "berco": "JBS 4",
       "posicao": null
     },
     {

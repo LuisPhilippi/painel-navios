@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-11T16:31:59.919315",
+  "gerado_em": "2026-10-11T20:46:37.311761",
   "navios": [
     {
       "navio": "Globe Aliki",
@@ -11,7 +11,7 @@
       "data_manobra": "11/10/2026 16:00",
       "data_manobra_iso": "2026-10-11T16:00:00",
       "berco": "BARRA F5",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -70,14 +70,14 @@
       "navio": "CMA CGM Yukon",
       "imo": "9732606",
       "agencia": "UNIMAR",
-      "data_chegada_texto": "11/10/2026 23:00",
-      "data_chegada_iso": "2026-10-11T23:00:00",
+      "data_chegada_texto": "11/10/2026 16:23",
+      "data_chegada_iso": "2026-10-11T16:23:00",
       "manobra": "Entrada e Atracação",
       "data_manobra": "12/10/2026 08:00",
       "data_manobra_iso": "2026-10-12T08:00:00",
       "berco": "BARRA 901",
       "situacao": "A Confirmar",
-      "secao": "Navios Esperados"
+      "secao": "Movimentações"
     },
     {
       "navio": "YM Mutuality",
