@@ -1,31 +1,18 @@
 {
-  "gerado_em": "2026-10-10T23:11:31.346723",
+  "gerado_em": "2026-10-11T03:48:58.415999",
   "navios": [
-    {
-      "navio": "Pedro Alvares Cabral",
-      "imo": "9603219",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "10/10/2026 18:23",
-      "data_chegada_iso": "2026-10-10T18:23:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "10/10/2026 18:30",
-      "data_manobra_iso": "2026-10-10T18:30:00",
-      "berco": "BARRA 902",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Jamaica Bay",
       "imo": "9610717",
       "agencia": "WILSON SONS",
-      "data_chegada_texto": "11/10/2026 01:00",
-      "data_chegada_iso": "2026-10-11T01:00:00",
+      "data_chegada_texto": "11/10/2026 00:38",
+      "data_chegada_iso": "2026-10-11T00:38:00",
       "manobra": "Entrada e Atracação",
       "data_manobra": "11/10/2026 00:45",
       "data_manobra_iso": "2026-10-11T00:45:00",
       "berco": "BARRA 302",
-      "situacao": "A Confirmar",
-      "secao": "Navios Esperados"
+      "situacao": "Em Andamento",
+      "secao": "Movimentações"
     },
     {
       "navio": "Spyros V",
@@ -34,9 +21,22 @@
       "data_chegada_texto": "10/10/2026 19:34",
       "data_chegada_iso": "2026-10-10T19:34:00",
       "manobra": "Entrada e Atracação",
-      "data_manobra": "11/10/2026 07:00",
-      "data_manobra_iso": "2026-10-11T07:00:00",
+      "data_manobra": "11/10/2026 07:30",
+      "data_manobra_iso": "2026-10-11T07:30:00",
       "berco": "BARRA 902",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Pedro Alvares Cabral",
+      "imo": "9603219",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "10/10/2026 18:23",
+      "data_chegada_iso": "2026-10-10T18:23:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "11/10/2026 07:30",
+      "data_manobra_iso": "2026-10-11T07:30:00",
+      "berco": "902 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
     },
@@ -47,8 +47,8 @@
       "data_chegada_texto": "07/10/2026 12:36",
       "data_chegada_iso": "2026-10-07T12:36:00",
       "manobra": "Entrada e Atracação",
-      "data_manobra": "11/10/2026 08:30",
-      "data_manobra_iso": "2026-10-11T08:30:00",
+      "data_manobra": "11/10/2026 09:00",
+      "data_manobra_iso": "2026-10-11T09:00:00",
       "berco": "BARRA 901",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
@@ -60,8 +60,8 @@
       "data_chegada_texto": "07/10/2026 20:48",
       "data_chegada_iso": "2026-10-07T20:48:00",
       "manobra": "Desatracação e Saída",
-      "data_manobra": "11/10/2026 08:30",
-      "data_manobra_iso": "2026-10-11T08:30:00",
+      "data_manobra": "11/10/2026 09:00",
+      "data_manobra_iso": "2026-10-11T09:00:00",
       "berco": "901 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
@@ -73,8 +73,8 @@
       "data_chegada_texto": "11/10/2026 07:00",
       "data_chegada_iso": "2026-10-11T07:00:00",
       "manobra": "Entrada e Fundeio",
-      "data_manobra": "11/10/2026 08:35",
-      "data_manobra_iso": "2026-10-11T08:35:00",
+      "data_manobra": "11/10/2026 09:05",
+      "data_manobra_iso": "2026-10-11T09:05:00",
       "berco": "BARRA F4 (P2)",
       "situacao": "A Confirmar",
       "secao": "Navios Esperados"
