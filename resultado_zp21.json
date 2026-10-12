@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-11T20:46:31.098144",
+  "gerado_em": "2026-10-12T00:11:29.539326",
   "navios": [
     {
       "navio": "MSC URSULA VI",
@@ -22,16 +22,6 @@
       "posicao": null
     },
     {
-      "navio": "ESPIRITO SANTO EXPRESS",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "12/10/2026",
-      "data_hora_iso": "2026-10-12T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE",
-      "posicao": null
-    },
-    {
       "navio": "UML VICTORIA",
       "status": "ManobraPrevista",
       "data_hora_texto": "12/10/2026",
@@ -46,19 +36,9 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "12/10/2026",
       "data_hora_iso": "2026-10-12T00:00:00",
-      "calado": "TBC",
+      "calado": "9,80/10,00",
       "rota": "Bacia 2",
       "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
-      "navio": "PIO GRANDE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "12/10/2026",
-      "data_hora_iso": "2026-10-12T00:00:00",
-      "calado": "4,90/5,40",
-      "rota": "",
-      "berco": "TEPORTI",
       "posicao": null
     },
     {
@@ -66,29 +46,19 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "12/10/2026",
       "data_hora_iso": "2026-10-12T00:00:00",
-      "calado": "TBC",
+      "calado": "11,70 MAX",
       "rota": "",
       "berco": "PNAVE 02",
       "posicao": null
     },
     {
-      "navio": "GREEN PARK",
+      "navio": "MSC AMALFI",
       "status": "ManobraPrevista",
-      "data_hora_texto": "13/10/2026",
-      "data_hora_iso": "2026-10-13T00:00:00",
-      "calado": "TBC",
+      "data_hora_texto": "12/10/2026",
+      "data_hora_iso": "2026-10-12T00:00:00",
+      "calado": "9,85/10,85",
       "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
-      "navio": "NC BREDA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "13/10/2026",
-      "data_hora_iso": "2026-10-13T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
@@ -122,6 +92,26 @@
       "posicao": null
     },
     {
+      "navio": "PIO GRANDE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "13/10/2026",
+      "data_hora_iso": "2026-10-13T00:00:00",
+      "calado": "4,90/5,40",
+      "rota": "",
+      "berco": "TEPORTI",
+      "posicao": null
+    },
+    {
+      "navio": "LOG-IN ENDURANCE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "13/10/2026",
+      "data_hora_iso": "2026-10-13T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
       "navio": "XIAMEN EXPRESS",
       "status": "ManobraPrevista",
       "data_hora_texto": "14/10/2026",
@@ -132,6 +122,26 @@
       "posicao": null
     },
     {
+      "navio": "GREEN PARK",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "14/10/2026",
+      "data_hora_iso": "2026-10-14T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "NC BREDA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "14/10/2026",
+      "data_hora_iso": "2026-10-14T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
       "navio": "NORWALK",
       "status": "ManobraPrevista",
       "data_hora_texto": "14/10/2026",
@@ -139,6 +149,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "ESPIRITO SANTO EXPRESS",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "14/10/2026",
+      "data_hora_iso": "2026-10-14T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
       "posicao": null
     },
     {
