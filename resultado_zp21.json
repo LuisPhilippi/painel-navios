@@ -1,22 +1,12 @@
 {
-  "gerado_em": "2026-10-12T00:11:29.539326",
+  "gerado_em": "2026-10-12T06:55:45.621209",
   "navios": [
-    {
-      "navio": "MSC URSULA VI",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "11/10/2026",
-      "data_hora_iso": "2026-10-11T00:00:00",
-      "calado": "9,70/9,80",
-      "rota": "",
-      "berco": "JBS 4",
-      "posicao": null
-    },
     {
       "navio": "MERCOSUL SUAPE",
       "status": "ManobraPrevista",
       "data_hora_texto": "12/10/2026",
       "data_hora_iso": "2026-10-12T00:00:00",
-      "calado": "TBC",
+      "calado": "9,60/11,10",
       "rota": "Bacia 1",
       "berco": "PNAVE 01",
       "posicao": null
@@ -46,7 +36,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "12/10/2026",
       "data_hora_iso": "2026-10-12T00:00:00",
-      "calado": "11,70 MAX",
+      "calado": "11,80 EK",
       "rota": "",
       "berco": "PNAVE 02",
       "posicao": null
@@ -69,6 +59,16 @@
       "calado": "10,30 EK",
       "rota": "Bacia 2",
       "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "MSC URSULA VI",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "13/10/2026",
+      "data_hora_iso": "2026-10-13T00:00:00",
+      "calado": "9,00/10,30",
+      "rota": "",
+      "berco": "JBS 4",
       "posicao": null
     },
     {
