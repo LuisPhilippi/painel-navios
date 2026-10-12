@@ -1,70 +1,18 @@
 {
-  "gerado_em": "2026-10-12T06:55:51.919517",
+  "gerado_em": "2026-10-12T16:28:24.680594",
   "navios": [
-    {
-      "navio": "CMA CGM Yukon",
-      "imo": "9732606",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "11/10/2026 16:23",
-      "data_chegada_iso": "2026-10-11T16:23:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "12/10/2026 08:00",
-      "data_manobra_iso": "2026-10-12T08:00:00",
-      "berco": "BARRA 901",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "YM Mutuality",
-      "imo": "9455870",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "07/10/2026 12:36",
-      "data_chegada_iso": "2026-10-07T12:36:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "12/10/2026 08:00",
-      "data_manobra_iso": "2026-10-12T08:00:00",
-      "berco": "901 BARRA",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Arietta Lily",
-      "imo": "9727479",
-      "agencia": "LITORAL",
-      "data_chegada_texto": "03/10/2026 23:50",
-      "data_chegada_iso": "2026-10-03T23:50:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "12/10/2026 09:45",
-      "data_manobra_iso": "2026-10-12T09:45:00",
-      "berco": "BARRA 101",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Aquitania",
-      "imo": "9300491",
-      "agencia": "LITORAL",
-      "data_chegada_texto": "02/10/2026 00:45",
-      "data_chegada_iso": "2026-10-02T00:45:00",
-      "manobra": "Desatracação e Fundeio",
-      "data_manobra": "12/10/2026 09:45",
-      "data_manobra_iso": "2026-10-12T09:45:00",
-      "berco": "101 F3",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Cosco Shipping Argentina",
       "imo": "9945849",
       "agencia": "UNIMAR",
-      "data_chegada_texto": "12/10/2026 06:00",
-      "data_chegada_iso": "2026-10-12T06:00:00",
+      "data_chegada_texto": "12/10/2026 12:27",
+      "data_chegada_iso": "2026-10-12T12:27:00",
       "manobra": "Entrada e Atracação",
-      "data_manobra": "12/10/2026 12:00",
-      "data_manobra_iso": "2026-10-12T12:00:00",
+      "data_manobra": "12/10/2026 12:30",
+      "data_manobra_iso": "2026-10-12T12:30:00",
       "berco": "BARRA 902",
-      "situacao": "A Confirmar",
-      "secao": "Navios Esperados"
+      "situacao": "Em Andamento",
+      "secao": "Movimentações"
     },
     {
       "navio": "MSC Amalfi",
@@ -73,10 +21,23 @@
       "data_chegada_texto": "10/10/2026 07:00",
       "data_chegada_iso": "2026-10-10T07:00:00",
       "manobra": "Desatracação e Saída",
-      "data_manobra": "12/10/2026 12:00",
-      "data_manobra_iso": "2026-10-12T12:00:00",
+      "data_manobra": "12/10/2026 12:30",
+      "data_manobra_iso": "2026-10-12T12:30:00",
       "berco": "902 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Aquitania",
+      "imo": "9300491",
+      "agencia": "LITORAL",
+      "data_chegada_texto": "02/10/2026 00:45",
+      "data_chegada_iso": "2026-10-02T00:45:00",
+      "manobra": "Suspender e Sair",
+      "data_manobra": "12/10/2026 14:45",
+      "data_manobra_iso": "2026-10-12T14:45:00",
+      "berco": "F3 BARRA",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -86,8 +47,8 @@
       "data_chegada_texto": "25/09/2026 16:30",
       "data_chegada_iso": "2026-09-25T16:30:00",
       "manobra": "Desatracação e Saída",
-      "data_manobra": "12/10/2026 14:30",
-      "data_manobra_iso": "2026-10-12T14:30:00",
+      "data_manobra": "13/10/2026 10:15",
+      "data_manobra_iso": "2026-10-13T10:15:00",
       "berco": "102 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
@@ -99,11 +60,37 @@
       "data_chegada_texto": "29/09/2026 21:24",
       "data_chegada_iso": "2026-09-29T21:24:00",
       "manobra": "Suspender e Atracar",
-      "data_manobra": "12/10/2026 14:45",
-      "data_manobra_iso": "2026-10-12T14:45:00",
+      "data_manobra": "13/10/2026 10:15",
+      "data_manobra_iso": "2026-10-13T10:15:00",
       "berco": "F5 102",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
+    },
+    {
+      "navio": "CMA CGM Yukon",
+      "imo": "9732606",
+      "agencia": "UNIMAR",
+      "data_chegada_texto": "11/10/2026 16:23",
+      "data_chegada_iso": "2026-10-11T16:23:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "13/10/2026 13:30",
+      "data_manobra_iso": "2026-10-13T13:30:00",
+      "berco": "901 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Arietta Lily",
+      "imo": "9727479",
+      "agencia": "LITORAL",
+      "data_chegada_texto": "03/10/2026 23:50",
+      "data_chegada_iso": "2026-10-03T23:50:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "101",
+      "situacao": null,
+      "secao": "Navios Atracados"
     },
     {
       "navio": "YI Chun 15",
@@ -260,19 +247,6 @@
       "berco": "SFS",
       "situacao": null,
       "secao": "Navios Fundeados (Barra)"
-    },
-    {
-      "navio": "MSC Magnum VII",
-      "imo": "9252541",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "12/10/2026 05:00",
-      "data_chegada_iso": "2026-10-12T05:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
     },
     {
       "navio": "Laax",
@@ -483,19 +457,6 @@
       "secao": "Navios Esperados"
     },
     {
-      "navio": "Industrial Charger",
-      "imo": "9213959",
-      "agencia": "ORION",
-      "data_chegada_texto": "17/10/2026 13:00",
-      "data_chegada_iso": "2026-10-17T13:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "TESC",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
       "navio": "Cap San Artemissio",
       "imo": "9633939",
       "agencia": "LACHMANN",
@@ -661,6 +622,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "201",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Industrial Charger",
+      "imo": "9213959",
+      "agencia": "ORION",
+      "data_chegada_texto": "29/10/2026 13:00",
+      "data_chegada_iso": "2026-10-29T13:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "TESC",
       "situacao": null,
       "secao": "Navios Esperados"
     },
