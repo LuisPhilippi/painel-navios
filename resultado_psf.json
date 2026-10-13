@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-13T13:30:06.034795",
+  "gerado_em": "2026-10-13T20:03:24.862148",
   "navios": [
     {
       "navio": "MSC Magnum VII",
@@ -11,7 +11,7 @@
       "data_manobra": "13/10/2026 16:30",
       "data_manobra_iso": "2026-10-13T16:30:00",
       "berco": "BARRA 901",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -24,6 +24,58 @@
       "data_manobra": "13/10/2026 16:30",
       "data_manobra_iso": "2026-10-13T16:30:00",
       "berco": "901 BARRA",
+      "situacao": "Em Andamento",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Babitonga Bay",
+      "imo": "9663776",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "13/10/2026 23:00",
+      "data_chegada_iso": "2026-10-13T23:00:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "14/10/2026 02:45",
+      "data_manobra_iso": "2026-10-14T02:45:00",
+      "berco": "BARRA 302",
+      "situacao": "A Confirmar",
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Jamaica Bay",
+      "imo": "9610717",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "11/10/2026 00:38",
+      "data_chegada_iso": "2026-10-11T00:38:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "14/10/2026 02:45",
+      "data_manobra_iso": "2026-10-14T02:45:00",
+      "berco": "302 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Seattle Bridge",
+      "imo": "9560352",
+      "agencia": "UNIMAR",
+      "data_chegada_texto": "12/10/2026 15:00",
+      "data_chegada_iso": "2026-10-12T15:00:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "14/10/2026 03:00",
+      "data_manobra_iso": "2026-10-14T03:00:00",
+      "berco": "BARRA 902",
+      "situacao": "A Confirmar",
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Cosco Shipping Argentina",
+      "imo": "9945849",
+      "agencia": "UNIMAR",
+      "data_chegada_texto": "12/10/2026 12:27",
+      "data_chegada_iso": "2026-10-12T12:27:00",
+      "manobra": "Desatracação e Fundeio",
+      "data_manobra": "14/10/2026 03:00",
+      "data_manobra_iso": "2026-10-14T03:00:00",
+      "berco": "902 F6",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
     },
@@ -34,8 +86,8 @@
       "data_chegada_texto": "25/09/2026 16:30",
       "data_chegada_iso": "2026-09-25T16:30:00",
       "manobra": "Desatracação e Saída",
-      "data_manobra": "13/10/2026 21:30",
-      "data_manobra_iso": "2026-10-13T21:30:00",
+      "data_manobra": "14/10/2026 11:00",
+      "data_manobra_iso": "2026-10-14T11:00:00",
       "berco": "102 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
@@ -47,24 +99,11 @@
       "data_chegada_texto": "29/09/2026 21:24",
       "data_chegada_iso": "2026-09-29T21:24:00",
       "manobra": "Suspender e Atracar",
-      "data_manobra": "14/10/2026 03:00",
-      "data_manobra_iso": "2026-10-14T03:00:00",
+      "data_manobra": "14/10/2026 11:00",
+      "data_manobra_iso": "2026-10-14T11:00:00",
       "berco": "F5 102",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
-    },
-    {
-      "navio": "Cosco Shipping Argentina",
-      "imo": "9945849",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "12/10/2026 12:27",
-      "data_chegada_iso": "2026-10-12T12:27:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "902",
-      "situacao": null,
-      "secao": "Navios Atracados"
     },
     {
       "navio": "Arietta Lily",
@@ -102,19 +141,6 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "301",
-      "situacao": null,
-      "secao": "Navios Atracados"
-    },
-    {
-      "navio": "Jamaica Bay",
-      "imo": "9610717",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "11/10/2026 00:38",
-      "data_chegada_iso": "2026-10-11T00:38:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "302",
       "situacao": null,
       "secao": "Navios Atracados"
     },
@@ -275,43 +301,17 @@
       "secao": "Navios Fundeados (Barra)"
     },
     {
-      "navio": "Seattle Bridge",
-      "imo": "9560352",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "12/10/2026 15:00",
-      "data_chegada_iso": "2026-10-12T15:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
       "navio": "Devbulk Kaya",
       "imo": "9530711",
       "agencia": "ZPORT AGENCIA",
-      "data_chegada_texto": "13/10/2026 10:00",
-      "data_chegada_iso": "2026-10-13T10:00:00",
+      "data_chegada_texto": "13/10/2026 14:00",
+      "data_chegada_iso": "2026-10-13T14:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "SFS",
       "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Babitonga Bay",
-      "imo": "9663776",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "13/10/2026 23:00",
-      "data_chegada_iso": "2026-10-13T23:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "TESC",
-      "situacao": null,
-      "secao": "Navios Esperados"
+      "secao": "Navios Fundeados (Barra)"
     },
     {
       "navio": "Unity Spirit",
@@ -595,7 +595,7 @@
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
-      "berco": "201",
+      "berco": "SFS",
       "situacao": null,
       "secao": "Navios Esperados"
     },
