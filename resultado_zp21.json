@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-10-12T23:27:47.943980",
+  "gerado_em": "2026-10-13T05:20:21.600812",
   "navios": [
-    {
-      "navio": "MSC AMALFI",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "12/10/2026",
-      "data_hora_iso": "2026-10-12T00:00:00",
-      "calado": "9,30/11,30",
-      "rota": "",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "ZIM BANGKOK",
       "status": "ManobraPrevista",
@@ -26,7 +16,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "13/10/2026",
       "data_hora_iso": "2026-10-13T00:00:00",
-      "calado": "10,50 EK",
+      "calado": "10,50/10,90",
       "rota": "Bacia 2",
       "berco": "PNAVE 02",
       "posicao": null
@@ -66,9 +56,19 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "13/10/2026",
       "data_hora_iso": "2026-10-13T00:00:00",
-      "calado": "8,50/10,50",
+      "calado": "8,60/10,60",
       "rota": "",
       "berco": "JBS 4",
+      "posicao": null
+    },
+    {
+      "navio": "MSC AMALFI",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "13/10/2026",
+      "data_hora_iso": "2026-10-13T00:00:00",
+      "calado": "TBC",
+      "rota": "Bacia 2",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
