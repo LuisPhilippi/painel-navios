@@ -1,12 +1,12 @@
 {
-  "gerado_em": "2026-10-14T05:46:16.962818",
+  "gerado_em": "2026-10-14T11:07:03.452459",
   "navios": [
     {
       "navio": "LOG-IN ENDURANCE",
       "status": "ManobraPrevista",
       "data_hora_texto": "14/10/2026",
       "data_hora_iso": "2026-10-14T00:00:00",
-      "calado": "TBC",
+      "calado": "11,10 EK",
       "rota": "Bacia 1",
       "berco": "PNAVE 02",
       "posicao": null
@@ -16,7 +16,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "14/10/2026",
       "data_hora_iso": "2026-10-14T00:00:00",
-      "calado": "4,90/5,40",
+      "calado": "4,82/5,40",
       "rota": "",
       "berco": "TEPORTI",
       "posicao": null
@@ -32,23 +32,23 @@
       "posicao": null
     },
     {
+      "navio": "XIAMEN EXPRESS",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "14/10/2026",
+      "data_hora_iso": "2026-10-14T00:00:00",
+      "calado": "9,50/10,50",
+      "rota": "",
+      "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
       "navio": "CMA CGM YUKON",
       "status": "ManobraPrevista",
       "data_hora_texto": "14/10/2026",
       "data_hora_iso": "2026-10-14T00:00:00",
       "calado": "9,10/10,90",
-      "rota": "Bacia 1",
+      "rota": "Bacia 2",
       "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "XIAMEN EXPRESS",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "14/10/2026",
-      "data_hora_iso": "2026-10-14T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE 02",
       "posicao": null
     },
     {
