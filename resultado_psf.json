@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-14T00:07:23.130291",
+  "gerado_em": "2026-10-14T05:46:23.265121",
   "navios": [
     {
       "navio": "Seattle Bridge",
@@ -11,7 +11,7 @@
       "data_manobra": "14/10/2026 03:00",
       "data_manobra_iso": "2026-10-14T03:00:00",
       "berco": "BARRA 902",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Navios Esperados"
     },
     {
@@ -24,7 +24,7 @@
       "data_manobra": "14/10/2026 03:00",
       "data_manobra_iso": "2026-10-14T03:00:00",
       "berco": "902 F6",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -44,14 +44,14 @@
       "navio": "Babitonga Bay",
       "imo": "9663776",
       "agencia": "WILSON SONS",
-      "data_chegada_texto": "13/10/2026 23:00",
-      "data_chegada_iso": "2026-10-13T23:00:00",
+      "data_chegada_texto": "13/10/2026 21:54",
+      "data_chegada_iso": "2026-10-13T21:54:00",
       "manobra": "Entrada e Atracação",
       "data_manobra": "14/10/2026 10:45",
       "data_manobra_iso": "2026-10-14T10:45:00",
       "berco": "BARRA 302",
       "situacao": "A Confirmar",
-      "secao": "Navios Esperados"
+      "secao": "Movimentações"
     },
     {
       "navio": "Afentis Xristos Ath",

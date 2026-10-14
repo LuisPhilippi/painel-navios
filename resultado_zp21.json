@@ -1,46 +1,6 @@
 {
-  "gerado_em": "2026-10-14T00:07:16.943076",
+  "gerado_em": "2026-10-14T05:46:16.962818",
   "navios": [
-    {
-      "navio": "MSC AMALFI",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "13/10/2026",
-      "data_hora_iso": "2026-10-13T00:00:00",
-      "calado": "9,10/11,50",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "XIN WEI HAI",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "13/10/2026",
-      "data_hora_iso": "2026-10-13T00:00:00",
-      "calado": "9,00 EK",
-      "rota": "Bacia 1",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "CMA CGM YUKON",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "13/10/2026",
-      "data_hora_iso": "2026-10-13T00:00:00",
-      "calado": "9,90 EK",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "AGIOS PORFYRIOS",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "14/10/2026",
-      "data_hora_iso": "2026-10-14T00:00:00",
-      "calado": "5,25/6,58",
-      "rota": "Bacia 1",
-      "berco": "BRASKARNE",
-      "posicao": null
-    },
     {
       "navio": "LOG-IN ENDURANCE",
       "status": "ManobraPrevista",
@@ -69,6 +29,16 @@
       "calado": "4,56/6,62",
       "rota": "",
       "berco": "BRASKARNE",
+      "posicao": null
+    },
+    {
+      "navio": "CMA CGM YUKON",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "14/10/2026",
+      "data_hora_iso": "2026-10-14T00:00:00",
+      "calado": "9,10/10,90",
+      "rota": "Bacia 1",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
