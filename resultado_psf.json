@@ -1,58 +1,6 @@
 {
-  "gerado_em": "2026-10-13T20:03:24.862148",
+  "gerado_em": "2026-10-14T00:07:23.130291",
   "navios": [
-    {
-      "navio": "MSC Magnum VII",
-      "imo": "9252541",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "12/10/2026 06:40",
-      "data_chegada_iso": "2026-10-12T06:40:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "13/10/2026 16:30",
-      "data_manobra_iso": "2026-10-13T16:30:00",
-      "berco": "BARRA 901",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "CMA CGM Yukon",
-      "imo": "9732606",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "11/10/2026 16:23",
-      "data_chegada_iso": "2026-10-11T16:23:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "13/10/2026 16:30",
-      "data_manobra_iso": "2026-10-13T16:30:00",
-      "berco": "901 BARRA",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Babitonga Bay",
-      "imo": "9663776",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "13/10/2026 23:00",
-      "data_chegada_iso": "2026-10-13T23:00:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "14/10/2026 02:45",
-      "data_manobra_iso": "2026-10-14T02:45:00",
-      "berco": "BARRA 302",
-      "situacao": "A Confirmar",
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Jamaica Bay",
-      "imo": "9610717",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "11/10/2026 00:38",
-      "data_chegada_iso": "2026-10-11T00:38:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "14/10/2026 02:45",
-      "data_manobra_iso": "2026-10-14T02:45:00",
-      "berco": "302 BARRA",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Seattle Bridge",
       "imo": "9560352",
@@ -80,6 +28,32 @@
       "secao": "Movimentações"
     },
     {
+      "navio": "Jamaica Bay",
+      "imo": "9610717",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "11/10/2026 00:38",
+      "data_chegada_iso": "2026-10-11T00:38:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "14/10/2026 09:00",
+      "data_manobra_iso": "2026-10-14T09:00:00",
+      "berco": "302 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Babitonga Bay",
+      "imo": "9663776",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "13/10/2026 23:00",
+      "data_chegada_iso": "2026-10-13T23:00:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "14/10/2026 10:45",
+      "data_manobra_iso": "2026-10-14T10:45:00",
+      "berco": "BARRA 302",
+      "situacao": "A Confirmar",
+      "secao": "Navios Esperados"
+    },
+    {
       "navio": "Afentis Xristos Ath",
       "imo": "9644196",
       "agencia": "ZPORT AGENCIA",
@@ -104,6 +78,19 @@
       "berco": "F5 102",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
+    },
+    {
+      "navio": "MSC Magnum VII",
+      "imo": "9252541",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "12/10/2026 06:40",
+      "data_chegada_iso": "2026-10-12T06:40:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "901",
+      "situacao": null,
+      "secao": "Navios Atracados"
     },
     {
       "navio": "Arietta Lily",

@@ -1,32 +1,12 @@
 {
-  "gerado_em": "2026-10-13T20:03:18.694468",
+  "gerado_em": "2026-10-14T00:07:16.943076",
   "navios": [
-    {
-      "navio": "MSC MARIA MARILYN X",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "13/10/2026",
-      "data_hora_iso": "2026-10-13T00:00:00",
-      "calado": "8,60/10,60",
-      "rota": "",
-      "berco": "JBS 4",
-      "posicao": null
-    },
-    {
-      "navio": "LOG-IN ENDURANCE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "13/10/2026",
-      "data_hora_iso": "2026-10-13T00:00:00",
-      "calado": "10,00 EK",
-      "rota": "",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
     {
       "navio": "MSC AMALFI",
       "status": "ManobraPrevista",
       "data_hora_texto": "13/10/2026",
       "data_hora_iso": "2026-10-13T00:00:00",
-      "calado": "TBC",
+      "calado": "9,10/11,50",
       "rota": "Bacia 2",
       "berco": "PNAVE 01",
       "posicao": null
@@ -46,7 +26,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "13/10/2026",
       "data_hora_iso": "2026-10-13T00:00:00",
-      "calado": "TBC",
+      "calado": "9,90 EK",
       "rota": "",
       "berco": "JBS 2",
       "posicao": null
@@ -62,63 +42,13 @@
       "posicao": null
     },
     {
-      "navio": "EQUIPEMORIM 30 + C TORMENTA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "14/10/2026",
-      "data_hora_iso": "2026-10-14T00:00:00",
-      "calado": "2,70 EK",
-      "rota": "",
-      "berco": "SEATRIUM",
-      "posicao": null
-    },
-    {
-      "navio": "GREEN PARK",
+      "navio": "LOG-IN ENDURANCE",
       "status": "ManobraPrevista",
       "data_hora_texto": "14/10/2026",
       "data_hora_iso": "2026-10-14T00:00:00",
       "calado": "TBC",
-      "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
-      "navio": "XIAMEN EXPRESS",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "14/10/2026",
-      "data_hora_iso": "2026-10-14T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE",
-      "posicao": null
-    },
-    {
-      "navio": "ESPIRITO SANTO EXPRESS",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "14/10/2026",
-      "data_hora_iso": "2026-10-14T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE",
-      "posicao": null
-    },
-    {
-      "navio": "NORWALK",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "14/10/2026",
-      "data_hora_iso": "2026-10-14T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
-      "navio": "LADY KATERINA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "14/10/2026",
-      "data_hora_iso": "2026-10-14T00:00:00",
-      "calado": "4,56/6,62",
-      "rota": "",
-      "berco": "BRASKARNE",
+      "rota": "Bacia 1",
+      "berco": "PNAVE 02",
       "posicao": null
     },
     {
@@ -132,13 +62,43 @@
       "posicao": null
     },
     {
-      "navio": "NC BREDA",
+      "navio": "LADY KATERINA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "14/10/2026",
+      "data_hora_iso": "2026-10-14T00:00:00",
+      "calado": "4,56/6,62",
+      "rota": "",
+      "berco": "BRASKARNE",
+      "posicao": null
+    },
+    {
+      "navio": "XIAMEN EXPRESS",
       "status": "ManobraPrevista",
       "data_hora_texto": "14/10/2026",
       "data_hora_iso": "2026-10-14T00:00:00",
       "calado": "TBC",
       "rota": "",
-      "berco": "JBS",
+      "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
+      "navio": "NC BREDA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "14/10/2026",
+      "data_hora_iso": "2026-10-14T00:00:00",
+      "calado": "11,20/11,30",
+      "rota": "",
+      "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "MSC MARIA MARILYN X",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "14/10/2026",
+      "data_hora_iso": "2026-10-14T00:00:00",
+      "calado": "9,90/10,00",
+      "rota": "Bacia 2",
+      "berco": "JBS 4",
       "posicao": null
     },
     {
@@ -152,6 +112,36 @@
       "posicao": null
     },
     {
+      "navio": "NORWALK",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "15/10/2026",
+      "data_hora_iso": "2026-10-15T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "EQUIPEMORIM 30 + C TORMENTA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "15/10/2026",
+      "data_hora_iso": "2026-10-15T00:00:00",
+      "calado": "2,70 EK",
+      "rota": "",
+      "berco": "SEATRIUM",
+      "posicao": null
+    },
+    {
+      "navio": "ESPIRITO SANTO EXPRESS",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "15/10/2026",
+      "data_hora_iso": "2026-10-15T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
       "navio": "COSCO SHIPPING ARGENTINA",
       "status": "ManobraPrevista",
       "data_hora_texto": "15/10/2026",
@@ -159,6 +149,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "GREEN PARK",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "18/10/2026",
+      "data_hora_iso": "2026-10-18T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
       "posicao": null
     },
     {
