@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-10-14T20:25:28.854901",
+  "gerado_em": "2026-10-14T23:39:07.449298",
   "navios": [
-    {
-      "navio": "CMA CGM YUKON",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "14/10/2026",
-      "data_hora_iso": "2026-10-14T00:00:00",
-      "calado": "8,60/10,90",
-      "rota": "Bacia 2",
-      "berco": "JBS 2",
-      "posicao": null
-    },
     {
       "navio": "NC BREDA",
       "status": "ManobraPrevista",
@@ -26,19 +16,9 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "15/10/2026",
       "data_hora_iso": "2026-10-15T00:00:00",
-      "calado": "9,90/10,00",
+      "calado": "7,00/9,00",
       "rota": "Bacia 2",
       "berco": "JBS 4",
-      "posicao": null
-    },
-    {
-      "navio": "COSCO SHIPPING ARGENTINA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "15/10/2026",
-      "data_hora_iso": "2026-10-15T00:00:00",
-      "calado": "11,10 EK",
-      "rota": "",
-      "berco": "PNAVE 02",
       "posicao": null
     },
     {
@@ -52,23 +32,13 @@
       "posicao": null
     },
     {
-      "navio": "WIDE HOTEL",
+      "navio": "COSCO SHIPPING ARGENTINA",
       "status": "ManobraPrevista",
       "data_hora_texto": "15/10/2026",
       "data_hora_iso": "2026-10-15T00:00:00",
-      "calado": "TBC",
+      "calado": "11,10 EK",
       "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
-      "navio": "NORWALK",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "15/10/2026",
-      "data_hora_iso": "2026-10-15T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS",
+      "berco": "PNAVE 02",
       "posicao": null
     },
     {
@@ -82,6 +52,16 @@
       "posicao": null
     },
     {
+      "navio": "WIDE HOTEL",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "15/10/2026",
+      "data_hora_iso": "2026-10-15T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS 2",
+      "posicao": null
+    },
+    {
       "navio": "XIAMEN EXPRESS",
       "status": "ManobraPrevista",
       "data_hora_texto": "15/10/2026",
@@ -89,6 +69,26 @@
       "calado": "TBC",
       "rota": "",
       "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
+      "navio": "LOG-IN JATOBÁ",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "15/10/2026",
+      "data_hora_iso": "2026-10-15T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
+      "navio": "NORWALK",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "16/10/2026",
+      "data_hora_iso": "2026-10-16T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
       "posicao": null
     },
     {
@@ -179,6 +179,26 @@
       "calado": "TBC",
       "rota": "",
       "berco": "BRASKARNE",
+      "posicao": null
+    },
+    {
+      "navio": "MAERSK LOTA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "27/10/2026",
+      "data_hora_iso": "2026-10-27T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "MAERSK RUBICON",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "30/10/2026",
+      "data_hora_iso": "2026-10-30T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
       "posicao": null
     },
     {
