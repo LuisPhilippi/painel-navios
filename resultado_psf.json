@@ -1,44 +1,18 @@
 {
-  "gerado_em": "2026-10-15T13:54:41.181944",
+  "gerado_em": "2026-10-15T17:59:43.537213",
   "navios": [
     {
-      "navio": "Bartolomeu Dias",
-      "imo": "9625384",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "14/10/2026 08:50",
-      "data_chegada_iso": "2026-10-14T08:50:00",
+      "navio": "MSC Giulia",
+      "imo": "9770737",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "15/10/2026 14:00",
+      "data_chegada_iso": "2026-10-15T14:00:00",
       "manobra": "Entrada e Atracação",
-      "data_manobra": "15/10/2026 09:30",
-      "data_manobra_iso": "2026-10-15T09:30:00",
-      "berco": "BARRA 901",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Olympia.GR",
-      "imo": "9817523",
-      "agencia": "CARGONAVE",
-      "data_chegada_texto": "28/09/2026 02:15",
-      "data_chegada_iso": "2026-09-28T02:15:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "15/10/2026 11:00",
-      "data_manobra_iso": "2026-10-15T11:00:00",
-      "berco": "BARRA 201",
+      "data_manobra": "15/10/2026 15:30",
+      "data_manobra_iso": "2026-10-15T15:30:00",
+      "berco": "BARRA 902",
       "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "YI Chun 15",
-      "imo": "9631474",
-      "agencia": "OCEÂNICA",
-      "data_chegada_texto": "24/09/2026 01:48",
-      "data_chegada_iso": "2026-09-24T01:48:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "15/10/2026 11:00",
-      "data_manobra_iso": "2026-10-15T11:00:00",
-      "berco": "201 BARRA",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
+      "secao": "Navios Esperados"
     },
     {
       "navio": "Seaspan Empire",
@@ -50,7 +24,7 @@
       "data_manobra": "15/10/2026 15:30",
       "data_manobra_iso": "2026-10-15T15:30:00",
       "berco": "902 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -80,6 +54,19 @@
       "secao": "Movimentações"
     },
     {
+      "navio": "Bartolomeu Dias",
+      "imo": "9625384",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "14/10/2026 08:50",
+      "data_chegada_iso": "2026-10-14T08:50:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "901",
+      "situacao": null,
+      "secao": "Navios Atracados"
+    },
+    {
       "navio": "Globe Aliki",
       "imo": "9687100",
       "agencia": "ZPORT AGENCIA",
@@ -89,6 +76,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "102",
+      "situacao": null,
+      "secao": "Navios Atracados"
+    },
+    {
+      "navio": "Olympia.GR",
+      "imo": "9817523",
+      "agencia": "CARGONAVE",
+      "data_chegada_texto": "28/09/2026 02:15",
+      "data_chegada_iso": "2026-09-28T02:15:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "201",
       "situacao": null,
       "secao": "Navios Atracados"
     },
