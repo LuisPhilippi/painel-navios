@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-15T03:03:35.786909",
+  "gerado_em": "2026-10-15T08:48:42.897763",
   "navios": [
     {
       "navio": "MSC MARIA MARILYN X",
@@ -200,6 +200,16 @@
       "rota": "",
       "berco": "JBS",
       "posicao": null
+    },
+    {
+      "navio": "MSC MADHU B",
+      "status": "Fundeado",
+      "data_hora_texto": "15/10/2026 - 02:43",
+      "data_hora_iso": "2026-10-15T02:43:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": null,
+      "posicao": "26 55,13 S / 048 26,89 W"
     },
     {
       "navio": "GEMSBOK",
