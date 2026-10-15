@@ -1,22 +1,12 @@
 {
-  "gerado_em": "2026-10-14T23:39:07.449298",
+  "gerado_em": "2026-10-15T03:03:35.786909",
   "navios": [
-    {
-      "navio": "NC BREDA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "14/10/2026",
-      "data_hora_iso": "2026-10-14T00:00:00",
-      "calado": "10,70 EK",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
     {
       "navio": "MSC MARIA MARILYN X",
       "status": "ManobraPrevista",
       "data_hora_texto": "15/10/2026",
       "data_hora_iso": "2026-10-15T00:00:00",
-      "calado": "7,00/9,00",
+      "calado": "6,90/10,00",
       "rota": "Bacia 2",
       "berco": "JBS 4",
       "posicao": null
@@ -39,6 +29,16 @@
       "calado": "11,10 EK",
       "rota": "",
       "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
+      "navio": "NC BREDA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "15/10/2026",
+      "data_hora_iso": "2026-10-15T00:00:00",
+      "calado": "11,20/11,30",
+      "rota": "Bacia 1",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -67,7 +67,7 @@
       "data_hora_texto": "15/10/2026",
       "data_hora_iso": "2026-10-15T00:00:00",
       "calado": "TBC",
-      "rota": "",
+      "rota": "Bacia 2",
       "berco": "PNAVE 01",
       "posicao": null
     },
