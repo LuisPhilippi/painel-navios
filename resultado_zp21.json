@@ -1,32 +1,12 @@
 {
-  "gerado_em": "2026-10-16T05:24:17.956816",
+  "gerado_em": "2026-10-16T10:38:09.086320",
   "navios": [
-    {
-      "navio": "LOG-IN JATOBÁ",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "16/10/2026",
-      "data_hora_iso": "2026-10-16T00:00:00",
-      "calado": "8,70 EK",
-      "rota": "Bacia 1",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
-      "navio": "WIDE HOTEL",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "16/10/2026",
-      "data_hora_iso": "2026-10-16T00:00:00",
-      "calado": "11,70/11,75",
-      "rota": "Bacia 1",
-      "berco": "JBS 2",
-      "posicao": null
-    },
     {
       "navio": "XIAMEN EXPRESS",
       "status": "ManobraPrevista",
       "data_hora_texto": "16/10/2026",
       "data_hora_iso": "2026-10-16T00:00:00",
-      "calado": "11,30/10,80",
+      "calado": "11,10/10,50",
       "rota": "Bacia 2",
       "berco": "PNAVE 01",
       "posicao": null
@@ -39,6 +19,16 @@
       "calado": "11,10/11,40",
       "rota": "",
       "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "LOG-IN JATOBÁ",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "16/10/2026",
+      "data_hora_iso": "2026-10-16T00:00:00",
+      "calado": "8,70 EK",
+      "rota": "Bacia 1",
+      "berco": "PNAVE 02",
       "posicao": null
     },
     {
