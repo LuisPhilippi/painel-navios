@@ -1,19 +1,6 @@
 {
-  "gerado_em": "2026-10-16T15:10:31.366735",
+  "gerado_em": "2026-10-16T19:16:12.254495",
   "navios": [
-    {
-      "navio": "Arietta Lily",
-      "imo": "9727479",
-      "agencia": "LITORAL",
-      "data_chegada_texto": "03/10/2026 23:50",
-      "data_chegada_iso": "2026-10-03T23:50:00",
-      "manobra": "Suspender e Sair",
-      "data_manobra": "16/10/2026 12:00",
-      "data_manobra_iso": "2026-10-16T12:00:00",
-      "berco": "F3 BARRA",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Industrial Katharina",
       "imo": "9435129",
@@ -24,7 +11,7 @@
       "data_manobra": "16/10/2026 16:30",
       "data_manobra_iso": "2026-10-16T16:30:00",
       "berco": "BARRA 902",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -37,7 +24,7 @@
       "data_manobra": "16/10/2026 16:30",
       "data_manobra_iso": "2026-10-16T16:30:00",
       "berco": "902 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
