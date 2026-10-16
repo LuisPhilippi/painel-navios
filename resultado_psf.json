@@ -1,32 +1,6 @@
 {
-  "gerado_em": "2026-10-16T19:16:12.254495",
+  "gerado_em": "2026-10-16T22:28:59.736530",
   "navios": [
-    {
-      "navio": "Industrial Katharina",
-      "imo": "9435129",
-      "agencia": "ORION",
-      "data_chegada_texto": "12/10/2026 16:51",
-      "data_chegada_iso": "2026-10-12T16:51:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "16/10/2026 16:30",
-      "data_manobra_iso": "2026-10-16T16:30:00",
-      "berco": "BARRA 902",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "MSC Giulia",
-      "imo": "9770737",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "15/10/2026 15:27",
-      "data_chegada_iso": "2026-10-15T15:27:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "16/10/2026 16:30",
-      "data_manobra_iso": "2026-10-16T16:30:00",
-      "berco": "902 BARRA",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Mercosul Fortaleza",
       "imo": "9784661",
@@ -65,6 +39,45 @@
       "berco": "301 F3",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
+    },
+    {
+      "navio": "MSC Busan VIII",
+      "imo": "9289087",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "16/10/2026 23:00",
+      "data_chegada_iso": "2026-10-16T23:00:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "17/10/2026 06:00",
+      "data_manobra_iso": "2026-10-17T06:00:00",
+      "berco": "BARRA 901",
+      "situacao": "A Confirmar",
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Industrial Katharina",
+      "imo": "9435129",
+      "agencia": "ORION",
+      "data_chegada_texto": "12/10/2026 16:51",
+      "data_chegada_iso": "2026-10-12T16:51:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "17/10/2026 12:00",
+      "data_manobra_iso": "2026-10-17T12:00:00",
+      "berco": "902 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "San Marco Maersk",
+      "imo": "9622215",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "17/10/2026 15:00",
+      "data_chegada_iso": "2026-10-17T15:00:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "17/10/2026 17:00",
+      "data_manobra_iso": "2026-10-17T17:00:00",
+      "berco": "BARRA 902",
+      "situacao": "A Confirmar",
+      "secao": "Navios Esperados"
     },
     {
       "navio": "Kavo Alkyon",
@@ -275,37 +288,11 @@
       "secao": "Navios Esperados"
     },
     {
-      "navio": "MSC Busan VIII",
-      "imo": "9289087",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "16/10/2026 23:00",
-      "data_chegada_iso": "2026-10-16T23:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
       "navio": "MSC Letizia",
       "imo": "9702065",
       "agencia": "WILSON SONS",
       "data_chegada_texto": "17/10/2026 04:00",
       "data_chegada_iso": "2026-10-17T04:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "San Marco Maersk",
-      "imo": "9622215",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "17/10/2026 15:00",
-      "data_chegada_iso": "2026-10-17T15:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
