@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-16T00:03:26.088357",
+  "gerado_em": "2026-10-16T05:24:17.956816",
   "navios": [
     {
       "navio": "LOG-IN JATOBÁ",
@@ -36,7 +36,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "16/10/2026",
       "data_hora_iso": "2026-10-16T00:00:00",
-      "calado": "TBC",
+      "calado": "11,10/11,40",
       "rota": "",
       "berco": "JBS 2",
       "posicao": null

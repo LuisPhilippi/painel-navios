@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-16T00:03:32.049664",
+  "gerado_em": "2026-10-16T05:24:24.054774",
   "navios": [
     {
       "navio": "Barcaça N10",
@@ -11,7 +11,7 @@
       "data_manobra": "16/10/2026 01:00",
       "data_manobra_iso": "2026-10-16T01:00:00",
       "berco": "F4 (P2) 300",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -57,14 +57,14 @@
       "navio": "Mercosul Fortaleza",
       "imo": "9784661",
       "agencia": "UNIMAR",
-      "data_chegada_texto": "16/10/2026 09:00",
-      "data_chegada_iso": "2026-10-16T09:00:00",
+      "data_chegada_texto": "16/10/2026 00:43",
+      "data_chegada_iso": "2026-10-16T00:43:00",
       "manobra": "Entrada e Atracação",
       "data_manobra": "16/10/2026 09:30",
       "data_manobra_iso": "2026-10-16T09:30:00",
       "berco": "BARRA 901",
       "situacao": "A Confirmar",
-      "secao": "Navios Esperados"
+      "secao": "Movimentações"
     },
     {
       "navio": "Bartolomeu Dias",
