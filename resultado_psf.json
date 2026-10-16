@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-15T21:14:43.254068",
+  "gerado_em": "2026-10-16T00:03:32.049664",
   "navios": [
     {
       "navio": "Barcaça N10",
@@ -41,19 +41,6 @@
       "secao": "Movimentações"
     },
     {
-      "navio": "Bartolomeu Dias",
-      "imo": "9625384",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "14/10/2026 08:50",
-      "data_chegada_iso": "2026-10-14T08:50:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "16/10/2026 05:00",
-      "data_manobra_iso": "2026-10-16T05:00:00",
-      "berco": "901 BARRA",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
       "navio": "Barcaça N12",
       "imo": "9326031",
       "agencia": "WILSON SONS",
@@ -78,6 +65,19 @@
       "berco": "BARRA 901",
       "situacao": "A Confirmar",
       "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Bartolomeu Dias",
+      "imo": "9625384",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "14/10/2026 08:50",
+      "data_chegada_iso": "2026-10-14T08:50:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "16/10/2026 09:30",
+      "data_manobra_iso": "2026-10-16T09:30:00",
+      "berco": "901 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
     },
     {
       "navio": "MH Langoey",

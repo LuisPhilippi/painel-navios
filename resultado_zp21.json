@@ -1,24 +1,24 @@
 {
-  "gerado_em": "2026-10-15T21:14:37.232895",
+  "gerado_em": "2026-10-16T00:03:26.088357",
   "navios": [
-    {
-      "navio": "WIDE HOTEL",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "15/10/2026",
-      "data_hora_iso": "2026-10-15T00:00:00",
-      "calado": "11,10/11,50",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
     {
       "navio": "LOG-IN JATOBÁ",
       "status": "ManobraPrevista",
-      "data_hora_texto": "15/10/2026",
-      "data_hora_iso": "2026-10-15T00:00:00",
-      "calado": "10,30 EK",
-      "rota": "",
+      "data_hora_texto": "16/10/2026",
+      "data_hora_iso": "2026-10-16T00:00:00",
+      "calado": "8,70 EK",
+      "rota": "Bacia 1",
       "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
+      "navio": "WIDE HOTEL",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "16/10/2026",
+      "data_hora_iso": "2026-10-16T00:00:00",
+      "calado": "11,70/11,75",
+      "rota": "Bacia 1",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -29,6 +29,16 @@
       "calado": "11,30/10,80",
       "rota": "Bacia 2",
       "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
+      "navio": "MSC MAGNUM VII",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "16/10/2026",
+      "data_hora_iso": "2026-10-16T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -48,27 +58,7 @@
       "data_hora_iso": "2026-10-16T00:00:00",
       "calado": "TBC",
       "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
-      "navio": "MSC MAGNUM VII",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "16/10/2026",
-      "data_hora_iso": "2026-10-16T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
-      "navio": "ESPIRITO SANTO EXPRESS",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "16/10/2026",
-      "data_hora_iso": "2026-10-16T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE",
+      "berco": "JBS 4",
       "posicao": null
     },
     {
@@ -83,6 +73,16 @@
     },
     {
       "navio": "MSC MADHU B",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "17/10/2026",
+      "data_hora_iso": "2026-10-17T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "ESPIRITO SANTO EXPRESS",
       "status": "ManobraPrevista",
       "data_hora_texto": "17/10/2026",
       "data_hora_iso": "2026-10-17T00:00:00",
