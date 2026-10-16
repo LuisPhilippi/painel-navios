@@ -1,36 +1,6 @@
 {
-  "gerado_em": "2026-10-16T10:38:09.086320",
+  "gerado_em": "2026-10-16T15:10:24.176806",
   "navios": [
-    {
-      "navio": "XIAMEN EXPRESS",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "16/10/2026",
-      "data_hora_iso": "2026-10-16T00:00:00",
-      "calado": "11,10/10,50",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "MSC MAGNUM VII",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "16/10/2026",
-      "data_hora_iso": "2026-10-16T00:00:00",
-      "calado": "11,10/11,40",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "LOG-IN JATOBÁ",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "16/10/2026",
-      "data_hora_iso": "2026-10-16T00:00:00",
-      "calado": "8,70 EK",
-      "rota": "Bacia 1",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
     {
       "navio": "COSCO SHIPPING ARGENTINA",
       "status": "ManobraPrevista",
@@ -44,11 +14,21 @@
     {
       "navio": "MSC STELLA M X",
       "status": "ManobraPrevista",
-      "data_hora_texto": "16/10/2026",
-      "data_hora_iso": "2026-10-16T00:00:00",
+      "data_hora_texto": "17/10/2026",
+      "data_hora_iso": "2026-10-17T00:00:00",
       "calado": "TBC",
       "rota": "",
       "berco": "JBS 4",
+      "posicao": null
+    },
+    {
+      "navio": "MSC MAGNUM VII",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "17/10/2026",
+      "data_hora_iso": "2026-10-17T00:00:00",
+      "calado": "TBC",
+      "rota": "Bacia 2",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -58,7 +38,7 @@
       "data_hora_iso": "2026-10-17T00:00:00",
       "calado": "TBC",
       "rota": "",
-      "berco": "JBS",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -126,7 +106,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "19/10/2026",
       "data_hora_iso": "2026-10-19T00:00:00",
-      "calado": "TBC",
+      "calado": "8,10/9,80",
       "rota": "",
       "berco": "JBS",
       "posicao": null
@@ -176,6 +156,16 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "23/10/2026",
       "data_hora_iso": "2026-10-23T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "MAERSK VENEZIA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "25/10/2026",
+      "data_hora_iso": "2026-10-25T00:00:00",
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
