@@ -1,26 +1,6 @@
 {
-  "gerado_em": "2026-10-17T11:20:23.604393",
+  "gerado_em": "2026-10-17T14:54:11.420706",
   "navios": [
-    {
-      "navio": "MSC MAGNUM VII",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "17/10/2026",
-      "data_hora_iso": "2026-10-17T00:00:00",
-      "calado": "11,65/11,75",
-      "rota": "Bacia 2",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "NORWALK",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "17/10/2026",
-      "data_hora_iso": "2026-10-17T00:00:00",
-      "calado": "10,25/10,80",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
     {
       "navio": "LOG-IN EXPERIENCE",
       "status": "ManobraPrevista",
@@ -29,6 +9,16 @@
       "calado": "9,60/10,20",
       "rota": "Bacia 1",
       "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
+      "navio": "MSC SHREYA B",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "18/10/2026",
+      "data_hora_iso": "2026-10-18T00:00:00",
+      "calado": "9,30/10,20",
+      "rota": "Bacia 2",
+      "berco": "PNAVE 02",
       "posicao": null
     },
     {
@@ -42,13 +32,13 @@
       "posicao": null
     },
     {
-      "navio": "MSC SHREYA B",
+      "navio": "NORWALK",
       "status": "ManobraPrevista",
       "data_hora_texto": "18/10/2026",
       "data_hora_iso": "2026-10-18T00:00:00",
-      "calado": "9,30/10,20",
+      "calado": "11,25 EK",
       "rota": "Bacia 2",
-      "berco": "PNAVE 02",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -219,6 +209,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "REBOCADOR TRITÃO",
+      "status": "Atracado",
+      "data_hora_texto": "17/10/2026 - 10:24",
+      "data_hora_iso": "2026-10-17T10:24:00",
+      "calado": null,
+      "rota": "",
+      "berco": "DELEMAR",
       "posicao": null
     },
     {

@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-17T11:20:29.914577",
+  "gerado_em": "2026-10-17T14:54:17.443312",
   "navios": [
     {
       "navio": "Industrial Katharina",
@@ -11,7 +11,7 @@
       "data_manobra": "17/10/2026 12:00",
       "data_manobra_iso": "2026-10-17T12:00:00",
       "berco": "902 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -21,10 +21,10 @@
       "data_chegada_texto": "30/09/2026 20:30",
       "data_chegada_iso": "2026-09-30T20:30:00",
       "manobra": "Suspender e Sair",
-      "data_manobra": "17/10/2026 12:45",
-      "data_manobra_iso": "2026-10-17T12:45:00",
+      "data_manobra": "17/10/2026 12:15",
+      "data_manobra_iso": "2026-10-17T12:15:00",
       "berco": "F3 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
