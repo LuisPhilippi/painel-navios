@@ -1,45 +1,6 @@
 {
-  "gerado_em": "2026-10-17T06:31:00.626140",
+  "gerado_em": "2026-10-17T11:20:29.914577",
   "navios": [
-    {
-      "navio": "MH Langoey",
-      "imo": "1076173",
-      "agencia": "SEATRADE",
-      "data_chegada_texto": "13/10/2026 05:09",
-      "data_chegada_iso": "2026-10-13T05:09:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "17/10/2026 05:15",
-      "data_manobra_iso": "2026-10-17T05:15:00",
-      "berco": "BARRA 301",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Salt Lake",
-      "imo": "9835977",
-      "agencia": "ALPHAMAR",
-      "data_chegada_texto": "30/09/2026 20:30",
-      "data_chegada_iso": "2026-09-30T20:30:00",
-      "manobra": "Desatracação e Fundeio",
-      "data_manobra": "17/10/2026 05:15",
-      "data_manobra_iso": "2026-10-17T05:15:00",
-      "berco": "301 F3",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "MSC Busan VIII",
-      "imo": "9289087",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "16/10/2026 23:00",
-      "data_chegada_iso": "2026-10-16T23:00:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "17/10/2026 06:00",
-      "data_manobra_iso": "2026-10-17T06:00:00",
-      "berco": "BARRA 901",
-      "situacao": "A Confirmar",
-      "secao": "Navios Esperados"
-    },
     {
       "navio": "Industrial Katharina",
       "imo": "9435129",
@@ -54,17 +15,43 @@
       "secao": "Movimentações"
     },
     {
-      "navio": "San Marco Maersk",
-      "imo": "9622215",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "17/10/2026 15:00",
-      "data_chegada_iso": "2026-10-17T15:00:00",
+      "navio": "Salt Lake",
+      "imo": "9835977",
+      "agencia": "ALPHAMAR",
+      "data_chegada_texto": "30/09/2026 20:30",
+      "data_chegada_iso": "2026-09-30T20:30:00",
+      "manobra": "Suspender e Sair",
+      "data_manobra": "17/10/2026 12:45",
+      "data_manobra_iso": "2026-10-17T12:45:00",
+      "berco": "F3 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "MSC Letizia",
+      "imo": "9702065",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "17/10/2026 04:00",
+      "data_chegada_iso": "2026-10-17T04:00:00",
       "manobra": "Entrada e Atracação",
       "data_manobra": "17/10/2026 17:00",
       "data_manobra_iso": "2026-10-17T17:00:00",
       "berco": "BARRA 902",
       "situacao": "A Confirmar",
       "secao": "Navios Esperados"
+    },
+    {
+      "navio": "MSC Busan VIII",
+      "imo": "9289087",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "17/10/2026 05:58",
+      "data_chegada_iso": "2026-10-17T05:58:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "901",
+      "situacao": null,
+      "secao": "Navios Atracados"
     },
     {
       "navio": "Kavo Alkyon",
@@ -115,6 +102,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "300",
+      "situacao": null,
+      "secao": "Navios Atracados"
+    },
+    {
+      "navio": "MH Langoey",
+      "imo": "1076173",
+      "agencia": "SEATRADE",
+      "data_chegada_texto": "13/10/2026 05:09",
+      "data_chegada_iso": "2026-10-13T05:09:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "301",
       "situacao": null,
       "secao": "Navios Atracados"
     },
@@ -275,15 +275,15 @@
       "secao": "Navios Esperados"
     },
     {
-      "navio": "MSC Letizia",
-      "imo": "9702065",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "17/10/2026 04:00",
-      "data_chegada_iso": "2026-10-17T04:00:00",
+      "navio": "San Marco Maersk",
+      "imo": "9622215",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "17/10/2026 15:00",
+      "data_chegada_iso": "2026-10-17T15:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
+      "berco": null,
       "situacao": null,
       "secao": "Navios Esperados"
     },
