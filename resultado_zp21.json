@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-17T20:03:27.438689",
+  "gerado_em": "2026-10-17T22:52:00.361058",
   "navios": [
     {
       "navio": "LOG-IN EXPERIENCE",
@@ -27,7 +27,7 @@
       "data_hora_texto": "18/10/2026",
       "data_hora_iso": "2026-10-18T00:00:00",
       "calado": "9,30/10,20",
-      "rota": "Bacia 2",
+      "rota": "",
       "berco": "PNAVE 02",
       "posicao": null
     },
@@ -74,10 +74,10 @@
     {
       "navio": "MSC LETIZIA",
       "status": "ManobraPrevista",
-      "data_hora_texto": "19/10/2026",
-      "data_hora_iso": "2026-10-19T00:00:00",
+      "data_hora_texto": "18/10/2026",
+      "data_hora_iso": "2026-10-18T00:00:00",
       "calado": "TBC",
-      "rota": "",
+      "rota": "Bacia 2",
       "berco": "PNAVE 02",
       "posicao": null
     },

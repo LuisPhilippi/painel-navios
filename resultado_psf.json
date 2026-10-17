@@ -1,19 +1,6 @@
 {
-  "gerado_em": "2026-10-17T20:03:33.809388",
+  "gerado_em": "2026-10-17T22:52:06.378257",
   "navios": [
-    {
-      "navio": "MSC Letizia",
-      "imo": "9702065",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "17/10/2026 16:56",
-      "data_chegada_iso": "2026-10-17T16:56:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "17/10/2026 17:00",
-      "data_manobra_iso": "2026-10-17T17:00:00",
-      "berco": "BARRA 902",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Barcaça N10",
       "imo": "9326017",
@@ -70,8 +57,8 @@
       "navio": "Barcaça N09",
       "imo": "9326005",
       "agencia": "WILSON SONS",
-      "data_chegada_texto": "17/10/2026 20:00",
-      "data_chegada_iso": "2026-10-17T20:00:00",
+      "data_chegada_texto": "17/10/2026 18:00",
+      "data_chegada_iso": "2026-10-17T18:00:00",
       "manobra": "Entrada e Fundeio",
       "data_manobra": "18/10/2026 08:45",
       "data_manobra_iso": "2026-10-18T08:45:00",
@@ -130,6 +117,19 @@
       "berco": "BARRA 902",
       "situacao": "A Confirmar",
       "secao": "Navios Esperados"
+    },
+    {
+      "navio": "MSC Letizia",
+      "imo": "9702065",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "17/10/2026 16:56",
+      "data_chegada_iso": "2026-10-17T16:56:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "18/10/2026 17:00",
+      "data_manobra_iso": "2026-10-18T17:00:00",
+      "berco": "902 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
     },
     {
       "navio": "MH Langoey",
