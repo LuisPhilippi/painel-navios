@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-16T22:28:53.160239",
+  "gerado_em": "2026-10-17T01:00:53.886925",
   "navios": [
     {
       "navio": "MSC STELLA M X",
@@ -36,7 +36,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "18/10/2026",
       "data_hora_iso": "2026-10-18T00:00:00",
-      "calado": "10,10 EK",
+      "calado": "9,60/10,20",
       "rota": "Bacia 1",
       "berco": "PNAVE 01",
       "posicao": null
@@ -56,7 +56,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "18/10/2026",
       "data_hora_iso": "2026-10-18T00:00:00",
-      "calado": "TBC",
+      "calado": "9,30/10,20",
       "rota": "Bacia 2",
       "berco": "PNAVE 02",
       "posicao": null
@@ -88,7 +88,7 @@
       "data_hora_iso": "2026-10-19T00:00:00",
       "calado": "TBC",
       "rota": "",
-      "berco": "PNAVE",
+      "berco": "PNAVE 02",
       "posicao": null
     },
     {
