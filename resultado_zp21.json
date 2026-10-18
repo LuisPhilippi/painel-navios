@@ -1,26 +1,6 @@
 {
-  "gerado_em": "2026-10-18T17:47:17.006230",
+  "gerado_em": "2026-10-18T20:02:57.386984",
   "navios": [
-    {
-      "navio": "NC BRISA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "18/10/2026",
-      "data_hora_iso": "2026-10-18T00:00:00",
-      "calado": "9,50 EK",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "LOG-IN EXPERIENCE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "18/10/2026",
-      "data_hora_iso": "2026-10-18T00:00:00",
-      "calado": "9,65/10,25",
-      "rota": "",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "MSC STELLA M X",
       "status": "ManobraPrevista",
@@ -37,7 +17,7 @@
       "data_hora_texto": "18/10/2026",
       "data_hora_iso": "2026-10-18T00:00:00",
       "calado": "TBC",
-      "rota": "Bacia 2",
+      "rota": "",
       "berco": "PNAVE 01",
       "posicao": null
     },
@@ -47,8 +27,18 @@
       "data_hora_texto": "19/10/2026",
       "data_hora_iso": "2026-10-19T00:00:00",
       "calado": "TBC",
-      "rota": "",
+      "rota": "Bacia 2",
       "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
+      "navio": "NC BRISA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "19/10/2026",
+      "data_hora_iso": "2026-10-19T00:00:00",
+      "calado": "9,77 MAX",
+      "rota": "Bacia 1",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -62,16 +52,6 @@
       "posicao": null
     },
     {
-      "navio": "GHIBLI",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "19/10/2026",
-      "data_hora_iso": "2026-10-19T00:00:00",
-      "calado": "9,20/9,70",
-      "rota": "",
-      "berco": "JBS 4",
-      "posicao": null
-    },
-    {
       "navio": "MSC BUSAN VIII",
       "status": "ManobraPrevista",
       "data_hora_texto": "20/10/2026",
@@ -79,6 +59,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "GHIBLI",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "20/10/2026",
+      "data_hora_iso": "2026-10-20T00:00:00",
+      "calado": "9,20/9,70",
+      "rota": "",
+      "berco": "JBS 4",
       "posicao": null
     },
     {
