@@ -1,45 +1,6 @@
 {
-  "gerado_em": "2026-10-18T20:03:03.432818",
+  "gerado_em": "2026-10-18T22:44:29.829405",
   "navios": [
-    {
-      "navio": "Santa Ines",
-      "imo": "9444845",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "18/10/2026 10:15",
-      "data_chegada_iso": "2026-10-18T10:15:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "18/10/2026 17:30",
-      "data_manobra_iso": "2026-10-18T17:30:00",
-      "berco": "BARRA 902",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "MSC Letizia",
-      "imo": "9702065",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "17/10/2026 16:56",
-      "data_chegada_iso": "2026-10-17T16:56:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "18/10/2026 17:30",
-      "data_manobra_iso": "2026-10-18T17:30:00",
-      "berco": "902 BARRA",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "MH Langoey",
-      "imo": "1076173",
-      "agencia": "SEATRADE",
-      "data_chegada_texto": "13/10/2026 05:09",
-      "data_chegada_iso": "2026-10-13T05:09:00",
-      "manobra": "Mudança de Berço",
-      "data_manobra": "18/10/2026 18:45",
-      "data_manobra_iso": "2026-10-18T18:45:00",
-      "berco": "301 300",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Keyaki Fortune",
       "imo": "1111818",
@@ -50,7 +11,7 @@
       "data_manobra": "18/10/2026 19:30",
       "data_manobra_iso": "2026-10-18T19:30:00",
       "berco": "BARRA 301",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -114,7 +75,7 @@
       "manobra": "Entrada e Atracação",
       "data_manobra": "19/10/2026 11:15",
       "data_manobra_iso": "2026-10-19T11:15:00",
-      "berco": "BARRA 902",
+      "berco": "BARRA 901",
       "situacao": "A Confirmar",
       "secao": "Navios Esperados"
     },
@@ -145,6 +106,19 @@
       "secao": "Movimentações"
     },
     {
+      "navio": "Santa Ines",
+      "imo": "9444845",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "18/10/2026 10:15",
+      "data_chegada_iso": "2026-10-18T10:15:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "902",
+      "situacao": null,
+      "secao": "Navios Atracados"
+    },
+    {
       "navio": "Oslo Venture",
       "imo": "9693185",
       "agencia": "ORION",
@@ -167,6 +141,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "201",
+      "situacao": null,
+      "secao": "Navios Atracados"
+    },
+    {
+      "navio": "MH Langoey",
+      "imo": "1076173",
+      "agencia": "SEATRADE",
+      "data_chegada_texto": "13/10/2026 05:09",
+      "data_chegada_iso": "2026-10-13T05:09:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "300",
       "situacao": null,
       "secao": "Navios Atracados"
     },
@@ -249,6 +236,19 @@
       "secao": "Navios Fundeados (Barra)"
     },
     {
+      "navio": "Dusseldorf Express",
+      "imo": "9143556",
+      "agencia": "ROCHAMAR",
+      "data_chegada_texto": "18/10/2026 17:24",
+      "data_chegada_iso": "2026-10-18T17:24:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Fundeados (Barra)"
+    },
+    {
       "navio": "Patron",
       "imo": "9721308",
       "agencia": "CARGONAVE",
@@ -271,6 +271,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "TESC",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Caipirinha",
+      "imo": "9714769",
+      "agencia": null,
+      "data_chegada_texto": "18/10/2026 17:00",
+      "data_chegada_iso": "2026-10-18T17:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "BARRA",
       "situacao": null,
       "secao": "Navios Esperados"
     },
@@ -332,19 +345,6 @@
       "agencia": "LACHMANN",
       "data_chegada_texto": "21/10/2026 05:00",
       "data_chegada_iso": "2026-10-21T05:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Dusseldorf Express",
-      "imo": "9143556",
-      "agencia": "ROCHAMAR",
-      "data_chegada_texto": "21/10/2026 18:00",
-      "data_chegada_iso": "2026-10-21T18:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
