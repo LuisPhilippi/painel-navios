@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-10-18T05:23:36.498776",
+  "gerado_em": "2026-10-18T10:20:14.677359",
   "navios": [
-    {
-      "navio": "LOG-IN EXPERIENCE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "18/10/2026",
-      "data_hora_iso": "2026-10-18T00:00:00",
-      "calado": "9,60/10,20",
-      "rota": "Bacia 1",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "COSCO SHIPPING ARGENTINA",
       "status": "ManobraPrevista",
@@ -46,9 +36,19 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "18/10/2026",
       "data_hora_iso": "2026-10-18T00:00:00",
-      "calado": "9,30 EK",
+      "calado": "9,50 EK",
       "rota": "",
       "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "LOG-IN EXPERIENCE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "18/10/2026",
+      "data_hora_iso": "2026-10-18T00:00:00",
+      "calado": "9,65/10,25",
+      "rota": "",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
