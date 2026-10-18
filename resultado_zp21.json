@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-10-18T10:20:14.677359",
+  "gerado_em": "2026-10-18T14:17:04.601272",
   "navios": [
-    {
-      "navio": "COSCO SHIPPING ARGENTINA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "18/10/2026",
-      "data_hora_iso": "2026-10-18T00:00:00",
-      "calado": "11,70 EK",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
     {
       "navio": "MSC SHREYA B",
       "status": "ManobraPrevista",
@@ -26,7 +16,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "18/10/2026",
       "data_hora_iso": "2026-10-18T00:00:00",
-      "calado": "11,25 EK",
+      "calado": "11,20 EK",
       "rota": "Bacia 2",
       "berco": "JBS 2",
       "posicao": null
