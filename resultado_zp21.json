@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-17T22:52:00.361058",
+  "gerado_em": "2026-10-18T00:36:37.565165",
   "navios": [
     {
       "navio": "LOG-IN EXPERIENCE",
@@ -46,7 +46,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "18/10/2026",
       "data_hora_iso": "2026-10-18T00:00:00",
-      "calado": "TBC",
+      "calado": "9,30 EK",
       "rota": "",
       "berco": "JBS 2",
       "posicao": null
@@ -56,7 +56,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "18/10/2026",
       "data_hora_iso": "2026-10-18T00:00:00",
-      "calado": "TBC",
+      "calado": "9,70/10,50",
       "rota": "Bacia 2",
       "berco": "JBS 4",
       "posicao": null
@@ -78,7 +78,7 @@
       "data_hora_iso": "2026-10-18T00:00:00",
       "calado": "TBC",
       "rota": "Bacia 2",
-      "berco": "PNAVE 02",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {

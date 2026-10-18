@@ -1,19 +1,6 @@
 {
-  "gerado_em": "2026-10-17T22:52:06.378257",
+  "gerado_em": "2026-10-18T00:36:43.782317",
   "navios": [
-    {
-      "navio": "Barcaça N10",
-      "imo": "9326017",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "11/10/2026 08:59",
-      "data_chegada_iso": "2026-10-11T08:59:00",
-      "manobra": "Desatracação e Fundeio",
-      "data_manobra": "18/10/2026 05:45",
-      "data_manobra_iso": "2026-10-18T05:45:00",
-      "berco": "300 F1",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Oslo Venture",
       "imo": "9693185",
@@ -78,6 +65,19 @@
       "berco": "BARRA 901",
       "situacao": "A Confirmar",
       "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Barcaça N10",
+      "imo": "9326017",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "11/10/2026 08:59",
+      "data_chegada_iso": "2026-10-11T08:59:00",
+      "manobra": "Desatracação e Fundeio",
+      "data_manobra": "18/10/2026 11:30",
+      "data_manobra_iso": "2026-10-18T11:30:00",
+      "berco": "300 F1",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
     },
     {
       "navio": "Port Oshima",
