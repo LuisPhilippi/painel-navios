@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-18T00:36:37.565165",
+  "gerado_em": "2026-10-18T05:23:36.498776",
   "navios": [
     {
       "navio": "LOG-IN EXPERIENCE",
@@ -16,7 +16,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "18/10/2026",
       "data_hora_iso": "2026-10-18T00:00:00",
-      "calado": "11,60 EK",
+      "calado": "11,70 EK",
       "rota": "Bacia 2",
       "berco": "PNAVE 02",
       "posicao": null

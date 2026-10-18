@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-18T00:36:43.782317",
+  "gerado_em": "2026-10-18T05:23:42.651087",
   "navios": [
     {
       "navio": "Oslo Venture",
@@ -44,8 +44,8 @@
       "navio": "Barcaça N09",
       "imo": "9326005",
       "agencia": "WILSON SONS",
-      "data_chegada_texto": "17/10/2026 18:00",
-      "data_chegada_iso": "2026-10-17T18:00:00",
+      "data_chegada_texto": "17/10/2026 20:00",
+      "data_chegada_iso": "2026-10-17T20:00:00",
       "manobra": "Entrada e Fundeio",
       "data_manobra": "18/10/2026 08:45",
       "data_manobra_iso": "2026-10-18T08:45:00",
