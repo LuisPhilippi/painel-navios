@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-10-19T00:46:32.313542",
+  "gerado_em": "2026-10-19T05:41:21.429476",
   "navios": [
-    {
-      "navio": "MSC STELLA M X",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "18/10/2026",
-      "data_hora_iso": "2026-10-18T00:00:00",
-      "calado": "9,70/10,50",
-      "rota": "Bacia 2",
-      "berco": "JBS 4",
-      "posicao": null
-    },
     {
       "navio": "MSC LETIZIA",
       "status": "ManobraPrevista",
