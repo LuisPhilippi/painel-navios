@@ -1,19 +1,6 @@
 {
-  "gerado_em": "2026-10-19T05:41:27.567597",
+  "gerado_em": "2026-10-19T12:01:55.216334",
   "navios": [
-    {
-      "navio": "Cap San Artemissio",
-      "imo": "9633939",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "18/10/2026 02:24",
-      "data_chegada_iso": "2026-10-18T02:24:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "19/10/2026 05:30",
-      "data_manobra_iso": "2026-10-19T05:30:00",
-      "berco": "901 BARRA",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Eco Cerberus",
       "imo": "9894624",
@@ -24,34 +11,21 @@
       "data_manobra": "19/10/2026 07:00",
       "data_manobra_iso": "2026-10-19T07:00:00",
       "berco": "BARRA 102",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Globe Aliki",
-      "imo": "9687100",
-      "agencia": "ZPORT AGENCIA",
-      "data_chegada_texto": "29/09/2026 21:24",
-      "data_chegada_iso": "2026-09-29T21:24:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "19/10/2026 07:00",
-      "data_manobra_iso": "2026-10-19T07:00:00",
-      "berco": "102 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
       "navio": "San Marco Maersk",
       "imo": "9622215",
       "agencia": "LACHMANN",
-      "data_chegada_texto": "17/10/2026 18:30",
-      "data_chegada_iso": "2026-10-17T18:30:00",
+      "data_chegada_texto": "19/10/2026 07:08",
+      "data_chegada_iso": "2026-10-19T07:08:00",
       "manobra": "Entrada e Atracação",
       "data_manobra": "19/10/2026 07:15",
       "data_manobra_iso": "2026-10-19T07:15:00",
       "berco": "BARRA 901",
-      "situacao": "A Confirmar",
-      "secao": "Navios Esperados"
+      "situacao": "Em Andamento",
+      "secao": "Movimentações"
     },
     {
       "navio": "Babitonga Bay",

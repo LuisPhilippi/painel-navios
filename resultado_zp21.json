@@ -1,22 +1,12 @@
 {
-  "gerado_em": "2026-10-19T05:41:21.429476",
+  "gerado_em": "2026-10-19T12:01:49.023412",
   "navios": [
-    {
-      "navio": "MSC LETIZIA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "19/10/2026",
-      "data_hora_iso": "2026-10-19T00:00:00",
-      "calado": "7,30/10,65",
-      "rota": "",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "NC BRISA",
       "status": "ManobraPrevista",
       "data_hora_texto": "19/10/2026",
       "data_hora_iso": "2026-10-19T00:00:00",
-      "calado": "9,77 MAX",
+      "calado": "9,90 EK",
       "rota": "Bacia 1",
       "berco": "JBS 2",
       "posicao": null
@@ -36,9 +26,19 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "19/10/2026",
       "data_hora_iso": "2026-10-19T00:00:00",
-      "calado": "8,10/9,80",
+      "calado": "8,40/9,90",
       "rota": "",
       "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "HMM SKY",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "19/10/2026",
+      "data_hora_iso": "2026-10-19T00:00:00",
+      "calado": "11,80 EK",
+      "rota": "",
+      "berco": "PNAVE 02",
       "posicao": null
     },
     {
@@ -52,13 +52,13 @@
       "posicao": null
     },
     {
-      "navio": "HMM SKY",
+      "navio": "MSC LETIZIA",
       "status": "ManobraPrevista",
-      "data_hora_texto": "19/10/2026",
-      "data_hora_iso": "2026-10-19T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE 02",
+      "data_hora_texto": "20/10/2026",
+      "data_hora_iso": "2026-10-20T00:00:00",
+      "calado": "7,70/10,80",
+      "rota": "Bacia 2",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
@@ -149,6 +149,26 @@
       "calado": "TBC",
       "rota": "",
       "berco": "BRASKARNE",
+      "posicao": null
+    },
+    {
+      "navio": "COPIAPO",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "26/10/2026",
+      "data_hora_iso": "2026-10-26T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "BREMERHAVEN EXPRESS",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "26/10/2026",
+      "data_hora_iso": "2026-10-26T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
       "posicao": null
     },
     {
