@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-19T18:58:32.769394",
+  "gerado_em": "2026-10-19T22:50:41.963005",
   "navios": [
     {
       "navio": "MSC LETIZIA",
@@ -32,23 +32,23 @@
       "posicao": null
     },
     {
-      "navio": "MSC BUSAN VIII",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "20/10/2026",
-      "data_hora_iso": "2026-10-20T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
       "navio": "NYK DIANA",
       "status": "ManobraPrevista",
       "data_hora_texto": "20/10/2026",
       "data_hora_iso": "2026-10-20T00:00:00",
       "calado": "8,80/9,40",
       "rota": "",
-      "berco": "JBS",
+      "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "MSC BUSAN VIII",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "20/10/2026",
+      "data_hora_iso": "2026-10-20T00:00:00",
+      "calado": "9,90/10,10",
+      "rota": "",
+      "berco": "JBS 4",
       "posicao": null
     },
     {
@@ -56,9 +56,19 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "20/10/2026",
       "data_hora_iso": "2026-10-20T00:00:00",
-      "calado": "TBC",
+      "calado": "8,80/8,90",
       "rota": "Bacia 1",
       "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
+      "navio": "SANTA INES",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "20/10/2026",
+      "data_hora_iso": "2026-10-20T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -67,7 +77,7 @@
       "data_hora_texto": "21/10/2026",
       "data_hora_iso": "2026-10-21T00:00:00",
       "calado": "TBC",
-      "rota": "",
+      "rota": "Bacia 2",
       "berco": "PNAVE 02",
       "posicao": null
     },
@@ -77,7 +87,7 @@
       "data_hora_texto": "21/10/2026",
       "data_hora_iso": "2026-10-21T00:00:00",
       "calado": "TBC",
-      "rota": "Bacia 2",
+      "rota": "",
       "berco": "PNAVE 02",
       "posicao": null
     },
@@ -89,16 +99,6 @@
       "calado": "TBC",
       "rota": "",
       "berco": "PNAVE",
-      "posicao": null
-    },
-    {
-      "navio": "SANTA INES",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "21/10/2026",
-      "data_hora_iso": "2026-10-21T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS",
       "posicao": null
     },
     {

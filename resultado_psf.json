@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-19T18:58:39.161481",
+  "gerado_em": "2026-10-19T22:50:47.949781",
   "navios": [
     {
       "navio": "Barcaça N10",
@@ -8,9 +8,61 @@
       "data_chegada_texto": "11/10/2026 08:59",
       "data_chegada_iso": "2026-10-11T08:59:00",
       "manobra": "Suspender e Sair",
-      "data_manobra": "19/10/2026 23:00",
-      "data_manobra_iso": "2026-10-19T23:00:00",
+      "data_manobra": "20/10/2026 06:00",
+      "data_manobra_iso": "2026-10-20T06:00:00",
       "berco": "F1 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Santa Ines",
+      "imo": "9444845",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "18/10/2026 10:15",
+      "data_chegada_iso": "2026-10-18T10:15:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "20/10/2026 08:30",
+      "data_manobra_iso": "2026-10-20T08:30:00",
+      "berco": "902 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Maersk Pangani",
+      "imo": "9786097",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "20/10/2026 12:00",
+      "data_chegada_iso": "2026-10-20T12:00:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "20/10/2026 12:00",
+      "data_manobra_iso": "2026-10-20T12:00:00",
+      "berco": "BARRA 902",
+      "situacao": "A Confirmar",
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Maye Manx",
+      "imo": "9931549",
+      "agencia": "LITORAL",
+      "data_chegada_texto": "12/10/2026 23:30",
+      "data_chegada_iso": "2026-10-12T23:30:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "20/10/2026 13:15",
+      "data_manobra_iso": "2026-10-20T13:15:00",
+      "berco": "BARRA 101",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Oslo Venture",
+      "imo": "9693185",
+      "agencia": "ORION",
+      "data_chegada_texto": "07/10/2026 16:30",
+      "data_chegada_iso": "2026-10-07T16:30:00",
+      "manobra": "Desatracação e Fundeio",
+      "data_manobra": "20/10/2026 13:15",
+      "data_manobra_iso": "2026-10-20T13:15:00",
+      "berco": "101 F3",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
     },
@@ -24,32 +76,6 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "901",
-      "situacao": null,
-      "secao": "Navios Atracados"
-    },
-    {
-      "navio": "Santa Ines",
-      "imo": "9444845",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "18/10/2026 10:15",
-      "data_chegada_iso": "2026-10-18T10:15:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "902",
-      "situacao": null,
-      "secao": "Navios Atracados"
-    },
-    {
-      "navio": "Oslo Venture",
-      "imo": "9693185",
-      "agencia": "ORION",
-      "data_chegada_texto": "07/10/2026 16:30",
-      "data_chegada_iso": "2026-10-07T16:30:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "101",
       "situacao": null,
       "secao": "Navios Atracados"
     },
@@ -145,19 +171,6 @@
       "secao": "Navios Fundeados (Barra)"
     },
     {
-      "navio": "Maye Manx",
-      "imo": "9931549",
-      "agencia": "LITORAL",
-      "data_chegada_texto": "12/10/2026 23:30",
-      "data_chegada_iso": "2026-10-12T23:30:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "SFS",
-      "situacao": null,
-      "secao": "Navios Fundeados (Barra)"
-    },
-    {
       "navio": "Devbulk Kaya",
       "imo": "9530711",
       "agencia": "ZPORT AGENCIA",
@@ -236,19 +249,6 @@
       "secao": "Navios Fundeados (Barra)"
     },
     {
-      "navio": "Maersk Pangani",
-      "imo": "9786097",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "20/10/2026 14:00",
-      "data_chegada_iso": "2026-10-20T14:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
       "navio": "CMA CGM Iron",
       "imo": "9996678",
       "agencia": "UNIMAR",
@@ -296,7 +296,7 @@
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
-      "berco": "101",
+      "berco": "SFS",
       "situacao": null,
       "secao": "Navios Esperados"
     },
@@ -693,13 +693,13 @@
     {
       "navio": "Equinox",
       "imo": "9587879",
-      "agencia": "ZPORT OPERADORES PORTUARIOS LTDA",
+      "agencia": "ZPORT AGENCIA",
       "data_chegada_texto": "06/11/2026 19:00",
       "data_chegada_iso": "2026-11-06T19:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
-      "berco": "102",
+      "berco": "SFS",
       "situacao": null,
       "secao": "Navios Esperados"
     },
