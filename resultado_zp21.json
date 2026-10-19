@@ -1,56 +1,6 @@
 {
-  "gerado_em": "2026-10-19T12:01:49.023412",
+  "gerado_em": "2026-10-19T18:58:32.769394",
   "navios": [
-    {
-      "navio": "NC BRISA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "19/10/2026",
-      "data_hora_iso": "2026-10-19T00:00:00",
-      "calado": "9,90 EK",
-      "rota": "Bacia 1",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "MSC SHREYA B",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "19/10/2026",
-      "data_hora_iso": "2026-10-19T00:00:00",
-      "calado": "10,30/11,10",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
-      "navio": "MSC INGRID",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "19/10/2026",
-      "data_hora_iso": "2026-10-19T00:00:00",
-      "calado": "8,40/9,90",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "HMM SKY",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "19/10/2026",
-      "data_hora_iso": "2026-10-19T00:00:00",
-      "calado": "11,80 EK",
-      "rota": "",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
-      "navio": "GHIBLI",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "19/10/2026",
-      "data_hora_iso": "2026-10-19T00:00:00",
-      "calado": "9,20/9,70",
-      "rota": "",
-      "berco": "JBS 4",
-      "posicao": null
-    },
     {
       "navio": "MSC LETIZIA",
       "status": "ManobraPrevista",
@@ -59,6 +9,26 @@
       "calado": "7,70/10,80",
       "rota": "Bacia 2",
       "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
+      "navio": "MSC INGRID",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "20/10/2026",
+      "data_hora_iso": "2026-10-20T00:00:00",
+      "calado": "9,50/11,20",
+      "rota": "Bacia 2",
+      "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "GHIBLI",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "20/10/2026",
+      "data_hora_iso": "2026-10-20T00:00:00",
+      "calado": "8,80 EK",
+      "rota": "Bacia 1",
+      "berco": "JBS 4",
       "posicao": null
     },
     {
@@ -72,10 +42,50 @@
       "posicao": null
     },
     {
-      "navio": "ESPIRITO SANTO EXPRESS",
+      "navio": "NYK DIANA",
       "status": "ManobraPrevista",
       "data_hora_texto": "20/10/2026",
       "data_hora_iso": "2026-10-20T00:00:00",
+      "calado": "8,80/9,40",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "LOG-IN EVOLUTION",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "20/10/2026",
+      "data_hora_iso": "2026-10-20T00:00:00",
+      "calado": "TBC",
+      "rota": "Bacia 1",
+      "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
+      "navio": "HMM SKY",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "21/10/2026",
+      "data_hora_iso": "2026-10-21T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
+      "navio": "MSC INSA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "21/10/2026",
+      "data_hora_iso": "2026-10-21T00:00:00",
+      "calado": "TBC",
+      "rota": "Bacia 2",
+      "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
+      "navio": "ESPIRITO SANTO EXPRESS",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "21/10/2026",
+      "data_hora_iso": "2026-10-21T00:00:00",
       "calado": "TBC",
       "rota": "",
       "berco": "PNAVE",
@@ -92,6 +102,16 @@
       "posicao": null
     },
     {
+      "navio": "MSC MARIA MARILYN X",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "22/10/2026",
+      "data_hora_iso": "2026-10-22T00:00:00",
+      "calado": "9,00/10,30",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
       "navio": "FAGELGRACHT",
       "status": "ManobraPrevista",
       "data_hora_texto": "22/10/2026",
@@ -99,6 +119,16 @@
       "calado": "5,70/6,50",
       "rota": "",
       "berco": "BARRA DO RIO",
+      "posicao": null
+    },
+    {
+      "navio": "LOG-IN RESILIENTE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "22/10/2026",
+      "data_hora_iso": "2026-10-22T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
       "posicao": null
     },
     {
@@ -119,6 +149,36 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "MSC BASEL V",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "23/10/2026",
+      "data_hora_iso": "2026-10-23T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "MSC STELLA M X",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "24/10/2026",
+      "data_hora_iso": "2026-10-24T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "MSC SHUBA B",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "24/10/2026",
+      "data_hora_iso": "2026-10-24T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
       "posicao": null
     },
     {
@@ -149,6 +209,36 @@
       "calado": "TBC",
       "rota": "",
       "berco": "BRASKARNE",
+      "posicao": null
+    },
+    {
+      "navio": "MSC SAMIRA III",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "25/10/2026",
+      "data_hora_iso": "2026-10-25T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "LOG-IN JATOBÁ",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "25/10/2026",
+      "data_hora_iso": "2026-10-25T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "MSC GIULIA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "25/10/2026",
+      "data_hora_iso": "2026-10-25T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
       "posicao": null
     },
     {
