@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-20T01:32:27.943878",
+  "gerado_em": "2026-10-20T07:07:06.489074",
   "navios": [
     {
       "navio": "MSC LETIZIA",
@@ -26,7 +26,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "20/10/2026",
       "data_hora_iso": "2026-10-20T00:00:00",
-      "calado": "8,80 EK",
+      "calado": "7,40/8,20",
       "rota": "Bacia 1",
       "berco": "JBS 4",
       "posicao": null

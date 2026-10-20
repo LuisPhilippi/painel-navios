@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-20T01:32:34.414066",
+  "gerado_em": "2026-10-20T07:07:12.774879",
   "navios": [
     {
       "navio": "Barcaça N10",
@@ -11,7 +11,7 @@
       "data_manobra": "20/10/2026 06:00",
       "data_manobra_iso": "2026-10-20T06:00:00",
       "berco": "F1 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
