@@ -1,26 +1,6 @@
 {
-  "gerado_em": "2026-10-20T13:17:48.173340",
+  "gerado_em": "2026-10-20T18:18:51.388933",
   "navios": [
-    {
-      "navio": "NYK DIANA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "20/10/2026",
-      "data_hora_iso": "2026-10-20T00:00:00",
-      "calado": "8,78/9,42",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "MSC BUSAN VIII",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "20/10/2026",
-      "data_hora_iso": "2026-10-20T00:00:00",
-      "calado": "9,90/10,10",
-      "rota": "",
-      "berco": "JBS 4",
-      "posicao": null
-    },
     {
       "navio": "LOG-IN EVOLUTION",
       "status": "ManobraPrevista",
@@ -32,10 +12,20 @@
       "posicao": null
     },
     {
+      "navio": "NYK DIANA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "21/10/2026",
+      "data_hora_iso": "2026-10-21T00:00:00",
+      "calado": "8,60/9,26",
+      "rota": "Bacia 2",
+      "berco": "JBS 2",
+      "posicao": null
+    },
+    {
       "navio": "SANTA INES",
       "status": "ManobraPrevista",
-      "data_hora_texto": "20/10/2026",
-      "data_hora_iso": "2026-10-20T00:00:00",
+      "data_hora_texto": "21/10/2026",
+      "data_hora_iso": "2026-10-21T00:00:00",
       "calado": "10,30/10,40",
       "rota": "Bacia 2",
       "berco": "JBS 2",
@@ -46,7 +36,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "21/10/2026",
       "data_hora_iso": "2026-10-21T00:00:00",
-      "calado": "10,60/11,10",
+      "calado": "10,20/11,10",
       "rota": "Bacia 2",
       "berco": "PNAVE 02",
       "posicao": null
@@ -56,7 +46,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "21/10/2026",
       "data_hora_iso": "2026-10-21T00:00:00",
-      "calado": "TBC",
+      "calado": "11,60/11,70",
       "rota": "",
       "berco": "PNAVE 02",
       "posicao": null
@@ -72,13 +62,43 @@
       "posicao": null
     },
     {
+      "navio": "MSC BUSAN VIII",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "21/10/2026",
+      "data_hora_iso": "2026-10-21T00:00:00",
+      "calado": "8,10 MAX",
+      "rota": "Bacia 2",
+      "berco": "JBS 4",
+      "posicao": null
+    },
+    {
       "navio": "MSC MARIA MARILYN X",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "21/10/2026",
+      "data_hora_iso": "2026-10-21T00:00:00",
+      "calado": "8,80/10,60",
+      "rota": "",
+      "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
+      "navio": "CMA CGM IRON",
       "status": "ManobraPrevista",
       "data_hora_texto": "22/10/2026",
       "data_hora_iso": "2026-10-22T00:00:00",
-      "calado": "9,00/10,30",
+      "calado": "TBC",
+      "rota": "Bacia 2",
+      "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
+      "navio": "FRAGATA JERÔNIMO DE ALBUQUERQUE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "22/10/2026",
+      "data_hora_iso": "2026-10-22T00:00:00",
+      "calado": "4,00 EK",
       "rota": "",
-      "berco": "PNAVE",
+      "berco": "DELEMAR",
       "posicao": null
     },
     {
@@ -289,16 +309,6 @@
       "calado": null,
       "rota": "",
       "berco": "NAVSHIP",
-      "posicao": null
-    },
-    {
-      "navio": "FRAGATA JERÔNIMO DE ALBUQUERQUE",
-      "status": "Atracado",
-      "data_hora_texto": "20/08/2026 - 11:23",
-      "data_hora_iso": "2026-08-20T11:23:00",
-      "calado": null,
-      "rota": "",
-      "berco": "BRASIL SUL",
       "posicao": null
     },
     {
