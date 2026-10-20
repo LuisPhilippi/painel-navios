@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-19T22:50:41.963005",
+  "gerado_em": "2026-10-20T01:32:27.943878",
   "navios": [
     {
       "navio": "MSC LETIZIA",
@@ -89,6 +89,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
+      "navio": "BBC GANGES",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "21/10/2026",
+      "data_hora_iso": "2026-10-21T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "TEPORTI",
       "posicao": null
     },
     {
