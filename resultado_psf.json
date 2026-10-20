@@ -1,19 +1,6 @@
 {
-  "gerado_em": "2026-10-20T07:07:12.774879",
+  "gerado_em": "2026-10-20T13:17:55.960506",
   "navios": [
-    {
-      "navio": "Barcaça N10",
-      "imo": "9326017",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "11/10/2026 08:59",
-      "data_chegada_iso": "2026-10-11T08:59:00",
-      "manobra": "Suspender e Sair",
-      "data_manobra": "20/10/2026 06:00",
-      "data_manobra_iso": "2026-10-20T06:00:00",
-      "berco": "F1 BARRA",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Santa Ines",
       "imo": "9444845",
@@ -24,7 +11,7 @@
       "data_manobra": "20/10/2026 08:30",
       "data_manobra_iso": "2026-10-20T08:30:00",
       "berco": "902 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
