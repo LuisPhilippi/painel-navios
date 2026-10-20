@@ -1,12 +1,12 @@
 {
-  "gerado_em": "2026-10-20T18:18:51.388933",
+  "gerado_em": "2026-10-20T22:04:00.902135",
   "navios": [
     {
       "navio": "LOG-IN EVOLUTION",
       "status": "ManobraPrevista",
       "data_hora_texto": "20/10/2026",
       "data_hora_iso": "2026-10-20T00:00:00",
-      "calado": "8,90/9,00",
+      "calado": "8,70/9,10",
       "rota": "Bacia 1",
       "berco": "PNAVE 01",
       "posicao": null
@@ -27,7 +27,7 @@
       "data_hora_texto": "21/10/2026",
       "data_hora_iso": "2026-10-21T00:00:00",
       "calado": "10,30/10,40",
-      "rota": "Bacia 2",
+      "rota": "",
       "berco": "JBS 2",
       "posicao": null
     },
@@ -47,18 +47,8 @@
       "data_hora_texto": "21/10/2026",
       "data_hora_iso": "2026-10-21T00:00:00",
       "calado": "11,60/11,70",
-      "rota": "",
+      "rota": "Bacia 2",
       "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
-      "navio": "BBC GANGES",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "21/10/2026",
-      "data_hora_iso": "2026-10-21T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "TEPORTI",
       "posicao": null
     },
     {
@@ -66,8 +56,18 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "21/10/2026",
       "data_hora_iso": "2026-10-21T00:00:00",
-      "calado": "8,10 MAX",
+      "calado": "8,00/10,00",
       "rota": "Bacia 2",
+      "berco": "JBS 4",
+      "posicao": null
+    },
+    {
+      "navio": "STAR NORGE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "21/10/2026",
+      "data_hora_iso": "2026-10-21T00:00:00",
+      "calado": "9,20/10,65",
+      "rota": "",
       "berco": "JBS 4",
       "posicao": null
     },
@@ -77,7 +77,7 @@
       "data_hora_texto": "21/10/2026",
       "data_hora_iso": "2026-10-21T00:00:00",
       "calado": "8,80/10,60",
-      "rota": "",
+      "rota": "Bacia 2",
       "berco": "PNAVE 01",
       "posicao": null
     },
@@ -86,19 +86,19 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "22/10/2026",
       "data_hora_iso": "2026-10-22T00:00:00",
-      "calado": "TBC",
+      "calado": "10,60/11,10",
       "rota": "Bacia 2",
       "berco": "PNAVE 02",
       "posicao": null
     },
     {
-      "navio": "FRAGATA JERÔNIMO DE ALBUQUERQUE",
+      "navio": "BBC GANGES",
       "status": "ManobraPrevista",
       "data_hora_texto": "22/10/2026",
       "data_hora_iso": "2026-10-22T00:00:00",
-      "calado": "4,00 EK",
+      "calado": "TBC",
       "rota": "",
-      "berco": "DELEMAR",
+      "berco": "TEPORTI",
       "posicao": null
     },
     {
@@ -222,16 +222,6 @@
       "posicao": null
     },
     {
-      "navio": "MSC GIULIA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "25/10/2026",
-      "data_hora_iso": "2026-10-25T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
       "navio": "COPIAPO",
       "status": "ManobraPrevista",
       "data_hora_texto": "26/10/2026",
@@ -249,6 +239,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "FRAGATA JERÔNIMO DE ALBUQUERQUE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "26/10/2026",
+      "data_hora_iso": "2026-10-26T00:00:00",
+      "calado": "4,00 EK",
+      "rota": "",
+      "berco": "DELEMAR",
       "posicao": null
     },
     {

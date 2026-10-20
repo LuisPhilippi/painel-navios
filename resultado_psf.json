@@ -1,19 +1,6 @@
 {
-  "gerado_em": "2026-10-20T18:18:57.614423",
+  "gerado_em": "2026-10-20T22:04:07.296798",
   "navios": [
-    {
-      "navio": "Maye Manx",
-      "imo": "9931549",
-      "agencia": "LITORAL",
-      "data_chegada_texto": "12/10/2026 23:30",
-      "data_chegada_iso": "2026-10-12T23:30:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "20/10/2026 13:15",
-      "data_manobra_iso": "2026-10-20T13:15:00",
-      "berco": "BARRA 101",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Keyaki Fortune",
       "imo": "1111818",
@@ -54,17 +41,69 @@
       "secao": "Movimentações"
     },
     {
+      "navio": "MH Langoey",
+      "imo": "1076173",
+      "agencia": "SEATRADE",
+      "data_chegada_texto": "13/10/2026 05:09",
+      "data_chegada_iso": "2026-10-13T05:09:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "21/10/2026 06:00",
+      "data_manobra_iso": "2026-10-21T06:00:00",
+      "berco": "300 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "San Raphael Maersk",
+      "imo": "9622253",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "21/10/2026 11:00",
+      "data_chegada_iso": "2026-10-21T11:00:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "21/10/2026 09:00",
+      "data_manobra_iso": "2026-10-21T09:00:00",
+      "berco": "BARRA 901",
+      "situacao": "A Confirmar",
+      "secao": "Navios Esperados"
+    },
+    {
       "navio": "San Marco Maersk",
       "imo": "9622215",
       "agencia": "LACHMANN",
       "data_chegada_texto": "19/10/2026 07:08",
       "data_chegada_iso": "2026-10-19T07:08:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "901",
-      "situacao": null,
-      "secao": "Navios Atracados"
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "21/10/2026 09:00",
+      "data_manobra_iso": "2026-10-21T09:00:00",
+      "berco": "901 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Barcaça N09",
+      "imo": "9326005",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "18/10/2026 08:33",
+      "data_chegada_iso": "2026-10-18T08:33:00",
+      "manobra": "Desatracação e Fundeio",
+      "data_manobra": "21/10/2026 10:45",
+      "data_manobra_iso": "2026-10-21T10:45:00",
+      "berco": "302 F1",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Dusseldorf Express",
+      "imo": "9143556",
+      "agencia": "ROCHAMAR",
+      "data_chegada_texto": "18/10/2026 17:24",
+      "data_chegada_iso": "2026-10-18T17:24:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "21/10/2026 15:00",
+      "data_manobra_iso": "2026-10-21T15:00:00",
+      "berco": "BARRA 902",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
     },
     {
       "navio": "Maersk Pangani",
@@ -72,10 +111,36 @@
       "agencia": "LACHMANN",
       "data_chegada_texto": "20/10/2026 12:01",
       "data_chegada_iso": "2026-10-20T12:01:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "21/10/2026 15:00",
+      "data_manobra_iso": "2026-10-21T15:00:00",
+      "berco": "902 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Caipirinha",
+      "imo": "9714769",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "19/10/2026 11:45",
+      "data_chegada_iso": "2026-10-19T11:45:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "21/10/2026 19:30",
+      "data_manobra_iso": "2026-10-21T19:30:00",
+      "berco": "BARRA 302",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Maye Manx",
+      "imo": "9931549",
+      "agencia": "LITORAL",
+      "data_chegada_texto": "12/10/2026 23:30",
+      "data_chegada_iso": "2026-10-12T23:30:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
-      "berco": "902",
+      "berco": "101",
       "situacao": null,
       "secao": "Navios Atracados"
     },
@@ -89,32 +154,6 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "201",
-      "situacao": null,
-      "secao": "Navios Atracados"
-    },
-    {
-      "navio": "MH Langoey",
-      "imo": "1076173",
-      "agencia": "SEATRADE",
-      "data_chegada_texto": "13/10/2026 05:09",
-      "data_chegada_iso": "2026-10-13T05:09:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "300",
-      "situacao": null,
-      "secao": "Navios Atracados"
-    },
-    {
-      "navio": "Barcaça N09",
-      "imo": "9326005",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "18/10/2026 08:33",
-      "data_chegada_iso": "2026-10-18T08:33:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "302",
       "situacao": null,
       "secao": "Navios Atracados"
     },
@@ -153,7 +192,7 @@
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
-      "berco": "TESC",
+      "berco": null,
       "situacao": null,
       "secao": "Navios Fundeados (Barra)"
     },
@@ -184,43 +223,17 @@
       "secao": "Navios Fundeados (Barra)"
     },
     {
-      "navio": "Dusseldorf Express",
-      "imo": "9143556",
-      "agencia": "ROCHAMAR",
-      "data_chegada_texto": "18/10/2026 17:24",
-      "data_chegada_iso": "2026-10-18T17:24:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Fundeados (Barra)"
-    },
-    {
-      "navio": "Caipirinha",
-      "imo": "9714769",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "19/10/2026 11:45",
-      "data_chegada_iso": "2026-10-19T11:45:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "BARRA",
-      "situacao": null,
-      "secao": "Navios Fundeados (Barra)"
-    },
-    {
       "navio": "Persistence Diva",
       "imo": "9912452",
       "agencia": "CARGONAVE",
-      "data_chegada_texto": "20/10/2026 16:00",
-      "data_chegada_iso": "2026-10-20T16:00:00",
+      "data_chegada_texto": "20/10/2026 16:30",
+      "data_chegada_iso": "2026-10-20T16:30:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "SFS",
       "situacao": null,
-      "secao": "Navios Esperados"
+      "secao": "Navios Fundeados (Barra)"
     },
     {
       "navio": "CMA CGM Iron",
@@ -245,19 +258,6 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "TESC",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "San Raphael Maersk",
-      "imo": "9622253",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "21/10/2026 11:00",
-      "data_chegada_iso": "2026-10-21T11:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Esperados"
     },
