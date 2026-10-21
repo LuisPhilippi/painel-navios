@@ -1,26 +1,6 @@
 {
-  "gerado_em": "2026-10-21T07:00:13.506919",
+  "gerado_em": "2026-10-21T12:52:12.052866",
   "navios": [
-    {
-      "navio": "SANTA INES",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "21/10/2026",
-      "data_hora_iso": "2026-10-21T00:00:00",
-      "calado": "10,30/10,40",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "HMM SKY",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "21/10/2026",
-      "data_hora_iso": "2026-10-21T00:00:00",
-      "calado": "10,20/11,10",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
     {
       "navio": "MSC INSA",
       "status": "ManobraPrevista",
@@ -36,7 +16,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "21/10/2026",
       "data_hora_iso": "2026-10-21T00:00:00",
-      "calado": "TBC",
+      "calado": "9,00/10,30",
       "rota": "",
       "berco": "PNAVE 01",
       "posicao": null
@@ -49,6 +29,16 @@
       "calado": "8,00/10,00",
       "rota": "Bacia 2",
       "berco": "JBS 4",
+      "posicao": null
+    },
+    {
+      "navio": "SANTA INES",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "21/10/2026",
+      "data_hora_iso": "2026-10-21T00:00:00",
+      "calado": "10,70/11,10",
+      "rota": "Bacia 2",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
