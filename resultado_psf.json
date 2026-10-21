@@ -1,45 +1,6 @@
 {
-  "gerado_em": "2026-10-21T12:52:18.207433",
+  "gerado_em": "2026-10-21T17:53:20.324654",
   "navios": [
-    {
-      "navio": "San Raphael Maersk",
-      "imo": "9622253",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "21/10/2026 08:52",
-      "data_chegada_iso": "2026-10-21T08:52:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "21/10/2026 09:00",
-      "data_manobra_iso": "2026-10-21T09:00:00",
-      "berco": "BARRA 901",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "San Marco Maersk",
-      "imo": "9622215",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "19/10/2026 07:08",
-      "data_chegada_iso": "2026-10-19T07:08:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "21/10/2026 09:00",
-      "data_manobra_iso": "2026-10-21T09:00:00",
-      "berco": "901 BARRA",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Barcaça N09",
-      "imo": "9326005",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "18/10/2026 08:33",
-      "data_chegada_iso": "2026-10-18T08:33:00",
-      "manobra": "Desatracação e Fundeio",
-      "data_manobra": "21/10/2026 10:45",
-      "data_manobra_iso": "2026-10-21T10:45:00",
-      "berco": "302 F1",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Dusseldorf Express",
       "imo": "9143556",
@@ -50,7 +11,7 @@
       "data_manobra": "21/10/2026 15:00",
       "data_manobra_iso": "2026-10-21T15:00:00",
       "berco": "BARRA 902",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -63,7 +24,7 @@
       "data_manobra": "21/10/2026 15:00",
       "data_manobra_iso": "2026-10-21T15:00:00",
       "berco": "902 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -76,8 +37,21 @@
       "data_manobra": "21/10/2026 19:30",
       "data_manobra_iso": "2026-10-21T19:30:00",
       "berco": "BARRA 302",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
+    },
+    {
+      "navio": "San Raphael Maersk",
+      "imo": "9622253",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "21/10/2026 08:52",
+      "data_chegada_iso": "2026-10-21T08:52:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "901",
+      "situacao": null,
+      "secao": "Navios Atracados"
     },
     {
       "navio": "Maye Manx",
@@ -132,6 +106,19 @@
       "secao": "Navios Fundeados (Internos)"
     },
     {
+      "navio": "Barcaça N09",
+      "imo": "9326005",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "18/10/2026 08:33",
+      "data_chegada_iso": "2026-10-18T08:33:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "F1",
+      "situacao": null,
+      "secao": "Navios Fundeados (Internos)"
+    },
+    {
       "navio": "CL Changsha",
       "imo": "9953286",
       "agencia": "SEAPORT",
@@ -153,7 +140,7 @@
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
-      "berco": null,
+      "berco": "SFS",
       "situacao": null,
       "secao": "Navios Fundeados (Barra)"
     },
@@ -226,21 +213,21 @@
       "navio": "Vicente Pinzon",
       "imo": "9625396",
       "agencia": "LACHMANN",
-      "data_chegada_texto": "21/10/2026 09:00",
-      "data_chegada_iso": "2026-10-21T09:00:00",
+      "data_chegada_texto": "21/10/2026 10:14",
+      "data_chegada_iso": "2026-10-21T10:14:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "ITAPOÁ",
       "situacao": null,
-      "secao": "Navios Esperados"
+      "secao": "Navios Fundeados (Barra)"
     },
     {
       "navio": "Xie Hai Yong Yu",
       "imo": "1074008",
       "agencia": "LITORAL",
-      "data_chegada_texto": "21/10/2026 13:00",
-      "data_chegada_iso": "2026-10-21T13:00:00",
+      "data_chegada_texto": "21/10/2026 15:00",
+      "data_chegada_iso": "2026-10-21T15:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
@@ -556,7 +543,7 @@
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
-      "berco": null,
+      "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Esperados"
     },

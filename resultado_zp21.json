@@ -1,33 +1,23 @@
 {
-  "gerado_em": "2026-10-21T12:52:12.052866",
+  "gerado_em": "2026-10-21T17:53:14.162341",
   "navios": [
-    {
-      "navio": "MSC INSA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "21/10/2026",
-      "data_hora_iso": "2026-10-21T00:00:00",
-      "calado": "11,60/11,70",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
-      "navio": "LOG-IN EVOLUTION",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "21/10/2026",
-      "data_hora_iso": "2026-10-21T00:00:00",
-      "calado": "9,00/10,30",
-      "rota": "",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "MSC BUSAN VIII",
       "status": "ManobraPrevista",
       "data_hora_texto": "21/10/2026",
       "data_hora_iso": "2026-10-21T00:00:00",
-      "calado": "8,00/10,00",
+      "calado": "8,20/9,30",
       "rota": "Bacia 2",
+      "berco": "JBS 4",
+      "posicao": null
+    },
+    {
+      "navio": "STAR NORGE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "21/10/2026",
+      "data_hora_iso": "2026-10-21T00:00:00",
+      "calado": "9,80/10,80",
+      "rota": "",
       "berco": "JBS 4",
       "posicao": null
     },
@@ -42,13 +32,13 @@
       "posicao": null
     },
     {
-      "navio": "STAR NORGE",
+      "navio": "MSC INSA",
       "status": "ManobraPrevista",
       "data_hora_texto": "21/10/2026",
       "data_hora_iso": "2026-10-21T00:00:00",
-      "calado": "9,20/10,65",
+      "calado": "10,70/11,40",
       "rota": "",
-      "berco": "JBS 4",
+      "berco": "PNAVE 02",
       "posicao": null
     },
     {
@@ -269,6 +259,16 @@
       "calado": "1,40/6,10",
       "rota": "",
       "berco": "BRASKARNE",
+      "posicao": null
+    },
+    {
+      "navio": "CAPE PIONEER",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "29/10/2026",
+      "data_hora_iso": "2026-10-29T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": null,
       "posicao": null
     },
     {
