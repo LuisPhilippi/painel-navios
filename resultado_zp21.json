@@ -1,32 +1,12 @@
 {
-  "gerado_em": "2026-10-21T17:53:14.162341",
+  "gerado_em": "2026-10-21T21:13:07.093135",
   "navios": [
-    {
-      "navio": "MSC BUSAN VIII",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "21/10/2026",
-      "data_hora_iso": "2026-10-21T00:00:00",
-      "calado": "8,20/9,30",
-      "rota": "Bacia 2",
-      "berco": "JBS 4",
-      "posicao": null
-    },
-    {
-      "navio": "STAR NORGE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "21/10/2026",
-      "data_hora_iso": "2026-10-21T00:00:00",
-      "calado": "9,80/10,80",
-      "rota": "",
-      "berco": "JBS 4",
-      "posicao": null
-    },
     {
       "navio": "SANTA INES",
       "status": "ManobraPrevista",
       "data_hora_texto": "21/10/2026",
       "data_hora_iso": "2026-10-21T00:00:00",
-      "calado": "10,70/11,10",
+      "calado": "10,80/11,10",
       "rota": "Bacia 2",
       "berco": "JBS 2",
       "posicao": null
@@ -52,6 +32,26 @@
       "posicao": null
     },
     {
+      "navio": "MAERSK PANGANI",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "22/10/2026",
+      "data_hora_iso": "2026-10-22T00:00:00",
+      "calado": "10,00/11,15",
+      "rota": "",
+      "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "STAR NORGE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "22/10/2026",
+      "data_hora_iso": "2026-10-22T00:00:00",
+      "calado": "9,20/10,60",
+      "rota": "Bacia 1",
+      "berco": "JBS 4",
+      "posicao": null
+    },
+    {
       "navio": "CMA CGM IRON",
       "status": "ManobraPrevista",
       "data_hora_texto": "22/10/2026",
@@ -62,16 +62,6 @@
       "posicao": null
     },
     {
-      "navio": "BBC GANGES",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "22/10/2026",
-      "data_hora_iso": "2026-10-22T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "TEPORTI",
-      "posicao": null
-    },
-    {
       "navio": "EVER FIT",
       "status": "ManobraPrevista",
       "data_hora_texto": "22/10/2026",
@@ -79,6 +69,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "BBC GANGES",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "22/10/2026",
+      "data_hora_iso": "2026-10-22T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "TEPORTI",
       "posicao": null
     },
     {
@@ -98,7 +98,7 @@
       "data_hora_iso": "2026-10-22T00:00:00",
       "calado": "TBC",
       "rota": "",
-      "berco": "PNAVE",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
@@ -112,23 +112,13 @@
       "posicao": null
     },
     {
-      "navio": "MAERSK PANGANI",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "23/10/2026",
-      "data_hora_iso": "2026-10-23T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
       "navio": "MSC BASEL V",
       "status": "ManobraPrevista",
       "data_hora_texto": "23/10/2026",
       "data_hora_iso": "2026-10-23T00:00:00",
       "calado": "TBC",
       "rota": "",
-      "berco": "JBS",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
