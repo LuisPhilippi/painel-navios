@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-10-20T22:04:00.902135",
+  "gerado_em": "2026-10-21T01:15:08.682419",
   "navios": [
-    {
-      "navio": "LOG-IN EVOLUTION",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "20/10/2026",
-      "data_hora_iso": "2026-10-20T00:00:00",
-      "calado": "8,70/9,10",
-      "rota": "Bacia 1",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "NYK DIANA",
       "status": "ManobraPrevista",
@@ -49,6 +39,16 @@
       "calado": "11,60/11,70",
       "rota": "Bacia 2",
       "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
+      "navio": "LOG-IN EVOLUTION",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "21/10/2026",
+      "data_hora_iso": "2026-10-21T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {

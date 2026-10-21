@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-20T22:04:07.296798",
+  "gerado_em": "2026-10-21T01:15:14.733483",
   "navios": [
     {
       "navio": "Keyaki Fortune",
@@ -11,7 +11,7 @@
       "data_manobra": "20/10/2026 21:15",
       "data_manobra_iso": "2026-10-20T21:15:00",
       "berco": "301 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -24,7 +24,7 @@
       "data_manobra": "20/10/2026 21:45",
       "data_manobra_iso": "2026-10-20T21:45:00",
       "berco": "BARRA 102",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -37,7 +37,7 @@
       "data_manobra": "20/10/2026 21:45",
       "data_manobra_iso": "2026-10-20T21:45:00",
       "berco": "102 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -236,6 +236,19 @@
       "secao": "Navios Fundeados (Barra)"
     },
     {
+      "navio": "Zim Bangkok",
+      "imo": "9936525",
+      "agencia": "ZIM DO BRASIL",
+      "data_chegada_texto": "20/10/2026 21:30",
+      "data_chegada_iso": "2026-10-20T21:30:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
       "navio": "CMA CGM Iron",
       "imo": "9996678",
       "agencia": "UNIMAR",
@@ -280,19 +293,6 @@
       "agencia": "LACHMANN",
       "data_chegada_texto": "22/10/2026 07:00",
       "data_chegada_iso": "2026-10-22T07:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Zim Bangkok",
-      "imo": "9936525",
-      "agencia": "ZIM DO BRASIL",
-      "data_chegada_texto": "22/10/2026 11:00",
-      "data_chegada_iso": "2026-10-22T11:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
