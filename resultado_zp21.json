@@ -1,14 +1,14 @@
 {
-  "gerado_em": "2026-10-22T05:44:22.399114",
+  "gerado_em": "2026-10-22T11:06:39.042831",
   "navios": [
     {
-      "navio": "MAERSK PANGANI",
+      "navio": "CMA CGM IRON",
       "status": "ManobraPrevista",
       "data_hora_texto": "22/10/2026",
       "data_hora_iso": "2026-10-22T00:00:00",
-      "calado": "10,00/11,15",
-      "rota": "",
-      "berco": "JBS 2",
+      "calado": "10,60/11,10",
+      "rota": "Bacia 2",
+      "berco": "PNAVE 02",
       "posicao": null
     },
     {
@@ -22,21 +22,11 @@
       "posicao": null
     },
     {
-      "navio": "CMA CGM IRON",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "22/10/2026",
-      "data_hora_iso": "2026-10-22T00:00:00",
-      "calado": "10,60/11,10",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
       "navio": "MSC MARIA MARILYN X",
       "status": "ManobraPrevista",
       "data_hora_texto": "22/10/2026",
       "data_hora_iso": "2026-10-22T00:00:00",
-      "calado": "TBC",
+      "calado": "10,90/11,60",
       "rota": "",
       "berco": "PNAVE 01",
       "posicao": null
@@ -72,6 +62,16 @@
       "posicao": null
     },
     {
+      "navio": "MAERSK PANGANI",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "22/10/2026",
+      "data_hora_iso": "2026-10-22T00:00:00",
+      "calado": "TBC",
+      "rota": "Bacia 1",
+      "berco": "JBS 2",
+      "posicao": null
+    },
+    {
       "navio": "MSC BASEL V",
       "status": "ManobraPrevista",
       "data_hora_texto": "23/10/2026",
@@ -86,7 +86,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "23/10/2026",
       "data_hora_iso": "2026-10-23T00:00:00",
-      "calado": "TBC",
+      "calado": "11,10 EK",
       "rota": "",
       "berco": "PNAVE",
       "posicao": null
