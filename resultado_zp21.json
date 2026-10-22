@@ -1,52 +1,12 @@
 {
-  "gerado_em": "2026-10-22T11:06:39.042831",
+  "gerado_em": "2026-10-22T16:34:57.673952",
   "navios": [
-    {
-      "navio": "CMA CGM IRON",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "22/10/2026",
-      "data_hora_iso": "2026-10-22T00:00:00",
-      "calado": "10,60/11,10",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
-      "navio": "STAR NORGE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "22/10/2026",
-      "data_hora_iso": "2026-10-22T00:00:00",
-      "calado": "9,82/10,77",
-      "rota": "Bacia 1",
-      "berco": "JBS 4",
-      "posicao": null
-    },
-    {
-      "navio": "MSC MARIA MARILYN X",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "22/10/2026",
-      "data_hora_iso": "2026-10-22T00:00:00",
-      "calado": "10,90/11,60",
-      "rota": "",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "BBC GANGES",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "22/10/2026",
-      "data_hora_iso": "2026-10-22T00:00:00",
-      "calado": "6,10/7,30",
-      "rota": "",
-      "berco": "TEPORTI",
-      "posicao": null
-    },
     {
       "navio": "FAGELGRACHT",
       "status": "ManobraPrevista",
       "data_hora_texto": "22/10/2026",
       "data_hora_iso": "2026-10-22T00:00:00",
-      "calado": "5,70/6,50",
+      "calado": "5,70/6,60",
       "rota": "",
       "berco": "BARRA DO RIO",
       "posicao": null
@@ -56,7 +16,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "22/10/2026",
       "data_hora_iso": "2026-10-22T00:00:00",
-      "calado": "TBC",
+      "calado": "10,30/10,90",
       "rota": "Bacia 1",
       "berco": "PNAVE 01",
       "posicao": null
@@ -66,17 +26,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "22/10/2026",
       "data_hora_iso": "2026-10-22T00:00:00",
-      "calado": "TBC",
-      "rota": "Bacia 1",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "MSC BASEL V",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "23/10/2026",
-      "data_hora_iso": "2026-10-23T00:00:00",
-      "calado": "TBC",
+      "calado": "11,10/11,60",
       "rota": "Bacia 1",
       "berco": "JBS 2",
       "posicao": null
@@ -89,6 +39,26 @@
       "calado": "11,10 EK",
       "rota": "",
       "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "BBC GANGES",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "23/10/2026",
+      "data_hora_iso": "2026-10-23T00:00:00",
+      "calado": "6,10/7,30",
+      "rota": "",
+      "berco": "TEPORTI",
+      "posicao": null
+    },
+    {
+      "navio": "CMA CGM IRON",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "23/10/2026",
+      "data_hora_iso": "2026-10-23T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE 02",
       "posicao": null
     },
     {
@@ -189,6 +159,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "MSC BASEL V",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "26/10/2026",
+      "data_hora_iso": "2026-10-26T00:00:00",
+      "calado": "TBC",
+      "rota": "Bacia 1",
+      "berco": "JBS",
       "posicao": null
     },
     {
