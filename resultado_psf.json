@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-21T21:13:13.232198",
+  "gerado_em": "2026-10-22T00:25:21.327412",
   "navios": [
     {
       "navio": "Caipirinha",
@@ -11,7 +11,7 @@
       "data_manobra": "21/10/2026 19:30",
       "data_manobra_iso": "2026-10-21T19:30:00",
       "berco": "BARRA 302",
-      "situacao": "Confirmado",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {

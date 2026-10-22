@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-10-21T21:13:07.093135",
+  "gerado_em": "2026-10-22T00:25:15.027403",
   "navios": [
-    {
-      "navio": "SANTA INES",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "21/10/2026",
-      "data_hora_iso": "2026-10-21T00:00:00",
-      "calado": "10,80/11,10",
-      "rota": "Bacia 2",
-      "berco": "JBS 2",
-      "posicao": null
-    },
     {
       "navio": "MSC INSA",
       "status": "ManobraPrevista",
@@ -26,7 +16,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "21/10/2026",
       "data_hora_iso": "2026-10-21T00:00:00",
-      "calado": "8,80/10,60",
+      "calado": "8,80/10,50",
       "rota": "Bacia 2",
       "berco": "PNAVE 01",
       "posicao": null
@@ -46,7 +36,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "22/10/2026",
       "data_hora_iso": "2026-10-22T00:00:00",
-      "calado": "9,20/10,60",
+      "calado": "9,82/10,77",
       "rota": "Bacia 1",
       "berco": "JBS 4",
       "posicao": null
@@ -62,21 +52,11 @@
       "posicao": null
     },
     {
-      "navio": "EVER FIT",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "22/10/2026",
-      "data_hora_iso": "2026-10-22T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE",
-      "posicao": null
-    },
-    {
       "navio": "BBC GANGES",
       "status": "ManobraPrevista",
       "data_hora_texto": "22/10/2026",
       "data_hora_iso": "2026-10-22T00:00:00",
-      "calado": "TBC",
+      "calado": "6,10/7,30",
       "rota": "",
       "berco": "TEPORTI",
       "posicao": null
@@ -97,18 +77,8 @@
       "data_hora_texto": "22/10/2026",
       "data_hora_iso": "2026-10-22T00:00:00",
       "calado": "TBC",
-      "rota": "",
+      "rota": "Bacia 1",
       "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "ATLANTIC ACANTHUS",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "23/10/2026",
-      "data_hora_iso": "2026-10-23T00:00:00",
-      "calado": "3,10/5,85",
-      "rota": "",
-      "berco": "BRASKARNE",
       "posicao": null
     },
     {
@@ -117,8 +87,28 @@
       "data_hora_texto": "23/10/2026",
       "data_hora_iso": "2026-10-23T00:00:00",
       "calado": "TBC",
-      "rota": "",
+      "rota": "Bacia 1",
       "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "EVER FIT",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "23/10/2026",
+      "data_hora_iso": "2026-10-23T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "ATLANTIC ACANTHUS",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "24/10/2026",
+      "data_hora_iso": "2026-10-24T00:00:00",
+      "calado": "3,10/5,85",
+      "rota": "",
+      "berco": "BRASKARNE",
       "posicao": null
     },
     {
