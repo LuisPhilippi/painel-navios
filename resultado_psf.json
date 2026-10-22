@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-22T20:24:55.676365",
+  "gerado_em": "2026-10-22T23:52:41.954170",
   "navios": [
     {
       "navio": "Laax",
@@ -11,7 +11,7 @@
       "data_manobra": "22/10/2026 19:00",
       "data_manobra_iso": "2026-10-22T19:00:00",
       "berco": "BARRA 301",
-      "situacao": "Confirmado",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -24,7 +24,7 @@
       "data_manobra": "22/10/2026 21:00",
       "data_manobra_iso": "2026-10-22T21:00:00",
       "berco": "BARRA 201",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -37,7 +37,7 @@
       "data_manobra": "22/10/2026 21:00",
       "data_manobra_iso": "2026-10-22T21:00:00",
       "berco": "201 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -47,8 +47,8 @@
       "data_chegada_texto": "22/10/2026 15:12",
       "data_chegada_iso": "2026-10-22T15:12:00",
       "manobra": "Entrada e Atracação",
-      "data_manobra": "23/10/2026 05:30",
-      "data_manobra_iso": "2026-10-23T05:30:00",
+      "data_manobra": "23/10/2026 06:00",
+      "data_manobra_iso": "2026-10-23T06:00:00",
       "berco": "BARRA 901",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
@@ -60,8 +60,8 @@
       "data_chegada_texto": "21/10/2026 10:14",
       "data_chegada_iso": "2026-10-21T10:14:00",
       "manobra": "Desatracação e Saída",
-      "data_manobra": "23/10/2026 05:30",
-      "data_manobra_iso": "2026-10-23T05:30:00",
+      "data_manobra": "23/10/2026 06:00",
+      "data_manobra_iso": "2026-10-23T06:00:00",
       "berco": "901 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"

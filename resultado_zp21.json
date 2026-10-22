@@ -1,54 +1,24 @@
 {
-  "gerado_em": "2026-10-22T20:24:49.559621",
+  "gerado_em": "2026-10-22T23:52:35.385836",
   "navios": [
-    {
-      "navio": "LOG-IN RESILIENTE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "22/10/2026",
-      "data_hora_iso": "2026-10-22T00:00:00",
-      "calado": "10,30/10,90",
-      "rota": "Bacia 1",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "MAERSK PANGANI",
       "status": "ManobraPrevista",
       "data_hora_texto": "22/10/2026",
       "data_hora_iso": "2026-10-22T00:00:00",
-      "calado": "10,75/11,00",
+      "calado": "10,60/11,00",
       "rota": "Bacia 1",
       "berco": "JBS 2",
       "posicao": null
     },
     {
-      "navio": "CMA CGM IRON",
+      "navio": "LOG-IN RESILIENTE",
       "status": "ManobraPrevista",
       "data_hora_texto": "23/10/2026",
       "data_hora_iso": "2026-10-23T00:00:00",
-      "calado": "TBC",
+      "calado": "8,50/8,70",
       "rota": "",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
-      "navio": "EVER FIT",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "23/10/2026",
-      "data_hora_iso": "2026-10-23T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
-      "navio": "FAGELGRACHT",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "23/10/2026",
-      "data_hora_iso": "2026-10-23T00:00:00",
-      "calado": "4,50/5,90",
-      "rota": "",
-      "berco": "BARRA DO RIO",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
@@ -62,13 +32,33 @@
       "posicao": null
     },
     {
-      "navio": "ATLANTIC ACANTHUS",
+      "navio": "FAGELGRACHT",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "23/10/2026",
+      "data_hora_iso": "2026-10-23T00:00:00",
+      "calado": "4,50/5,90",
+      "rota": "",
+      "berco": "BARRA DO RIO",
+      "posicao": null
+    },
+    {
+      "navio": "CMA CGM IRON",
       "status": "ManobraPrevista",
       "data_hora_texto": "24/10/2026",
       "data_hora_iso": "2026-10-24T00:00:00",
-      "calado": "3,10/5,85",
+      "calado": "9,80/10,30",
       "rota": "",
-      "berco": "BRASKARNE",
+      "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
+      "navio": "EVER FIT",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "24/10/2026",
+      "data_hora_iso": "2026-10-24T00:00:00",
+      "calado": "11,10 EK",
+      "rota": "",
+      "berco": "PNAVE",
       "posicao": null
     },
     {
@@ -132,6 +122,16 @@
       "posicao": null
     },
     {
+      "navio": "ATLANTIC ACANTHUS",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "25/10/2026",
+      "data_hora_iso": "2026-10-25T00:00:00",
+      "calado": "3,10/5,85",
+      "rota": "",
+      "berco": "BRASKARNE",
+      "posicao": null
+    },
+    {
       "navio": "MSC SAMIRA III",
       "status": "ManobraPrevista",
       "data_hora_texto": "25/10/2026",
@@ -177,8 +177,8 @@
       "data_hora_texto": "26/10/2026",
       "data_hora_iso": "2026-10-26T00:00:00",
       "calado": "TBC",
-      "rota": "Bacia 1",
-      "berco": "JBS",
+      "rota": "",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
