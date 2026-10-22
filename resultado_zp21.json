@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-10-22T16:34:57.673952",
+  "gerado_em": "2026-10-22T20:24:49.559621",
   "navios": [
-    {
-      "navio": "FAGELGRACHT",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "22/10/2026",
-      "data_hora_iso": "2026-10-22T00:00:00",
-      "calado": "5,70/6,60",
-      "rota": "",
-      "berco": "BARRA DO RIO",
-      "posicao": null
-    },
     {
       "navio": "LOG-IN RESILIENTE",
       "status": "ManobraPrevista",
@@ -26,29 +16,9 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "22/10/2026",
       "data_hora_iso": "2026-10-22T00:00:00",
-      "calado": "11,10/11,60",
+      "calado": "10,75/11,00",
       "rota": "Bacia 1",
       "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "EVER FIT",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "23/10/2026",
-      "data_hora_iso": "2026-10-23T00:00:00",
-      "calado": "11,10 EK",
-      "rota": "",
-      "berco": "PNAVE",
-      "posicao": null
-    },
-    {
-      "navio": "BBC GANGES",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "23/10/2026",
-      "data_hora_iso": "2026-10-23T00:00:00",
-      "calado": "6,10/7,30",
-      "rota": "",
-      "berco": "TEPORTI",
       "posicao": null
     },
     {
@@ -59,6 +29,36 @@
       "calado": "TBC",
       "rota": "",
       "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
+      "navio": "EVER FIT",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "23/10/2026",
+      "data_hora_iso": "2026-10-23T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
+      "navio": "FAGELGRACHT",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "23/10/2026",
+      "data_hora_iso": "2026-10-23T00:00:00",
+      "calado": "4,50/5,90",
+      "rota": "",
+      "berco": "BARRA DO RIO",
+      "posicao": null
+    },
+    {
+      "navio": "BBC GANGES",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "23/10/2026",
+      "data_hora_iso": "2026-10-23T00:00:00",
+      "calado": "6,10/7,30",
+      "rota": "",
+      "berco": "TEPORTI",
       "posicao": null
     },
     {
@@ -79,6 +79,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "ZIM WILMINGTON",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "24/10/2026",
+      "data_hora_iso": "2026-10-24T00:00:00",
+      "calado": "10,90/11,70",
+      "rota": "",
+      "berco": "JBS",
       "posicao": null
     },
     {
@@ -226,6 +236,16 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "30/10/2026",
       "data_hora_iso": "2026-10-30T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "PATMOS EXPRESS",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "31/10/2026",
+      "data_hora_iso": "2026-10-31T00:00:00",
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
