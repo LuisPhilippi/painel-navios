@@ -1,26 +1,6 @@
 {
-  "gerado_em": "2026-10-22T00:25:15.027403",
+  "gerado_em": "2026-10-22T05:44:22.399114",
   "navios": [
-    {
-      "navio": "MSC INSA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "21/10/2026",
-      "data_hora_iso": "2026-10-21T00:00:00",
-      "calado": "10,70/11,40",
-      "rota": "",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
-      "navio": "MSC MARIA MARILYN X",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "21/10/2026",
-      "data_hora_iso": "2026-10-21T00:00:00",
-      "calado": "8,80/10,50",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "MAERSK PANGANI",
       "status": "ManobraPrevista",
@@ -49,6 +29,16 @@
       "calado": "10,60/11,10",
       "rota": "Bacia 2",
       "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
+      "navio": "MSC MARIA MARILYN X",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "22/10/2026",
+      "data_hora_iso": "2026-10-22T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {

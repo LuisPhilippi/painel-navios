@@ -1,19 +1,6 @@
 {
-  "gerado_em": "2026-10-22T00:25:21.327412",
+  "gerado_em": "2026-10-22T05:44:28.717502",
   "navios": [
-    {
-      "navio": "Caipirinha",
-      "imo": "9714769",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "19/10/2026 11:45",
-      "data_chegada_iso": "2026-10-19T11:45:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "21/10/2026 19:30",
-      "data_manobra_iso": "2026-10-21T19:30:00",
-      "berco": "BARRA 302",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Vicente Pinzon",
       "imo": "9625396",
@@ -115,6 +102,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "201",
+      "situacao": null,
+      "secao": "Navios Atracados"
+    },
+    {
+      "navio": "Caipirinha",
+      "imo": "9714769",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "19/10/2026 11:45",
+      "data_chegada_iso": "2026-10-19T11:45:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "302",
       "situacao": null,
       "secao": "Navios Atracados"
     },
