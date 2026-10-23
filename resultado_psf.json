@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-23T03:15:33.063423",
+  "gerado_em": "2026-10-23T09:16:16.288414",
   "navios": [
     {
       "navio": "Maersk Freeport",
@@ -11,7 +11,7 @@
       "data_manobra": "23/10/2026 06:00",
       "data_manobra_iso": "2026-10-23T06:00:00",
       "berco": "BARRA 901",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -24,7 +24,7 @@
       "data_manobra": "23/10/2026 06:00",
       "data_manobra_iso": "2026-10-23T06:00:00",
       "berco": "901 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {

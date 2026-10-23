@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-10-23T03:15:26.841752",
+  "gerado_em": "2026-10-23T09:16:09.742084",
   "navios": [
-    {
-      "navio": "LOG-IN RESILIENTE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "23/10/2026",
-      "data_hora_iso": "2026-10-23T00:00:00",
-      "calado": "8,30/8,50",
-      "rota": "",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "BBC GANGES",
       "status": "ManobraPrevista",
