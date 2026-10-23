@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-23T14:39:14.028443",
+  "gerado_em": "2026-10-23T18:52:43.238048",
   "navios": [
     {
       "navio": "Mercosul Guarujá",
@@ -11,7 +11,7 @@
       "data_manobra": "23/10/2026 17:30",
       "data_manobra_iso": "2026-10-23T17:30:00",
       "berco": "BARRA 902",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Navios Esperados"
     },
     {
@@ -24,7 +24,7 @@
       "data_manobra": "23/10/2026 17:30",
       "data_manobra_iso": "2026-10-23T17:30:00",
       "berco": "902 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -147,7 +147,7 @@
     {
       "navio": "Unity Spirit",
       "imo": "9725938",
-      "agencia": "LITORAL",
+      "agencia": "OCEÂNICA",
       "data_chegada_texto": "14/10/2026 15:12",
       "data_chegada_iso": "2026-10-14T15:12:00",
       "manobra": null,
@@ -652,11 +652,37 @@
       "secao": "Navios Esperados"
     },
     {
+      "navio": "Leader",
+      "imo": "9591973",
+      "agencia": "LITORAL",
+      "data_chegada_texto": "05/11/2026 11:00",
+      "data_chegada_iso": "2026-11-05T11:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "SFS",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
       "navio": "Equinox",
       "imo": "9587879",
       "agencia": "ZPORT AGENCIA",
       "data_chegada_texto": "06/11/2026 19:00",
       "data_chegada_iso": "2026-11-06T19:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "SFS",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Fortune Olive",
+      "imo": "1061441",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "08/11/2026 11:00",
+      "data_chegada_iso": "2026-11-08T11:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
@@ -683,6 +709,19 @@
       "agencia": "CARGONAVE",
       "data_chegada_texto": "15/11/2026 08:00",
       "data_chegada_iso": "2026-11-15T08:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "SFS",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Star Pisces",
+      "imo": "9715854",
+      "agencia": "CARGONAVE",
+      "data_chegada_texto": "21/11/2026 10:00",
+      "data_chegada_iso": "2026-11-21T10:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
