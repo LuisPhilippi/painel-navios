@@ -1,45 +1,6 @@
 {
-  "gerado_em": "2026-10-22T23:52:41.954170",
+  "gerado_em": "2026-10-23T03:15:33.063423",
   "navios": [
-    {
-      "navio": "Laax",
-      "imo": "9512355",
-      "agencia": "ALPHAMAR",
-      "data_chegada_texto": "14/10/2026 03:40",
-      "data_chegada_iso": "2026-10-14T03:40:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "22/10/2026 19:00",
-      "data_manobra_iso": "2026-10-22T19:00:00",
-      "berco": "BARRA 301",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "CL Changsha",
-      "imo": "9953286",
-      "agencia": "SEATRADE",
-      "data_chegada_texto": "11/10/2026 01:57",
-      "data_chegada_iso": "2026-10-11T01:57:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "22/10/2026 21:00",
-      "data_manobra_iso": "2026-10-22T21:00:00",
-      "berco": "BARRA 201",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Port Oshima",
-      "imo": "9932804",
-      "agencia": "SEATRADE",
-      "data_chegada_texto": "05/10/2026 18:15",
-      "data_chegada_iso": "2026-10-05T18:15:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "22/10/2026 21:00",
-      "data_manobra_iso": "2026-10-22T21:00:00",
-      "berco": "201 BARRA",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Maersk Freeport",
       "imo": "9991202",
@@ -128,6 +89,32 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "102",
+      "situacao": null,
+      "secao": "Navios Atracados"
+    },
+    {
+      "navio": "CL Changsha",
+      "imo": "9953286",
+      "agencia": "SEATRADE",
+      "data_chegada_texto": "11/10/2026 01:57",
+      "data_chegada_iso": "2026-10-11T01:57:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "201",
+      "situacao": null,
+      "secao": "Navios Atracados"
+    },
+    {
+      "navio": "Laax",
+      "imo": "9512355",
+      "agencia": "ALPHAMAR",
+      "data_chegada_texto": "14/10/2026 03:40",
+      "data_chegada_iso": "2026-10-14T03:40:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "301",
       "situacao": null,
       "secao": "Navios Atracados"
     },
@@ -239,14 +226,14 @@
       "navio": "Maersk Venezia",
       "imo": "9344681",
       "agencia": "LACHMANN",
-      "data_chegada_texto": "23/10/2026 13:00",
-      "data_chegada_iso": "2026-10-23T13:00:00",
+      "data_chegada_texto": "22/10/2026 19:30",
+      "data_chegada_iso": "2026-10-22T19:30:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "ITAPOÁ",
       "situacao": null,
-      "secao": "Navios Esperados"
+      "secao": "Navios Fundeados (Barra)"
     },
     {
       "navio": "Obi Island",

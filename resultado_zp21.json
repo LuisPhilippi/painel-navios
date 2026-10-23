@@ -1,22 +1,12 @@
 {
-  "gerado_em": "2026-10-22T23:52:35.385836",
+  "gerado_em": "2026-10-23T03:15:26.841752",
   "navios": [
-    {
-      "navio": "MAERSK PANGANI",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "22/10/2026",
-      "data_hora_iso": "2026-10-22T00:00:00",
-      "calado": "10,60/11,00",
-      "rota": "Bacia 1",
-      "berco": "JBS 2",
-      "posicao": null
-    },
     {
       "navio": "LOG-IN RESILIENTE",
       "status": "ManobraPrevista",
       "data_hora_texto": "23/10/2026",
       "data_hora_iso": "2026-10-23T00:00:00",
-      "calado": "8,50/8,70",
+      "calado": "8,30/8,50",
       "rota": "",
       "berco": "PNAVE 01",
       "posicao": null
