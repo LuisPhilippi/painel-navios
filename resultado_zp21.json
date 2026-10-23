@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-23T18:52:37.238461",
+  "gerado_em": "2026-10-23T21:50:16.999173",
   "navios": [
     {
       "navio": "CMA CGM IRON",
@@ -17,8 +17,18 @@
       "data_hora_texto": "24/10/2026",
       "data_hora_iso": "2026-10-24T00:00:00",
       "calado": "11,10 EK",
+      "rota": "Bacia 2",
+      "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
+      "navio": "BBC GANGES",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "24/10/2026",
+      "data_hora_iso": "2026-10-24T00:00:00",
+      "calado": "7,50 MAX",
       "rota": "",
-      "berco": "PNAVE",
+      "berco": "TEPORTI",
       "posicao": null
     },
     {
@@ -28,17 +38,7 @@
       "data_hora_iso": "2026-10-24T00:00:00",
       "calado": "10,90/11,70",
       "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
-      "navio": "BBC GANGES",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "25/10/2026",
-      "data_hora_iso": "2026-10-25T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "TEPORTI",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -48,17 +48,7 @@
       "data_hora_iso": "2026-10-25T00:00:00",
       "calado": "10,00/10,30",
       "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
-      "navio": "MAERSK VENEZIA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "25/10/2026",
-      "data_hora_iso": "2026-10-25T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS",
+      "berco": "JBS 4",
       "posicao": null
     },
     {
@@ -67,7 +57,7 @@
       "data_hora_texto": "25/10/2026",
       "data_hora_iso": "2026-10-25T00:00:00",
       "calado": "TBC",
-      "rota": "",
+      "rota": "Bacia 1",
       "berco": "BRASKARNE",
       "posicao": null
     },
@@ -82,16 +72,6 @@
       "posicao": null
     },
     {
-      "navio": "MSC SAMIRA III",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "25/10/2026",
-      "data_hora_iso": "2026-10-25T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
       "navio": "LOG-IN JATOBÁ",
       "status": "ManobraPrevista",
       "data_hora_texto": "25/10/2026",
@@ -99,6 +79,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "MAERSK VENEZIA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "25/10/2026",
+      "data_hora_iso": "2026-10-25T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -138,7 +128,7 @@
       "data_hora_iso": "2026-10-26T00:00:00",
       "calado": "8,00/10,40",
       "rota": "",
-      "berco": "JBS",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -149,6 +139,26 @@
       "calado": "TBC",
       "rota": "",
       "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "KOTA SINGA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "26/10/2026",
+      "data_hora_iso": "2026-10-26T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "MSC SAMIRA III",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "26/10/2026",
+      "data_hora_iso": "2026-10-26T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
       "posicao": null
     },
     {
