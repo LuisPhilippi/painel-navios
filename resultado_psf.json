@@ -1,19 +1,6 @@
 {
-  "gerado_em": "2026-10-24T20:09:51.601208",
+  "gerado_em": "2026-10-24T22:52:09.645746",
   "navios": [
-    {
-      "navio": "Ocean Relay",
-      "imo": "9584229",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "21/10/2026 05:30",
-      "data_chegada_iso": "2026-10-21T05:30:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "25/10/2026 00:15",
-      "data_manobra_iso": "2026-10-25T00:15:00",
-      "berco": "BARRA 302",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Maersk Venezia",
       "imo": "9344681",
@@ -21,11 +8,37 @@
       "data_chegada_texto": "22/10/2026 19:30",
       "data_chegada_iso": "2026-10-22T19:30:00",
       "manobra": "Desatracação e Saída",
-      "data_manobra": "25/10/2026 01:00",
-      "data_manobra_iso": "2026-10-25T01:00:00",
+      "data_manobra": "24/10/2026 22:00",
+      "data_manobra_iso": "2026-10-24T22:00:00",
       "berco": "901 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
+    },
+    {
+      "navio": "Ocean Relay",
+      "imo": "9584229",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "21/10/2026 05:30",
+      "data_chegada_iso": "2026-10-21T05:30:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "24/10/2026 23:30",
+      "data_manobra_iso": "2026-10-24T23:30:00",
+      "berco": "BARRA 302",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Barcaça N12",
+      "imo": "9326031",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "25/10/2026 09:00",
+      "data_chegada_iso": "2026-10-25T09:00:00",
+      "manobra": "Entrada e Fundeio",
+      "data_manobra": "25/10/2026 09:00",
+      "data_manobra_iso": "2026-10-25T09:00:00",
+      "berco": "BARRA F4 (P1)",
+      "situacao": "A Confirmar",
+      "secao": "Navios Esperados"
     },
     {
       "navio": "Devbulk Kaya",
@@ -65,19 +78,6 @@
       "berco": "F5 102",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
-    },
-    {
-      "navio": "Barcaça N12",
-      "imo": "9326031",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "25/10/2026 14:00",
-      "data_chegada_iso": "2026-10-25T14:00:00",
-      "manobra": "Entrada e Fundeio",
-      "data_manobra": "25/10/2026 14:30",
-      "data_manobra_iso": "2026-10-25T14:30:00",
-      "berco": "BARRA F4 (P1)",
-      "situacao": "A Confirmar",
-      "secao": "Navios Esperados"
     },
     {
       "navio": "Maersk Lota",

@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-24T20:09:45.285423",
+  "gerado_em": "2026-10-24T22:52:03.391345",
   "navios": [
     {
       "navio": "EVER FIT",
@@ -77,7 +77,7 @@
       "data_hora_texto": "26/10/2026",
       "data_hora_iso": "2026-10-26T00:00:00",
       "calado": "TBC",
-      "rota": "",
+      "rota": "Bacia 2",
       "berco": "PNAVE 01",
       "posicao": null
     },
@@ -86,7 +86,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "26/10/2026",
       "data_hora_iso": "2026-10-26T00:00:00",
-      "calado": "TBC",
+      "calado": "11,10/11,20",
       "rota": "",
       "berco": "PNAVE 02",
       "posicao": null
