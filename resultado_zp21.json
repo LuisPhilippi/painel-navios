@@ -1,44 +1,24 @@
 {
-  "gerado_em": "2026-10-24T10:14:16.647158",
+  "gerado_em": "2026-10-24T14:14:15.613409",
   "navios": [
-    {
-      "navio": "CMA CGM IRON",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "24/10/2026",
-      "data_hora_iso": "2026-10-24T00:00:00",
-      "calado": "9,70/10,30",
-      "rota": "",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
-      "navio": "EVER FIT",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "24/10/2026",
-      "data_hora_iso": "2026-10-24T00:00:00",
-      "calado": "11,10 EK",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
-      "navio": "BBC GANGES",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "24/10/2026",
-      "data_hora_iso": "2026-10-24T00:00:00",
-      "calado": "7,50 MAX",
-      "rota": "",
-      "berco": "TEPORTI",
-      "posicao": null
-    },
     {
       "navio": "ZIM WILMINGTON",
       "status": "ManobraPrevista",
       "data_hora_texto": "24/10/2026",
       "data_hora_iso": "2026-10-24T00:00:00",
-      "calado": "10,80/11,80",
+      "calado": "11,00/11,60",
       "rota": "",
       "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "EVER FIT",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "25/10/2026",
+      "data_hora_iso": "2026-10-25T00:00:00",
+      "calado": "9,70 EK",
+      "rota": "",
+      "berco": "PNAVE 02",
       "posicao": null
     },
     {
@@ -52,6 +32,16 @@
       "posicao": null
     },
     {
+      "navio": "LOG-IN JATOBÁ",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "25/10/2026",
+      "data_hora_iso": "2026-10-25T00:00:00",
+      "calado": "11,20/11,40",
+      "rota": "",
+      "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
       "navio": "MSC SHUBA B",
       "status": "ManobraPrevista",
       "data_hora_texto": "25/10/2026",
@@ -62,13 +52,13 @@
       "posicao": null
     },
     {
-      "navio": "LOG-IN JATOBÁ",
+      "navio": "BBC GANGES",
       "status": "ManobraPrevista",
       "data_hora_texto": "25/10/2026",
       "data_hora_iso": "2026-10-25T00:00:00",
-      "calado": "TBC",
+      "calado": "7,50 MAX",
       "rota": "",
-      "berco": "PNAVE 01",
+      "berco": "TEPORTI",
       "posicao": null
     },
     {
@@ -76,7 +66,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "25/10/2026",
       "data_hora_iso": "2026-10-25T00:00:00",
-      "calado": "TBC",
+      "calado": "8,90/9,10",
       "rota": "",
       "berco": "JBS 2",
       "posicao": null
@@ -230,6 +220,16 @@
       "rota": "",
       "berco": "JBS",
       "posicao": null
+    },
+    {
+      "navio": "ABU AL ABYAD",
+      "status": "Fundeado",
+      "data_hora_texto": "24/10/2026 - 10:18",
+      "data_hora_iso": "2026-10-24T10:18:00",
+      "calado": "4,50/6,90",
+      "rota": "",
+      "berco": null,
+      "posicao": "26 57,83 S / 048 31,22 W"
     },
     {
       "navio": "REBOCADOR TRITÃO",
