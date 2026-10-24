@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-24T05:21:49.912674",
+  "gerado_em": "2026-10-24T10:14:16.647158",
   "navios": [
     {
       "navio": "CMA CGM IRON",
@@ -36,7 +36,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "24/10/2026",
       "data_hora_iso": "2026-10-24T00:00:00",
-      "calado": "10,90/11,70",
+      "calado": "10,80/11,80",
       "rota": "",
       "berco": "JBS 2",
       "posicao": null
