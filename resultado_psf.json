@@ -1,45 +1,6 @@
 {
-  "gerado_em": "2026-10-24T00:15:00.227076",
+  "gerado_em": "2026-10-24T05:21:55.864553",
   "navios": [
-    {
-      "navio": "Maye Manx",
-      "imo": "9931549",
-      "agencia": "LITORAL",
-      "data_chegada_texto": "12/10/2026 23:30",
-      "data_chegada_iso": "2026-10-12T23:30:00",
-      "manobra": "Desatracação e Fundeio",
-      "data_manobra": "23/10/2026 22:30",
-      "data_manobra_iso": "2026-10-23T22:30:00",
-      "berco": "101 F3",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Patron",
-      "imo": "9721308",
-      "agencia": "CARGONAVE",
-      "data_chegada_texto": "16/10/2026 12:04",
-      "data_chegada_iso": "2026-10-16T12:04:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "23/10/2026 22:45",
-      "data_manobra_iso": "2026-10-23T22:45:00",
-      "berco": "BARRA 101",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Maersk Venezia",
-      "imo": "9344681",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "22/10/2026 19:30",
-      "data_chegada_iso": "2026-10-22T19:30:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "24/10/2026 07:00",
-      "data_manobra_iso": "2026-10-24T07:00:00",
-      "berco": "BARRA 902",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Mercosul Guarujá",
       "imo": "9539494",
@@ -80,6 +41,19 @@
       "secao": "Movimentações"
     },
     {
+      "navio": "Maye Manx",
+      "imo": "9931549",
+      "agencia": "LITORAL",
+      "data_chegada_texto": "12/10/2026 23:30",
+      "data_chegada_iso": "2026-10-12T23:30:00",
+      "manobra": "Suspender e Sair",
+      "data_manobra": "24/10/2026 11:45",
+      "data_manobra_iso": "2026-10-24T11:45:00",
+      "berco": "F3 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
       "navio": "Unity Spirit",
       "imo": "9725938",
       "agencia": "OCEÂNICA",
@@ -104,6 +78,19 @@
       "berco": "BARRA 302",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
+    },
+    {
+      "navio": "Patron",
+      "imo": "9721308",
+      "agencia": "CARGONAVE",
+      "data_chegada_texto": "16/10/2026 12:04",
+      "data_chegada_iso": "2026-10-16T12:04:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "101",
+      "situacao": null,
+      "secao": "Navios Atracados"
     },
     {
       "navio": "Devbulk Kaya",
@@ -206,6 +193,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "TESC",
+      "situacao": null,
+      "secao": "Navios Fundeados (Barra)"
+    },
+    {
+      "navio": "Maersk Venezia",
+      "imo": "9344681",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "22/10/2026 19:30",
+      "data_chegada_iso": "2026-10-22T19:30:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": null,
       "situacao": null,
       "secao": "Navios Fundeados (Barra)"
     },
