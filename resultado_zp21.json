@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-10-24T14:14:15.613409",
+  "gerado_em": "2026-10-24T17:48:47.086010",
   "navios": [
-    {
-      "navio": "ZIM WILMINGTON",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "24/10/2026",
-      "data_hora_iso": "2026-10-24T00:00:00",
-      "calado": "11,00/11,60",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
     {
       "navio": "EVER FIT",
       "status": "ManobraPrevista",
@@ -59,6 +49,16 @@
       "calado": "7,50 MAX",
       "rota": "",
       "berco": "TEPORTI",
+      "posicao": null
+    },
+    {
+      "navio": "ZIM WILMINGTON",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "25/10/2026",
+      "data_hora_iso": "2026-10-25T00:00:00",
+      "calado": "10,00/10,80",
+      "rota": "",
+      "berco": "JBS 2",
       "posicao": null
     },
     {

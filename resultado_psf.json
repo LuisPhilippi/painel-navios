@@ -1,32 +1,6 @@
 {
-  "gerado_em": "2026-10-24T14:14:21.822297",
+  "gerado_em": "2026-10-24T17:48:54.268157",
   "navios": [
-    {
-      "navio": "Caipirinha",
-      "imo": "9714769",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "19/10/2026 11:45",
-      "data_chegada_iso": "2026-10-19T11:45:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "24/10/2026 11:45",
-      "data_manobra_iso": "2026-10-24T11:45:00",
-      "berco": "302 BARRA",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Maye Manx",
-      "imo": "9931549",
-      "agencia": "LITORAL",
-      "data_chegada_texto": "12/10/2026 23:30",
-      "data_chegada_iso": "2026-10-12T23:30:00",
-      "manobra": "Suspender e Sair",
-      "data_manobra": "24/10/2026 11:45",
-      "data_manobra_iso": "2026-10-24T11:45:00",
-      "berco": "F3 BARRA",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Unity Spirit",
       "imo": "9725938",
@@ -37,7 +11,7 @@
       "data_manobra": "24/10/2026 13:45",
       "data_manobra_iso": "2026-10-24T13:45:00",
       "berco": "BARRA F5",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
