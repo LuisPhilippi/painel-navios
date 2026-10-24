@@ -1,19 +1,6 @@
 {
-  "gerado_em": "2026-10-24T17:48:54.268157",
+  "gerado_em": "2026-10-24T20:09:51.601208",
   "navios": [
-    {
-      "navio": "Unity Spirit",
-      "imo": "9725938",
-      "agencia": "OCEÂNICA",
-      "data_chegada_texto": "14/10/2026 15:12",
-      "data_chegada_iso": "2026-10-14T15:12:00",
-      "manobra": "Entrada e Fundeio",
-      "data_manobra": "24/10/2026 13:45",
-      "data_manobra_iso": "2026-10-24T13:45:00",
-      "berco": "BARRA F5",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Ocean Relay",
       "imo": "9584229",
@@ -65,6 +52,19 @@
       "berco": "BARRA 902",
       "situacao": "A Confirmar",
       "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Unity Spirit",
+      "imo": "9725938",
+      "agencia": "OCEÂNICA",
+      "data_chegada_texto": "14/10/2026 15:12",
+      "data_chegada_iso": "2026-10-14T15:12:00",
+      "manobra": "Suspender e Atracar",
+      "data_manobra": "25/10/2026 13:00",
+      "data_manobra_iso": "2026-10-25T13:00:00",
+      "berco": "F5 102",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
     },
     {
       "navio": "Barcaça N12",
