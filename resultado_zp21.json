@@ -1,26 +1,6 @@
 {
-  "gerado_em": "2026-10-25T05:38:37.381085",
+  "gerado_em": "2026-10-25T10:39:22.869088",
   "navios": [
-    {
-      "navio": "EVER FIT",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "25/10/2026",
-      "data_hora_iso": "2026-10-25T00:00:00",
-      "calado": "9,70 EK",
-      "rota": "",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
-      "navio": "GREEN PARK",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "25/10/2026",
-      "data_hora_iso": "2026-10-25T00:00:00",
-      "calado": "10,00/10,30",
-      "rota": "",
-      "berco": "JBS 4",
-      "posicao": null
-    },
     {
       "navio": "LOG-IN JATOBÁ",
       "status": "ManobraPrevista",
@@ -139,6 +119,16 @@
       "calado": "4,00 EK",
       "rota": "",
       "berco": "DELEMAR",
+      "posicao": null
+    },
+    {
+      "navio": "GREEN PARK",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "26/10/2026",
+      "data_hora_iso": "2026-10-26T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS 4",
       "posicao": null
     },
     {
