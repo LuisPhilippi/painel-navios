@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-25T21:29:32.129584",
+  "gerado_em": "2026-10-25T23:46:36.960548",
   "navios": [
     {
       "navio": "Copiapo",
@@ -7,24 +7,11 @@
       "agencia": "ROCHAMAR",
       "data_chegada_texto": "25/10/2026 18:10",
       "data_chegada_iso": "2026-10-25T18:10:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "25/10/2026 18:00",
-      "data_manobra_iso": "2026-10-25T18:00:00",
-      "berco": "BARRA 902",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Maersk Lota",
-      "imo": "9526954",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "25/10/2026 18:10",
-      "data_chegada_iso": "2026-10-25T18:10:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "25/10/2026 18:15",
-      "data_manobra_iso": "2026-10-25T18:15:00",
-      "berco": "BARRA 901",
-      "situacao": "Em Andamento",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "26/10/2026 07:30",
+      "data_manobra_iso": "2026-10-26T07:30:00",
+      "berco": "902 BARRA",
+      "situacao": "A Confirmar",
       "secao": "Movimentações"
     },
     {
@@ -52,6 +39,19 @@
       "berco": "F5 102",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
+    },
+    {
+      "navio": "Maersk Lota",
+      "imo": "9526954",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "25/10/2026 18:10",
+      "data_chegada_iso": "2026-10-25T18:10:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "901",
+      "situacao": null,
+      "secao": "Navios Atracados"
     },
     {
       "navio": "Patron",

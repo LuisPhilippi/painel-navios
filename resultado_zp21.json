@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-10-25T21:29:25.799843",
+  "gerado_em": "2026-10-25T23:46:30.292917",
   "navios": [
-    {
-      "navio": "LOG-IN JATOBÁ",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "25/10/2026",
-      "data_hora_iso": "2026-10-25T00:00:00",
-      "calado": "10,20/11,40",
-      "rota": "",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "GREEN PARK",
       "status": "ManobraPrevista",
@@ -56,7 +46,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "26/10/2026",
       "data_hora_iso": "2026-10-26T00:00:00",
-      "calado": "TBC",
+      "calado": "9,90/10,20",
       "rota": "",
       "berco": "JBS 2",
       "posicao": null
@@ -92,10 +82,20 @@
       "posicao": null
     },
     {
-      "navio": "LADY KATERINA",
+      "navio": "KOTA SINGA",
       "status": "ManobraPrevista",
       "data_hora_texto": "26/10/2026",
       "data_hora_iso": "2026-10-26T00:00:00",
+      "calado": "TBC",
+      "rota": "Bacia 1",
+      "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
+      "navio": "LADY KATERINA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "27/10/2026",
+      "data_hora_iso": "2026-10-27T00:00:00",
       "calado": "TBC",
       "rota": "Bacia 1",
       "berco": "BRASKARNE",
@@ -104,21 +104,11 @@
     {
       "navio": "ATLANTIC ACANTHUS",
       "status": "ManobraPrevista",
-      "data_hora_texto": "26/10/2026",
-      "data_hora_iso": "2026-10-26T00:00:00",
-      "calado": "3,10/5,85",
-      "rota": "",
-      "berco": "BRASKARNE",
-      "posicao": null
-    },
-    {
-      "navio": "KOTA SINGA",
-      "status": "ManobraPrevista",
       "data_hora_texto": "27/10/2026",
       "data_hora_iso": "2026-10-27T00:00:00",
-      "calado": "TBC",
+      "calado": "3,00/5,90",
       "rota": "",
-      "berco": "PNAVE 01",
+      "berco": "BRASKARNE",
       "posicao": null
     },
     {
