@@ -1,31 +1,31 @@
 {
-  "gerado_em": "2026-10-25T18:05:34.749077",
+  "gerado_em": "2026-10-25T21:29:32.129584",
   "navios": [
     {
       "navio": "Copiapo",
       "imo": "9687526",
       "agencia": "ROCHAMAR",
-      "data_chegada_texto": "25/10/2026 12:00",
-      "data_chegada_iso": "2026-10-25T12:00:00",
+      "data_chegada_texto": "25/10/2026 18:10",
+      "data_chegada_iso": "2026-10-25T18:10:00",
       "manobra": "Entrada e Atracação",
       "data_manobra": "25/10/2026 18:00",
       "data_manobra_iso": "2026-10-25T18:00:00",
       "berco": "BARRA 902",
-      "situacao": "A Confirmar",
-      "secao": "Navios Esperados"
+      "situacao": "Em Andamento",
+      "secao": "Movimentações"
     },
     {
       "navio": "Maersk Lota",
       "imo": "9526954",
       "agencia": "LACHMANN",
-      "data_chegada_texto": "25/10/2026 15:00",
-      "data_chegada_iso": "2026-10-25T15:00:00",
+      "data_chegada_texto": "25/10/2026 18:10",
+      "data_chegada_iso": "2026-10-25T18:10:00",
       "manobra": "Entrada e Atracação",
       "data_manobra": "25/10/2026 18:15",
       "data_manobra_iso": "2026-10-25T18:15:00",
       "berco": "BARRA 901",
-      "situacao": "A Confirmar",
-      "secao": "Navios Esperados"
+      "situacao": "Em Andamento",
+      "secao": "Movimentações"
     },
     {
       "navio": "Devbulk Kaya",
