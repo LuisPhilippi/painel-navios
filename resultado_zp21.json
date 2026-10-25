@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-10-25T10:39:22.869088",
+  "gerado_em": "2026-10-25T14:46:25.967512",
   "navios": [
-    {
-      "navio": "LOG-IN JATOBÁ",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "25/10/2026",
-      "data_hora_iso": "2026-10-25T00:00:00",
-      "calado": "11,20/11,40",
-      "rota": "Bacia 1",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "MSC SHUBA B",
       "status": "ManobraPrevista",
@@ -19,16 +9,6 @@
       "calado": "11,70 EK",
       "rota": "Bacia 2",
       "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
-      "navio": "BBC GANGES",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "25/10/2026",
-      "data_hora_iso": "2026-10-25T00:00:00",
-      "calado": "7,50 MAX",
-      "rota": "",
-      "berco": "TEPORTI",
       "posicao": null
     },
     {
@@ -49,6 +29,26 @@
       "calado": "8,90/9,10",
       "rota": "Bacia 1",
       "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "LOG-IN JATOBÁ",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "25/10/2026",
+      "data_hora_iso": "2026-10-25T00:00:00",
+      "calado": "10,20/11,20",
+      "rota": "",
+      "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
+      "navio": "GREEN PARK",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "25/10/2026",
+      "data_hora_iso": "2026-10-25T00:00:00",
+      "calado": "10,50/11,10",
+      "rota": "Bacia 1",
+      "berco": "JBS 4",
       "posicao": null
     },
     {
@@ -78,16 +78,6 @@
       "data_hora_iso": "2026-10-26T00:00:00",
       "calado": "3,10/5,85",
       "rota": "",
-      "berco": "BRASKARNE",
-      "posicao": null
-    },
-    {
-      "navio": "LADY KATERINA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "26/10/2026",
-      "data_hora_iso": "2026-10-26T00:00:00",
-      "calado": "TBC",
-      "rota": "Bacia 1",
       "berco": "BRASKARNE",
       "posicao": null
     },
@@ -122,13 +112,23 @@
       "posicao": null
     },
     {
-      "navio": "GREEN PARK",
+      "navio": "BBC GANGES",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "26/10/2026",
+      "data_hora_iso": "2026-10-26T00:00:00",
+      "calado": "7,50 MAX",
+      "rota": "",
+      "berco": "TEPORTI",
+      "posicao": null
+    },
+    {
+      "navio": "LADY KATERINA",
       "status": "ManobraPrevista",
       "data_hora_texto": "26/10/2026",
       "data_hora_iso": "2026-10-26T00:00:00",
       "calado": "TBC",
-      "rota": "",
-      "berco": "JBS 4",
+      "rota": "Bacia 1",
+      "berco": "BRASKARNE",
       "posicao": null
     },
     {

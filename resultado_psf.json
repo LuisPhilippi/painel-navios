@@ -1,32 +1,6 @@
 {
-  "gerado_em": "2026-10-25T10:39:29.360200",
+  "gerado_em": "2026-10-25T14:46:32.527091",
   "navios": [
-    {
-      "navio": "Unity Spirit",
-      "imo": "9725938",
-      "agencia": "OCEÂNICA",
-      "data_chegada_texto": "14/10/2026 15:12",
-      "data_chegada_iso": "2026-10-14T15:12:00",
-      "manobra": "Reposicionamento (Garrou)",
-      "data_manobra": "25/10/2026 06:20",
-      "data_manobra_iso": "2026-10-25T06:20:00",
-      "berco": "F5 F5",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Barcaça N12",
-      "imo": "9326031",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "25/10/2026 09:00",
-      "data_chegada_iso": "2026-10-25T09:00:00",
-      "manobra": "Entrada e Fundeio",
-      "data_manobra": "25/10/2026 09:00",
-      "data_manobra_iso": "2026-10-25T09:00:00",
-      "berco": "BARRA F4 (P1)",
-      "situacao": "Confirmado",
-      "secao": "Navios Esperados"
-    },
     {
       "navio": "Copiapo",
       "imo": "9687526",
@@ -119,6 +93,19 @@
       "secao": "Navios Atracados"
     },
     {
+      "navio": "Unity Spirit",
+      "imo": "9725938",
+      "agencia": "OCEÂNICA",
+      "data_chegada_texto": "14/10/2026 15:12",
+      "data_chegada_iso": "2026-10-14T15:12:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "F5",
+      "situacao": null,
+      "secao": "Navios Fundeados (Internos)"
+    },
+    {
       "navio": "TSHD Galileo Galilei",
       "imo": "9872365",
       "agencia": "LITORAL",
@@ -128,6 +115,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "LJ Grande",
+      "situacao": null,
+      "secao": "Navios Fundeados (Internos)"
+    },
+    {
+      "navio": "Barcaça N12",
+      "imo": "9326031",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "25/10/2026 09:00",
+      "data_chegada_iso": "2026-10-25T09:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "F4 (P1)",
       "situacao": null,
       "secao": "Navios Fundeados (Internos)"
     },
@@ -226,14 +226,14 @@
       "navio": "Jamaica Bay",
       "imo": "9610717",
       "agencia": "WILSON SONS",
-      "data_chegada_texto": "25/10/2026 07:00",
-      "data_chegada_iso": "2026-10-25T07:00:00",
+      "data_chegada_texto": "25/10/2026 09:54",
+      "data_chegada_iso": "2026-10-25T09:54:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "TESC",
       "situacao": null,
-      "secao": "Navios Esperados"
+      "secao": "Navios Fundeados (Barra)"
     },
     {
       "navio": "Jasmine K",
