@@ -1,36 +1,6 @@
 {
-  "gerado_em": "2026-10-26T09:39:59.129894",
+  "gerado_em": "2026-10-26T16:38:09.406856",
   "navios": [
-    {
-      "navio": "MSC SHUBA B",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "26/10/2026",
-      "data_hora_iso": "2026-10-26T00:00:00",
-      "calado": "8,60/10,10",
-      "rota": "",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
-      "navio": "BREMERHAVEN EXPRESS",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "26/10/2026",
-      "data_hora_iso": "2026-10-26T00:00:00",
-      "calado": "11,10/11,20",
-      "rota": "",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
-      "navio": "MAERSK VENEZIA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "26/10/2026",
-      "data_hora_iso": "2026-10-26T00:00:00",
-      "calado": "9,90/10,20",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
     {
       "navio": "FRAGATA JERÔNIMO DE ALBUQUERQUE",
       "status": "ManobraPrevista",
@@ -39,6 +9,16 @@
       "calado": "4,00 EK",
       "rota": "",
       "berco": "DELEMAR",
+      "posicao": null
+    },
+    {
+      "navio": "BBC GANGES",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "26/10/2026",
+      "data_hora_iso": "2026-10-26T00:00:00",
+      "calado": "7,25/7,45",
+      "rota": "",
+      "berco": "TEPORTI",
       "posicao": null
     },
     {
@@ -52,13 +32,13 @@
       "posicao": null
     },
     {
-      "navio": "BBC GANGES",
+      "navio": "BREMERHAVEN EXPRESS",
       "status": "ManobraPrevista",
       "data_hora_texto": "26/10/2026",
       "data_hora_iso": "2026-10-26T00:00:00",
-      "calado": "7,50 MAX",
+      "calado": "11,10/11,20",
       "rota": "",
-      "berco": "TEPORTI",
+      "berco": "PNAVE 02",
       "posicao": null
     },
     {
@@ -66,7 +46,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "26/10/2026",
       "data_hora_iso": "2026-10-26T00:00:00",
-      "calado": "TBC",
+      "calado": "6,30/10,70",
       "rota": "Bacia 2",
       "berco": "PNAVE 01",
       "posicao": null
@@ -96,7 +76,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "27/10/2026",
       "data_hora_iso": "2026-10-27T00:00:00",
-      "calado": "TBC",
+      "calado": "10,00 EK",
       "rota": "",
       "berco": "PNAVE",
       "posicao": null
@@ -129,6 +109,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "LOG-IN JACARANDA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "28/10/2026",
+      "data_hora_iso": "2026-10-28T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
       "posicao": null
     },
     {
@@ -172,6 +162,46 @@
       "posicao": null
     },
     {
+      "navio": "PIO GRANDE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "30/10/2026",
+      "data_hora_iso": "2026-10-30T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "TEPORTI",
+      "posicao": null
+    },
+    {
+      "navio": "MSC MARIA LAURA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "30/10/2026",
+      "data_hora_iso": "2026-10-30T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "MSC AVNI",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "30/10/2026",
+      "data_hora_iso": "2026-10-30T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "MSC BUSAN VIII",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "31/10/2026",
+      "data_hora_iso": "2026-10-31T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
       "navio": "PATMOS EXPRESS",
       "status": "ManobraPrevista",
       "data_hora_texto": "31/10/2026",
@@ -179,6 +209,66 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "INDUSTRIAL CHARGER",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "31/10/2026",
+      "data_hora_iso": "2026-10-31T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "BARRA DO RIO",
+      "posicao": null
+    },
+    {
+      "navio": "CAPE ALTIUS",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "01/11/2026",
+      "data_hora_iso": "2026-11-01T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "LOG-IN RESILIENTE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "01/11/2026",
+      "data_hora_iso": "2026-11-01T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "CZECH",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "02/11/2026",
+      "data_hora_iso": "2026-11-02T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "NC BRAVO",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "02/11/2026",
+      "data_hora_iso": "2026-11-02T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "MSC CATERINA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "02/11/2026",
+      "data_hora_iso": "2026-11-02T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
       "posicao": null
     },
     {
