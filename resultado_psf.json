@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-26T03:04:01.965271",
+  "gerado_em": "2026-10-26T09:40:08.659036",
   "navios": [
     {
       "navio": "Copiapo",
@@ -8,35 +8,9 @@
       "data_chegada_texto": "25/10/2026 18:10",
       "data_chegada_iso": "2026-10-25T18:10:00",
       "manobra": "Desatracação e Saída",
-      "data_manobra": "26/10/2026 09:00",
-      "data_manobra_iso": "2026-10-26T09:00:00",
+      "data_manobra": "26/10/2026 14:00",
+      "data_manobra_iso": "2026-10-26T14:00:00",
       "berco": "902 BARRA",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Devbulk Kaya",
-      "imo": "9530711",
-      "agencia": "ZPORT AGENCIA",
-      "data_chegada_texto": "13/10/2026 14:00",
-      "data_chegada_iso": "2026-10-13T14:00:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "26/10/2026 13:15",
-      "data_manobra_iso": "2026-10-26T13:15:00",
-      "berco": "102 BARRA",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Unity Spirit",
-      "imo": "9725938",
-      "agencia": "OCEÂNICA",
-      "data_chegada_texto": "14/10/2026 15:12",
-      "data_chegada_iso": "2026-10-14T15:12:00",
-      "manobra": "Suspender e Atracar",
-      "data_manobra": "26/10/2026 13:15",
-      "data_manobra_iso": "2026-10-26T13:15:00",
-      "berco": "F5 102",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
     },
@@ -63,6 +37,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "101",
+      "situacao": null,
+      "secao": "Navios Atracados"
+    },
+    {
+      "navio": "Devbulk Kaya",
+      "imo": "9530711",
+      "agencia": "ZPORT AGENCIA",
+      "data_chegada_texto": "13/10/2026 14:00",
+      "data_chegada_iso": "2026-10-13T14:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "102",
       "situacao": null,
       "secao": "Navios Atracados"
     },
@@ -104,6 +91,19 @@
       "berco": "302",
       "situacao": null,
       "secao": "Navios Atracados"
+    },
+    {
+      "navio": "Unity Spirit",
+      "imo": "9725938",
+      "agencia": "OCEÂNICA",
+      "data_chegada_texto": "14/10/2026 15:12",
+      "data_chegada_iso": "2026-10-14T15:12:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "F5",
+      "situacao": null,
+      "secao": "Navios Fundeados (Internos)"
     },
     {
       "navio": "TSHD Galileo Galilei",
