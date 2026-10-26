@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-25T23:46:36.960548",
+  "gerado_em": "2026-10-26T03:04:01.965271",
   "navios": [
     {
       "navio": "Copiapo",
@@ -8,8 +8,8 @@
       "data_chegada_texto": "25/10/2026 18:10",
       "data_chegada_iso": "2026-10-25T18:10:00",
       "manobra": "Desatracação e Saída",
-      "data_manobra": "26/10/2026 07:30",
-      "data_manobra_iso": "2026-10-26T07:30:00",
+      "data_manobra": "26/10/2026 09:00",
+      "data_manobra_iso": "2026-10-26T09:00:00",
       "berco": "902 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
