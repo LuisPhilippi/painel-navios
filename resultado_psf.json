@@ -1,44 +1,18 @@
 {
-  "gerado_em": "2026-10-27T07:15:13.139754",
+  "gerado_em": "2026-10-27T13:55:13.568649",
   "navios": [
-    {
-      "navio": "Maersk Rubicon",
-      "imo": "9632480",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "27/10/2026 07:00",
-      "data_chegada_iso": "2026-10-27T07:00:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "27/10/2026 07:15",
-      "data_manobra_iso": "2026-10-27T07:15:00",
-      "berco": "BARRA 902",
-      "situacao": "A Confirmar",
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Maersk Lota",
-      "imo": "9526954",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "25/10/2026 18:10",
-      "data_chegada_iso": "2026-10-25T18:10:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "27/10/2026 07:15",
-      "data_manobra_iso": "2026-10-27T07:15:00",
-      "berco": "901 BARRA",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Cosco Shipping Brazil",
       "imo": "9945837",
       "agencia": "UNIMAR",
-      "data_chegada_texto": "27/10/2026 09:00",
-      "data_chegada_iso": "2026-10-27T09:00:00",
+      "data_chegada_texto": "27/10/2026 08:45",
+      "data_chegada_iso": "2026-10-27T08:45:00",
       "manobra": "Entrada e Atracação",
       "data_manobra": "27/10/2026 08:45",
       "data_manobra_iso": "2026-10-27T08:45:00",
       "berco": "BARRA 901",
-      "situacao": "A Confirmar",
-      "secao": "Navios Esperados"
+      "situacao": "Em Andamento",
+      "secao": "Movimentações"
     },
     {
       "navio": "Jamaica Bay",
@@ -91,6 +65,19 @@
       "berco": "F3 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
+    },
+    {
+      "navio": "Maersk Rubicon",
+      "imo": "9632480",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "27/10/2026 07:15",
+      "data_chegada_iso": "2026-10-27T07:15:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "902",
+      "situacao": null,
+      "secao": "Navios Atracados"
     },
     {
       "navio": "Persistence Diva",
