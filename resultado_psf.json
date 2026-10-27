@@ -1,19 +1,6 @@
 {
-  "gerado_em": "2026-10-26T21:19:24.517695",
+  "gerado_em": "2026-10-27T01:11:37.540352",
   "navios": [
-    {
-      "navio": "Devbulk Kaya",
-      "imo": "9530711",
-      "agencia": "ZPORT AGENCIA",
-      "data_chegada_texto": "13/10/2026 14:00",
-      "data_chegada_iso": "2026-10-13T14:00:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "26/10/2026 19:45",
-      "data_manobra_iso": "2026-10-26T19:45:00",
-      "berco": "102 BARRA",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Persistence Diva",
       "imo": "9912452",
@@ -691,6 +678,19 @@
       "secao": "Navios Esperados"
     },
     {
+      "navio": "Ever Fair",
+      "imo": "9850886",
+      "agencia": "SEATRADE",
+      "data_chegada_texto": "06/11/2026 07:00",
+      "data_chegada_iso": "2026-11-06T07:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
       "navio": "Lawin Arrow",
       "imo": "9687162",
       "agencia": "SEATRADE",
@@ -787,6 +787,19 @@
       "agencia": "SEATRADE",
       "data_chegada_texto": "21/11/2026 11:00",
       "data_chegada_iso": "2026-11-21T11:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "SFS",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Orfa",
+      "imo": "9663099",
+      "agencia": "CARGONAVE",
+      "data_chegada_texto": "23/11/2026 07:00",
+      "data_chegada_iso": "2026-11-23T07:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
