@@ -1,36 +1,6 @@
 {
-  "gerado_em": "2026-10-27T19:12:41.170699",
+  "gerado_em": "2026-10-27T23:27:28.175242",
   "navios": [
-    {
-      "navio": "MAERSK LOTA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "27/10/2026",
-      "data_hora_iso": "2026-10-27T00:00:00",
-      "calado": "9,30/9,50",
-      "rota": "",
-      "berco": "JBS 4",
-      "posicao": null
-    },
-    {
-      "navio": "MSC BASEL V",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "27/10/2026",
-      "data_hora_iso": "2026-10-27T00:00:00",
-      "calado": "8,50/9,90",
-      "rota": "Bacia 1",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "APL FLORIDA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "27/10/2026",
-      "data_hora_iso": "2026-10-27T00:00:00",
-      "calado": "10,30/11,90",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
     {
       "navio": "COPIAPO",
       "status": "ManobraPrevista",
@@ -42,11 +12,21 @@
       "posicao": null
     },
     {
+      "navio": "APL FLORIDA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "28/10/2026",
+      "data_hora_iso": "2026-10-28T00:00:00",
+      "calado": "10,10/11,60",
+      "rota": "",
+      "berco": "JBS 2",
+      "posicao": null
+    },
+    {
       "navio": "KOTA SINGA",
       "status": "ManobraPrevista",
       "data_hora_texto": "28/10/2026",
       "data_hora_iso": "2026-10-28T00:00:00",
-      "calado": "TBC",
+      "calado": "6,80/9,20",
       "rota": "Bacia 1",
       "berco": "PNAVE 01",
       "posicao": null
@@ -62,13 +42,13 @@
       "posicao": null
     },
     {
-      "navio": "MSC LETIZIA",
+      "navio": "MAERSK LOTA",
       "status": "ManobraPrevista",
       "data_hora_texto": "28/10/2026",
       "data_hora_iso": "2026-10-28T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS",
+      "calado": "9,95/10,00",
+      "rota": "Bacia 2",
+      "berco": "JBS 4",
       "posicao": null
     },
     {
@@ -78,27 +58,7 @@
       "data_hora_iso": "2026-10-28T00:00:00",
       "calado": "9,70/10,10",
       "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
-      "navio": "MSC SAMIRA III",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "28/10/2026",
-      "data_hora_iso": "2026-10-28T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
-      "navio": "APL NEW JERSEY",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "28/10/2026",
-      "data_hora_iso": "2026-10-28T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS",
+      "berco": "JBS 4",
       "posicao": null
     },
     {
@@ -107,22 +67,32 @@
       "data_hora_texto": "28/10/2026",
       "data_hora_iso": "2026-10-28T00:00:00",
       "calado": "TBC",
+      "rota": "Bacia 2",
+      "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
+      "navio": "MSC LETIZIA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "30/10/2026",
+      "data_hora_iso": "2026-10-30T00:00:00",
+      "calado": "TBC",
       "rota": "",
-      "berco": "PNAVE",
+      "berco": "JBS",
       "posicao": null
     },
     {
       "navio": "CAPE PIONEER",
       "status": "ManobraPrevista",
-      "data_hora_texto": "29/10/2026",
-      "data_hora_iso": "2026-10-29T00:00:00",
+      "data_hora_texto": "30/10/2026",
+      "data_hora_iso": "2026-10-30T00:00:00",
       "calado": "11,30/11,40",
       "rota": "",
       "berco": "JBS",
       "posicao": null
     },
     {
-      "navio": "MAERSK RUBICON",
+      "navio": "MSC SAMIRA III",
       "status": "ManobraPrevista",
       "data_hora_texto": "30/10/2026",
       "data_hora_iso": "2026-10-30T00:00:00",
@@ -139,6 +109,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "TEPORTI",
+      "posicao": null
+    },
+    {
+      "navio": "APL NEW JERSEY",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "30/10/2026",
+      "data_hora_iso": "2026-10-30T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
       "posicao": null
     },
     {
@@ -159,6 +139,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "MAERSK RUBICON",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "31/10/2026",
+      "data_hora_iso": "2026-10-31T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
       "posicao": null
     },
     {
@@ -262,6 +252,26 @@
       "posicao": null
     },
     {
+      "navio": "PRESTIGE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "04/11/2026",
+      "data_hora_iso": "2026-11-04T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "SELMA MARU",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "04/11/2026",
+      "data_hora_iso": "2026-11-04T00:00:00",
+      "calado": "9,35/9,70",
+      "rota": "",
+      "berco": "BRASKARNE",
+      "posicao": null
+    },
+    {
       "navio": "ABU AL ABYAD",
       "status": "Fundeado",
       "data_hora_texto": "24/10/2026 - 10:18",
@@ -272,20 +282,20 @@
       "posicao": "26 57,83 S / 048 31,22 W"
     },
     {
+      "navio": "NAVIO BALIZADOR COMTE VARELLA",
+      "status": "Atracado",
+      "data_hora_texto": "27/10/2026 - 17:20",
+      "data_hora_iso": "2026-10-27T17:20:00",
+      "calado": null,
+      "rota": "",
+      "berco": "PASS",
+      "posicao": null
+    },
+    {
       "navio": "FRAGATA JERÔNIMO DE ALBUQUERQUE",
       "status": "Atracado",
       "data_hora_texto": "26/10/2026 - 14:04",
       "data_hora_iso": "2026-10-26T14:04:00",
-      "calado": null,
-      "rota": "",
-      "berco": "DELEMAR",
-      "posicao": null
-    },
-    {
-      "navio": "REBOCADOR TRITÃO",
-      "status": "Atracado",
-      "data_hora_texto": "17/10/2026 - 10:24",
-      "data_hora_iso": "2026-10-17T10:24:00",
       "calado": null,
       "rota": "",
       "berco": "DELEMAR",
