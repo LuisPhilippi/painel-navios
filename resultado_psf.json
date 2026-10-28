@@ -1,32 +1,6 @@
 {
-  "gerado_em": "2026-10-28T03:52:11.160196",
+  "gerado_em": "2026-10-28T10:19:11.654568",
   "navios": [
-    {
-      "navio": "Laax",
-      "imo": "9512355",
-      "agencia": "ALPHAMAR",
-      "data_chegada_texto": "14/10/2026 03:40",
-      "data_chegada_iso": "2026-10-14T03:40:00",
-      "manobra": "Desatracação e Fundeio",
-      "data_manobra": "28/10/2026 02:30",
-      "data_manobra_iso": "2026-10-28T02:30:00",
-      "berco": "301 F3",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Barcaça N12",
-      "imo": "9326031",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "25/10/2026 09:00",
-      "data_chegada_iso": "2026-10-25T09:00:00",
-      "manobra": "Suspender e Atracar",
-      "data_manobra": "28/10/2026 03:00",
-      "data_manobra_iso": "2026-10-28T03:00:00",
-      "berco": "F4 (P1) 300",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Maersk Rubicon",
       "imo": "9632480",
@@ -37,7 +11,7 @@
       "data_manobra": "28/10/2026 07:45",
       "data_manobra_iso": "2026-10-28T07:45:00",
       "berco": "902 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -50,7 +24,7 @@
       "data_manobra": "28/10/2026 08:00",
       "data_manobra_iso": "2026-10-28T08:00:00",
       "berco": "BARRA 902",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Navios Esperados"
     },
     {
@@ -63,7 +37,7 @@
       "data_manobra": "28/10/2026 08:15",
       "data_manobra_iso": "2026-10-28T08:15:00",
       "berco": "BARRA 301",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -132,6 +106,19 @@
       "secao": "Movimentações"
     },
     {
+      "navio": "Laax",
+      "imo": "9512355",
+      "agencia": "ALPHAMAR",
+      "data_chegada_texto": "14/10/2026 03:40",
+      "data_chegada_iso": "2026-10-14T03:40:00",
+      "manobra": "Suspender e Sair",
+      "data_manobra": "28/10/2026 15:00",
+      "data_manobra_iso": "2026-10-28T15:00:00",
+      "berco": "F3 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
       "navio": "Persistence Diva",
       "imo": "9912452",
       "agencia": "CARGONAVE",
@@ -167,6 +154,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "201",
+      "situacao": null,
+      "secao": "Navios Atracados"
+    },
+    {
+      "navio": "Barcaça N12",
+      "imo": "9326031",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "25/10/2026 09:00",
+      "data_chegada_iso": "2026-10-25T09:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "300",
       "situacao": null,
       "secao": "Navios Atracados"
     },
@@ -226,8 +226,8 @@
       "navio": "Androusa",
       "imo": "9586356",
       "agencia": "LITORAL",
-      "data_chegada_texto": "28/10/2026 09:00",
-      "data_chegada_iso": "2026-10-28T09:00:00",
+      "data_chegada_texto": "28/10/2026 21:00",
+      "data_chegada_iso": "2026-10-28T21:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
@@ -262,19 +262,6 @@
       "secao": "Navios Esperados"
     },
     {
-      "navio": "Conti Conquest",
-      "imo": "9293818",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "29/10/2026 11:00",
-      "data_chegada_iso": "2026-10-29T11:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
       "navio": "Jasmine K",
       "imo": "9951915",
       "agencia": "SEATRADE",
@@ -296,7 +283,7 @@
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
-      "berco": "SFS",
+      "berco": "TESC",
       "situacao": null,
       "secao": "Navios Esperados"
     },
@@ -319,6 +306,19 @@
       "agencia": "LACHMANN",
       "data_chegada_texto": "30/10/2026 03:00",
       "data_chegada_iso": "2026-10-30T03:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Conti Conquest",
+      "imo": "9293818",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "30/10/2026 06:00",
+      "data_chegada_iso": "2026-10-30T06:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
@@ -379,19 +379,6 @@
       "secao": "Navios Esperados"
     },
     {
-      "navio": "Leo. K",
-      "imo": "9842736",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "30/10/2026 17:00",
-      "data_chegada_iso": "2026-10-30T17:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "101",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
       "navio": "MSC Caterina",
       "imo": "9705005",
       "agencia": "WILSON SONS",
@@ -401,19 +388,6 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Andreas k",
-      "imo": "9491226",
-      "agencia": "ORION",
-      "data_chegada_texto": "30/10/2026 20:30",
-      "data_chegada_iso": "2026-10-30T20:30:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "SFS",
       "situacao": null,
       "secao": "Navios Esperados"
     },
@@ -483,15 +457,15 @@
       "secao": "Navios Esperados"
     },
     {
-      "navio": "Babitonga Bay",
-      "imo": "9663776",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "01/11/2026 13:00",
-      "data_chegada_iso": "2026-11-01T13:00:00",
+      "navio": "Rangaku",
+      "imo": "9866627",
+      "agencia": "LITORAL",
+      "data_chegada_texto": "01/11/2026 12:00",
+      "data_chegada_iso": "2026-11-01T12:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
-      "berco": "TESC",
+      "berco": "101",
       "situacao": null,
       "secao": "Navios Esperados"
     },
@@ -505,6 +479,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Andreas k",
+      "imo": "9491226",
+      "agencia": "ORION",
+      "data_chegada_texto": "01/11/2026 21:00",
+      "data_chegada_iso": "2026-11-01T21:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "SFS",
       "situacao": null,
       "secao": "Navios Esperados"
     },
@@ -535,11 +522,24 @@
       "secao": "Navios Esperados"
     },
     {
+      "navio": "Babitonga Bay",
+      "imo": "9663776",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "02/11/2026 13:00",
+      "data_chegada_iso": "2026-11-02T13:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "TESC",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
       "navio": "MSC Yamuna VI",
       "imo": "9288409",
       "agencia": "WILSON SONS",
-      "data_chegada_texto": "02/11/2026 20:00",
-      "data_chegada_iso": "2026-11-02T20:00:00",
+      "data_chegada_texto": "03/11/2026 00:00",
+      "data_chegada_iso": "2026-11-03T00:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
@@ -600,11 +600,11 @@
       "secao": "Navios Esperados"
     },
     {
-      "navio": "MSC Leticia X",
-      "imo": "1031197",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "05/11/2026 00:00",
-      "data_chegada_iso": "2026-11-05T00:00:00",
+      "navio": "Bartolomeu Dias",
+      "imo": "9625384",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "05/11/2026 05:00",
+      "data_chegada_iso": "2026-11-05T05:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
@@ -613,11 +613,11 @@
       "secao": "Navios Esperados"
     },
     {
-      "navio": "Bartolomeu Dias",
-      "imo": "9625384",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "05/11/2026 05:00",
-      "data_chegada_iso": "2026-11-05T05:00:00",
+      "navio": "MSC Leticia X",
+      "imo": "1031197",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "05/11/2026 11:00",
+      "data_chegada_iso": "2026-11-05T11:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
@@ -674,6 +674,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Leo. K",
+      "imo": "9842736",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "06/11/2026 07:00",
+      "data_chegada_iso": "2026-11-06T07:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "101",
       "situacao": null,
       "secao": "Navios Esperados"
     },

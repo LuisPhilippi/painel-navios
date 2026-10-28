@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-10-28T03:52:04.736780",
+  "gerado_em": "2026-10-28T10:19:05.135141",
   "navios": [
-    {
-      "navio": "APL FLORIDA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "28/10/2026",
-      "data_hora_iso": "2026-10-28T00:00:00",
-      "calado": "10,10/11,60",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
     {
       "navio": "KOTA SINGA",
       "status": "ManobraPrevista",
@@ -69,6 +59,16 @@
       "calado": "TBC",
       "rota": "Bacia 2",
       "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
+      "navio": "APL FLORIDA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "29/10/2026",
+      "data_hora_iso": "2026-10-29T00:00:00",
+      "calado": "10,10/11,00",
+      "rota": "",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
