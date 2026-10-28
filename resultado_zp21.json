@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-10-28T16:57:54.683177",
+  "gerado_em": "2026-10-28T21:32:32.497782",
   "navios": [
-    {
-      "navio": "LOG-IN JACARANDA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "28/10/2026",
-      "data_hora_iso": "2026-10-28T00:00:00",
-      "calado": "8,90 EK",
-      "rota": "Bacia 1",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "MAERSK LOTA",
       "status": "ManobraPrevista",
@@ -24,8 +14,8 @@
     {
       "navio": "MSC GIULIA",
       "status": "ManobraPrevista",
-      "data_hora_texto": "28/10/2026",
-      "data_hora_iso": "2026-10-28T00:00:00",
+      "data_hora_texto": "29/10/2026",
+      "data_hora_iso": "2026-10-29T00:00:00",
       "calado": "9,70/10,10",
       "rota": "",
       "berco": "JBS 4",
@@ -47,7 +37,27 @@
       "data_hora_texto": "29/10/2026",
       "data_hora_iso": "2026-10-29T00:00:00",
       "calado": "11,70 EK",
-      "rota": "Bacia 2",
+      "rota": "",
+      "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
+      "navio": "LOG-IN JACARANDA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "29/10/2026",
+      "data_hora_iso": "2026-10-29T00:00:00",
+      "calado": "11,20/11,30",
+      "rota": "",
+      "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
+      "navio": "MERCOSUL SUAPE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "29/10/2026",
+      "data_hora_iso": "2026-10-29T00:00:00",
+      "calado": "TBC",
+      "rota": "Bacia 1",
       "berco": "PNAVE 01",
       "posicao": null
     },
@@ -57,8 +67,38 @@
       "data_hora_texto": "29/10/2026",
       "data_hora_iso": "2026-10-29T00:00:00",
       "calado": "10,10/11,00",
+      "rota": "Bacia 2",
+      "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "CAPE PIONEER",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "29/10/2026",
+      "data_hora_iso": "2026-10-29T00:00:00",
+      "calado": "11,30/11,40",
       "rota": "",
       "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "COSCO SHIPPING BRAZIL",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "30/10/2026",
+      "data_hora_iso": "2026-10-30T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
+      "navio": "ATLANTIC ACANTHUS",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "30/10/2026",
+      "data_hora_iso": "2026-10-30T00:00:00",
+      "calado": "7,40/7,60",
+      "rota": "Bacia 1",
+      "berco": "BRASKARNE",
       "posicao": null
     },
     {
@@ -72,13 +112,23 @@
       "posicao": null
     },
     {
-      "navio": "CAPE PIONEER",
+      "navio": "FRIO MARATHON",
       "status": "ManobraPrevista",
       "data_hora_texto": "30/10/2026",
       "data_hora_iso": "2026-10-30T00:00:00",
-      "calado": "11,30/11,40",
+      "calado": "1,40/6,10",
       "rota": "",
-      "berco": "JBS",
+      "berco": "BRASKARNE",
+      "posicao": null
+    },
+    {
+      "navio": "MAERSK RUBICON",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "30/10/2026",
+      "data_hora_iso": "2026-10-30T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -132,16 +182,6 @@
       "posicao": null
     },
     {
-      "navio": "MAERSK RUBICON",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "31/10/2026",
-      "data_hora_iso": "2026-10-31T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
       "navio": "NAVIOS AMARILLO",
       "status": "ManobraPrevista",
       "data_hora_texto": "31/10/2026",
@@ -149,16 +189,6 @@
       "calado": "10,30 EK",
       "rota": "",
       "berco": "PNAVE",
-      "posicao": null
-    },
-    {
-      "navio": "ATLANTIC ACANTHUS",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "31/10/2026",
-      "data_hora_iso": "2026-10-31T00:00:00",
-      "calado": "7,40/7,60",
-      "rota": "Bacia 1",
-      "berco": "BRASKARNE",
       "posicao": null
     },
     {
@@ -179,16 +209,6 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
-      "posicao": null
-    },
-    {
-      "navio": "FRIO MARATHON",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "31/10/2026",
-      "data_hora_iso": "2026-10-31T00:00:00",
-      "calado": "1,40/6,10",
-      "rota": "",
-      "berco": "BRASKARNE",
       "posicao": null
     },
     {
@@ -266,7 +286,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "04/11/2026",
       "data_hora_iso": "2026-11-04T00:00:00",
-      "calado": "9,35/9,70",
+      "calado": "9,20/9,47",
       "rota": "",
       "berco": "BRASKARNE",
       "posicao": null
@@ -280,16 +300,6 @@
       "rota": "",
       "berco": null,
       "posicao": "26 57,83 S / 048 31,22 W"
-    },
-    {
-      "navio": "NAVIO BALIZADOR COMTE VARELLA",
-      "status": "Atracado",
-      "data_hora_texto": "27/10/2026 - 17:20",
-      "data_hora_iso": "2026-10-27T17:20:00",
-      "calado": null,
-      "rota": "",
-      "berco": "PASS",
-      "posicao": null
     },
     {
       "navio": "FRAGATA JERÔNIMO DE ALBUQUERQUE",
