@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-10-28T10:19:05.135141",
+  "gerado_em": "2026-10-28T16:57:54.683177",
   "navios": [
-    {
-      "navio": "KOTA SINGA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "28/10/2026",
-      "data_hora_iso": "2026-10-28T00:00:00",
-      "calado": "6,80/9,20",
-      "rota": "Bacia 1",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "LOG-IN JACARANDA",
       "status": "ManobraPrevista",
@@ -19,16 +9,6 @@
       "calado": "8,90 EK",
       "rota": "Bacia 1",
       "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "COPIAPO",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "28/10/2026",
-      "data_hora_iso": "2026-10-28T00:00:00",
-      "calado": "11,50 MAX",
-      "rota": "",
-      "berco": "PNAVE 02",
       "posicao": null
     },
     {
@@ -52,13 +32,23 @@
       "posicao": null
     },
     {
+      "navio": "COPIAPO",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "29/10/2026",
+      "data_hora_iso": "2026-10-29T00:00:00",
+      "calado": "11,50 MAX",
+      "rota": "",
+      "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
       "navio": "HYUNDAI VOYAGER",
       "status": "ManobraPrevista",
-      "data_hora_texto": "28/10/2026",
-      "data_hora_iso": "2026-10-28T00:00:00",
-      "calado": "TBC",
+      "data_hora_texto": "29/10/2026",
+      "data_hora_iso": "2026-10-29T00:00:00",
+      "calado": "11,70 EK",
       "rota": "Bacia 2",
-      "berco": "PNAVE 02",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
@@ -149,6 +139,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "NAVIOS AMARILLO",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "31/10/2026",
+      "data_hora_iso": "2026-10-31T00:00:00",
+      "calado": "10,30 EK",
+      "rota": "",
+      "berco": "PNAVE",
       "posicao": null
     },
     {
