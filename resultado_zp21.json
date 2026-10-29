@@ -1,36 +1,6 @@
 {
-  "gerado_em": "2026-10-29T01:30:31.995700",
+  "gerado_em": "2026-10-29T07:58:47.573188",
   "navios": [
-    {
-      "navio": "MAERSK LOTA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "28/10/2026",
-      "data_hora_iso": "2026-10-28T00:00:00",
-      "calado": "9,95/10,00",
-      "rota": "Bacia 2",
-      "berco": "JBS 4",
-      "posicao": null
-    },
-    {
-      "navio": "MSC GIULIA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "29/10/2026",
-      "data_hora_iso": "2026-10-29T00:00:00",
-      "calado": "9,70/10,10",
-      "rota": "",
-      "berco": "JBS 4",
-      "posicao": null
-    },
-    {
-      "navio": "COPIAPO",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "29/10/2026",
-      "data_hora_iso": "2026-10-29T00:00:00",
-      "calado": "11,50 MAX",
-      "rota": "",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
     {
       "navio": "HYUNDAI VOYAGER",
       "status": "ManobraPrevista",
@@ -199,6 +169,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "MSC GIULIA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "31/10/2026",
+      "data_hora_iso": "2026-10-31T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS 4",
       "posicao": null
     },
     {

@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-29T01:30:39.688611",
+  "gerado_em": "2026-10-29T07:58:57.743875",
   "navios": [
     {
       "navio": "Xie Hai Yong Yu",
@@ -11,20 +11,7 @@
       "data_manobra": "29/10/2026 03:15",
       "data_manobra_iso": "2026-10-29T03:15:00",
       "berco": "BARRA 101",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Persistence Diva",
-      "imo": "9912452",
-      "agencia": "CARGONAVE",
-      "data_chegada_texto": "20/10/2026 16:30",
-      "data_chegada_iso": "2026-10-20T16:30:00",
-      "manobra": "Desatracação e Fundeio",
-      "data_manobra": "29/10/2026 03:15",
-      "data_manobra_iso": "2026-10-29T03:15:00",
-      "berco": "101 F3",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -115,6 +102,19 @@
       "data_manobra": "29/10/2026 13:45",
       "data_manobra_iso": "2026-10-29T13:45:00",
       "berco": "901 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Persistence Diva",
+      "imo": "9912452",
+      "agencia": "CARGONAVE",
+      "data_chegada_texto": "20/10/2026 16:30",
+      "data_chegada_iso": "2026-10-20T16:30:00",
+      "manobra": "Suspender e Sair",
+      "data_manobra": "29/10/2026 15:45",
+      "data_manobra_iso": "2026-10-29T15:45:00",
+      "berco": "F3 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
     },
