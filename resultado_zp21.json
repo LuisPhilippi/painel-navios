@@ -1,22 +1,12 @@
 {
-  "gerado_em": "2026-10-29T07:58:47.573188",
+  "gerado_em": "2026-10-29T15:04:38.838655",
   "navios": [
-    {
-      "navio": "HYUNDAI VOYAGER",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "29/10/2026",
-      "data_hora_iso": "2026-10-29T00:00:00",
-      "calado": "11,70 EK",
-      "rota": "",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
     {
       "navio": "LOG-IN JACARANDA",
       "status": "ManobraPrevista",
       "data_hora_texto": "29/10/2026",
       "data_hora_iso": "2026-10-29T00:00:00",
-      "calado": "11,20/11,30",
+      "calado": "11,35 EK",
       "rota": "",
       "berco": "PNAVE 01",
       "posicao": null
@@ -49,6 +39,16 @@
       "calado": "11,30/11,40",
       "rota": "",
       "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "HYUNDAI VOYAGER",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "30/10/2026",
+      "data_hora_iso": "2026-10-30T00:00:00",
+      "calado": "11,10/11,60",
+      "rota": "Bacia 2",
+      "berco": "PNAVE 02",
       "posicao": null
     },
     {
@@ -122,16 +122,6 @@
       "posicao": null
     },
     {
-      "navio": "APL NEW JERSEY",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "30/10/2026",
-      "data_hora_iso": "2026-10-30T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
       "navio": "MSC MARIA LAURA",
       "status": "ManobraPrevista",
       "data_hora_texto": "30/10/2026",
@@ -166,7 +156,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "31/10/2026",
       "data_hora_iso": "2026-10-31T00:00:00",
-      "calado": "TBC",
+      "calado": "10,80/11,30",
       "rota": "",
       "berco": "JBS",
       "posicao": null

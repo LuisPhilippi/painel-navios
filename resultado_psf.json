@@ -1,58 +1,6 @@
 {
-  "gerado_em": "2026-10-29T07:58:57.743875",
+  "gerado_em": "2026-10-29T15:04:47.054101",
   "navios": [
-    {
-      "navio": "Xie Hai Yong Yu",
-      "imo": "1074008",
-      "agencia": "LITORAL",
-      "data_chegada_texto": "21/10/2026 15:24",
-      "data_chegada_iso": "2026-10-21T15:24:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "29/10/2026 03:15",
-      "data_manobra_iso": "2026-10-29T03:15:00",
-      "berco": "BARRA 101",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Maersk Ganges",
-      "imo": "9694581",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "29/10/2026 07:00",
-      "data_chegada_iso": "2026-10-29T07:00:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "29/10/2026 07:45",
-      "data_manobra_iso": "2026-10-29T07:45:00",
-      "berco": "BARRA 902",
-      "situacao": "A Confirmar",
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "San Felix",
-      "imo": "9698630",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "28/10/2026 07:53",
-      "data_chegada_iso": "2026-10-28T07:53:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "29/10/2026 07:45",
-      "data_manobra_iso": "2026-10-29T07:45:00",
-      "berco": "902 BARRA",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Barcaça N12",
-      "imo": "9326031",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "25/10/2026 09:00",
-      "data_chegada_iso": "2026-10-25T09:00:00",
-      "manobra": "Desatracação e Fundeio",
-      "data_manobra": "29/10/2026 09:30",
-      "data_manobra_iso": "2026-10-29T09:30:00",
-      "berco": "300 F1",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Obi Island",
       "imo": "1057189",
@@ -63,20 +11,7 @@
       "data_manobra": "29/10/2026 10:15",
       "data_manobra_iso": "2026-10-29T10:15:00",
       "berco": "BARRA 201",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "CL Changsha",
-      "imo": "9953286",
-      "agencia": "SEATRADE",
-      "data_chegada_texto": "11/10/2026 01:57",
-      "data_chegada_iso": "2026-10-11T01:57:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "29/10/2026 10:15",
-      "data_manobra_iso": "2026-10-29T10:15:00",
-      "berco": "201 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -89,7 +24,7 @@
       "data_manobra": "29/10/2026 13:45",
       "data_manobra_iso": "2026-10-29T13:45:00",
       "berco": "BARRA 901",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Navios Esperados"
     },
     {
@@ -102,6 +37,19 @@
       "data_manobra": "29/10/2026 13:45",
       "data_manobra_iso": "2026-10-29T13:45:00",
       "berco": "901 BARRA",
+      "situacao": "Confirmado",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Barcaça N12",
+      "imo": "9326031",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "25/10/2026 09:00",
+      "data_chegada_iso": "2026-10-25T09:00:00",
+      "manobra": "Suspender e Atracar",
+      "data_manobra": "29/10/2026 15:30",
+      "data_manobra_iso": "2026-10-29T15:30:00",
+      "berco": "F1 300",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
     },
@@ -117,6 +65,32 @@
       "berco": "F3 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
+    },
+    {
+      "navio": "Maersk Ganges",
+      "imo": "9694581",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "29/10/2026 07:38",
+      "data_chegada_iso": "2026-10-29T07:38:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "902",
+      "situacao": null,
+      "secao": "Navios Atracados"
+    },
+    {
+      "navio": "Xie Hai Yong Yu",
+      "imo": "1074008",
+      "agencia": "LITORAL",
+      "data_chegada_texto": "21/10/2026 15:24",
+      "data_chegada_iso": "2026-10-21T15:24:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "101",
+      "situacao": null,
+      "secao": "Navios Atracados"
     },
     {
       "navio": "Unity Spirit",
@@ -210,24 +184,37 @@
       "secao": "Navios Fundeados (Barra)"
     },
     {
-      "navio": "Androusa",
-      "imo": "9586356",
-      "agencia": "LITORAL",
-      "data_chegada_texto": "28/10/2026 21:00",
-      "data_chegada_iso": "2026-10-28T21:00:00",
+      "navio": "Jasmine K",
+      "imo": "9951915",
+      "agencia": "SEATRADE",
+      "data_chegada_texto": "29/10/2026 09:30",
+      "data_chegada_iso": "2026-10-29T09:30:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "SFS",
       "situacao": null,
-      "secao": "Navios Esperados"
+      "secao": "Navios Fundeados (Barra)"
     },
     {
-      "navio": "Jasmine K",
-      "imo": "9951915",
-      "agencia": "SEATRADE",
-      "data_chegada_texto": "29/10/2026 11:00",
-      "data_chegada_iso": "2026-10-29T11:00:00",
+      "navio": "Sea Bravery",
+      "imo": "9386407",
+      "agencia": "CARGONAVE",
+      "data_chegada_texto": "29/10/2026 10:00",
+      "data_chegada_iso": "2026-10-29T10:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "SFS",
+      "situacao": null,
+      "secao": "Navios Fundeados (Barra)"
+    },
+    {
+      "navio": "Androusa",
+      "imo": "9586356",
+      "agencia": "LITORAL",
+      "data_chegada_texto": "28/10/2026 21:00",
+      "data_chegada_iso": "2026-10-28T21:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
@@ -310,19 +297,6 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Sea Bravery",
-      "imo": "9386407",
-      "agencia": "CARGONAVE",
-      "data_chegada_texto": "30/10/2026 11:00",
-      "data_chegada_iso": "2026-10-30T11:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "SFS",
       "situacao": null,
       "secao": "Navios Esperados"
     },
