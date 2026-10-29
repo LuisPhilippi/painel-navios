@@ -1,26 +1,6 @@
 {
-  "gerado_em": "2026-10-29T15:04:38.838655",
+  "gerado_em": "2026-10-29T20:50:34.095950",
   "navios": [
-    {
-      "navio": "LOG-IN JACARANDA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "29/10/2026",
-      "data_hora_iso": "2026-10-29T00:00:00",
-      "calado": "11,35 EK",
-      "rota": "",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "MERCOSUL SUAPE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "29/10/2026",
-      "data_hora_iso": "2026-10-29T00:00:00",
-      "calado": "7,90/9,60",
-      "rota": "Bacia 1",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "APL FLORIDA",
       "status": "ManobraPrevista",
@@ -52,23 +32,13 @@
       "posicao": null
     },
     {
-      "navio": "ATLANTIC ACANTHUS",
+      "navio": "MERCOSUL SUAPE",
       "status": "ManobraPrevista",
       "data_hora_texto": "30/10/2026",
       "data_hora_iso": "2026-10-30T00:00:00",
-      "calado": "7,40/7,60",
-      "rota": "Bacia 1",
-      "berco": "BRASKARNE",
-      "posicao": null
-    },
-    {
-      "navio": "MSC LETIZIA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "30/10/2026",
-      "data_hora_iso": "2026-10-30T00:00:00",
-      "calado": "TBC",
+      "calado": "6,00/8,50",
       "rota": "",
-      "berco": "JBS",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
@@ -82,16 +52,6 @@
       "posicao": null
     },
     {
-      "navio": "FRIO MARATHON",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "30/10/2026",
-      "data_hora_iso": "2026-10-30T00:00:00",
-      "calado": "1,40/6,10",
-      "rota": "",
-      "berco": "BRASKARNE",
-      "posicao": null
-    },
-    {
       "navio": "MAERSK RUBICON",
       "status": "ManobraPrevista",
       "data_hora_texto": "30/10/2026",
@@ -99,16 +59,6 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "MSC SAMIRA III",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "30/10/2026",
-      "data_hora_iso": "2026-10-30T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS",
       "posicao": null
     },
     {
@@ -122,43 +72,13 @@
       "posicao": null
     },
     {
-      "navio": "MSC MARIA LAURA",
+      "navio": "ATLANTIC ACANTHUS",
       "status": "ManobraPrevista",
       "data_hora_texto": "30/10/2026",
       "data_hora_iso": "2026-10-30T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE",
-      "posicao": null
-    },
-    {
-      "navio": "MSC AVNI",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "30/10/2026",
-      "data_hora_iso": "2026-10-30T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE",
-      "posicao": null
-    },
-    {
-      "navio": "NAVIOS AMARILLO",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "31/10/2026",
-      "data_hora_iso": "2026-10-31T00:00:00",
-      "calado": "10,30 EK",
-      "rota": "",
-      "berco": "PNAVE",
-      "posicao": null
-    },
-    {
-      "navio": "MSC BUSAN VIII",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "31/10/2026",
-      "data_hora_iso": "2026-10-31T00:00:00",
-      "calado": "10,80/11,30",
-      "rota": "",
-      "berco": "JBS",
+      "calado": "7,40/7,60",
+      "rota": "Bacia 1",
+      "berco": "BRASKARNE",
       "posicao": null
     },
     {
@@ -172,7 +92,37 @@
       "posicao": null
     },
     {
+      "navio": "MSC BUSAN VIII",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "31/10/2026",
+      "data_hora_iso": "2026-10-31T00:00:00",
+      "calado": "10,80/11,30",
+      "rota": "",
+      "berco": "JBS 4",
+      "posicao": null
+    },
+    {
+      "navio": "MSC MARIA LAURA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "31/10/2026",
+      "data_hora_iso": "2026-10-31T00:00:00",
+      "calado": "9,80 EK",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
       "navio": "PATMOS EXPRESS",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "31/10/2026",
+      "data_hora_iso": "2026-10-31T00:00:00",
+      "calado": "9,70/11,20",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "MSC LETIZIA",
       "status": "ManobraPrevista",
       "data_hora_texto": "31/10/2026",
       "data_hora_iso": "2026-10-31T00:00:00",
@@ -182,13 +132,33 @@
       "posicao": null
     },
     {
-      "navio": "INDUSTRIAL CHARGER",
+      "navio": "NAVIOS AMARILLO",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "31/10/2026",
+      "data_hora_iso": "2026-10-31T00:00:00",
+      "calado": "10,30 EK",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "MSC SAMIRA III",
       "status": "ManobraPrevista",
       "data_hora_texto": "31/10/2026",
       "data_hora_iso": "2026-10-31T00:00:00",
       "calado": "TBC",
       "rota": "",
-      "berco": "BARRA DO RIO",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "MSC AVNI",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "31/10/2026",
+      "data_hora_iso": "2026-10-31T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
       "posicao": null
     },
     {
@@ -202,10 +172,40 @@
       "posicao": null
     },
     {
+      "navio": "FRIO MARATHON",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "01/11/2026",
+      "data_hora_iso": "2026-11-01T00:00:00",
+      "calado": "1,40/6,10",
+      "rota": "",
+      "berco": "BRASKARNE",
+      "posicao": null
+    },
+    {
       "navio": "LOG-IN RESILIENTE",
       "status": "ManobraPrevista",
       "data_hora_texto": "01/11/2026",
       "data_hora_iso": "2026-11-01T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "INDUSTRIAL CHARGER",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "01/11/2026",
+      "data_hora_iso": "2026-11-01T00:00:00",
+      "calado": "3,90/5,20",
+      "rota": "",
+      "berco": "BARRA DO RIO",
+      "posicao": null
+    },
+    {
+      "navio": "MERCOSUL ITAJAI",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "02/11/2026",
+      "data_hora_iso": "2026-11-02T00:00:00",
       "calado": "TBC",
       "rota": "",
       "berco": "PNAVE",
@@ -236,6 +236,16 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "02/11/2026",
       "data_hora_iso": "2026-11-02T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "CMA CGM KRYPTON",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "03/11/2026",
+      "data_hora_iso": "2026-11-03T00:00:00",
       "calado": "TBC",
       "rota": "",
       "berco": "PNAVE",
