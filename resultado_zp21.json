@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-28T21:32:32.497782",
+  "gerado_em": "2026-10-29T01:30:31.995700",
   "navios": [
     {
       "navio": "MAERSK LOTA",
@@ -56,7 +56,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "29/10/2026",
       "data_hora_iso": "2026-10-29T00:00:00",
-      "calado": "TBC",
+      "calado": "7,90/9,60",
       "rota": "Bacia 1",
       "berco": "PNAVE 01",
       "posicao": null
@@ -82,16 +82,6 @@
       "posicao": null
     },
     {
-      "navio": "COSCO SHIPPING BRAZIL",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "30/10/2026",
-      "data_hora_iso": "2026-10-30T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
       "navio": "ATLANTIC ACANTHUS",
       "status": "ManobraPrevista",
       "data_hora_texto": "30/10/2026",
@@ -109,6 +99,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "COSCO SHIPPING BRAZIL",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "30/10/2026",
+      "data_hora_iso": "2026-10-30T00:00:00",
+      "calado": "11,10 EK",
+      "rota": "",
+      "berco": "PNAVE 02",
       "posicao": null
     },
     {
