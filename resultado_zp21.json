@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-29T20:50:34.095950",
+  "gerado_em": "2026-10-30T00:34:33.976820",
   "navios": [
     {
       "navio": "APL FLORIDA",
@@ -14,8 +14,8 @@
     {
       "navio": "CAPE PIONEER",
       "status": "ManobraPrevista",
-      "data_hora_texto": "29/10/2026",
-      "data_hora_iso": "2026-10-29T00:00:00",
+      "data_hora_texto": "30/10/2026",
+      "data_hora_iso": "2026-10-30T00:00:00",
       "calado": "11,30/11,40",
       "rota": "",
       "berco": "JBS 2",
@@ -56,7 +56,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "30/10/2026",
       "data_hora_iso": "2026-10-30T00:00:00",
-      "calado": "TBC",
+      "calado": "10,60/11,50",
       "rota": "",
       "berco": "JBS 2",
       "posicao": null
@@ -87,7 +87,7 @@
       "data_hora_texto": "31/10/2026",
       "data_hora_iso": "2026-10-31T00:00:00",
       "calado": "TBC",
-      "rota": "",
+      "rota": "Bacia 2",
       "berco": "JBS 4",
       "posicao": null
     },
