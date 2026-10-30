@@ -1,32 +1,6 @@
 {
-  "gerado_em": "2026-10-30T06:45:34.148771",
+  "gerado_em": "2026-10-30T13:48:24.380829",
   "navios": [
-    {
-      "navio": "Maersk Monte Azul",
-      "imo": "9348053",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "30/10/2026 05:00",
-      "data_chegada_iso": "2026-10-30T05:00:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "30/10/2026 05:00",
-      "data_manobra_iso": "2026-10-30T05:00:00",
-      "berco": "BARRA 902",
-      "situacao": "Confirmado",
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Maersk Ganges",
-      "imo": "9694581",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "29/10/2026 07:38",
-      "data_chegada_iso": "2026-10-29T07:38:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "30/10/2026 05:00",
-      "data_manobra_iso": "2026-10-30T05:00:00",
-      "berco": "902 BARRA",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Barcaça N12",
       "imo": "9326031",
@@ -36,22 +10,22 @@
       "manobra": "Desatracação e Fundeio",
       "data_manobra": "30/10/2026 10:00",
       "data_manobra_iso": "2026-10-30T10:00:00",
-      "berco": "300 F1",
-      "situacao": "A Confirmar",
+      "berco": "300 F4 (P1)",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
       "navio": "CMA CGM Santos",
       "imo": "9649835",
       "agencia": "UNIMAR",
-      "data_chegada_texto": "30/10/2026 10:00",
-      "data_chegada_iso": "2026-10-30T10:00:00",
+      "data_chegada_texto": "30/10/2026 06:20",
+      "data_chegada_iso": "2026-10-30T06:20:00",
       "manobra": "Entrada e Atracação",
       "data_manobra": "30/10/2026 14:45",
       "data_manobra_iso": "2026-10-30T14:45:00",
       "berco": "BARRA 901",
       "situacao": "A Confirmar",
-      "secao": "Navios Esperados"
+      "secao": "Movimentações"
     },
     {
       "navio": "San Marco Maersk",
@@ -78,6 +52,19 @@
       "berco": "BARRA 300",
       "situacao": "A Confirmar",
       "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Maersk Monte Azul",
+      "imo": "9348053",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "30/10/2026 04:54",
+      "data_chegada_iso": "2026-10-30T04:54:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "902",
+      "situacao": null,
+      "secao": "Navios Atracados"
     },
     {
       "navio": "Xie Hai Yong Yu",
@@ -219,6 +206,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "SFS",
+      "situacao": null,
+      "secao": "Navios Fundeados (Barra)"
+    },
+    {
+      "navio": "AS Sabine",
+      "imo": "9813802",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "30/10/2026 02:12",
+      "data_chegada_iso": "2026-10-30T02:12:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Fundeados (Barra)"
     },

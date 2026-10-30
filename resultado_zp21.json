@@ -1,44 +1,14 @@
 {
-  "gerado_em": "2026-10-30T06:45:28.153127",
+  "gerado_em": "2026-10-30T13:48:18.101486",
   "navios": [
-    {
-      "navio": "HYUNDAI VOYAGER",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "30/10/2026",
-      "data_hora_iso": "2026-10-30T00:00:00",
-      "calado": "11,20/11,70",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
-      "navio": "MERCOSUL SUAPE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "30/10/2026",
-      "data_hora_iso": "2026-10-30T00:00:00",
-      "calado": "6,00/8,50",
-      "rota": "",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "CAPE PIONEER",
       "status": "ManobraPrevista",
       "data_hora_texto": "30/10/2026",
       "data_hora_iso": "2026-10-30T00:00:00",
       "calado": "10,80/11,50",
-      "rota": "Bacia 1",
+      "rota": "Bacia 2",
       "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "COSCO SHIPPING BRAZIL",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "30/10/2026",
-      "data_hora_iso": "2026-10-30T00:00:00",
-      "calado": "11,10 EK",
-      "rota": "",
-      "berco": "PNAVE 02",
       "posicao": null
     },
     {
@@ -76,7 +46,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "31/10/2026",
       "data_hora_iso": "2026-10-31T00:00:00",
-      "calado": "TBC",
+      "calado": "9,00/10,00",
       "rota": "Bacia 2",
       "berco": "JBS 4",
       "posicao": null
@@ -89,6 +59,16 @@
       "calado": "10,80/11,30",
       "rota": "",
       "berco": "JBS 4",
+      "posicao": null
+    },
+    {
+      "navio": "COSCO SHIPPING BRAZIL",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "31/10/2026",
+      "data_hora_iso": "2026-10-31T00:00:00",
+      "calado": "TBC",
+      "rota": "Bacia 2",
+      "berco": "PNAVE 02",
       "posicao": null
     },
     {
@@ -259,6 +239,16 @@
       "calado": "9,20/9,47",
       "rota": "",
       "berco": "BRASKARNE",
+      "posicao": null
+    },
+    {
+      "navio": "SANTA VANESSA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "05/11/2026",
+      "data_hora_iso": "2026-11-05T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
       "posicao": null
     },
     {
