@@ -1,19 +1,6 @@
 {
-  "gerado_em": "2026-10-30T13:48:24.380829",
+  "gerado_em": "2026-10-30T18:58:09.909866",
   "navios": [
-    {
-      "navio": "Barcaça N12",
-      "imo": "9326031",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "25/10/2026 09:00",
-      "data_chegada_iso": "2026-10-25T09:00:00",
-      "manobra": "Desatracação e Fundeio",
-      "data_manobra": "30/10/2026 10:00",
-      "data_manobra_iso": "2026-10-30T10:00:00",
-      "berco": "300 F4 (P1)",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
     {
       "navio": "CMA CGM Santos",
       "imo": "9649835",
@@ -24,7 +11,7 @@
       "data_manobra": "30/10/2026 14:45",
       "data_manobra_iso": "2026-10-30T14:45:00",
       "berco": "BARRA 901",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -37,7 +24,7 @@
       "data_manobra": "30/10/2026 14:45",
       "data_manobra_iso": "2026-10-30T14:45:00",
       "berco": "901 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -50,7 +37,7 @@
       "data_manobra": "30/10/2026 16:30",
       "data_manobra_iso": "2026-10-30T16:30:00",
       "berco": "BARRA 300",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Navios Esperados"
     },
     {
@@ -145,6 +132,19 @@
       "secao": "Navios Fundeados (Internos)"
     },
     {
+      "navio": "Barcaça N12",
+      "imo": "9326031",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "25/10/2026 09:00",
+      "data_chegada_iso": "2026-10-25T09:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "F4 (P1)",
+      "situacao": null,
+      "secao": "Navios Fundeados (Internos)"
+    },
+    {
       "navio": "Bahri Ghadah",
       "imo": "9799795",
       "agencia": "ZPORT AGENCIA",
@@ -223,6 +223,19 @@
       "secao": "Navios Fundeados (Barra)"
     },
     {
+      "navio": "Conti Conquest",
+      "imo": "9293818",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "30/10/2026 11:54",
+      "data_chegada_iso": "2026-10-30T11:54:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Fundeados (Barra)"
+    },
+    {
       "navio": "Androusa",
       "imo": "9586356",
       "agencia": "LITORAL",
@@ -245,19 +258,6 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "TESC",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Conti Conquest",
-      "imo": "9293818",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "30/10/2026 06:00",
-      "data_chegada_iso": "2026-10-30T06:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Esperados"
     },
@@ -761,6 +761,19 @@
       "agencia": "CARGONAVE",
       "data_chegada_texto": "15/11/2026 08:00",
       "data_chegada_iso": "2026-11-15T08:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "SFS",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Federal Tyne",
+      "imo": "9658903",
+      "agencia": "CARGONAVE",
+      "data_chegada_texto": "19/11/2026 10:00",
+      "data_chegada_iso": "2026-11-19T10:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
