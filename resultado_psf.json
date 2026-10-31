@@ -1,31 +1,18 @@
 {
-  "gerado_em": "2026-10-31T14:59:45.271615",
+  "gerado_em": "2026-10-31T19:12:47.087225",
   "navios": [
-    {
-      "navio": "Xie Hai Yong Yu",
-      "imo": "1074008",
-      "agencia": "LITORAL",
-      "data_chegada_texto": "21/10/2026 15:24",
-      "data_chegada_iso": "2026-10-21T15:24:00",
-      "manobra": "Desatracação e Fundeio",
-      "data_manobra": "31/10/2026 17:45",
-      "data_manobra_iso": "2026-10-31T17:45:00",
-      "berco": "101 F3",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
     {
       "navio": "San Antonio Maersk",
       "imo": "9622241",
       "agencia": "LACHMANN",
-      "data_chegada_texto": "31/10/2026 15:00",
-      "data_chegada_iso": "2026-10-31T15:00:00",
+      "data_chegada_texto": "31/10/2026 16:00",
+      "data_chegada_iso": "2026-10-31T16:00:00",
       "manobra": "Entrada e Fundeio",
-      "data_manobra": "31/10/2026 18:00",
-      "data_manobra_iso": "2026-10-31T18:00:00",
+      "data_manobra": "31/10/2026 16:00",
+      "data_manobra_iso": "2026-10-31T16:00:00",
       "berco": "BARRA F5",
-      "situacao": "A Confirmar",
-      "secao": "Navios Esperados"
+      "situacao": "Em Andamento",
+      "secao": "Movimentações"
     },
     {
       "navio": "Sebastião Caboto",
@@ -80,6 +67,58 @@
       "secao": "Movimentações"
     },
     {
+      "navio": "Xie Hai Yong Yu",
+      "imo": "1074008",
+      "agencia": "LITORAL",
+      "data_chegada_texto": "21/10/2026 15:24",
+      "data_chegada_iso": "2026-10-21T15:24:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "01/11/2026 06:15",
+      "data_manobra_iso": "2026-11-01T06:15:00",
+      "berco": "101 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Navios Amarillo",
+      "imo": "9324849",
+      "agencia": "ZIM DO BRASIL",
+      "data_chegada_texto": "01/11/2026 07:00",
+      "data_chegada_iso": "2026-11-01T07:00:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "01/11/2026 08:30",
+      "data_manobra_iso": "2026-11-01T08:30:00",
+      "berco": "BARRA 902",
+      "situacao": "A Confirmar",
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Rangaku",
+      "imo": "9866627",
+      "agencia": "LITORAL",
+      "data_chegada_texto": "31/10/2026 14:30",
+      "data_chegada_iso": "2026-10-31T14:30:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "01/11/2026 12:15",
+      "data_manobra_iso": "2026-11-01T12:15:00",
+      "berco": "BARRA 101",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Jamaica Bay",
+      "imo": "9610717",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "25/10/2026 09:54",
+      "data_chegada_iso": "2026-10-25T09:54:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "01/11/2026 12:15",
+      "data_manobra_iso": "2026-11-01T12:15:00",
+      "berco": "302 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
       "navio": "Unity Spirit",
       "imo": "9725938",
       "agencia": "OCEÂNICA",
@@ -115,19 +154,6 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "301",
-      "situacao": null,
-      "secao": "Navios Atracados"
-    },
-    {
-      "navio": "Jamaica Bay",
-      "imo": "9610717",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "25/10/2026 09:54",
-      "data_chegada_iso": "2026-10-25T09:54:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "302",
       "situacao": null,
       "secao": "Navios Atracados"
     },
@@ -262,19 +288,6 @@
       "secao": "Navios Fundeados (Barra)"
     },
     {
-      "navio": "Navios Amarillo",
-      "imo": "9324849",
-      "agencia": "ZIM DO BRASIL",
-      "data_chegada_texto": "01/11/2026 07:00",
-      "data_chegada_iso": "2026-11-01T07:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
       "navio": "Aristo Ocean",
       "imo": "9909223",
       "agencia": "LITORAL",
@@ -297,19 +310,6 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Rangaku",
-      "imo": "9866627",
-      "agencia": "LITORAL",
-      "data_chegada_texto": "01/11/2026 12:00",
-      "data_chegada_iso": "2026-11-01T12:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "SFS",
       "situacao": null,
       "secao": "Navios Esperados"
     },

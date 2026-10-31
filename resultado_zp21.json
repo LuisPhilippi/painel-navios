@@ -1,42 +1,12 @@
 {
-  "gerado_em": "2026-10-31T14:59:39.090345",
+  "gerado_em": "2026-10-31T19:12:40.798873",
   "navios": [
-    {
-      "navio": "PIO GRANDE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "31/10/2026",
-      "data_hora_iso": "2026-10-31T00:00:00",
-      "calado": "5,40/5,80",
-      "rota": "",
-      "berco": "TEPORTI",
-      "posicao": null
-    },
-    {
-      "navio": "MSC MARIA LAURA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "31/10/2026",
-      "data_hora_iso": "2026-10-31T00:00:00",
-      "calado": "9,80 EK",
-      "rota": "",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "FRIO MARATHON",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "31/10/2026",
-      "data_hora_iso": "2026-10-31T00:00:00",
-      "calado": "1,40/6,10",
-      "rota": "",
-      "berco": "BRASKARNE",
-      "posicao": null
-    },
     {
       "navio": "COSCO SHIPPING BRAZIL",
       "status": "ManobraPrevista",
       "data_hora_texto": "31/10/2026",
       "data_hora_iso": "2026-10-31T00:00:00",
-      "calado": "11,20 EK",
+      "calado": "11,10 EK",
       "rota": "Bacia 2",
       "berco": "PNAVE 02",
       "posicao": null
@@ -59,6 +29,16 @@
       "calado": "9,70/11,20",
       "rota": "",
       "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "MSC MARIA LAURA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "31/10/2026",
+      "data_hora_iso": "2026-10-31T00:00:00",
+      "calado": "TBC",
+      "rota": "Bacia 2",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
@@ -96,7 +76,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "01/11/2026",
       "data_hora_iso": "2026-11-01T00:00:00",
-      "calado": "3,90/5,20",
+      "calado": "3,90/5,50",
       "rota": "",
       "berco": "BARRA DO RIO",
       "posicao": null
@@ -106,7 +86,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "01/11/2026",
       "data_hora_iso": "2026-11-01T00:00:00",
-      "calado": "TBC",
+      "calado": "11,80 EK",
       "rota": "Bacia 2",
       "berco": "JBS 4",
       "posicao": null
@@ -209,6 +189,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "FRIO MARATHON",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "04/11/2026",
+      "data_hora_iso": "2026-11-04T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "BRASKARNE",
       "posicao": null
     },
     {
