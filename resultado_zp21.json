@@ -1,26 +1,6 @@
 {
-  "gerado_em": "2026-10-31T19:12:40.798873",
+  "gerado_em": "2026-10-31T23:02:12.025893",
   "navios": [
-    {
-      "navio": "COSCO SHIPPING BRAZIL",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "31/10/2026",
-      "data_hora_iso": "2026-10-31T00:00:00",
-      "calado": "11,10 EK",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
-      "navio": "MAERSK RUBICON",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "31/10/2026",
-      "data_hora_iso": "2026-10-31T00:00:00",
-      "calado": "10,70/11,60",
-      "rota": "Bacia 1",
-      "berco": "JBS 2",
-      "posicao": null
-    },
     {
       "navio": "PATMOS EXPRESS",
       "status": "ManobraPrevista",
@@ -32,23 +12,23 @@
       "posicao": null
     },
     {
-      "navio": "MSC MARIA LAURA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "31/10/2026",
-      "data_hora_iso": "2026-10-31T00:00:00",
-      "calado": "TBC",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
       "navio": "MERCOSUL ITAJAI",
       "status": "ManobraPrevista",
       "data_hora_texto": "31/10/2026",
       "data_hora_iso": "2026-10-31T00:00:00",
-      "calado": "TBC",
+      "calado": "9,70/9,90",
       "rota": "Bacia 1",
       "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
+      "navio": "MSC MARIA LAURA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "01/11/2026",
+      "data_hora_iso": "2026-11-01T00:00:00",
+      "calado": "6,50/9,80",
+      "rota": "Bacia 2",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
@@ -56,19 +36,9 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "01/11/2026",
       "data_hora_iso": "2026-11-01T00:00:00",
-      "calado": "TBC",
+      "calado": "9,60/10,80",
       "rota": "Bacia 1",
       "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "CAPE ALTIUS",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "01/11/2026",
-      "data_hora_iso": "2026-11-01T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS",
       "posicao": null
     },
     {
@@ -87,7 +57,17 @@
       "data_hora_texto": "01/11/2026",
       "data_hora_iso": "2026-11-01T00:00:00",
       "calado": "11,80 EK",
-      "rota": "Bacia 2",
+      "rota": "",
+      "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
+      "navio": "MICHIGAN HIGHWAY",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "01/11/2026",
+      "data_hora_iso": "2026-11-01T00:00:00",
+      "calado": "TBC",
+      "rota": "Bacia 1",
       "berco": "JBS 4",
       "posicao": null
     },
@@ -98,17 +78,7 @@
       "data_hora_iso": "2026-11-01T00:00:00",
       "calado": "8,60/10,60",
       "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
-      "navio": "CZECH",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "02/11/2026",
-      "data_hora_iso": "2026-11-02T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -117,6 +87,16 @@
       "data_hora_texto": "02/11/2026",
       "data_hora_iso": "2026-11-02T00:00:00",
       "calado": "10,30 EK",
+      "rota": "Bacia 1",
+      "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
+      "navio": "CZECH",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "02/11/2026",
+      "data_hora_iso": "2026-11-02T00:00:00",
+      "calado": "TBC",
       "rota": "",
       "berco": "PNAVE",
       "posicao": null
@@ -179,6 +159,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "CAPE ALTIUS",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "04/11/2026",
+      "data_hora_iso": "2026-11-04T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
       "posicao": null
     },
     {
