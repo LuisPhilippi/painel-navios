@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-31T01:58:40.374198",
+  "gerado_em": "2026-10-31T08:12:54.352356",
   "navios": [
     {
       "navio": "MSC GIULIA",
@@ -8,16 +8,6 @@
       "data_hora_iso": "2026-10-31T00:00:00",
       "calado": "9,00/10,00",
       "rota": "Bacia 2",
-      "berco": "JBS 4",
-      "posicao": null
-    },
-    {
-      "navio": "MSC BUSAN VIII",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "31/10/2026",
-      "data_hora_iso": "2026-10-31T00:00:00",
-      "calado": "10,80/11,30",
-      "rota": "",
       "berco": "JBS 4",
       "posicao": null
     },
@@ -32,13 +22,23 @@
       "posicao": null
     },
     {
-      "navio": "FRIO MARATHON",
+      "navio": "MSC BUSAN VIII",
       "status": "ManobraPrevista",
       "data_hora_texto": "31/10/2026",
       "data_hora_iso": "2026-10-31T00:00:00",
-      "calado": "1,40/6,10",
+      "calado": "10,80/11,30",
       "rota": "",
-      "berco": "BRASKARNE",
+      "berco": "JBS 4",
+      "posicao": null
+    },
+    {
+      "navio": "PIO GRANDE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "31/10/2026",
+      "data_hora_iso": "2026-10-31T00:00:00",
+      "calado": "5,40/5,80",
+      "rota": "",
+      "berco": "TEPORTI",
       "posicao": null
     },
     {
@@ -52,6 +52,16 @@
       "posicao": null
     },
     {
+      "navio": "FRIO MARATHON",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "31/10/2026",
+      "data_hora_iso": "2026-10-31T00:00:00",
+      "calado": "1,40/6,10",
+      "rota": "",
+      "berco": "BRASKARNE",
+      "posicao": null
+    },
+    {
       "navio": "MAERSK RUBICON",
       "status": "ManobraPrevista",
       "data_hora_texto": "31/10/2026",
@@ -59,16 +69,6 @@
       "calado": "10,70/11,60",
       "rota": "Bacia 1",
       "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "PIO GRANDE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "31/10/2026",
-      "data_hora_iso": "2026-10-31T00:00:00",
-      "calado": "5,40/5,80",
-      "rota": "",
-      "berco": "TEPORTI",
       "posicao": null
     },
     {
