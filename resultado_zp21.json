@@ -1,36 +1,6 @@
 {
-  "gerado_em": "2026-10-31T08:12:54.352356",
+  "gerado_em": "2026-10-31T14:59:39.090345",
   "navios": [
-    {
-      "navio": "MSC GIULIA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "31/10/2026",
-      "data_hora_iso": "2026-10-31T00:00:00",
-      "calado": "9,00/10,00",
-      "rota": "Bacia 2",
-      "berco": "JBS 4",
-      "posicao": null
-    },
-    {
-      "navio": "ATLANTIC ACANTHUS",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "31/10/2026",
-      "data_hora_iso": "2026-10-31T00:00:00",
-      "calado": "7,10/7,40",
-      "rota": "Bacia 1",
-      "berco": "BRASKARNE",
-      "posicao": null
-    },
-    {
-      "navio": "MSC BUSAN VIII",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "31/10/2026",
-      "data_hora_iso": "2026-10-31T00:00:00",
-      "calado": "10,80/11,30",
-      "rota": "",
-      "berco": "JBS 4",
-      "posicao": null
-    },
     {
       "navio": "PIO GRANDE",
       "status": "ManobraPrevista",
@@ -47,7 +17,7 @@
       "data_hora_texto": "31/10/2026",
       "data_hora_iso": "2026-10-31T00:00:00",
       "calado": "9,80 EK",
-      "rota": "Bacia 2",
+      "rota": "",
       "berco": "PNAVE 01",
       "posicao": null
     },
@@ -62,16 +32,6 @@
       "posicao": null
     },
     {
-      "navio": "MAERSK RUBICON",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "31/10/2026",
-      "data_hora_iso": "2026-10-31T00:00:00",
-      "calado": "10,70/11,60",
-      "rota": "Bacia 1",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
       "navio": "COSCO SHIPPING BRAZIL",
       "status": "ManobraPrevista",
       "data_hora_texto": "31/10/2026",
@@ -79,6 +39,16 @@
       "calado": "11,20 EK",
       "rota": "Bacia 2",
       "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
+      "navio": "MAERSK RUBICON",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "31/10/2026",
+      "data_hora_iso": "2026-10-31T00:00:00",
+      "calado": "10,70/11,60",
+      "rota": "Bacia 1",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -132,11 +102,21 @@
       "posicao": null
     },
     {
-      "navio": "MSC SAMIRA III",
+      "navio": "MSC BUSAN VIII",
       "status": "ManobraPrevista",
       "data_hora_texto": "01/11/2026",
       "data_hora_iso": "2026-11-01T00:00:00",
       "calado": "TBC",
+      "rota": "Bacia 2",
+      "berco": "JBS 4",
+      "posicao": null
+    },
+    {
+      "navio": "MSC SAMIRA III",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "01/11/2026",
+      "data_hora_iso": "2026-11-01T00:00:00",
+      "calado": "8,60/10,60",
       "rota": "",
       "berco": "JBS",
       "posicao": null
