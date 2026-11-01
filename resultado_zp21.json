@@ -1,26 +1,6 @@
 {
-  "gerado_em": "2026-11-01T11:38:54.529330",
+  "gerado_em": "2026-11-01T17:36:09.479789",
   "navios": [
-    {
-      "navio": "MSC BUSAN VIII",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "01/11/2026",
-      "data_hora_iso": "2026-11-01T00:00:00",
-      "calado": "11,80 EK",
-      "rota": "",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
-      "navio": "MICHIGAN HIGHWAY",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "01/11/2026",
-      "data_hora_iso": "2026-11-01T00:00:00",
-      "calado": "9,00 EK",
-      "rota": "Bacia 1",
-      "berco": "JBS 4",
-      "posicao": null
-    },
     {
       "navio": "PATMOS EXPRESS",
       "status": "ManobraPrevista",
@@ -42,11 +22,21 @@
       "posicao": null
     },
     {
+      "navio": "MICHIGAN HIGHWAY",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "01/11/2026",
+      "data_hora_iso": "2026-11-01T00:00:00",
+      "calado": "8,55 EK",
+      "rota": "",
+      "berco": "JBS 4",
+      "posicao": null
+    },
+    {
       "navio": "CONTI CONQUEST",
       "status": "ManobraPrevista",
       "data_hora_texto": "02/11/2026",
       "data_hora_iso": "2026-11-02T00:00:00",
-      "calado": "TBC",
+      "calado": "9,80/10,60",
       "rota": "",
       "berco": "JBS 2",
       "posicao": null
@@ -72,11 +62,21 @@
       "posicao": null
     },
     {
+      "navio": "MSC BUSAN VIII",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "02/11/2026",
+      "data_hora_iso": "2026-11-02T00:00:00",
+      "calado": "11,80 EK",
+      "rota": "Bacia 2",
+      "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
       "navio": "CZECH",
       "status": "ManobraPrevista",
       "data_hora_texto": "02/11/2026",
       "data_hora_iso": "2026-11-02T00:00:00",
-      "calado": "TBC",
+      "calado": "11,70 EK",
       "rota": "",
       "berco": "PNAVE",
       "posicao": null
@@ -106,7 +106,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "02/11/2026",
       "data_hora_iso": "2026-11-02T00:00:00",
-      "calado": "TBC",
+      "calado": "8,10/10,20",
       "rota": "",
       "berco": "PNAVE",
       "posicao": null
@@ -206,6 +206,26 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "05/11/2026",
       "data_hora_iso": "2026-11-05T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "ACASTOS",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "08/11/2026",
+      "data_hora_iso": "2026-11-08T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "NC BRUMA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "09/11/2026",
+      "data_hora_iso": "2026-11-09T00:00:00",
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",

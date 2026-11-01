@@ -1,45 +1,6 @@
 {
-  "gerado_em": "2026-11-01T11:39:00.895843",
+  "gerado_em": "2026-11-01T17:36:17.454907",
   "navios": [
-    {
-      "navio": "Sebastião Caboto",
-      "imo": "9602875",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "31/10/2026 19:26",
-      "data_chegada_iso": "2026-10-31T19:26:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "01/11/2026 07:15",
-      "data_manobra_iso": "2026-11-01T07:15:00",
-      "berco": "902 BARRA",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "MSC Caterina",
-      "imo": "9705005",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "31/10/2026 11:42",
-      "data_chegada_iso": "2026-10-31T11:42:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "01/11/2026 10:15",
-      "data_manobra_iso": "2026-11-01T10:15:00",
-      "berco": "BARRA 902",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Rangaku",
-      "imo": "9866627",
-      "agencia": "LITORAL",
-      "data_chegada_texto": "31/10/2026 14:30",
-      "data_chegada_iso": "2026-10-31T14:30:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "01/11/2026 12:15",
-      "data_manobra_iso": "2026-11-01T12:15:00",
-      "berco": "BARRA 101",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Bahri Ghadah",
       "imo": "9799795",
@@ -50,7 +11,7 @@
       "data_manobra": "01/11/2026 14:15",
       "data_manobra_iso": "2026-11-01T14:15:00",
       "berco": "BARRA F3",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -102,6 +63,32 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "901",
+      "situacao": null,
+      "secao": "Navios Atracados"
+    },
+    {
+      "navio": "MSC Caterina",
+      "imo": "9705005",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "31/10/2026 11:42",
+      "data_chegada_iso": "2026-10-31T11:42:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "902",
+      "situacao": null,
+      "secao": "Navios Atracados"
+    },
+    {
+      "navio": "Rangaku",
+      "imo": "9866627",
+      "agencia": "LITORAL",
+      "data_chegada_texto": "31/10/2026 14:30",
+      "data_chegada_iso": "2026-10-31T14:30:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "101",
       "situacao": null,
       "secao": "Navios Atracados"
     },
@@ -262,58 +249,6 @@
       "secao": "Navios Fundeados (Barra)"
     },
     {
-      "navio": "Navios Amarillo",
-      "imo": "9324849",
-      "agencia": "ZIM DO BRASIL",
-      "data_chegada_texto": "01/11/2026 07:00",
-      "data_chegada_iso": "2026-11-01T07:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": null,
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "CMA CGM Krypton",
-      "imo": "9996733",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "01/11/2026 10:00",
-      "data_chegada_iso": "2026-11-01T10:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Leo. K",
-      "imo": "9842736",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "01/11/2026 13:00",
-      "data_chegada_iso": "2026-11-01T13:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "SFS",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Hyundai Tokyo",
-      "imo": "9305673",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "01/11/2026 17:00",
-      "data_chegada_iso": "2026-11-01T17:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
       "navio": "CMA CGM Mississippi",
       "imo": "9679907",
       "agencia": "UNIMAR",
@@ -353,6 +288,32 @@
       "secao": "Navios Esperados"
     },
     {
+      "navio": "CMA CGM Krypton",
+      "imo": "9996733",
+      "agencia": "UNIMAR",
+      "data_chegada_texto": "02/11/2026 19:00",
+      "data_chegada_iso": "2026-11-02T19:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Hyundai Tokyo",
+      "imo": "9305673",
+      "agencia": "UNIMAR",
+      "data_chegada_texto": "02/11/2026 19:00",
+      "data_chegada_iso": "2026-11-02T19:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
       "navio": "MSC Yamuna VI",
       "imo": "9288409",
       "agencia": "WILSON SONS",
@@ -366,6 +327,19 @@
       "secao": "Navios Esperados"
     },
     {
+      "navio": "Leo. K",
+      "imo": "9842736",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "03/11/2026 13:00",
+      "data_chegada_iso": "2026-11-03T13:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "SFS",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
       "navio": "Valiant Topaz",
       "imo": "9969728",
       "agencia": "LITORAL",
@@ -375,6 +349,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "SFS",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Navios Amarillo",
+      "imo": "9324849",
+      "agencia": "ZIM DO BRASIL",
+      "data_chegada_texto": "03/11/2026 14:00",
+      "data_chegada_iso": "2026-11-03T14:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Esperados"
     },
@@ -434,8 +421,8 @@
       "navio": "Bartolomeu Dias",
       "imo": "9625384",
       "agencia": "LACHMANN",
-      "data_chegada_texto": "05/11/2026 05:00",
-      "data_chegada_iso": "2026-11-05T05:00:00",
+      "data_chegada_texto": "05/11/2026 07:00",
+      "data_chegada_iso": "2026-11-05T07:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
@@ -486,8 +473,8 @@
       "navio": "Maersk Monte Alegre",
       "imo": "9348065",
       "agencia": "LACHMANN",
-      "data_chegada_texto": "06/11/2026 04:00",
-      "data_chegada_iso": "2026-11-06T04:00:00",
+      "data_chegada_texto": "06/11/2026 06:00",
+      "data_chegada_iso": "2026-11-06T06:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
@@ -561,19 +548,6 @@
       "secao": "Navios Esperados"
     },
     {
-      "navio": "CMA CGM Cobalt",
-      "imo": "9996680",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "07/11/2026 15:00",
-      "data_chegada_iso": "2026-11-07T15:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
       "navio": "San Augustin Maersk",
       "imo": "9622239",
       "agencia": "LACHMANN",
@@ -592,6 +566,19 @@
       "agencia": "LACHMANN",
       "data_chegada_texto": "07/11/2026 17:00",
       "data_chegada_iso": "2026-11-07T17:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "CMA CGM Cobalt",
+      "imo": "9996680",
+      "agencia": "UNIMAR",
+      "data_chegada_texto": "07/11/2026 18:00",
+      "data_chegada_iso": "2026-11-07T18:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
