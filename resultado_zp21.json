@@ -1,26 +1,6 @@
 {
-  "gerado_em": "2026-11-01T04:11:02.167109",
+  "gerado_em": "2026-11-01T11:38:54.529330",
   "navios": [
-    {
-      "navio": "LOG-IN RESILIENTE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "01/11/2026",
-      "data_hora_iso": "2026-11-01T00:00:00",
-      "calado": "9,60/10,80",
-      "rota": "Bacia 1",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "MERCOSUL ITAJAI",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "01/11/2026",
-      "data_hora_iso": "2026-11-01T00:00:00",
-      "calado": "7,50/8,50",
-      "rota": "",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
     {
       "navio": "MSC BUSAN VIII",
       "status": "ManobraPrevista",
@@ -36,7 +16,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "01/11/2026",
       "data_hora_iso": "2026-11-01T00:00:00",
-      "calado": "TBC",
+      "calado": "9,00 EK",
       "rota": "Bacia 1",
       "berco": "JBS 4",
       "posicao": null
@@ -72,11 +52,21 @@
       "posicao": null
     },
     {
+      "navio": "LOG-IN RESILIENTE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "02/11/2026",
+      "data_hora_iso": "2026-11-02T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
       "navio": "NAVIOS AMARILLO",
       "status": "ManobraPrevista",
       "data_hora_texto": "02/11/2026",
       "data_hora_iso": "2026-11-02T00:00:00",
-      "calado": "10,30 EK",
+      "calado": "8,00/9,30",
       "rota": "Bacia 1",
       "berco": "PNAVE 01",
       "posicao": null
@@ -176,7 +166,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "04/11/2026",
       "data_hora_iso": "2026-11-04T00:00:00",
-      "calado": "TBC",
+      "calado": "10,45/10,70",
       "rota": "",
       "berco": "JBS",
       "posicao": null

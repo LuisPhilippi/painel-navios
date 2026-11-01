@@ -1,45 +1,6 @@
 {
-  "gerado_em": "2026-11-01T04:11:08.533290",
+  "gerado_em": "2026-11-01T11:39:00.895843",
   "navios": [
-    {
-      "navio": "Conti Conquest",
-      "imo": "9293818",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "30/10/2026 11:54",
-      "data_chegada_iso": "2026-10-30T11:54:00",
-      "manobra": "Desatracação e Fundeio",
-      "data_manobra": "01/11/2026 00:00",
-      "data_manobra_iso": "2026-11-01T00:00:00",
-      "berco": "901 F5",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "San Antonio Maersk",
-      "imo": "9622241",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "31/10/2026 16:00",
-      "data_chegada_iso": "2026-10-31T16:00:00",
-      "manobra": "Suspender e Atracar",
-      "data_manobra": "01/11/2026 00:00",
-      "data_manobra_iso": "2026-11-01T00:00:00",
-      "berco": "F5 901",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Xie Hai Yong Yu",
-      "imo": "1074008",
-      "agencia": "LITORAL",
-      "data_chegada_texto": "21/10/2026 15:24",
-      "data_chegada_iso": "2026-10-21T15:24:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "01/11/2026 06:00",
-      "data_manobra_iso": "2026-11-01T06:00:00",
-      "berco": "101 BARRA",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Sebastião Caboto",
       "imo": "9602875",
@@ -50,7 +11,7 @@
       "data_manobra": "01/11/2026 07:15",
       "data_manobra_iso": "2026-11-01T07:15:00",
       "berco": "902 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -130,6 +91,19 @@
       "berco": "F4 (P2) 302",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
+    },
+    {
+      "navio": "San Antonio Maersk",
+      "imo": "9622241",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "31/10/2026 16:00",
+      "data_chegada_iso": "2026-10-31T16:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "901",
+      "situacao": null,
+      "secao": "Navios Atracados"
     },
     {
       "navio": "Obi Island",
@@ -262,6 +236,32 @@
       "secao": "Navios Fundeados (Barra)"
     },
     {
+      "navio": "Andreas k",
+      "imo": "9491226",
+      "agencia": "ORION",
+      "data_chegada_texto": "01/11/2026 06:58",
+      "data_chegada_iso": "2026-11-01T06:58:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "SFS",
+      "situacao": null,
+      "secao": "Navios Fundeados (Barra)"
+    },
+    {
+      "navio": "Aristo Ocean",
+      "imo": "9909223",
+      "agencia": "LITORAL",
+      "data_chegada_texto": "01/11/2026 08:06",
+      "data_chegada_iso": "2026-11-01T08:06:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "SFS",
+      "situacao": null,
+      "secao": "Navios Fundeados (Barra)"
+    },
+    {
       "navio": "Navios Amarillo",
       "imo": "9324849",
       "agencia": "ZIM DO BRASIL",
@@ -271,19 +271,6 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": null,
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Aristo Ocean",
-      "imo": "9909223",
-      "agencia": "LITORAL",
-      "data_chegada_texto": "01/11/2026 08:00",
-      "data_chegada_iso": "2026-11-01T08:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "SFS",
       "situacao": null,
       "secao": "Navios Esperados"
     },
@@ -323,19 +310,6 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Andreas k",
-      "imo": "9491226",
-      "agencia": "ORION",
-      "data_chegada_texto": "01/11/2026 21:00",
-      "data_chegada_iso": "2026-11-01T21:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "SFS",
       "situacao": null,
       "secao": "Navios Esperados"
     },
