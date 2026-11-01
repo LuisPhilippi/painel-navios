@@ -1,26 +1,6 @@
 {
-  "gerado_em": "2026-11-01T17:36:09.479789",
+  "gerado_em": "2026-11-01T21:39:26.624587",
   "navios": [
-    {
-      "navio": "PATMOS EXPRESS",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "01/11/2026",
-      "data_hora_iso": "2026-11-01T00:00:00",
-      "calado": "7,80/10,60",
-      "rota": "Bacia 2",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "MSC SAMIRA III",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "01/11/2026",
-      "data_hora_iso": "2026-11-01T00:00:00",
-      "calado": "8,60/10,60",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
     {
       "navio": "MICHIGAN HIGHWAY",
       "status": "ManobraPrevista",
@@ -32,21 +12,11 @@
       "posicao": null
     },
     {
-      "navio": "CONTI CONQUEST",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "02/11/2026",
-      "data_hora_iso": "2026-11-02T00:00:00",
-      "calado": "9,80/10,60",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
       "navio": "LOG-IN RESILIENTE",
       "status": "ManobraPrevista",
       "data_hora_texto": "02/11/2026",
       "data_hora_iso": "2026-11-02T00:00:00",
-      "calado": "TBC",
+      "calado": "9,50/10,70",
       "rota": "",
       "berco": "PNAVE 01",
       "posicao": null
@@ -62,43 +32,43 @@
       "posicao": null
     },
     {
+      "navio": "MSC SAMIRA III",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "02/11/2026",
+      "data_hora_iso": "2026-11-02T00:00:00",
+      "calado": "TBC",
+      "rota": "Bacia 1",
+      "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "CONTI CONQUEST",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "02/11/2026",
+      "data_hora_iso": "2026-11-02T00:00:00",
+      "calado": "9,80/10,60",
+      "rota": "",
+      "berco": "JBS 2",
+      "posicao": null
+    },
+    {
       "navio": "MSC BUSAN VIII",
       "status": "ManobraPrevista",
       "data_hora_texto": "02/11/2026",
       "data_hora_iso": "2026-11-02T00:00:00",
-      "calado": "11,80 EK",
+      "calado": "11,70 EK",
       "rota": "Bacia 2",
       "berco": "PNAVE 02",
       "posicao": null
     },
     {
-      "navio": "CZECH",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "02/11/2026",
-      "data_hora_iso": "2026-11-02T00:00:00",
-      "calado": "11,70 EK",
-      "rota": "",
-      "berco": "PNAVE",
-      "posicao": null
-    },
-    {
-      "navio": "NC BRAVO",
+      "navio": "MSC AVNI",
       "status": "ManobraPrevista",
       "data_hora_texto": "02/11/2026",
       "data_hora_iso": "2026-11-02T00:00:00",
       "calado": "TBC",
       "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
-      "navio": "INDUSTRIAL CHARGER",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "02/11/2026",
-      "data_hora_iso": "2026-11-02T00:00:00",
-      "calado": "3,90/5,50",
-      "rota": "",
-      "berco": "BARRA DO RIO",
+      "berco": "PNAVE 02",
       "posicao": null
     },
     {
@@ -108,17 +78,17 @@
       "data_hora_iso": "2026-11-02T00:00:00",
       "calado": "8,10/10,20",
       "rota": "",
-      "berco": "PNAVE",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
       "navio": "MSC CATERINA",
       "status": "ManobraPrevista",
-      "data_hora_texto": "02/11/2026",
-      "data_hora_iso": "2026-11-02T00:00:00",
+      "data_hora_texto": "03/11/2026",
+      "data_hora_iso": "2026-11-03T00:00:00",
       "calado": "TBC",
       "rota": "",
-      "berco": "PNAVE",
+      "berco": "PNAVE 02",
       "posicao": null
     },
     {
@@ -132,7 +102,27 @@
       "posicao": null
     },
     {
+      "navio": "CZECH",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "03/11/2026",
+      "data_hora_iso": "2026-11-03T00:00:00",
+      "calado": "11,70 EK",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
       "navio": "MSC LETIZIA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "03/11/2026",
+      "data_hora_iso": "2026-11-03T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "NC BRAVO",
       "status": "ManobraPrevista",
       "data_hora_texto": "03/11/2026",
       "data_hora_iso": "2026-11-03T00:00:00",
@@ -152,13 +142,13 @@
       "posicao": null
     },
     {
-      "navio": "MSC AVNI",
+      "navio": "INDUSTRIAL CHARGER",
       "status": "ManobraPrevista",
       "data_hora_texto": "03/11/2026",
       "data_hora_iso": "2026-11-03T00:00:00",
-      "calado": "TBC",
+      "calado": "3,90/5,50",
       "rota": "",
-      "berco": "PNAVE",
+      "berco": "BARRA DO RIO",
       "posicao": null
     },
     {
