@@ -1,14 +1,24 @@
 {
-  "gerado_em": "2026-11-02T01:14:02.592351",
+  "gerado_em": "2026-11-02T08:49:43.743882",
   "navios": [
     {
-      "navio": "LOG-IN RESILIENTE",
+      "navio": "MSC BUSAN VIII",
       "status": "ManobraPrevista",
       "data_hora_texto": "02/11/2026",
       "data_hora_iso": "2026-11-02T00:00:00",
-      "calado": "9,50/10,70",
-      "rota": "",
-      "berco": "PNAVE 01",
+      "calado": "11,70 EK",
+      "rota": "Bacia 2",
+      "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
+      "navio": "MSC AVNI",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "02/11/2026",
+      "data_hora_iso": "2026-11-02T00:00:00",
+      "calado": "10,80/11,70",
+      "rota": "Bacia 2",
+      "berco": "PNAVE 02",
       "posicao": null
     },
     {
@@ -16,8 +26,8 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "02/11/2026",
       "data_hora_iso": "2026-11-02T00:00:00",
-      "calado": "8,00/9,30",
-      "rota": "Bacia 1",
+      "calado": "10,90 EK",
+      "rota": "",
       "berco": "PNAVE 01",
       "posicao": null
     },
@@ -36,7 +46,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "02/11/2026",
       "data_hora_iso": "2026-11-02T00:00:00",
-      "calado": "TBC",
+      "calado": "11,00/11,20",
       "rota": "Bacia 1",
       "berco": "JBS 2",
       "posicao": null
@@ -47,28 +57,8 @@
       "data_hora_texto": "02/11/2026",
       "data_hora_iso": "2026-11-02T00:00:00",
       "calado": "9,80/10,60",
-      "rota": "",
+      "rota": "Bacia 2",
       "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "MSC BUSAN VIII",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "02/11/2026",
-      "data_hora_iso": "2026-11-02T00:00:00",
-      "calado": "11,70 EK",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
-      "navio": "MSC AVNI",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "02/11/2026",
-      "data_hora_iso": "2026-11-02T00:00:00",
-      "calado": "TBC",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 02",
       "posicao": null
     },
     {
