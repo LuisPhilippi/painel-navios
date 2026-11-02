@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-11-01T21:39:26.624587",
+  "gerado_em": "2026-11-02T01:14:02.592351",
   "navios": [
-    {
-      "navio": "MICHIGAN HIGHWAY",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "01/11/2026",
-      "data_hora_iso": "2026-11-01T00:00:00",
-      "calado": "8,55 EK",
-      "rota": "",
-      "berco": "JBS 4",
-      "posicao": null
-    },
     {
       "navio": "LOG-IN RESILIENTE",
       "status": "ManobraPrevista",
@@ -29,6 +19,16 @@
       "calado": "8,00/9,30",
       "rota": "Bacia 1",
       "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
+      "navio": "MICHIGAN HIGHWAY",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "02/11/2026",
+      "data_hora_iso": "2026-11-02T00:00:00",
+      "calado": "8,55 EK",
+      "rota": "",
+      "berco": "JBS 4",
       "posicao": null
     },
     {
@@ -67,7 +67,7 @@
       "data_hora_texto": "02/11/2026",
       "data_hora_iso": "2026-11-02T00:00:00",
       "calado": "TBC",
-      "rota": "",
+      "rota": "Bacia 2",
       "berco": "PNAVE 02",
       "posicao": null
     },
@@ -82,16 +82,6 @@
       "posicao": null
     },
     {
-      "navio": "MSC CATERINA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "03/11/2026",
-      "data_hora_iso": "2026-11-03T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
       "navio": "CMA CGM KRYPTON",
       "status": "ManobraPrevista",
       "data_hora_texto": "03/11/2026",
@@ -102,13 +92,13 @@
       "posicao": null
     },
     {
-      "navio": "CZECH",
+      "navio": "MSC CATERINA",
       "status": "ManobraPrevista",
       "data_hora_texto": "03/11/2026",
       "data_hora_iso": "2026-11-03T00:00:00",
       "calado": "11,70 EK",
       "rota": "",
-      "berco": "PNAVE",
+      "berco": "PNAVE 02",
       "posicao": null
     },
     {
@@ -159,6 +149,16 @@
       "calado": "10,45/10,70",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "CZECH",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "04/11/2026",
+      "data_hora_iso": "2026-11-04T00:00:00",
+      "calado": "11,70 EK",
+      "rota": "",
+      "berco": "PNAVE",
       "posicao": null
     },
     {
