@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-03T01:58:45.197559",
+  "gerado_em": "2026-11-03T09:14:59.382371",
   "navios": [
     {
       "navio": "CONTI CONQUEST",
@@ -46,7 +46,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "03/11/2026",
       "data_hora_iso": "2026-11-03T00:00:00",
-      "calado": "3,90/5,50",
+      "calado": "4,50/5,00",
       "rota": "",
       "berco": "BARRA DO RIO",
       "posicao": null
