@@ -1,24 +1,14 @@
 {
-  "gerado_em": "2026-11-02T19:08:11.933232",
+  "gerado_em": "2026-11-03T01:58:45.197559",
   "navios": [
     {
       "navio": "CONTI CONQUEST",
       "status": "ManobraPrevista",
-      "data_hora_texto": "02/11/2026",
-      "data_hora_iso": "2026-11-02T00:00:00",
-      "calado": "9,85/10,70",
-      "rota": "Bacia 2",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "MICHIGAN HIGHWAY",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "02/11/2026",
-      "data_hora_iso": "2026-11-02T00:00:00",
-      "calado": "8,55 EK",
+      "data_hora_texto": "03/11/2026",
+      "data_hora_iso": "2026-11-03T00:00:00",
+      "calado": "9,00/9,60",
       "rota": "",
-      "berco": "JBS 4",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -52,6 +42,16 @@
       "posicao": null
     },
     {
+      "navio": "INDUSTRIAL CHARGER",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "03/11/2026",
+      "data_hora_iso": "2026-11-03T00:00:00",
+      "calado": "3,90/5,50",
+      "rota": "",
+      "berco": "BARRA DO RIO",
+      "posicao": null
+    },
+    {
       "navio": "MSC SHUBA B",
       "status": "ManobraPrevista",
       "data_hora_texto": "03/11/2026",
@@ -66,19 +66,9 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "03/11/2026",
       "data_hora_iso": "2026-11-03T00:00:00",
-      "calado": "8,50/9,40",
+      "calado": "8,55/9,20",
       "rota": "",
       "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
-      "navio": "INDUSTRIAL CHARGER",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "03/11/2026",
-      "data_hora_iso": "2026-11-03T00:00:00",
-      "calado": "3,90/5,50",
-      "rota": "",
-      "berco": "BARRA DO RIO",
       "posicao": null
     },
     {
@@ -86,9 +76,19 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "03/11/2026",
       "data_hora_iso": "2026-11-03T00:00:00",
-      "calado": "11,70 EK",
+      "calado": "11,30 EK",
       "rota": "Bacia 2",
       "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
+      "navio": "CMA CGM MISSISSIPPI",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "03/11/2026",
+      "data_hora_iso": "2026-11-03T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -96,7 +96,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "03/11/2026",
       "data_hora_iso": "2026-11-03T00:00:00",
-      "calado": "TBC",
+      "calado": "9,50 EK",
       "rota": "Bacia 1",
       "berco": "PNAVE 01",
       "posicao": null
