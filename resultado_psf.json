@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-03T09:15:05.670195",
+  "gerado_em": "2026-11-03T17:30:15.622230",
   "navios": [
     {
       "navio": "Hyundai Tokyo",
@@ -7,25 +7,12 @@
       "agencia": "UNIMAR",
       "data_chegada_texto": "02/11/2026 06:36",
       "data_chegada_iso": "2026-11-02T06:36:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "03/11/2026 09:45",
-      "data_manobra_iso": "2026-11-03T09:45:00",
-      "berco": "BARRA 901",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "CMA CGM Mississippi",
-      "imo": "9679907",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "02/11/2026 00:58",
-      "data_chegada_iso": "2026-11-02T00:58:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "03/11/2026 09:45",
-      "data_manobra_iso": "2026-11-03T09:45:00",
-      "berco": "901 BARRA",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "901",
+      "situacao": null,
+      "secao": "Navios Atracados"
     },
     {
       "navio": "CMA CGM Krypton",
@@ -262,15 +249,28 @@
       "secao": "Navios Fundeados (Barra)"
     },
     {
-      "navio": "Leo. K",
-      "imo": "9842736",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "03/11/2026 22:00",
-      "data_chegada_iso": "2026-11-03T22:00:00",
+      "navio": "Equinox Dream",
+      "imo": "9503964",
+      "agencia": "ZPORT AGENCIA",
+      "data_chegada_texto": "03/11/2026 07:07",
+      "data_chegada_iso": "2026-11-03T07:07:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "SFS",
+      "situacao": null,
+      "secao": "Navios Fundeados (Barra)"
+    },
+    {
+      "navio": "Barcaça N09",
+      "imo": "9326005",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "03/11/2026 21:00",
+      "data_chegada_iso": "2026-11-03T21:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "TESC",
       "situacao": null,
       "secao": "Navios Esperados"
     },
@@ -301,19 +301,6 @@
       "secao": "Navios Esperados"
     },
     {
-      "navio": "Barcaça N09",
-      "imo": "9326005",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "04/11/2026 13:00",
-      "data_chegada_iso": "2026-11-04T13:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "TESC",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
       "navio": "Maersk Redwood",
       "imo": "9943085",
       "agencia": "LACHMANN",
@@ -323,32 +310,6 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "MSC Yamuna VI",
-      "imo": "9288409",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "04/11/2026 19:00",
-      "data_chegada_iso": "2026-11-04T19:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Equinox Dream",
-      "imo": "9503964",
-      "agencia": "ZPORT AGENCIA",
-      "data_chegada_texto": "05/11/2026 11:30",
-      "data_chegada_iso": "2026-11-05T11:30:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "SFS",
       "situacao": null,
       "secao": "Navios Esperados"
     },
@@ -375,19 +336,6 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "SFS",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "MSC Leticia X",
-      "imo": "1031197",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "05/11/2026 22:00",
-      "data_chegada_iso": "2026-11-05T22:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Esperados"
     },
@@ -436,6 +384,32 @@
       "agencia": "UNIMAR",
       "data_chegada_texto": "06/11/2026 10:00",
       "data_chegada_iso": "2026-11-06T10:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Leo. K",
+      "imo": "9842736",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "06/11/2026 13:00",
+      "data_chegada_iso": "2026-11-06T13:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "SFS",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "MSC Leticia X",
+      "imo": "1031197",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "06/11/2026 14:00",
+      "data_chegada_iso": "2026-11-06T14:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
@@ -557,6 +531,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Barcaça N12",
+      "imo": "9326031",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "10/11/2026 07:00",
+      "data_chegada_iso": "2026-11-10T07:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "TESC",
       "situacao": null,
       "secao": "Navios Esperados"
     },
@@ -691,6 +678,19 @@
       "secao": "Navios Esperados"
     },
     {
+      "navio": "MSC Jeongmin",
+      "imo": "9720471",
+      "agencia": "MSC",
+      "data_chegada_texto": "15/11/2026 07:00",
+      "data_chegada_iso": "2026-11-15T07:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
       "navio": "Tomini Harmony",
       "imo": "9718131",
       "agencia": "CARGONAVE",
@@ -700,6 +700,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "SFS",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Jamaica Bay",
+      "imo": "9610717",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "17/11/2026 19:00",
+      "data_chegada_iso": "2026-11-17T19:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "TESC",
       "situacao": null,
       "secao": "Navios Esperados"
     },

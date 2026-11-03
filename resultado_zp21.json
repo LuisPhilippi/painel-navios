@@ -1,56 +1,6 @@
 {
-  "gerado_em": "2026-11-03T09:14:59.382371",
+  "gerado_em": "2026-11-03T17:30:07.820358",
   "navios": [
-    {
-      "navio": "CONTI CONQUEST",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "03/11/2026",
-      "data_hora_iso": "2026-11-03T00:00:00",
-      "calado": "9,00/9,60",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "XIN CHONG QING",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "03/11/2026",
-      "data_hora_iso": "2026-11-03T00:00:00",
-      "calado": "9,50/9,80",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "CAPE ALTIUS",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "03/11/2026",
-      "data_hora_iso": "2026-11-03T00:00:00",
-      "calado": "10,50/10,70",
-      "rota": "",
-      "berco": "JBS 4",
-      "posicao": null
-    },
-    {
-      "navio": "FRAGATA JERÔNIMO DE ALBUQUERQUE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "03/11/2026",
-      "data_hora_iso": "2026-11-03T00:00:00",
-      "calado": "4,00 EK",
-      "rota": "",
-      "berco": "DELEMAR",
-      "posicao": null
-    },
-    {
-      "navio": "INDUSTRIAL CHARGER",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "03/11/2026",
-      "data_hora_iso": "2026-11-03T00:00:00",
-      "calado": "4,50/5,00",
-      "rota": "",
-      "berco": "BARRA DO RIO",
-      "posicao": null
-    },
     {
       "navio": "MSC SHUBA B",
       "status": "ManobraPrevista",
@@ -66,29 +16,9 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "03/11/2026",
       "data_hora_iso": "2026-11-03T00:00:00",
-      "calado": "8,55/9,20",
+      "calado": "8,40/9,35",
       "rota": "",
       "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
-      "navio": "MSC CATERINA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "03/11/2026",
-      "data_hora_iso": "2026-11-03T00:00:00",
-      "calado": "11,30 EK",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
-      "navio": "CMA CGM MISSISSIPPI",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "03/11/2026",
-      "data_hora_iso": "2026-11-03T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -98,7 +28,37 @@
       "data_hora_iso": "2026-11-03T00:00:00",
       "calado": "9,50 EK",
       "rota": "Bacia 1",
-      "berco": "PNAVE 01",
+      "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
+      "navio": "XIN CHONG QING",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "03/11/2026",
+      "data_hora_iso": "2026-11-03T00:00:00",
+      "calado": "8,50/10,30",
+      "rota": "Bacia 2",
+      "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "CMA CGM MISSISSIPPI",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "03/11/2026",
+      "data_hora_iso": "2026-11-03T00:00:00",
+      "calado": "8,70/10,30",
+      "rota": "",
+      "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "CAPE ALTIUS",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "03/11/2026",
+      "data_hora_iso": "2026-11-03T00:00:00",
+      "calado": "TBC",
+      "rota": "Bacia 1",
+      "berco": "JBS 4",
       "posicao": null
     },
     {
@@ -146,9 +106,19 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "04/11/2026",
       "data_hora_iso": "2026-11-04T00:00:00",
-      "calado": "9,40/11,80",
+      "calado": "10,60/11,00",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "INDUSTRIAL CHARGER",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "04/11/2026",
+      "data_hora_iso": "2026-11-04T00:00:00",
+      "calado": "4,50/5,00",
+      "rota": "",
+      "berco": "BARRA DO RIO",
       "posicao": null
     },
     {
@@ -162,13 +132,13 @@
       "posicao": null
     },
     {
-      "navio": "SELMA MARU",
+      "navio": "MSC CATERINA",
       "status": "ManobraPrevista",
       "data_hora_texto": "04/11/2026",
       "data_hora_iso": "2026-11-04T00:00:00",
-      "calado": "9,20/9,47",
+      "calado": "11,30 EK",
       "rota": "",
-      "berco": "BRASKARNE",
+      "berco": "PNAVE 02",
       "posicao": null
     },
     {
@@ -179,6 +149,36 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "EVER FAME",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "06/11/2026",
+      "data_hora_iso": "2026-11-06T00:00:00",
+      "calado": "11,20 EK",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "SELMA MARU",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "06/11/2026",
+      "data_hora_iso": "2026-11-06T00:00:00",
+      "calado": "9,20/9,47",
+      "rota": "",
+      "berco": "BRASKARNE",
+      "posicao": null
+    },
+    {
+      "navio": "FRAGATA JERÔNIMO DE ALBUQUERQUE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "06/11/2026",
+      "data_hora_iso": "2026-11-06T00:00:00",
+      "calado": "4,00 EK",
+      "rota": "",
+      "berco": "DELEMAR",
       "posicao": null
     },
     {
