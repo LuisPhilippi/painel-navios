@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-04T02:53:32.279947",
+  "gerado_em": "2026-11-04T10:24:36.952705",
   "navios": [
     {
       "navio": "Maersk Laguna",
@@ -11,7 +11,7 @@
       "data_manobra": "04/11/2026 06:00",
       "data_manobra_iso": "2026-11-04T06:00:00",
       "berco": "BARRA 902",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Navios Esperados"
     },
     {
@@ -24,7 +24,7 @@
       "data_manobra": "04/11/2026 06:00",
       "data_manobra_iso": "2026-11-04T06:00:00",
       "berco": "902 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -37,7 +37,7 @@
       "data_manobra": "04/11/2026 07:30",
       "data_manobra_iso": "2026-11-04T07:30:00",
       "berco": "BARRA F4 (P3)",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {

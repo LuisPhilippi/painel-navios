@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-11-04T02:53:25.195342",
+  "gerado_em": "2026-11-04T10:24:30.593578",
   "navios": [
-    {
-      "navio": "CAPE ALTIUS",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "04/11/2026",
-      "data_hora_iso": "2026-11-04T00:00:00",
-      "calado": "10,50/11,15",
-      "rota": "Bacia 1",
-      "berco": "JBS 4",
-      "posicao": null
-    },
     {
       "navio": "MSC SHUBA B",
       "status": "ManobraPrevista",
