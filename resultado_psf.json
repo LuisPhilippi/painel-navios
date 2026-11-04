@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-03T22:51:37.484885",
+  "gerado_em": "2026-11-04T02:53:32.279947",
   "navios": [
     {
       "navio": "Maersk Laguna",
@@ -31,14 +31,14 @@
       "navio": "Barcaça N09",
       "imo": "9326005",
       "agencia": "WILSON SONS",
-      "data_chegada_texto": "03/11/2026 21:00",
-      "data_chegada_iso": "2026-11-03T21:00:00",
+      "data_chegada_texto": "03/11/2026 20:00",
+      "data_chegada_iso": "2026-11-03T20:00:00",
       "manobra": "Entrada e Fundeio",
       "data_manobra": "04/11/2026 07:30",
       "data_manobra_iso": "2026-11-04T07:30:00",
       "berco": "BARRA F4 (P3)",
       "situacao": "A Confirmar",
-      "secao": "Navios Esperados"
+      "secao": "Movimentações"
     },
     {
       "navio": "Obi Island",

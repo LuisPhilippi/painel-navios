@@ -1,14 +1,14 @@
 {
-  "gerado_em": "2026-11-03T22:51:31.072145",
+  "gerado_em": "2026-11-04T02:53:25.195342",
   "navios": [
     {
-      "navio": "CMA CGM MISSISSIPPI",
+      "navio": "CAPE ALTIUS",
       "status": "ManobraPrevista",
-      "data_hora_texto": "03/11/2026",
-      "data_hora_iso": "2026-11-03T00:00:00",
-      "calado": "8,70/10,30",
-      "rota": "",
-      "berco": "JBS 2",
+      "data_hora_texto": "04/11/2026",
+      "data_hora_iso": "2026-11-04T00:00:00",
+      "calado": "10,50/11,15",
+      "rota": "Bacia 1",
+      "berco": "JBS 4",
       "posicao": null
     },
     {
@@ -32,16 +32,6 @@
       "posicao": null
     },
     {
-      "navio": "CAPE ALTIUS",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "04/11/2026",
-      "data_hora_iso": "2026-11-04T00:00:00",
-      "calado": "TBC",
-      "rota": "Bacia 1",
-      "berco": "JBS 4",
-      "posicao": null
-    },
-    {
       "navio": "INDUSTRIAL CHARGER",
       "status": "ManobraPrevista",
       "data_hora_texto": "04/11/2026",
@@ -49,6 +39,16 @@
       "calado": "4,50/5,00",
       "rota": "",
       "berco": "BARRA DO RIO",
+      "posicao": null
+    },
+    {
+      "navio": "CMA CGM MISSISSIPPI",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "04/11/2026",
+      "data_hora_iso": "2026-11-04T00:00:00",
+      "calado": "8,70/10,30",
+      "rota": "Bacia 2",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -66,7 +66,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "04/11/2026",
       "data_hora_iso": "2026-11-04T00:00:00",
-      "calado": "TBC",
+      "calado": "9,90/10,70",
       "rota": "",
       "berco": "JBS 4",
       "posicao": null
@@ -76,7 +76,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "04/11/2026",
       "data_hora_iso": "2026-11-04T00:00:00",
-      "calado": "TBC",
+      "calado": "9,30 EK",
       "rota": "",
       "berco": "PNAVE 02",
       "posicao": null
