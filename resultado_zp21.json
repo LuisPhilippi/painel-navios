@@ -1,46 +1,6 @@
 {
-  "gerado_em": "2026-11-04T18:25:31.144150",
+  "gerado_em": "2026-11-05T00:06:55.510039",
   "navios": [
-    {
-      "navio": "PRESTIGE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "04/11/2026",
-      "data_hora_iso": "2026-11-04T00:00:00",
-      "calado": "10,60/11,00",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "NC BRAVO",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "04/11/2026",
-      "data_hora_iso": "2026-11-04T00:00:00",
-      "calado": "10,25/10,70",
-      "rota": "",
-      "berco": "JBS 4",
-      "posicao": null
-    },
-    {
-      "navio": "LOG-IN POLARIS",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "04/11/2026",
-      "data_hora_iso": "2026-11-04T00:00:00",
-      "calado": "9,30 EK",
-      "rota": "",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
-      "navio": "CZECH",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "04/11/2026",
-      "data_hora_iso": "2026-11-04T00:00:00",
-      "calado": "11,70 EK",
-      "rota": "",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
     {
       "navio": "MSC CATERINA",
       "status": "ManobraPrevista",
@@ -52,33 +12,63 @@
       "posicao": null
     },
     {
+      "navio": "LOG-IN POLARIS",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "05/11/2026",
+      "data_hora_iso": "2026-11-05T00:00:00",
+      "calado": "9,30 EK",
+      "rota": "",
+      "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
+      "navio": "NC BRAVO",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "05/11/2026",
+      "data_hora_iso": "2026-11-05T00:00:00",
+      "calado": "10,25/10,70",
+      "rota": "",
+      "berco": "JBS 4",
+      "posicao": null
+    },
+    {
+      "navio": "CZECH",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "05/11/2026",
+      "data_hora_iso": "2026-11-05T00:00:00",
+      "calado": "11,70 EK",
+      "rota": "",
+      "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
+      "navio": "CMA CGM KRYPTON",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "05/11/2026",
+      "data_hora_iso": "2026-11-05T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
+      "navio": "PRESTIGE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "05/11/2026",
+      "data_hora_iso": "2026-11-05T00:00:00",
+      "calado": "TBC",
+      "rota": "Bacia 2",
+      "berco": "JBS 2",
+      "posicao": null
+    },
+    {
       "navio": "SANTA VANESSA",
       "status": "ManobraPrevista",
       "data_hora_texto": "05/11/2026",
       "data_hora_iso": "2026-11-05T00:00:00",
       "calado": "11,15 EK",
       "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
-      "navio": "FRIO MARATHON",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "05/11/2026",
-      "data_hora_iso": "2026-11-05T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "BRASKARNE",
-      "posicao": null
-    },
-    {
-      "navio": "MSC LETICIA X",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "05/11/2026",
-      "data_hora_iso": "2026-11-05T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -88,7 +78,7 @@
       "data_hora_iso": "2026-11-05T00:00:00",
       "calado": "TBC",
       "rota": "",
-      "berco": "PNAVE",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
@@ -112,13 +102,13 @@
       "posicao": null
     },
     {
-      "navio": "CMA CGM KRYPTON",
+      "navio": "MSC LETICIA X",
       "status": "ManobraPrevista",
       "data_hora_texto": "06/11/2026",
       "data_hora_iso": "2026-11-06T00:00:00",
-      "calado": "TBC",
+      "calado": "11,20/11,30",
       "rota": "",
-      "berco": "PNAVE 02",
+      "berco": "JBS 4",
       "posicao": null
     },
     {
@@ -129,6 +119,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "FRIO MARATHON",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "06/11/2026",
+      "data_hora_iso": "2026-11-06T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "BRASKARNE",
       "posicao": null
     },
     {
