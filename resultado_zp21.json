@@ -1,6 +1,16 @@
 {
-  "gerado_em": "2026-11-05T00:06:55.510039",
+  "gerado_em": "2026-11-05T07:40:44.090793",
   "navios": [
+    {
+      "navio": "NC BRAVO",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "05/11/2026",
+      "data_hora_iso": "2026-11-05T00:00:00",
+      "calado": "10,25/10,70",
+      "rota": "",
+      "berco": "JBS 4",
+      "posicao": null
+    },
     {
       "navio": "MSC CATERINA",
       "status": "ManobraPrevista",
@@ -19,16 +29,6 @@
       "calado": "9,30 EK",
       "rota": "",
       "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
-      "navio": "NC BRAVO",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "05/11/2026",
-      "data_hora_iso": "2026-11-05T00:00:00",
-      "calado": "10,25/10,70",
-      "rota": "",
-      "berco": "JBS 4",
       "posicao": null
     },
     {
@@ -116,7 +116,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "06/11/2026",
       "data_hora_iso": "2026-11-06T00:00:00",
-      "calado": "TBC",
+      "calado": "11,10/11,15",
       "rota": "",
       "berco": "JBS",
       "posicao": null
