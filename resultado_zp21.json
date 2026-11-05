@@ -1,44 +1,44 @@
 {
-  "gerado_em": "2026-11-05T16:04:14.553872",
+  "gerado_em": "2026-11-05T22:30:44.980928",
   "navios": [
-    {
-      "navio": "LOG-IN POLARIS",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "05/11/2026",
-      "data_hora_iso": "2026-11-05T00:00:00",
-      "calado": "9,30 EK",
-      "rota": "",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
-      "navio": "MSC CATERINA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "05/11/2026",
-      "data_hora_iso": "2026-11-05T00:00:00",
-      "calado": "11,37/11,45",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "PRESTIGE",
       "status": "ManobraPrevista",
-      "data_hora_texto": "05/11/2026",
-      "data_hora_iso": "2026-11-05T00:00:00",
+      "data_hora_texto": "06/11/2026",
+      "data_hora_iso": "2026-11-06T00:00:00",
       "calado": "TBC",
       "rota": "Bacia 2",
       "berco": "JBS 2",
       "posicao": null
     },
     {
-      "navio": "CMA CGM KRYPTON",
+      "navio": "MSC CATERINA",
       "status": "ManobraPrevista",
       "data_hora_texto": "06/11/2026",
       "data_hora_iso": "2026-11-06T00:00:00",
-      "calado": "TBC",
+      "calado": "11,37/11,45",
+      "rota": "Bacia 2",
+      "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
+      "navio": "LOG-IN POLARIS",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "06/11/2026",
+      "data_hora_iso": "2026-11-06T00:00:00",
+      "calado": "9,30 EK",
       "rota": "",
       "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
+      "navio": "MSC YAMUNA VI",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "06/11/2026",
+      "data_hora_iso": "2026-11-06T00:00:00",
+      "calado": "9,65/11,25",
+      "rota": "",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -52,13 +52,33 @@
       "posicao": null
     },
     {
-      "navio": "EVER FAME",
+      "navio": "MSC LETICIA X",
       "status": "ManobraPrevista",
       "data_hora_texto": "06/11/2026",
       "data_hora_iso": "2026-11-06T00:00:00",
-      "calado": "11,20 EK",
+      "calado": "11,30 EK",
       "rota": "",
-      "berco": "PNAVE",
+      "berco": "JBS 4",
+      "posicao": null
+    },
+    {
+      "navio": "CMA CGM KRYPTON",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "06/11/2026",
+      "data_hora_iso": "2026-11-06T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
+      "navio": "FRAGATA JERÔNIMO DE ALBUQUERQUE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "06/11/2026",
+      "data_hora_iso": "2026-11-06T00:00:00",
+      "calado": "4,00 EK",
+      "rota": "",
+      "berco": "DELEMAR",
       "posicao": null
     },
     {
@@ -72,20 +92,20 @@
       "posicao": null
     },
     {
-      "navio": "NC BRAVO",
+      "navio": "EVER FAME",
       "status": "ManobraPrevista",
-      "data_hora_texto": "06/11/2026",
-      "data_hora_iso": "2026-11-06T00:00:00",
-      "calado": "10,25/10,70",
+      "data_hora_texto": "07/11/2026",
+      "data_hora_iso": "2026-11-07T00:00:00",
+      "calado": "11,20 EK",
       "rota": "",
-      "berco": "JBS 4",
+      "berco": "PNAVE",
       "posicao": null
     },
     {
       "navio": "SANTA VANESSA",
       "status": "ManobraPrevista",
-      "data_hora_texto": "06/11/2026",
-      "data_hora_iso": "2026-11-06T00:00:00",
+      "data_hora_texto": "07/11/2026",
+      "data_hora_iso": "2026-11-07T00:00:00",
       "calado": "11,15 EK",
       "rota": "",
       "berco": "JBS 2",
@@ -94,41 +114,11 @@
     {
       "navio": "INDUSTRIAL CHARGER",
       "status": "ManobraPrevista",
-      "data_hora_texto": "06/11/2026",
-      "data_hora_iso": "2026-11-06T00:00:00",
+      "data_hora_texto": "07/11/2026",
+      "data_hora_iso": "2026-11-07T00:00:00",
       "calado": "6,70/7,20",
       "rota": "",
       "berco": "BARRA DO RIO",
-      "posicao": null
-    },
-    {
-      "navio": "MSC LETICIA X",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "06/11/2026",
-      "data_hora_iso": "2026-11-06T00:00:00",
-      "calado": "11,30 EK",
-      "rota": "",
-      "berco": "JBS 4",
-      "posicao": null
-    },
-    {
-      "navio": "MSC YAMUNA VI",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "06/11/2026",
-      "data_hora_iso": "2026-11-06T00:00:00",
-      "calado": "11,10/11,15",
-      "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
-      "navio": "FRAGATA JERÔNIMO DE ALBUQUERQUE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "06/11/2026",
-      "data_hora_iso": "2026-11-06T00:00:00",
-      "calado": "4,00 EK",
-      "rota": "",
-      "berco": "DELEMAR",
       "posicao": null
     },
     {
@@ -242,6 +232,16 @@
       "posicao": null
     },
     {
+      "navio": "PACIFICA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "10/11/2026",
+      "data_hora_iso": "2026-11-10T00:00:00",
+      "calado": "4,30/6,30",
+      "rota": "",
+      "berco": "TEPORTI",
+      "posicao": null
+    },
+    {
       "navio": "CONTI CONQUEST",
       "status": "ManobraPrevista",
       "data_hora_texto": "10/11/2026",
@@ -309,6 +309,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "BBC NAPLES",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "21/11/2026",
+      "data_hora_iso": "2026-11-21T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "BARRA DO RIO",
       "posicao": null
     },
     {
