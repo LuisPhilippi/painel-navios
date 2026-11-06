@@ -1,19 +1,6 @@
 {
-  "gerado_em": "2026-11-05T22:30:51.423304",
+  "gerado_em": "2026-11-06T03:06:30.328359",
   "navios": [
-    {
-      "navio": "Bartolomeu Dias",
-      "imo": "9625384",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "02/11/2026 15:42",
-      "data_chegada_iso": "2026-11-02T15:42:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "05/11/2026 21:00",
-      "data_manobra_iso": "2026-11-05T21:00:00",
-      "berco": "902 BARRA",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
     {
       "navio": "CMA CGM Veracruz",
       "imo": "9418377",
@@ -24,7 +11,7 @@
       "data_manobra": "06/11/2026 01:30",
       "data_manobra_iso": "2026-11-06T01:30:00",
       "berco": "BARRA 902",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Navios Esperados"
     },
     {
