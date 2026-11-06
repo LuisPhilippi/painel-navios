@@ -1,32 +1,6 @@
 {
-  "gerado_em": "2026-11-06T11:47:00.369830",
+  "gerado_em": "2026-11-06T18:51:15.630537",
   "navios": [
-    {
-      "navio": "Rangaku",
-      "imo": "9866627",
-      "agencia": "LITORAL",
-      "data_chegada_texto": "31/10/2026 14:30",
-      "data_chegada_iso": "2026-10-31T14:30:00",
-      "manobra": "Desatracação e Fundeio",
-      "data_manobra": "06/11/2026 11:00",
-      "data_manobra_iso": "2026-11-06T11:00:00",
-      "berco": "101 F3",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Aristo Ocean",
-      "imo": "9909223",
-      "agencia": "LITORAL",
-      "data_chegada_texto": "01/11/2026 08:06",
-      "data_chegada_iso": "2026-11-01T08:06:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "06/11/2026 12:15",
-      "data_manobra_iso": "2026-11-06T12:15:00",
-      "berco": "TGSC BARRA",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Sea Bravery",
       "imo": "9386407",
@@ -37,7 +11,7 @@
       "data_manobra": "06/11/2026 17:30",
       "data_manobra_iso": "2026-11-06T17:30:00",
       "berco": "BARRA 201",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -50,7 +24,7 @@
       "data_manobra": "06/11/2026 17:45",
       "data_manobra_iso": "2026-11-06T17:45:00",
       "berco": "BARRA 101",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -63,6 +37,32 @@
       "data_manobra": "06/11/2026 17:45",
       "data_manobra_iso": "2026-11-06T17:45:00",
       "berco": "201 BARRA",
+      "situacao": "Confirmado",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Star Norge",
+      "imo": "1070650",
+      "agencia": "SEATRADE",
+      "data_chegada_texto": "22/10/2026 15:40",
+      "data_chegada_iso": "2026-10-22T15:40:00",
+      "manobra": "Suspender e Sair",
+      "data_manobra": "06/11/2026 18:00",
+      "data_manobra_iso": "2026-11-06T18:00:00",
+      "berco": "F5 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Maersk Venezia",
+      "imo": "9344681",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "06/11/2026 08:27",
+      "data_chegada_iso": "2026-11-06T08:27:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "06/11/2026 20:00",
+      "data_manobra_iso": "2026-11-06T20:00:00",
+      "berco": "BARRA 901",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
     },
@@ -72,12 +72,12 @@
       "agencia": "LACHMANN",
       "data_chegada_texto": "06/11/2026 05:48",
       "data_chegada_iso": "2026-11-06T05:48:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "901",
-      "situacao": null,
-      "secao": "Navios Atracados"
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "06/11/2026 20:00",
+      "data_manobra_iso": "2026-11-06T20:00:00",
+      "berco": "901 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
     },
     {
       "navio": "CMA CGM Veracruz",
@@ -132,15 +132,15 @@
       "secao": "Navios Atracados"
     },
     {
-      "navio": "Star Norge",
-      "imo": "1070650",
-      "agencia": "SEATRADE",
-      "data_chegada_texto": "22/10/2026 15:40",
-      "data_chegada_iso": "2026-10-22T15:40:00",
+      "navio": "Rangaku",
+      "imo": "9866627",
+      "agencia": "LITORAL",
+      "data_chegada_texto": "31/10/2026 14:30",
+      "data_chegada_iso": "2026-10-31T14:30:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
-      "berco": "F5",
+      "berco": "F3",
       "situacao": null,
       "secao": "Navios Fundeados (Internos)"
     },
@@ -288,15 +288,15 @@
       "secao": "Navios Fundeados (Barra)"
     },
     {
-      "navio": "Maersk Venezia",
-      "imo": "9344681",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "06/11/2026 08:27",
-      "data_chegada_iso": "2026-11-06T08:27:00",
+      "navio": "Aristo Ocean",
+      "imo": "9909223",
+      "agencia": "LITORAL",
+      "data_chegada_texto": "06/11/2026 14:53",
+      "data_chegada_iso": "2026-11-06T14:53:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
+      "berco": "SFS",
       "situacao": null,
       "secao": "Navios Fundeados (Barra)"
     },
@@ -509,11 +509,11 @@
       "secao": "Navios Esperados"
     },
     {
-      "navio": "MSC Jeongmin",
-      "imo": "9720471",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "12/11/2026 11:00",
-      "data_chegada_iso": "2026-11-12T11:00:00",
+      "navio": "San Antonio Maersk",
+      "imo": "9622241",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "12/11/2026 13:00",
+      "data_chegada_iso": "2026-11-12T13:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
@@ -522,11 +522,11 @@
       "secao": "Navios Esperados"
     },
     {
-      "navio": "San Antonio Maersk",
-      "imo": "9622241",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "12/11/2026 13:00",
-      "data_chegada_iso": "2026-11-12T13:00:00",
+      "navio": "MSC Jeongmin",
+      "imo": "9720471",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "12/11/2026 14:00",
+      "data_chegada_iso": "2026-11-12T14:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
@@ -639,19 +639,6 @@
       "secao": "Navios Esperados"
     },
     {
-      "navio": "Jamaica Bay",
-      "imo": "9610717",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "15/11/2026 07:00",
-      "data_chegada_iso": "2026-11-15T07:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "TESC",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
       "navio": "Tomini Harmony",
       "imo": "9718131",
       "agencia": "CARGONAVE",
@@ -700,6 +687,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Jamaica Bay",
+      "imo": "9610717",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "17/11/2026 07:00",
+      "data_chegada_iso": "2026-11-17T07:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "TESC",
       "situacao": null,
       "secao": "Navios Esperados"
     },
@@ -863,8 +863,8 @@
       "navio": "Le Havre",
       "imo": "9307243",
       "agencia": "WILSON SONS",
-      "data_chegada_texto": "27/11/2026 10:00",
-      "data_chegada_iso": "2026-11-27T10:00:00",
+      "data_chegada_texto": "25/11/2026 22:00",
+      "data_chegada_iso": "2026-11-25T22:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,

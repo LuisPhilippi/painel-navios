@@ -1,34 +1,14 @@
 {
-  "gerado_em": "2026-11-06T11:46:53.982823",
+  "gerado_em": "2026-11-06T18:51:09.381426",
   "navios": [
     {
-      "navio": "PRESTIGE",
+      "navio": "MSC YAMUNA VI",
       "status": "ManobraPrevista",
       "data_hora_texto": "06/11/2026",
       "data_hora_iso": "2026-11-06T00:00:00",
-      "calado": "9,80/11,70",
-      "rota": "Bacia 2",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "LOG-IN POLARIS",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "06/11/2026",
-      "data_hora_iso": "2026-11-06T00:00:00",
-      "calado": "9,30 EK",
+      "calado": "9,65/11,25",
       "rota": "",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
-      "navio": "MSC CATERINA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "06/11/2026",
-      "data_hora_iso": "2026-11-06T00:00:00",
-      "calado": "11,37/11,45",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 01",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -42,31 +22,11 @@
       "posicao": null
     },
     {
-      "navio": "MSC YAMUNA VI",
+      "navio": "DANUBE",
       "status": "ManobraPrevista",
       "data_hora_texto": "06/11/2026",
       "data_hora_iso": "2026-11-06T00:00:00",
-      "calado": "9,65/11,25",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "FRAGATA JERÔNIMO DE ALBUQUERQUE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "06/11/2026",
-      "data_hora_iso": "2026-11-06T00:00:00",
-      "calado": "4,00 EK",
-      "rota": "",
-      "berco": "DELEMAR",
-      "posicao": null
-    },
-    {
-      "navio": "MSC LETICIA X",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "06/11/2026",
-      "data_hora_iso": "2026-11-06T00:00:00",
-      "calado": "11,30 EK",
+      "calado": "TBC",
       "rota": "",
       "berco": "JBS 4",
       "posicao": null
@@ -74,9 +34,9 @@
     {
       "navio": "CMA CGM KRYPTON",
       "status": "ManobraPrevista",
-      "data_hora_texto": "06/11/2026",
-      "data_hora_iso": "2026-11-06T00:00:00",
-      "calado": "TBC",
+      "data_hora_texto": "07/11/2026",
+      "data_hora_iso": "2026-11-07T00:00:00",
+      "calado": "9,10/10,70",
       "rota": "",
       "berco": "PNAVE 02",
       "posicao": null
@@ -84,21 +44,11 @@
     {
       "navio": "LOG-IN EXPERIENCE",
       "status": "ManobraPrevista",
-      "data_hora_texto": "06/11/2026",
-      "data_hora_iso": "2026-11-06T00:00:00",
+      "data_hora_texto": "07/11/2026",
+      "data_hora_iso": "2026-11-07T00:00:00",
       "calado": "TBC",
       "rota": "",
       "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "EVER FAME",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "07/11/2026",
-      "data_hora_iso": "2026-11-07T00:00:00",
-      "calado": "11,20 EK",
-      "rota": "",
-      "berco": "PNAVE",
       "posicao": null
     },
     {
@@ -109,16 +59,6 @@
       "calado": "6,70/7,20",
       "rota": "",
       "berco": "BARRA DO RIO",
-      "posicao": null
-    },
-    {
-      "navio": "MERCOSUL SANTOS",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "07/11/2026",
-      "data_hora_iso": "2026-11-07T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE",
       "posicao": null
     },
     {
@@ -142,6 +82,26 @@
       "posicao": null
     },
     {
+      "navio": "MSC LETICIA X",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "08/11/2026",
+      "data_hora_iso": "2026-11-08T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": null,
+      "posicao": null
+    },
+    {
+      "navio": "MERCOSUL SANTOS",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "08/11/2026",
+      "data_hora_iso": "2026-11-08T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
       "navio": "MSC SHANELLE V",
       "status": "ManobraPrevista",
       "data_hora_texto": "08/11/2026",
@@ -162,23 +122,43 @@
       "posicao": null
     },
     {
-      "navio": "MSC LETIZIA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "08/11/2026",
-      "data_hora_iso": "2026-11-08T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
       "navio": "MERCOSUL SUAPE",
       "status": "ManobraPrevista",
       "data_hora_texto": "08/11/2026",
       "data_hora_iso": "2026-11-08T00:00:00",
+      "calado": "10,40 EK",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "EVER FAME",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "08/11/2026",
+      "data_hora_iso": "2026-11-08T00:00:00",
+      "calado": "11,20 EK",
+      "rota": "",
+      "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
+      "navio": "ONE PARANA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "09/11/2026",
+      "data_hora_iso": "2026-11-09T00:00:00",
       "calado": "TBC",
       "rota": "",
       "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "MSC LETIZIA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "09/11/2026",
+      "data_hora_iso": "2026-11-09T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
       "posicao": null
     },
     {
@@ -322,14 +302,14 @@
       "posicao": "26 57,83 S / 048 31,22 W"
     },
     {
-      "navio": "ONE PARANA",
-      "status": "Fundeado",
-      "data_hora_texto": "06/11/2026 - 07:59",
-      "data_hora_iso": "2026-11-06T07:59:00",
-      "calado": "TBC",
+      "navio": "FRAGATA JERÔNIMO DE ALBUQUERQUE",
+      "status": "Atracado",
+      "data_hora_texto": "06/11/2026 - 14:36",
+      "data_hora_iso": "2026-11-06T14:36:00",
+      "calado": null,
       "rota": "",
-      "berco": null,
-      "posicao": "26 53,02 S / 048 27,02 W"
+      "berco": "DELEMAR",
+      "posicao": null
     },
     {
       "navio": "GEMSBOK",
