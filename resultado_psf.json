@@ -1,44 +1,31 @@
 {
-  "gerado_em": "2026-11-07T17:23:16.675255",
+  "gerado_em": "2026-11-07T21:24:43.873746",
   "navios": [
-    {
-      "navio": "Maersk Venezia",
-      "imo": "9344681",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "06/11/2026 08:27",
-      "data_chegada_iso": "2026-11-06T08:27:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "07/11/2026 15:00",
-      "data_manobra_iso": "2026-11-07T15:00:00",
-      "berco": "901 BARRA",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
     {
       "navio": "San Augustin Maersk",
       "imo": "9622239",
       "agencia": "LACHMANN",
-      "data_chegada_texto": "07/11/2026 12:00",
-      "data_chegada_iso": "2026-11-07T12:00:00",
+      "data_chegada_texto": "07/11/2026 17:41",
+      "data_chegada_iso": "2026-11-07T17:41:00",
       "manobra": "Entrada e Atracação",
       "data_manobra": "07/11/2026 17:45",
       "data_manobra_iso": "2026-11-07T17:45:00",
       "berco": "BARRA 901",
-      "situacao": "A Confirmar",
-      "secao": "Navios Esperados"
+      "situacao": "Em Andamento",
+      "secao": "Movimentações"
     },
     {
       "navio": "Pedro Alvares Cabral",
       "imo": "9603219",
       "agencia": "LACHMANN",
-      "data_chegada_texto": "07/11/2026 19:00",
-      "data_chegada_iso": "2026-11-07T19:00:00",
+      "data_chegada_texto": "07/11/2026 15:05",
+      "data_chegada_iso": "2026-11-07T15:05:00",
       "manobra": "Entrada e Atracação",
       "data_manobra": "08/11/2026 00:15",
       "data_manobra_iso": "2026-11-08T00:15:00",
       "berco": "BARRA 902",
       "situacao": "A Confirmar",
-      "secao": "Navios Esperados"
+      "secao": "Movimentações"
     },
     {
       "navio": "MSC Leticia X",
@@ -50,32 +37,6 @@
       "data_manobra": "08/11/2026 00:15",
       "data_manobra_iso": "2026-11-08T00:15:00",
       "berco": "902 BARRA",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Jasmine K",
-      "imo": "9951915",
-      "agencia": "SEATRADE",
-      "data_chegada_texto": "29/10/2026 09:30",
-      "data_chegada_iso": "2026-10-29T09:30:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "08/11/2026 08:45",
-      "data_manobra_iso": "2026-11-08T08:45:00",
-      "berco": "301 BARRA",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Star Hidra",
-      "imo": "9071569",
-      "agencia": "SEATRADE",
-      "data_chegada_texto": "30/10/2026 18:12",
-      "data_chegada_iso": "2026-10-30T18:12:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "08/11/2026 12:30",
-      "data_manobra_iso": "2026-11-08T12:30:00",
-      "berco": "300 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
     },
@@ -119,17 +80,17 @@
       "secao": "Movimentações"
     },
     {
-      "navio": "Nandu Arrow",
-      "imo": "9529580",
-      "agencia": "SEATRADE",
-      "data_chegada_texto": "02/11/2026 20:42",
-      "data_chegada_iso": "2026-11-02T20:42:00",
+      "navio": "MSC Michela",
+      "imo": "9720512",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "08/11/2026 05:00",
+      "data_chegada_iso": "2026-11-08T05:00:00",
       "manobra": "Entrada e Fundeio",
       "data_manobra": "08/11/2026 15:00",
       "data_manobra_iso": "2026-11-08T15:00:00",
       "berco": "BARRA F5",
       "situacao": "A Confirmar",
-      "secao": "Movimentações"
+      "secao": "Navios Esperados"
     },
     {
       "navio": "Genevan Trader",
@@ -154,6 +115,32 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "201",
+      "situacao": null,
+      "secao": "Navios Atracados"
+    },
+    {
+      "navio": "Star Hidra",
+      "imo": "9071569",
+      "agencia": "SEATRADE",
+      "data_chegada_texto": "30/10/2026 18:12",
+      "data_chegada_iso": "2026-10-30T18:12:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "300",
+      "situacao": null,
+      "secao": "Navios Atracados"
+    },
+    {
+      "navio": "Jasmine K",
+      "imo": "9951915",
+      "agencia": "SEATRADE",
+      "data_chegada_texto": "29/10/2026 09:30",
+      "data_chegada_iso": "2026-10-29T09:30:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "301",
       "situacao": null,
       "secao": "Navios Atracados"
     },
@@ -219,6 +206,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "SFS",
+      "situacao": null,
+      "secao": "Navios Fundeados (Barra)"
+    },
+    {
+      "navio": "Nandu Arrow",
+      "imo": "9529580",
+      "agencia": "SEATRADE",
+      "data_chegada_texto": "02/11/2026 20:42",
+      "data_chegada_iso": "2026-11-02T20:42:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": null,
       "situacao": null,
       "secao": "Navios Fundeados (Barra)"
     },
@@ -310,19 +310,6 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "SFS",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "MSC Michela",
-      "imo": "9720512",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "08/11/2026 05:00",
-      "data_chegada_iso": "2026-11-08T05:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Esperados"
     },

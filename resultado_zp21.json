@@ -1,24 +1,14 @@
 {
-  "gerado_em": "2026-11-07T17:23:07.936375",
+  "gerado_em": "2026-11-07T21:24:37.405852",
   "navios": [
     {
-      "navio": "MSC LETICIA X",
+      "navio": "CZECH",
       "status": "ManobraPrevista",
       "data_hora_texto": "08/11/2026",
       "data_hora_iso": "2026-11-08T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "CMA CGM KRYPTON",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "08/11/2026",
-      "data_hora_iso": "2026-11-08T00:00:00",
-      "calado": "9,10/10,70",
-      "rota": "",
-      "berco": "PNAVE 02",
+      "calado": "10,50/10,95",
+      "rota": "Bacia 2",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
@@ -28,17 +18,7 @@
       "data_hora_iso": "2026-11-08T00:00:00",
       "calado": "11,70 EK",
       "rota": "",
-      "berco": "JBS 4",
-      "posicao": null
-    },
-    {
-      "navio": "CZECH",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "08/11/2026",
-      "data_hora_iso": "2026-11-08T00:00:00",
-      "calado": "10,50/10,95",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 01",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -52,13 +32,23 @@
       "posicao": null
     },
     {
+      "navio": "LOG-IN EXPERIENCE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "08/11/2026",
+      "data_hora_iso": "2026-11-08T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
       "navio": "MERCOSUL SUAPE",
       "status": "ManobraPrevista",
       "data_hora_texto": "08/11/2026",
       "data_hora_iso": "2026-11-08T00:00:00",
       "calado": "10,40 EK",
       "rota": "",
-      "berco": "PNAVE",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
@@ -72,23 +62,13 @@
       "posicao": null
     },
     {
-      "navio": "LOG-IN EXPERIENCE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "08/11/2026",
-      "data_hora_iso": "2026-11-08T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "MSC SHANELLE V",
+      "navio": "MSC LETIZIA",
       "status": "ManobraPrevista",
       "data_hora_texto": "09/11/2026",
       "data_hora_iso": "2026-11-09T00:00:00",
-      "calado": "11,40 EK",
+      "calado": "TBC",
       "rota": "",
-      "berco": "JBS 2",
+      "berco": "JBS",
       "posicao": null
     },
     {
@@ -102,13 +82,13 @@
       "posicao": null
     },
     {
-      "navio": "MSC LETIZIA",
+      "navio": "MSC LETICIA X",
       "status": "ManobraPrevista",
       "data_hora_texto": "09/11/2026",
       "data_hora_iso": "2026-11-09T00:00:00",
       "calado": "TBC",
       "rota": "",
-      "berco": "JBS",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -182,6 +162,16 @@
       "posicao": null
     },
     {
+      "navio": "MSC SHANELLE V",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "10/11/2026",
+      "data_hora_iso": "2026-11-10T00:00:00",
+      "calado": "11,40 EK",
+      "rota": "",
+      "berco": "JBS 2",
+      "posicao": null
+    },
+    {
       "navio": "MAERSK LAMANAI",
       "status": "ManobraPrevista",
       "data_hora_texto": "10/11/2026",
@@ -219,6 +209,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "CMA CGM KRYPTON",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "12/11/2026",
+      "data_hora_iso": "2026-11-12T00:00:00",
+      "calado": "9,10/10,70",
+      "rota": "",
+      "berco": "PNAVE 02",
       "posicao": null
     },
     {
