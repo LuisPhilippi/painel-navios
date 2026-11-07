@@ -1,26 +1,6 @@
 {
-  "gerado_em": "2026-11-06T23:46:43.238533",
+  "gerado_em": "2026-11-07T04:30:25.159554",
   "navios": [
-    {
-      "navio": "MSC YAMUNA VI",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "06/11/2026",
-      "data_hora_iso": "2026-11-06T00:00:00",
-      "calado": "9,75/11,15",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "CZECH",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "06/11/2026",
-      "data_hora_iso": "2026-11-06T00:00:00",
-      "calado": "11,70 EK",
-      "rota": "",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "CMA CGM KRYPTON",
       "status": "ManobraPrevista",
@@ -39,6 +19,26 @@
       "calado": "11,70 EK",
       "rota": "",
       "berco": "JBS 4",
+      "posicao": null
+    },
+    {
+      "navio": "CZECH",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "07/11/2026",
+      "data_hora_iso": "2026-11-07T00:00:00",
+      "calado": "10,50/10,95",
+      "rota": "Bacia 2",
+      "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
+      "navio": "MSC YAMUNA VI",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "07/11/2026",
+      "data_hora_iso": "2026-11-07T00:00:00",
+      "calado": "11,73/11,46",
+      "rota": "Bacia 2",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -209,16 +209,6 @@
       "calado": "4,30/6,30",
       "rota": "",
       "berco": "TEPORTI",
-      "posicao": null
-    },
-    {
-      "navio": "CONTI CONQUEST",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "10/11/2026",
-      "data_hora_iso": "2026-11-10T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS",
       "posicao": null
     },
     {
