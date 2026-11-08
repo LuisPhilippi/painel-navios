@@ -1,32 +1,6 @@
 {
-  "gerado_em": "2026-11-08T08:31:58.683140",
+  "gerado_em": "2026-11-08T15:45:53.212260",
   "navios": [
-    {
-      "navio": "Pedro Alvares Cabral",
-      "imo": "9603219",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "07/11/2026 15:05",
-      "data_chegada_iso": "2026-11-07T15:05:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "08/11/2026 06:30",
-      "data_manobra_iso": "2026-11-08T06:30:00",
-      "berco": "BARRA 902",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "MSC Leticia X",
-      "imo": "1031197",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "05/11/2026 14:30",
-      "data_chegada_iso": "2026-11-05T14:30:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "08/11/2026 06:30",
-      "data_manobra_iso": "2026-11-08T06:30:00",
-      "berco": "902 BARRA",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Rangaku",
       "imo": "9866627",
@@ -37,7 +11,7 @@
       "data_manobra": "08/11/2026 13:00",
       "data_manobra_iso": "2026-11-08T13:00:00",
       "berco": "F3 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -50,6 +24,19 @@
       "data_manobra": "08/11/2026 15:00",
       "data_manobra_iso": "2026-11-08T15:00:00",
       "berco": "BARRA F5",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Pedro Alvares Cabral",
+      "imo": "9603219",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "07/11/2026 15:05",
+      "data_chegada_iso": "2026-11-07T15:05:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "08/11/2026 18:00",
+      "data_manobra_iso": "2026-11-08T18:00:00",
+      "berco": "902 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
     },
@@ -205,7 +192,7 @@
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
-      "berco": null,
+      "berco": "TESC",
       "situacao": null,
       "secao": "Navios Fundeados (Barra)"
     },
@@ -231,7 +218,7 @@
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
-      "berco": null,
+      "berco": "SFS",
       "situacao": null,
       "secao": "Navios Fundeados (Barra)"
     },
