@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-07T21:24:37.405852",
+  "gerado_em": "2026-11-08T01:02:24.536081",
   "navios": [
     {
       "navio": "CZECH",
@@ -96,7 +96,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "09/11/2026",
       "data_hora_iso": "2026-11-09T00:00:00",
-      "calado": "TBC",
+      "calado": "9,50/9,90",
       "rota": "",
       "berco": "PNAVE 02",
       "posicao": null
@@ -166,9 +166,9 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "10/11/2026",
       "data_hora_iso": "2026-11-10T00:00:00",
-      "calado": "11,40 EK",
+      "calado": "11,70/11,50",
       "rota": "",
-      "berco": "JBS 2",
+      "berco": "JBS",
       "posicao": null
     },
     {
