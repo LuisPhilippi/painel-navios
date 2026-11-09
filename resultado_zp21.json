@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-09T00:28:59.437591",
+  "gerado_em": "2026-11-09T07:37:01.112086",
   "navios": [
     {
       "navio": "MSC YAMUNA VI",
@@ -19,16 +19,6 @@
       "calado": "10,50/10,95",
       "rota": "Bacia 1",
       "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "DANUBE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "09/11/2026",
-      "data_hora_iso": "2026-11-09T00:00:00",
-      "calado": "11,70 EK",
-      "rota": "",
-      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -79,6 +69,16 @@
       "calado": "4,00 EK",
       "rota": "",
       "berco": "DELEMAR",
+      "posicao": null
+    },
+    {
+      "navio": "DANUBE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "10/11/2026",
+      "data_hora_iso": "2026-11-10T00:00:00",
+      "calado": "11,70 EK",
+      "rota": "",
+      "berco": "JBS 2",
       "posicao": null
     },
     {

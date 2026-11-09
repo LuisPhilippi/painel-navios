@@ -1,32 +1,6 @@
 {
-  "gerado_em": "2026-11-09T00:29:06.803045",
+  "gerado_em": "2026-11-09T07:37:07.418245",
   "navios": [
-    {
-      "navio": "Pedro Alvares Cabral",
-      "imo": "9603219",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "07/11/2026 15:05",
-      "data_chegada_iso": "2026-11-07T15:05:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "08/11/2026 21:30",
-      "data_manobra_iso": "2026-11-08T21:30:00",
-      "berco": "902 BARRA",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Maersk Lamanai",
-      "imo": "9527051",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "09/11/2026 13:00",
-      "data_chegada_iso": "2026-11-09T13:00:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "09/11/2026 01:00",
-      "data_manobra_iso": "2026-11-09T01:00:00",
-      "berco": "BARRA 902",
-      "situacao": "A Confirmar",
-      "secao": "Navios Esperados"
-    },
     {
       "navio": "MSC Michela",
       "imo": "9720512",
@@ -37,7 +11,7 @@
       "data_manobra": "09/11/2026 06:30",
       "data_manobra_iso": "2026-11-09T06:30:00",
       "berco": "BARRA 901",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -50,7 +24,7 @@
       "data_manobra": "09/11/2026 06:30",
       "data_manobra_iso": "2026-11-09T06:30:00",
       "berco": "901 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -130,6 +104,19 @@
       "berco": "BARRA F5",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
+    },
+    {
+      "navio": "Maersk Lamanai",
+      "imo": "9527051",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "09/11/2026 01:40",
+      "data_chegada_iso": "2026-11-09T01:40:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "902",
+      "situacao": null,
+      "secao": "Navios Atracados"
     },
     {
       "navio": "Genevan Trader",
