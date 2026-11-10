@@ -1,45 +1,6 @@
 {
-  "gerado_em": "2026-11-10T01:52:17.900020",
+  "gerado_em": "2026-11-10T09:11:29.026082",
   "navios": [
-    {
-      "navio": "Star Hidra",
-      "imo": "9071569",
-      "agencia": "SEATRADE",
-      "data_chegada_texto": "30/10/2026 18:12",
-      "data_chegada_iso": "2026-10-30T18:12:00",
-      "manobra": "Desatracação e Fundeio",
-      "data_manobra": "10/11/2026 00:30",
-      "data_manobra_iso": "2026-11-10T00:30:00",
-      "berco": "300 F5",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Serenity Diva",
-      "imo": "9959773",
-      "agencia": "ALPHAMAR",
-      "data_chegada_texto": "05/11/2026 09:00",
-      "data_chegada_iso": "2026-11-05T09:00:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "10/11/2026 01:00",
-      "data_manobra_iso": "2026-11-10T01:00:00",
-      "berco": "BARRA 101",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Androusa",
-      "imo": "9586356",
-      "agencia": "LITORAL",
-      "data_chegada_texto": "30/10/2026 16:48",
-      "data_chegada_iso": "2026-10-30T16:48:00",
-      "manobra": "Desatracação e Fundeio",
-      "data_manobra": "10/11/2026 01:00",
-      "data_manobra_iso": "2026-11-10T01:00:00",
-      "berco": "101 F3",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Babitonga Bay",
       "imo": "9663776",
@@ -50,7 +11,7 @@
       "data_manobra": "10/11/2026 07:30",
       "data_manobra_iso": "2026-11-10T07:30:00",
       "berco": "302 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -63,7 +24,7 @@
       "data_manobra": "10/11/2026 08:00",
       "data_manobra_iso": "2026-11-10T08:00:00",
       "berco": "902 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -76,6 +37,19 @@
       "data_manobra": "10/11/2026 09:30",
       "data_manobra_iso": "2026-11-10T09:30:00",
       "berco": "BARRA 302",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Star Hidra",
+      "imo": "9071569",
+      "agencia": "SEATRADE",
+      "data_chegada_texto": "30/10/2026 18:12",
+      "data_chegada_iso": "2026-10-30T18:12:00",
+      "manobra": "Suspender e Sair",
+      "data_manobra": "10/11/2026 09:30",
+      "data_manobra_iso": "2026-11-10T09:30:00",
+      "berco": "F5 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
     },
@@ -106,6 +80,19 @@
       "secao": "Movimentações"
     },
     {
+      "navio": "Androusa",
+      "imo": "9586356",
+      "agencia": "LITORAL",
+      "data_chegada_texto": "30/10/2026 16:48",
+      "data_chegada_iso": "2026-10-30T16:48:00",
+      "manobra": "Suspender e Sair",
+      "data_manobra": "10/11/2026 14:15",
+      "data_manobra_iso": "2026-11-10T14:15:00",
+      "berco": "F3 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
       "navio": "MSC Michela",
       "imo": "9720512",
       "agencia": "WILSON SONS",
@@ -115,6 +102,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "901",
+      "situacao": null,
+      "secao": "Navios Atracados"
+    },
+    {
+      "navio": "Serenity Diva",
+      "imo": "9959773",
+      "agencia": "ALPHAMAR",
+      "data_chegada_texto": "05/11/2026 09:00",
+      "data_chegada_iso": "2026-11-05T09:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "101",
       "situacao": null,
       "secao": "Navios Atracados"
     },
@@ -223,19 +223,6 @@
       "secao": "Navios Fundeados (Barra)"
     },
     {
-      "navio": "ONE George Washington",
-      "imo": "9302073",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "05/11/2026 09:24",
-      "data_chegada_iso": "2026-11-05T09:24:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Fundeados (Barra)"
-    },
-    {
       "navio": "Aristo Ocean",
       "imo": "9909223",
       "agencia": "LITORAL",
@@ -291,14 +278,14 @@
       "navio": "Maersk Karun",
       "imo": "9624299",
       "agencia": "LACHMANN",
-      "data_chegada_texto": "10/11/2026 01:00",
-      "data_chegada_iso": "2026-11-10T01:00:00",
+      "data_chegada_texto": "10/11/2026 05:00",
+      "data_chegada_iso": "2026-11-10T05:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "ITAPOÁ",
       "situacao": null,
-      "secao": "Navios Esperados"
+      "secao": "Navios Fundeados (Barra)"
     },
     {
       "navio": "Leo. K",
@@ -310,19 +297,6 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "SFS",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "YM Mobility",
-      "imo": "9457737",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "10/11/2026 23:00",
-      "data_chegada_iso": "2026-11-10T23:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Esperados"
     },

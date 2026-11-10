@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-10T01:52:08.568534",
+  "gerado_em": "2026-11-10T09:11:22.452929",
   "navios": [
     {
       "navio": "FRAGATA JERÔNIMO DE ALBUQUERQUE",
@@ -206,7 +206,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "12/11/2026",
       "data_hora_iso": "2026-11-12T00:00:00",
-      "calado": "TBC",
+      "calado": "9,10/9,40",
       "rota": "",
       "berco": "PNAVE",
       "posicao": null
