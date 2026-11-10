@@ -1,19 +1,6 @@
 {
-  "gerado_em": "2026-11-10T17:27:33.556193",
+  "gerado_em": "2026-11-10T22:47:55.756303",
   "navios": [
-    {
-      "navio": "Androusa",
-      "imo": "9586356",
-      "agencia": "LITORAL",
-      "data_chegada_texto": "30/10/2026 16:48",
-      "data_chegada_iso": "2026-10-30T16:48:00",
-      "manobra": "Suspender e Sair",
-      "data_manobra": "10/11/2026 14:15",
-      "data_manobra_iso": "2026-11-10T14:15:00",
-      "berco": "F3 BARRA",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Maersk Karun",
       "imo": "9624299",
@@ -24,7 +11,7 @@
       "data_manobra": "10/11/2026 20:00",
       "data_manobra_iso": "2026-11-10T20:00:00",
       "berco": "BARRA 901",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -37,7 +24,7 @@
       "data_manobra": "10/11/2026 20:00",
       "data_manobra_iso": "2026-11-10T20:00:00",
       "berco": "901 F5",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -47,8 +34,8 @@
       "data_chegada_texto": "01/11/2026 06:58",
       "data_chegada_iso": "2026-11-01T06:58:00",
       "manobra": "Entrada e Atracação",
-      "data_manobra": "10/11/2026 20:30",
-      "data_manobra_iso": "2026-11-10T20:30:00",
+      "data_manobra": "11/11/2026 01:45",
+      "data_manobra_iso": "2026-11-11T01:45:00",
       "berco": "BARRA 201",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
@@ -60,9 +47,22 @@
       "data_chegada_texto": "29/10/2026 10:00",
       "data_chegada_iso": "2026-10-29T10:00:00",
       "manobra": "Desatracação e Saída",
-      "data_manobra": "10/11/2026 20:30",
-      "data_manobra_iso": "2026-11-10T20:30:00",
+      "data_manobra": "11/11/2026 01:45",
+      "data_manobra_iso": "2026-11-11T01:45:00",
       "berco": "201 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "YM Mobility",
+      "imo": "9457737",
+      "agencia": "UNIMAR",
+      "data_chegada_texto": "09/11/2026 23:14",
+      "data_chegada_iso": "2026-11-09T23:14:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "11/11/2026 10:30",
+      "data_manobra_iso": "2026-11-11T10:30:00",
+      "berco": "BARRA 902",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
     },
@@ -72,12 +72,25 @@
       "agencia": "UNIMAR",
       "data_chegada_texto": "09/11/2026 08:06",
       "data_chegada_iso": "2026-11-09T08:06:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "902",
-      "situacao": null,
-      "secao": "Navios Atracados"
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "11/11/2026 10:30",
+      "data_manobra_iso": "2026-11-11T10:30:00",
+      "berco": "902 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Maersk Londrina",
+      "imo": "9527037",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "11/11/2026 10:00",
+      "data_chegada_iso": "2026-11-11T10:00:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "11/11/2026 15:30",
+      "data_manobra_iso": "2026-11-11T15:30:00",
+      "berco": "BARRA 901",
+      "situacao": "A Confirmar",
+      "secao": "Navios Esperados"
     },
     {
       "navio": "Serenity Diva",
@@ -259,33 +272,7 @@
       "data_manobra_iso": null,
       "berco": "SFS",
       "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "MSC Jeongmin",
-      "imo": "9720471",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "11/11/2026 07:00",
-      "data_chegada_iso": "2026-11-11T07:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Maersk Londrina",
-      "imo": "9527037",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "11/11/2026 10:00",
-      "data_chegada_iso": "2026-11-11T10:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
+      "secao": "Navios Fundeados (Barra)"
     },
     {
       "navio": "Ourania Dream",
@@ -306,6 +293,19 @@
       "agencia": "LACHMANN",
       "data_chegada_texto": "11/11/2026 18:00",
       "data_chegada_iso": "2026-11-11T18:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "MSC Jeongmin",
+      "imo": "9720471",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "12/11/2026 05:00",
+      "data_chegada_iso": "2026-11-12T05:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,

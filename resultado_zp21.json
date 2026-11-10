@@ -1,6 +1,36 @@
 {
-  "gerado_em": "2026-11-10T17:27:27.486970",
+  "gerado_em": "2026-11-10T22:47:49.711070",
   "navios": [
+    {
+      "navio": "LOG-IN EXPERIENCE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "11/11/2026",
+      "data_hora_iso": "2026-11-11T00:00:00",
+      "calado": "7,40/8,40",
+      "rota": "Bacia 1",
+      "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
+      "navio": "SELMA MARU",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "11/11/2026",
+      "data_hora_iso": "2026-11-11T00:00:00",
+      "calado": "9,20/9,70",
+      "rota": "",
+      "berco": "BRASKARNE",
+      "posicao": null
+    },
+    {
+      "navio": "MSC YAMUNA VI",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "11/11/2026",
+      "data_hora_iso": "2026-11-11T00:00:00",
+      "calado": "11,70 EK",
+      "rota": "Bacia 1",
+      "berco": "JBS 4",
+      "posicao": null
+    },
     {
       "navio": "EVER FAME",
       "status": "ManobraPrevista",
@@ -12,13 +42,13 @@
       "posicao": null
     },
     {
-      "navio": "LOG-IN EXPERIENCE",
+      "navio": "MSC SHANELLE V",
       "status": "ManobraPrevista",
       "data_hora_texto": "11/11/2026",
       "data_hora_iso": "2026-11-11T00:00:00",
-      "calado": "TBC",
-      "rota": "Bacia 1",
-      "berco": "PNAVE 01",
+      "calado": "11,70/11,50",
+      "rota": "",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -42,116 +72,6 @@
       "posicao": null
     },
     {
-      "navio": "DANUBE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "11/11/2026",
-      "data_hora_iso": "2026-11-11T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "MAERSK LAMANAI",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "11/11/2026",
-      "data_hora_iso": "2026-11-11T00:00:00",
-      "calado": "9,40/11,05",
-      "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
-      "navio": "MSC YAMUNA VI",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "11/11/2026",
-      "data_hora_iso": "2026-11-11T00:00:00",
-      "calado": "11,70 EK",
-      "rota": "",
-      "berco": "JBS 4",
-      "posicao": null
-    },
-    {
-      "navio": "INDUSTRIAL CHARGER",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "11/11/2026",
-      "data_hora_iso": "2026-11-11T00:00:00",
-      "calado": "6,70/7,20",
-      "rota": "",
-      "berco": "BARRA DO RIO",
-      "posicao": null
-    },
-    {
-      "navio": "SELMA MARU",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "11/11/2026",
-      "data_hora_iso": "2026-11-11T00:00:00",
-      "calado": "9,20/9,70",
-      "rota": "",
-      "berco": "BRASKARNE",
-      "posicao": null
-    },
-    {
-      "navio": "XIN CHANG SHA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "11/11/2026",
-      "data_hora_iso": "2026-11-11T00:00:00",
-      "calado": "9,70/10,10",
-      "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
-      "navio": "MERCOSUL SANTOS",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "11/11/2026",
-      "data_hora_iso": "2026-11-11T00:00:00",
-      "calado": "9,50/9,90",
-      "rota": "",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
-      "navio": "MSC LETICIA X",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "11/11/2026",
-      "data_hora_iso": "2026-11-11T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "MSC MICHELA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "11/11/2026",
-      "data_hora_iso": "2026-11-11T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE",
-      "posicao": null
-    },
-    {
-      "navio": "MSC MARIA LAURA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "11/11/2026",
-      "data_hora_iso": "2026-11-11T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE",
-      "posicao": null
-    },
-    {
-      "navio": "ACASTOS",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "11/11/2026",
-      "data_hora_iso": "2026-11-11T00:00:00",
-      "calado": "10,40 EK",
-      "rota": "",
-      "berco": "JBS 4",
-      "posicao": null
-    },
-    {
       "navio": "PACIFICA",
       "status": "ManobraPrevista",
       "data_hora_texto": "12/11/2026",
@@ -162,13 +82,33 @@
       "posicao": null
     },
     {
-      "navio": "MSC SHANELLE V",
+      "navio": "MSC MICHELA",
       "status": "ManobraPrevista",
       "data_hora_texto": "12/11/2026",
       "data_hora_iso": "2026-11-12T00:00:00",
-      "calado": "11,70/11,50",
+      "calado": "TBC",
       "rota": "",
-      "berco": "JBS",
+      "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
+      "navio": "MERCOSUL SANTOS",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "12/11/2026",
+      "data_hora_iso": "2026-11-12T00:00:00",
+      "calado": "9,50/9,90",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "MSC MARIA LAURA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "12/11/2026",
+      "data_hora_iso": "2026-11-12T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
       "posicao": null
     },
     {
@@ -187,6 +127,66 @@
       "data_hora_texto": "13/11/2026",
       "data_hora_iso": "2026-11-13T00:00:00",
       "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "MAERSK LAMANAI",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "13/11/2026",
+      "data_hora_iso": "2026-11-13T00:00:00",
+      "calado": "9,40/11,05",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "INDUSTRIAL CHARGER",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "13/11/2026",
+      "data_hora_iso": "2026-11-13T00:00:00",
+      "calado": "6,70/7,20",
+      "rota": "",
+      "berco": "BARRA DO RIO",
+      "posicao": null
+    },
+    {
+      "navio": "DANUBE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "13/11/2026",
+      "data_hora_iso": "2026-11-13T00:00:00",
+      "calado": "11,70 EK",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "XIN CHANG SHA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "13/11/2026",
+      "data_hora_iso": "2026-11-13T00:00:00",
+      "calado": "9,70/10,10",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "MSC LETICIA X",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "13/11/2026",
+      "data_hora_iso": "2026-11-13T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "ACASTOS",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "13/11/2026",
+      "data_hora_iso": "2026-11-13T00:00:00",
+      "calado": "10,40 EK",
       "rota": "",
       "berco": "JBS",
       "posicao": null
