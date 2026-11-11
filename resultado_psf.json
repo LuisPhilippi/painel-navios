@@ -1,32 +1,6 @@
 {
-  "gerado_em": "2026-11-10T22:47:55.756303",
+  "gerado_em": "2026-11-11T02:30:10.394234",
   "navios": [
-    {
-      "navio": "Maersk Karun",
-      "imo": "9624299",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "10/11/2026 05:00",
-      "data_chegada_iso": "2026-11-10T05:00:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "10/11/2026 20:00",
-      "data_manobra_iso": "2026-11-10T20:00:00",
-      "berco": "BARRA 901",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "MSC Michela",
-      "imo": "9720512",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "08/11/2026 04:30",
-      "data_chegada_iso": "2026-11-08T04:30:00",
-      "manobra": "Desatracação e Fundeio",
-      "data_manobra": "10/11/2026 20:00",
-      "data_manobra_iso": "2026-11-10T20:00:00",
-      "berco": "901 F5",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Andreas k",
       "imo": "9491226",
@@ -50,6 +24,19 @@
       "data_manobra": "11/11/2026 01:45",
       "data_manobra_iso": "2026-11-11T01:45:00",
       "berco": "201 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "MSC Michela",
+      "imo": "9720512",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "08/11/2026 04:30",
+      "data_chegada_iso": "2026-11-08T04:30:00",
+      "manobra": "Suspender e Sair",
+      "data_manobra": "11/11/2026 08:15",
+      "data_manobra_iso": "2026-11-11T08:15:00",
+      "berco": "F5 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
     },
@@ -91,6 +78,19 @@
       "berco": "BARRA 901",
       "situacao": "A Confirmar",
       "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Maersk Karun",
+      "imo": "9624299",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "10/11/2026 05:00",
+      "data_chegada_iso": "2026-11-10T05:00:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "11/11/2026 15:30",
+      "data_manobra_iso": "2026-11-11T15:30:00",
+      "berco": "901 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
     },
     {
       "navio": "Serenity Diva",
