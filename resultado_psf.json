@@ -1,32 +1,6 @@
 {
-  "gerado_em": "2026-11-13T04:55:44.876869",
+  "gerado_em": "2026-11-13T12:51:15.179977",
   "navios": [
-    {
-      "navio": "San Antonio Maersk",
-      "imo": "9622241",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "11/11/2026 22:54",
-      "data_chegada_iso": "2026-11-11T22:54:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "13/11/2026 04:15",
-      "data_manobra_iso": "2026-11-13T04:15:00",
-      "berco": "BARRA 901",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Maersk Acadia",
-      "imo": "9928188",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "11/11/2026 18:18",
-      "data_chegada_iso": "2026-11-11T18:18:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "13/11/2026 04:15",
-      "data_manobra_iso": "2026-11-13T04:15:00",
-      "berco": "901 BARRA",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Genevan Trader",
       "imo": "9846122",
@@ -37,7 +11,7 @@
       "data_manobra": "13/11/2026 11:15",
       "data_manobra_iso": "2026-11-13T11:15:00",
       "berco": "102 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -50,7 +24,7 @@
       "data_manobra": "13/11/2026 11:15",
       "data_manobra_iso": "2026-11-13T11:15:00",
       "berco": "F5 102",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -63,7 +37,7 @@
       "data_manobra": "13/11/2026 11:15",
       "data_manobra_iso": "2026-11-13T11:15:00",
       "berco": "F3 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -117,6 +91,19 @@
       "berco": "BARRA TGSC",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
+    },
+    {
+      "navio": "San Antonio Maersk",
+      "imo": "9622241",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "11/11/2026 22:54",
+      "data_chegada_iso": "2026-11-11T22:54:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "901",
+      "situacao": null,
+      "secao": "Navios Atracados"
     },
     {
       "navio": "Seaglory",
@@ -278,14 +265,14 @@
       "navio": "Stephanie C",
       "imo": "9694531",
       "agencia": "ROCHAMAR",
-      "data_chegada_texto": "13/11/2026 04:00",
-      "data_chegada_iso": "2026-11-13T04:00:00",
+      "data_chegada_texto": "13/11/2026 01:57",
+      "data_chegada_iso": "2026-11-13T01:57:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "ITAPOÁ",
       "situacao": null,
-      "secao": "Navios Esperados"
+      "secao": "Navios Fundeados (Barra)"
     },
     {
       "navio": "Mercosul Fortaleza",

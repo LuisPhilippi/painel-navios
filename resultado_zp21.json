@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-13T04:55:38.825496",
+  "gerado_em": "2026-11-13T12:51:07.949134",
   "navios": [
     {
       "navio": "ONE PARANA",
@@ -16,7 +16,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "13/11/2026",
       "data_hora_iso": "2026-11-13T00:00:00",
-      "calado": "10,70 EK",
+      "calado": "10,90 EK",
       "rota": "Bacia 1",
       "berco": "JBS 4",
       "posicao": null
@@ -26,7 +26,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "13/11/2026",
       "data_hora_iso": "2026-11-13T00:00:00",
-      "calado": "8,05/10,75",
+      "calado": "8,20/10,90",
       "rota": "",
       "berco": "PNAVE 01",
       "posicao": null
@@ -36,7 +36,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "13/11/2026",
       "data_hora_iso": "2026-11-13T00:00:00",
-      "calado": "TBC",
+      "calado": "10,00/10,50",
       "rota": "",
       "berco": "JBS 4",
       "posicao": null
@@ -46,7 +46,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "13/11/2026",
       "data_hora_iso": "2026-11-13T00:00:00",
-      "calado": "TBC",
+      "calado": "10,70 EK",
       "rota": "Bacia 1",
       "berco": "PNAVE 02",
       "posicao": null
@@ -66,7 +66,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "13/11/2026",
       "data_hora_iso": "2026-11-13T00:00:00",
-      "calado": "TBC",
+      "calado": "11,40/11,60",
       "rota": "",
       "berco": "JBS 2",
       "posicao": null
