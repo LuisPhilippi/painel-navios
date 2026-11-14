@@ -1,36 +1,6 @@
 {
-  "gerado_em": "2026-11-13T20:18:04.123314",
+  "gerado_em": "2026-11-14T01:14:23.666904",
   "navios": [
-    {
-      "navio": "CMA CGM HONG KONG",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "13/11/2026",
-      "data_hora_iso": "2026-11-13T00:00:00",
-      "calado": "11,40/11,60",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "MSC LETICIA X",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "14/11/2026",
-      "data_hora_iso": "2026-11-14T00:00:00",
-      "calado": "8,90/9,90",
-      "rota": "",
-      "berco": "JBS 4",
-      "posicao": null
-    },
-    {
-      "navio": "PACIFICA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "14/11/2026",
-      "data_hora_iso": "2026-11-14T00:00:00",
-      "calado": "4,30/6,30",
-      "rota": "",
-      "berco": "TEPORTI",
-      "posicao": null
-    },
     {
       "navio": "CMA CGM COBALT",
       "status": "ManobraPrevista",
@@ -42,13 +12,23 @@
       "posicao": null
     },
     {
-      "navio": "INDUSTRIAL CHARGER",
+      "navio": "MSC LETICIA X",
       "status": "ManobraPrevista",
       "data_hora_texto": "14/11/2026",
       "data_hora_iso": "2026-11-14T00:00:00",
-      "calado": "7,00/7,50",
+      "calado": "8,90/9,90",
+      "rota": "Bacia 2",
+      "berco": "JBS 4",
+      "posicao": null
+    },
+    {
+      "navio": "ZHEN HUA 15",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "14/11/2026",
+      "data_hora_iso": "2026-11-14T00:00:00",
+      "calado": "9,20 EK",
       "rota": "",
-      "berco": "BARRA DO RIO",
+      "berco": "PNAVE 02",
       "posicao": null
     },
     {
@@ -56,9 +36,19 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "14/11/2026",
       "data_hora_iso": "2026-11-14T00:00:00",
-      "calado": "9,75/12,05",
+      "calado": "10,45/11,75",
       "rota": "",
       "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
+      "navio": "CMA CGM HONG KONG",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "14/11/2026",
+      "data_hora_iso": "2026-11-14T00:00:00",
+      "calado": "TBC",
+      "rota": "Bacia 2",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -68,7 +58,7 @@
       "data_hora_iso": "2026-11-15T00:00:00",
       "calado": "7,80/9,30",
       "rota": "",
-      "berco": "JBS",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -112,6 +102,16 @@
       "posicao": null
     },
     {
+      "navio": "INDUSTRIAL CHARGER",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "15/11/2026",
+      "data_hora_iso": "2026-11-15T00:00:00",
+      "calado": "7,00/7,50",
+      "rota": "",
+      "berco": "BARRA DO RIO",
+      "posicao": null
+    },
+    {
       "navio": "DANUBE",
       "status": "ManobraPrevista",
       "data_hora_texto": "15/11/2026",
@@ -149,6 +149,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "PACIFICA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "16/11/2026",
+      "data_hora_iso": "2026-11-16T00:00:00",
+      "calado": "4,30/6,30",
+      "rota": "",
+      "berco": "TEPORTI",
       "posicao": null
     },
     {

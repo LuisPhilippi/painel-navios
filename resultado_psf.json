@@ -1,32 +1,6 @@
 {
-  "gerado_em": "2026-11-13T20:18:16.836414",
+  "gerado_em": "2026-11-14T01:14:29.646268",
   "navios": [
-    {
-      "navio": "Stephanie C",
-      "imo": "9694531",
-      "agencia": "ROCHAMAR",
-      "data_chegada_texto": "13/11/2026 01:57",
-      "data_chegada_iso": "2026-11-13T01:57:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "13/11/2026 17:30",
-      "data_manobra_iso": "2026-11-13T17:30:00",
-      "berco": "BARRA 902",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Vicente Pinzon",
-      "imo": "9625396",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "12/11/2026 00:19",
-      "data_chegada_iso": "2026-11-12T00:19:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "13/11/2026 17:30",
-      "data_manobra_iso": "2026-11-13T17:30:00",
-      "berco": "902 BARRA",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Mercosul Fortaleza",
       "imo": "9784661",
@@ -34,10 +8,10 @@
       "data_chegada_texto": "13/11/2026 09:30",
       "data_chegada_iso": "2026-11-13T09:30:00",
       "manobra": "Entrada e Atracação",
-      "data_manobra": "13/11/2026 21:30",
-      "data_manobra_iso": "2026-11-13T21:30:00",
+      "data_manobra": "13/11/2026 22:30",
+      "data_manobra_iso": "2026-11-13T22:30:00",
       "berco": "BARRA 901",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -47,10 +21,10 @@
       "data_chegada_texto": "11/11/2026 22:54",
       "data_chegada_iso": "2026-11-11T22:54:00",
       "manobra": "Desatracação e Fundeio",
-      "data_manobra": "13/11/2026 21:30",
-      "data_manobra_iso": "2026-11-13T21:30:00",
+      "data_manobra": "13/11/2026 22:30",
+      "data_manobra_iso": "2026-11-13T22:30:00",
       "berco": "901 F5",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -60,10 +34,10 @@
       "data_chegada_texto": "09/11/2026 17:52",
       "data_chegada_iso": "2026-11-09T17:52:00",
       "manobra": "Desatracação e Saída",
-      "data_manobra": "13/11/2026 22:30",
-      "data_manobra_iso": "2026-11-13T22:30:00",
+      "data_manobra": "13/11/2026 22:31",
+      "data_manobra_iso": "2026-11-13T22:31:00",
       "berco": "302 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -115,6 +89,19 @@
       "data_manobra": "14/11/2026 12:15",
       "data_manobra_iso": "2026-11-14T12:15:00",
       "berco": "BARRA 902",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Stephanie C",
+      "imo": "9694531",
+      "agencia": "ROCHAMAR",
+      "data_chegada_texto": "13/11/2026 01:57",
+      "data_chegada_iso": "2026-11-13T01:57:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "14/11/2026 12:15",
+      "data_manobra_iso": "2026-11-14T12:15:00",
+      "berco": "902 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
     },
@@ -280,6 +267,19 @@
       "agencia": "WILSON SONS",
       "data_chegada_texto": "12/11/2026 09:30",
       "data_chegada_iso": "2026-11-12T09:30:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "SFS",
+      "situacao": null,
+      "secao": "Navios Fundeados (Barra)"
+    },
+    {
+      "navio": "Anemos",
+      "imo": "9331529",
+      "agencia": "CARGONAVE",
+      "data_chegada_texto": "13/11/2026 17:10",
+      "data_chegada_iso": "2026-11-13T17:10:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
