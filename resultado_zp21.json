@@ -1,24 +1,14 @@
 {
-  "gerado_em": "2026-11-14T08:32:22.833116",
+  "gerado_em": "2026-11-14T15:31:33.309639",
   "navios": [
     {
       "navio": "CMA CGM COBALT",
       "status": "ManobraPrevista",
       "data_hora_texto": "14/11/2026",
       "data_hora_iso": "2026-11-14T00:00:00",
-      "calado": "9,00/11,00",
+      "calado": "9,20/11,00",
       "rota": "Bacia 2",
       "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "MSC LETICIA X",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "14/11/2026",
-      "data_hora_iso": "2026-11-14T00:00:00",
-      "calado": "8,90/9,90",
-      "rota": "Bacia 2",
-      "berco": "JBS 4",
       "posicao": null
     },
     {
@@ -26,7 +16,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "14/11/2026",
       "data_hora_iso": "2026-11-14T00:00:00",
-      "calado": "9,20 EK",
+      "calado": "8,00/9,20",
       "rota": "",
       "berco": "PNAVE 02",
       "posicao": null
@@ -39,6 +29,16 @@
       "calado": "10,45/11,75",
       "rota": "",
       "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
+      "navio": "MSC LETICIA X",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "14/11/2026",
+      "data_hora_iso": "2026-11-14T00:00:00",
+      "calado": "8,90/9,90",
+      "rota": "Bacia 2",
+      "berco": "JBS 4",
       "posicao": null
     },
     {
@@ -239,6 +239,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "BARRA DO RIO",
+      "posicao": null
+    },
+    {
+      "navio": "IRENES WISDOM",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "22/11/2026",
+      "data_hora_iso": "2026-11-22T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
       "posicao": null
     },
     {
