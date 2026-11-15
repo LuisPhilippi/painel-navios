@@ -1,26 +1,6 @@
 {
-  "gerado_em": "2026-11-15T15:17:09.644758",
+  "gerado_em": "2026-11-15T20:46:45.758277",
   "navios": [
-    {
-      "navio": "MSC MICHELA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "15/11/2026",
-      "data_hora_iso": "2026-11-15T00:00:00",
-      "calado": "11,10/11,75",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "IRENES RULE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "15/11/2026",
-      "data_hora_iso": "2026-11-15T00:00:00",
-      "calado": "9,00/10,00",
-      "rota": "Bacia 1",
-      "berco": "JBS 2",
-      "posicao": null
-    },
     {
       "navio": "ONE GEORGE WASHINGTON",
       "status": "ManobraPrevista",
@@ -44,21 +24,11 @@
     {
       "navio": "NC BREDA",
       "status": "ManobraPrevista",
-      "data_hora_texto": "15/11/2026",
-      "data_hora_iso": "2026-11-15T00:00:00",
+      "data_hora_texto": "16/11/2026",
+      "data_hora_iso": "2026-11-16T00:00:00",
       "calado": "10,90 EK",
       "rota": "",
       "berco": "JBS 4",
-      "posicao": null
-    },
-    {
-      "navio": "MSC JEONGMIN",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "16/11/2026",
-      "data_hora_iso": "2026-11-16T00:00:00",
-      "calado": "8,30/10,90",
-      "rota": "",
-      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -79,6 +49,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "MSC JEONGMIN",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "16/11/2026",
+      "data_hora_iso": "2026-11-16T00:00:00",
+      "calado": "8,30/10,90",
+      "rota": "",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -108,7 +88,7 @@
       "data_hora_iso": "2026-11-17T00:00:00",
       "calado": "10,10/10,70",
       "rota": "",
-      "berco": "PNAVE",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
@@ -266,7 +246,7 @@
       "status": "Fundeado",
       "data_hora_texto": "14/11/2026 - 23:03",
       "data_hora_iso": "2026-11-14T23:03:00",
-      "calado": "TBC",
+      "calado": "6,40/8,00",
       "rota": "",
       "berco": null,
       "posicao": "26 55,73 S / 048 30,76 W"
