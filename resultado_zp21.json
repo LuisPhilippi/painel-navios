@@ -1,26 +1,6 @@
 {
-  "gerado_em": "2026-11-15T07:30:34.305839",
+  "gerado_em": "2026-11-15T15:17:09.644758",
   "navios": [
-    {
-      "navio": "IRENES RULE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "15/11/2026",
-      "data_hora_iso": "2026-11-15T00:00:00",
-      "calado": "8,40/9,20",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "ONE GEORGE WASHINGTON",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "15/11/2026",
-      "data_hora_iso": "2026-11-15T00:00:00",
-      "calado": "10,90/10,95",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
     {
       "navio": "MSC MICHELA",
       "status": "ManobraPrevista",
@@ -29,6 +9,26 @@
       "calado": "11,10/11,75",
       "rota": "Bacia 2",
       "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
+      "navio": "IRENES RULE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "15/11/2026",
+      "data_hora_iso": "2026-11-15T00:00:00",
+      "calado": "9,00/10,00",
+      "rota": "Bacia 1",
+      "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "ONE GEORGE WASHINGTON",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "15/11/2026",
+      "data_hora_iso": "2026-11-15T00:00:00",
+      "calado": "11,00 EK",
+      "rota": "",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -46,7 +46,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "15/11/2026",
       "data_hora_iso": "2026-11-15T00:00:00",
-      "calado": "TBC",
+      "calado": "10,90 EK",
       "rota": "",
       "berco": "JBS 4",
       "posicao": null

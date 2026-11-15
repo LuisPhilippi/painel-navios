@@ -1,32 +1,6 @@
 {
-  "gerado_em": "2026-11-15T07:30:40.675926",
+  "gerado_em": "2026-11-15T15:17:16.968871",
   "navios": [
-    {
-      "navio": "Loncomilla",
-      "imo": "9437385",
-      "agencia": "ZIM DO BRASIL",
-      "data_chegada_texto": "15/11/2026 02:15",
-      "data_chegada_iso": "2026-11-15T02:15:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "15/11/2026 12:15",
-      "data_manobra_iso": "2026-11-15T12:15:00",
-      "berco": "BARRA 901",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "MSC Jeongmin",
-      "imo": "9720471",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "14/11/2026 14:50",
-      "data_chegada_iso": "2026-11-14T14:50:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "15/11/2026 12:15",
-      "data_manobra_iso": "2026-11-15T12:15:00",
-      "berco": "901 BARRA",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Seaglory",
       "imo": "1043982",
@@ -37,7 +11,33 @@
       "data_manobra": "15/11/2026 12:15",
       "data_manobra_iso": "2026-11-15T12:15:00",
       "berco": "F3 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Loncomilla",
+      "imo": "9437385",
+      "agencia": "ZIM DO BRASIL",
+      "data_chegada_texto": "15/11/2026 02:15",
+      "data_chegada_iso": "2026-11-15T02:15:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "15/11/2026 12:45",
+      "data_manobra_iso": "2026-11-15T12:45:00",
+      "berco": "BARRA 901",
+      "situacao": "Confirmado",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "MSC Jeongmin",
+      "imo": "9720471",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "14/11/2026 14:50",
+      "data_chegada_iso": "2026-11-14T14:50:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "15/11/2026 12:45",
+      "data_manobra_iso": "2026-11-15T12:45:00",
+      "berco": "901 BARRA",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -65,6 +65,19 @@
       "berco": "BARRA 901",
       "situacao": "A Confirmar",
       "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Finch Arrow",
+      "imo": "9574860",
+      "agencia": "SEATRADE",
+      "data_chegada_texto": "08/11/2026 12:48",
+      "data_chegada_iso": "2026-11-08T12:48:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "15/11/2026 23:20",
+      "data_manobra_iso": "2026-11-15T23:20:00",
+      "berco": "BARRA 301",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
     },
     {
       "navio": "San Nicolas Maersk",
@@ -197,19 +210,6 @@
       "secao": "Navios Fundeados (Barra)"
     },
     {
-      "navio": "Finch Arrow",
-      "imo": "9574860",
-      "agencia": "SEATRADE",
-      "data_chegada_texto": "08/11/2026 12:48",
-      "data_chegada_iso": "2026-11-08T12:48:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "TESC",
-      "situacao": null,
-      "secao": "Navios Fundeados (Barra)"
-    },
-    {
       "navio": "Leo. K",
       "imo": "9842736",
       "agencia": "WILSON SONS",
@@ -265,14 +265,14 @@
       "navio": "Valiant Topaz",
       "imo": "9969728",
       "agencia": "LITORAL",
-      "data_chegada_texto": "15/11/2026 05:00",
-      "data_chegada_iso": "2026-11-15T05:00:00",
+      "data_chegada_texto": "15/11/2026 07:42",
+      "data_chegada_iso": "2026-11-15T07:42:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "SFS",
       "situacao": null,
-      "secao": "Navios Esperados"
+      "secao": "Navios Fundeados (Barra)"
     },
     {
       "navio": "Berge Rysy",
