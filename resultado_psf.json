@@ -1,45 +1,6 @@
 {
-  "gerado_em": "2026-11-16T07:37:15.047881",
+  "gerado_em": "2026-11-16T17:53:33.402659",
   "navios": [
-    {
-      "navio": "CMA CGM Thorium",
-      "imo": "9996745",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "16/11/2026 07:00",
-      "data_chegada_iso": "2026-11-16T07:00:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "16/11/2026 07:00",
-      "data_manobra_iso": "2026-11-16T07:00:00",
-      "berco": "BARRA 902",
-      "situacao": "A Confirmar",
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "San Nicolas Maersk",
-      "imo": "9622203",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "14/11/2026 08:54",
-      "data_chegada_iso": "2026-11-14T08:54:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "16/11/2026 07:00",
-      "data_manobra_iso": "2026-11-16T07:00:00",
-      "berco": "902 BARRA",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Ourania Dream",
-      "imo": "9310642",
-      "agencia": "OCEÂNICA",
-      "data_chegada_texto": "11/11/2026 15:25",
-      "data_chegada_iso": "2026-11-11T15:25:00",
-      "manobra": "Suspender e Sair",
-      "data_manobra": "16/11/2026 12:45",
-      "data_manobra_iso": "2026-11-16T12:45:00",
-      "berco": "F3 BARRA",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Barcaça N09",
       "imo": "9326005",
@@ -47,8 +8,8 @@
       "data_chegada_texto": "03/11/2026 20:00",
       "data_chegada_iso": "2026-11-03T20:00:00",
       "manobra": "Desatracação e Fundeio",
-      "data_manobra": "16/11/2026 13:15",
-      "data_manobra_iso": "2026-11-16T13:15:00",
+      "data_manobra": "16/11/2026 18:00",
+      "data_manobra_iso": "2026-11-16T18:00:00",
       "berco": "302 F1",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
@@ -60,9 +21,35 @@
       "data_chegada_texto": "12/11/2026 08:05",
       "data_chegada_iso": "2026-11-12T08:05:00",
       "manobra": "Suspender e Atracar",
-      "data_manobra": "16/11/2026 17:30",
-      "data_manobra_iso": "2026-11-16T17:30:00",
+      "data_manobra": "16/11/2026 20:00",
+      "data_manobra_iso": "2026-11-16T20:00:00",
       "berco": "F4 (P2) 302",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Equinox Dream",
+      "imo": "9503964",
+      "agencia": "ZPORT AGENCIA",
+      "data_chegada_texto": "03/11/2026 07:07",
+      "data_chegada_iso": "2026-11-03T07:07:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "17/11/2026 03:30",
+      "data_manobra_iso": "2026-11-17T03:30:00",
+      "berco": "BARRA 102",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Astro Nekkar",
+      "imo": "9720304",
+      "agencia": "OCEÂNICA",
+      "data_chegada_texto": "24/10/2026 09:00",
+      "data_chegada_iso": "2026-10-24T09:00:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "17/11/2026 03:30",
+      "data_manobra_iso": "2026-11-17T03:30:00",
+      "berco": "102 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
     },
@@ -80,6 +67,19 @@
       "secao": "Navios Atracados"
     },
     {
+      "navio": "CMA CGM Thorium",
+      "imo": "9996745",
+      "agencia": "UNIMAR",
+      "data_chegada_texto": "16/11/2026 06:56",
+      "data_chegada_iso": "2026-11-16T06:56:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "902",
+      "situacao": null,
+      "secao": "Navios Atracados"
+    },
+    {
       "navio": "Leader",
       "imo": "9591973",
       "agencia": "LITORAL",
@@ -89,19 +89,6 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "101",
-      "situacao": null,
-      "secao": "Navios Atracados"
-    },
-    {
-      "navio": "Astro Nekkar",
-      "imo": "9720304",
-      "agencia": "OCEÂNICA",
-      "data_chegada_texto": "24/10/2026 09:00",
-      "data_chegada_iso": "2026-10-24T09:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "102",
       "situacao": null,
       "secao": "Navios Atracados"
     },
@@ -141,19 +128,6 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "TESC",
-      "situacao": null,
-      "secao": "Navios Fundeados (Barra)"
-    },
-    {
-      "navio": "Equinox Dream",
-      "imo": "9503964",
-      "agencia": "ZPORT AGENCIA",
-      "data_chegada_texto": "03/11/2026 07:07",
-      "data_chegada_iso": "2026-11-03T07:07:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "SFS",
       "situacao": null,
       "secao": "Navios Fundeados (Barra)"
     },
@@ -249,6 +223,19 @@
       "secao": "Navios Fundeados (Barra)"
     },
     {
+      "navio": "HMM Bangkok",
+      "imo": "9323510",
+      "agencia": "UNIMAR",
+      "data_chegada_texto": "16/11/2026 04:48",
+      "data_chegada_iso": "2026-11-16T04:48:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Fundeados (Barra)"
+    },
+    {
       "navio": "Berge Rysy",
       "imo": "1049285",
       "agencia": "MASTER",
@@ -258,19 +245,6 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "SFS",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "HMM Bangkok",
-      "imo": "9323510",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "16/11/2026 17:00",
-      "data_chegada_iso": "2026-11-16T17:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Esperados"
     },
@@ -561,6 +535,19 @@
       "secao": "Navios Esperados"
     },
     {
+      "navio": "Mytikas",
+      "imo": "1025992",
+      "agencia": "LITORAL",
+      "data_chegada_texto": "23/11/2026 10:00",
+      "data_chegada_iso": "2026-11-23T10:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "SFS",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
       "navio": "Cosco Shipping Mexico",
       "imo": "9945863",
       "agencia": "UNIMAR",
@@ -609,6 +596,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Libra Confidence",
+      "imo": "9878345",
+      "agencia": "CARGONAVE",
+      "data_chegada_texto": "25/11/2026 10:00",
+      "data_chegada_iso": "2026-11-25T10:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "SFS",
       "situacao": null,
       "secao": "Navios Esperados"
     },
@@ -720,6 +720,19 @@
       "navio": "Pax Mundi",
       "imo": "9690509",
       "agencia": "WILSON SONS",
+      "data_chegada_texto": "14/12/2026 13:00",
+      "data_chegada_iso": "2026-12-14T13:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "SFS",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Spar Indus",
+      "imo": "9734991",
+      "agencia": "SEATRADE",
       "data_chegada_texto": "14/12/2026 13:00",
       "data_chegada_iso": "2026-12-14T13:00:00",
       "manobra": null,
