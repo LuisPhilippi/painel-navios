@@ -1,57 +1,18 @@
 {
-  "gerado_em": "2026-11-15T20:46:51.984339",
+  "gerado_em": "2026-11-16T07:37:15.047881",
   "navios": [
     {
-      "navio": "Ourania Dream",
-      "imo": "9310642",
-      "agencia": "OCEÂNICA",
-      "data_chegada_texto": "11/11/2026 15:25",
-      "data_chegada_iso": "2026-11-11T15:25:00",
-      "manobra": "Desatracação e Fundeio",
-      "data_manobra": "15/11/2026 18:00",
-      "data_manobra_iso": "2026-11-15T18:00:00",
-      "berco": "301 F3",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Maersk Leon",
-      "imo": "9526966",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "15/11/2026 19:00",
-      "data_chegada_iso": "2026-11-15T19:00:00",
+      "navio": "CMA CGM Thorium",
+      "imo": "9996745",
+      "agencia": "UNIMAR",
+      "data_chegada_texto": "16/11/2026 07:00",
+      "data_chegada_iso": "2026-11-16T07:00:00",
       "manobra": "Entrada e Atracação",
-      "data_manobra": "15/11/2026 23:15",
-      "data_manobra_iso": "2026-11-15T23:15:00",
-      "berco": "BARRA 901",
+      "data_manobra": "16/11/2026 07:00",
+      "data_manobra_iso": "2026-11-16T07:00:00",
+      "berco": "BARRA 902",
       "situacao": "A Confirmar",
       "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Loncomilla",
-      "imo": "9437385",
-      "agencia": "ZIM DO BRASIL",
-      "data_chegada_texto": "15/11/2026 02:15",
-      "data_chegada_iso": "2026-11-15T02:15:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "15/11/2026 23:15",
-      "data_manobra_iso": "2026-11-15T23:15:00",
-      "berco": "901 BARRA",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Finch Arrow",
-      "imo": "9574860",
-      "agencia": "SEATRADE",
-      "data_chegada_texto": "08/11/2026 12:48",
-      "data_chegada_iso": "2026-11-08T12:48:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "15/11/2026 23:20",
-      "data_manobra_iso": "2026-11-15T23:20:00",
-      "berco": "BARRA 301",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
     },
     {
       "navio": "San Nicolas Maersk",
@@ -67,17 +28,17 @@
       "secao": "Movimentações"
     },
     {
-      "navio": "CMA CGM Thorium",
-      "imo": "9996745",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "16/11/2026 07:00",
-      "data_chegada_iso": "2026-11-16T07:00:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "16/11/2026 10:00",
-      "data_manobra_iso": "2026-11-16T10:00:00",
-      "berco": "BARRA 902",
+      "navio": "Ourania Dream",
+      "imo": "9310642",
+      "agencia": "OCEÂNICA",
+      "data_chegada_texto": "11/11/2026 15:25",
+      "data_chegada_iso": "2026-11-11T15:25:00",
+      "manobra": "Suspender e Sair",
+      "data_manobra": "16/11/2026 12:45",
+      "data_manobra_iso": "2026-11-16T12:45:00",
+      "berco": "F3 BARRA",
       "situacao": "A Confirmar",
-      "secao": "Navios Esperados"
+      "secao": "Movimentações"
     },
     {
       "navio": "Barcaça N09",
@@ -104,6 +65,19 @@
       "berco": "F4 (P2) 302",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
+    },
+    {
+      "navio": "Maersk Leon",
+      "imo": "9526966",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "15/11/2026 23:12",
+      "data_chegada_iso": "2026-11-15T23:12:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "901",
+      "situacao": null,
+      "secao": "Navios Atracados"
     },
     {
       "navio": "Leader",
@@ -141,6 +115,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "201",
+      "situacao": null,
+      "secao": "Navios Atracados"
+    },
+    {
+      "navio": "Finch Arrow",
+      "imo": "9574860",
+      "agencia": "SEATRADE",
+      "data_chegada_texto": "08/11/2026 12:48",
+      "data_chegada_iso": "2026-11-08T12:48:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "301",
       "situacao": null,
       "secao": "Navios Atracados"
     },
