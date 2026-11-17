@@ -1,56 +1,6 @@
 {
-  "gerado_em": "2026-11-17T10:07:26.025753",
+  "gerado_em": "2026-11-17T19:34:48.122989",
   "navios": [
-    {
-      "navio": "FRAGATA JERÔNIMO DE ALBUQUERQUE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "17/11/2026",
-      "data_hora_iso": "2026-11-17T00:00:00",
-      "calado": "5,40 EK",
-      "rota": "",
-      "berco": "DELEMAR",
-      "posicao": null
-    },
-    {
-      "navio": "MSC JEONGMIN",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "17/11/2026",
-      "data_hora_iso": "2026-11-17T00:00:00",
-      "calado": "6,70/10,40",
-      "rota": "Bacia 2",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "NAVIOS DOMINO",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "17/11/2026",
-      "data_hora_iso": "2026-11-17T00:00:00",
-      "calado": "9,40/9,70",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "PACIFICA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "17/11/2026",
-      "data_hora_iso": "2026-11-17T00:00:00",
-      "calado": "4,30/6,30",
-      "rota": "",
-      "berco": "TEPORTI",
-      "posicao": null
-    },
-    {
-      "navio": "PARANA EXPRESS",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "17/11/2026",
-      "data_hora_iso": "2026-11-17T00:00:00",
-      "calado": "TBC",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "NC BREDA",
       "status": "ManobraPrevista",
@@ -72,23 +22,33 @@
       "posicao": null
     },
     {
+      "navio": "MSC JEONGMIN",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "17/11/2026",
+      "data_hora_iso": "2026-11-17T00:00:00",
+      "calado": "6,80/10,50",
+      "rota": "Bacia 2",
+      "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "NAVIOS DOMINO",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "17/11/2026",
+      "data_hora_iso": "2026-11-17T00:00:00",
+      "calado": "9,40/9,70",
+      "rota": "",
+      "berco": "JBS 2",
+      "posicao": null
+    },
+    {
       "navio": "CSPC RUBY",
       "status": "ManobraPrevista",
       "data_hora_texto": "17/11/2026",
       "data_hora_iso": "2026-11-17T00:00:00",
-      "calado": "TBC",
+      "calado": "7,85/8,50",
       "rota": "",
       "berco": "JBS 4",
-      "posicao": null
-    },
-    {
-      "navio": "LOG-IN EVOLUTION",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "18/11/2026",
-      "data_hora_iso": "2026-11-18T00:00:00",
-      "calado": "8,30/9,60",
-      "rota": "Bacia 1",
-      "berco": "PNAVE 01",
       "posicao": null
     },
     {
@@ -99,6 +59,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "LOG-IN EVOLUTION",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "18/11/2026",
+      "data_hora_iso": "2026-11-18T00:00:00",
+      "calado": "8,30/9,60",
+      "rota": "Bacia 1",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
@@ -122,13 +92,33 @@
       "posicao": null
     },
     {
+      "navio": "ABU AL ABYAD",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "18/11/2026",
+      "data_hora_iso": "2026-11-18T00:00:00",
+      "calado": "4,50/6,90",
+      "rota": "",
+      "berco": "JBS 4",
+      "posicao": null
+    },
+    {
       "navio": "PATMOS EXPRESS",
       "status": "ManobraPrevista",
       "data_hora_texto": "19/11/2026",
       "data_hora_iso": "2026-11-19T00:00:00",
       "calado": "TBC",
       "rota": "",
-      "berco": "JBS 1",
+      "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "PACIFICA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "19/11/2026",
+      "data_hora_iso": "2026-11-19T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "TEPORTI",
       "posicao": null
     },
     {
@@ -139,6 +129,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "FRAGATA TAMANDARE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "19/11/2026",
+      "data_hora_iso": "2026-11-19T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "DELEMAR",
       "posicao": null
     },
     {
@@ -192,6 +192,16 @@
       "posicao": null
     },
     {
+      "navio": "MSC CASSANDRE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "21/11/2026",
+      "data_hora_iso": "2026-11-21T00:00:00",
+      "calado": "10,40/11,10",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
       "navio": "SANTORINI",
       "status": "ManobraPrevista",
       "data_hora_texto": "21/11/2026",
@@ -242,16 +252,6 @@
       "posicao": null
     },
     {
-      "navio": "MSC LETICIA X",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "23/11/2026",
-      "data_hora_iso": "2026-11-23T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE",
-      "posicao": null
-    },
-    {
       "navio": "NC BRISA",
       "status": "ManobraPrevista",
       "data_hora_texto": "23/11/2026",
@@ -290,16 +290,6 @@
       "rota": "",
       "berco": "BRASKARNE",
       "posicao": null
-    },
-    {
-      "navio": "ABU AL ABYAD",
-      "status": "Fundeado",
-      "data_hora_texto": "24/10/2026 - 10:18",
-      "data_hora_iso": "2026-10-24T10:18:00",
-      "calado": "4,50/6,90",
-      "rota": "",
-      "berco": null,
-      "posicao": "26 57,83 S / 048 31,22 W"
     },
     {
       "navio": "HMM PRESTIGE",
