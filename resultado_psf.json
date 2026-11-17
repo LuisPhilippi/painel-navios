@@ -1,19 +1,6 @@
 {
-  "gerado_em": "2026-11-16T17:53:33.402659",
+  "gerado_em": "2026-11-17T01:30:50.307383",
   "navios": [
-    {
-      "navio": "Barcaça N09",
-      "imo": "9326005",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "03/11/2026 20:00",
-      "data_chegada_iso": "2026-11-03T20:00:00",
-      "manobra": "Desatracação e Fundeio",
-      "data_manobra": "16/11/2026 18:00",
-      "data_manobra_iso": "2026-11-16T18:00:00",
-      "berco": "302 F1",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Barcaça N12",
       "imo": "9326031",
@@ -21,10 +8,10 @@
       "data_chegada_texto": "12/11/2026 08:05",
       "data_chegada_iso": "2026-11-12T08:05:00",
       "manobra": "Suspender e Atracar",
-      "data_manobra": "16/11/2026 20:00",
-      "data_manobra_iso": "2026-11-16T20:00:00",
+      "data_manobra": "16/11/2026 23:00",
+      "data_manobra_iso": "2026-11-16T23:00:00",
       "berco": "F4 (P2) 302",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -54,17 +41,69 @@
       "secao": "Movimentações"
     },
     {
+      "navio": "Maersk Chambal",
+      "imo": "9525376",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "17/11/2026 01:00",
+      "data_chegada_iso": "2026-11-17T01:00:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "17/11/2026 07:45",
+      "data_manobra_iso": "2026-11-17T07:45:00",
+      "berco": "BARRA 901",
+      "situacao": "A Confirmar",
+      "secao": "Navios Esperados"
+    },
+    {
       "navio": "Maersk Leon",
       "imo": "9526966",
       "agencia": "LACHMANN",
       "data_chegada_texto": "15/11/2026 23:12",
       "data_chegada_iso": "2026-11-15T23:12:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "901",
-      "situacao": null,
-      "secao": "Navios Atracados"
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "17/11/2026 08:00",
+      "data_manobra_iso": "2026-11-17T08:00:00",
+      "berco": "901 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Aristo Ocean",
+      "imo": "9909223",
+      "agencia": "LITORAL",
+      "data_chegada_texto": "06/11/2026 14:53",
+      "data_chegada_iso": "2026-11-06T14:53:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "17/11/2026 13:00",
+      "data_manobra_iso": "2026-11-17T13:00:00",
+      "berco": "BARRA 101",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Leader",
+      "imo": "9591973",
+      "agencia": "LITORAL",
+      "data_chegada_texto": "06/11/2026 05:00",
+      "data_chegada_iso": "2026-11-06T05:00:00",
+      "manobra": "Desatracação e Fundeio",
+      "data_manobra": "17/11/2026 13:00",
+      "data_manobra_iso": "2026-11-17T13:00:00",
+      "berco": "101 F3",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "HMM Bangkok",
+      "imo": "9323510",
+      "agencia": "UNIMAR",
+      "data_chegada_texto": "16/11/2026 04:48",
+      "data_chegada_iso": "2026-11-16T04:48:00",
+      "manobra": "Entrada e Fundeio",
+      "data_manobra": "17/11/2026 14:00",
+      "data_manobra_iso": "2026-11-17T14:00:00",
+      "berco": "BARRA F5",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
     },
     {
       "navio": "CMA CGM Thorium",
@@ -76,19 +115,6 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "902",
-      "situacao": null,
-      "secao": "Navios Atracados"
-    },
-    {
-      "navio": "Leader",
-      "imo": "9591973",
-      "agencia": "LITORAL",
-      "data_chegada_texto": "06/11/2026 05:00",
-      "data_chegada_iso": "2026-11-06T05:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "101",
       "situacao": null,
       "secao": "Navios Atracados"
     },
@@ -119,6 +145,19 @@
       "secao": "Navios Atracados"
     },
     {
+      "navio": "Barcaça N09",
+      "imo": "9326005",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "03/11/2026 20:00",
+      "data_chegada_iso": "2026-11-03T20:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "F4 (P1)",
+      "situacao": null,
+      "secao": "Navios Fundeados (Internos)"
+    },
+    {
       "navio": "Nandu Arrow",
       "imo": "9529580",
       "agencia": "SEATRADE",
@@ -128,19 +167,6 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "TESC",
-      "situacao": null,
-      "secao": "Navios Fundeados (Barra)"
-    },
-    {
-      "navio": "Aristo Ocean",
-      "imo": "9909223",
-      "agencia": "LITORAL",
-      "data_chegada_texto": "06/11/2026 14:53",
-      "data_chegada_iso": "2026-11-06T14:53:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "SFS",
       "situacao": null,
       "secao": "Navios Fundeados (Barra)"
     },
@@ -223,43 +249,17 @@
       "secao": "Navios Fundeados (Barra)"
     },
     {
-      "navio": "HMM Bangkok",
-      "imo": "9323510",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "16/11/2026 04:48",
-      "data_chegada_iso": "2026-11-16T04:48:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Fundeados (Barra)"
-    },
-    {
       "navio": "Berge Rysy",
       "imo": "1049285",
       "agencia": "MASTER",
-      "data_chegada_texto": "16/11/2026 06:00",
-      "data_chegada_iso": "2026-11-16T06:00:00",
+      "data_chegada_texto": "16/11/2026 14:54",
+      "data_chegada_iso": "2026-11-16T14:54:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "SFS",
       "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Maersk Chambal",
-      "imo": "9525376",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "17/11/2026 01:00",
-      "data_chegada_iso": "2026-11-17T01:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
+      "secao": "Navios Fundeados (Barra)"
     },
     {
       "navio": "Queen Lila",
