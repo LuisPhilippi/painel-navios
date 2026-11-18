@@ -1,46 +1,6 @@
 {
-  "gerado_em": "2026-11-17T19:34:48.122989",
+  "gerado_em": "2026-11-18T02:05:48.929152",
   "navios": [
-    {
-      "navio": "NC BREDA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "17/11/2026",
-      "data_hora_iso": "2026-11-17T00:00:00",
-      "calado": "10,30 EK",
-      "rota": "Bacia 1",
-      "berco": "JBS 4",
-      "posicao": null
-    },
-    {
-      "navio": "MSC AVNI",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "17/11/2026",
-      "data_hora_iso": "2026-11-17T00:00:00",
-      "calado": "10,10/10,80",
-      "rota": "",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "MSC JEONGMIN",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "17/11/2026",
-      "data_hora_iso": "2026-11-17T00:00:00",
-      "calado": "6,80/10,50",
-      "rota": "Bacia 2",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "NAVIOS DOMINO",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "17/11/2026",
-      "data_hora_iso": "2026-11-17T00:00:00",
-      "calado": "9,40/9,70",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
     {
       "navio": "CSPC RUBY",
       "status": "ManobraPrevista",
@@ -52,11 +12,31 @@
       "posicao": null
     },
     {
+      "navio": "NAVIOS DOMINO",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "18/11/2026",
+      "data_hora_iso": "2026-11-18T00:00:00",
+      "calado": "9,70/9,80",
+      "rota": "Bacia 2",
+      "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "MSC AVNI",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "18/11/2026",
+      "data_hora_iso": "2026-11-18T00:00:00",
+      "calado": "11,50/11,60",
+      "rota": "Bacia 2",
+      "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
       "navio": "MAERSK LEON",
       "status": "ManobraPrevista",
       "data_hora_texto": "18/11/2026",
       "data_hora_iso": "2026-11-18T00:00:00",
-      "calado": "TBC",
+      "calado": "10,00/10,05",
       "rota": "",
       "berco": "JBS 2",
       "posicao": null
@@ -109,6 +89,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "HMM PRESTIGE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "19/11/2026",
+      "data_hora_iso": "2026-11-19T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
@@ -292,14 +282,44 @@
       "posicao": null
     },
     {
-      "navio": "HMM PRESTIGE",
-      "status": "Fundeado",
-      "data_hora_texto": "17/11/2026 - 06:14",
-      "data_hora_iso": "2026-11-17T06:14:00",
+      "navio": "SANTA INES",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "01/12/2026",
+      "data_hora_iso": "2026-12-01T00:00:00",
       "calado": "TBC",
       "rota": "",
-      "berco": null,
-      "posicao": "26 51,39 S / 048 31,37 W"
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "MAERSK CHACHAI",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "04/12/2026",
+      "data_hora_iso": "2026-12-04T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "MARIA H",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "09/12/2026",
+      "data_hora_iso": "2026-12-09T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "MAERSK PANGANI",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "18/12/2026",
+      "data_hora_iso": "2026-12-18T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
     },
     {
       "navio": "ZHEN HUA 15",
