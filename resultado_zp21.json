@@ -1,54 +1,14 @@
 {
-  "gerado_em": "2026-11-18T11:03:53.711272",
+  "gerado_em": "2026-11-18T19:55:48.936141",
   "navios": [
     {
-      "navio": "NAVIOS DOMINO",
+      "navio": "CSPC RUBY",
       "status": "ManobraPrevista",
       "data_hora_texto": "18/11/2026",
       "data_hora_iso": "2026-11-18T00:00:00",
-      "calado": "9,70/9,80",
-      "rota": "Bacia 2",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "MAERSK LEON",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "18/11/2026",
-      "data_hora_iso": "2026-11-18T00:00:00",
-      "calado": "10,00/10,05",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "MSC AVNI",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "18/11/2026",
-      "data_hora_iso": "2026-11-18T00:00:00",
-      "calado": "11,30/11,20",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "LOG-IN EVOLUTION",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "18/11/2026",
-      "data_hora_iso": "2026-11-18T00:00:00",
-      "calado": "8,30/9,60",
+      "calado": "7,40/7,46",
       "rota": "Bacia 1",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "SELMA MARU",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "18/11/2026",
-      "data_hora_iso": "2026-11-18T00:00:00",
-      "calado": "9,42/9,47",
-      "rota": "Bacia 1",
-      "berco": "BRASKARNE",
+      "berco": "JBS 4",
       "posicao": null
     },
     {
@@ -62,16 +22,6 @@
       "posicao": null
     },
     {
-      "navio": "CSPC RUBY",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "18/11/2026",
-      "data_hora_iso": "2026-11-18T00:00:00",
-      "calado": "7,85/8,50",
-      "rota": "Bacia 1",
-      "berco": "JBS 4",
-      "posicao": null
-    },
-    {
       "navio": "ABU AL ABYAD",
       "status": "ManobraPrevista",
       "data_hora_texto": "18/11/2026",
@@ -79,6 +29,16 @@
       "calado": "4,50/6,90",
       "rota": "",
       "berco": "JBS 4",
+      "posicao": null
+    },
+    {
+      "navio": "MAERSK LEON",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "19/11/2026",
+      "data_hora_iso": "2026-11-19T00:00:00",
+      "calado": "10,70/10,90",
+      "rota": "Bacia 2",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -92,13 +52,33 @@
       "posicao": null
     },
     {
+      "navio": "LOG-IN EVOLUTION",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "19/11/2026",
+      "data_hora_iso": "2026-11-19T00:00:00",
+      "calado": "8,20/9,10",
+      "rota": "",
+      "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
       "navio": "HMM PRESTIGE",
       "status": "ManobraPrevista",
       "data_hora_texto": "19/11/2026",
       "data_hora_iso": "2026-11-19T00:00:00",
-      "calado": "TBC",
+      "calado": "11,70/11,72",
       "rota": "Bacia 1",
       "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
+      "navio": "MSC MARIA LAURA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "19/11/2026",
+      "data_hora_iso": "2026-11-19T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
       "posicao": null
     },
     {
@@ -112,13 +92,13 @@
       "posicao": null
     },
     {
-      "navio": "MSC MARIA LAURA",
+      "navio": "FRAGATA JERÔNIMO DE ALBUQUERQUE",
       "status": "ManobraPrevista",
       "data_hora_texto": "19/11/2026",
       "data_hora_iso": "2026-11-19T00:00:00",
-      "calado": "TBC",
+      "calado": "4,00 EK",
       "rota": "",
-      "berco": "PNAVE",
+      "berco": "JBS",
       "posicao": null
     },
     {
@@ -142,6 +122,26 @@
       "posicao": null
     },
     {
+      "navio": "SEASPAN OCEANIA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "20/11/2026",
+      "data_hora_iso": "2026-11-20T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "CMA CGM THORIUM",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "20/11/2026",
+      "data_hora_iso": "2026-11-20T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
       "navio": "MSC AJACCIO",
       "status": "ManobraPrevista",
       "data_hora_texto": "20/11/2026",
@@ -149,6 +149,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": null,
+      "posicao": null
+    },
+    {
+      "navio": "KOTA ELOK",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "21/11/2026",
+      "data_hora_iso": "2026-11-21T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
       "posicao": null
     },
     {
@@ -188,7 +198,7 @@
       "data_hora_iso": "2026-11-21T00:00:00",
       "calado": "TBC",
       "rota": "",
-      "berco": "DELEMAR",
+      "berco": "PASS",
       "posicao": null
     },
     {
@@ -222,6 +232,16 @@
       "posicao": null
     },
     {
+      "navio": "ONE AMAZON",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "22/11/2026",
+      "data_hora_iso": "2026-11-22T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
       "navio": "IRENES WISDOM",
       "status": "ManobraPrevista",
       "data_hora_texto": "22/11/2026",
@@ -229,6 +249,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "ONE PARANA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "22/11/2026",
+      "data_hora_iso": "2026-11-22T00:00:00",
+      "calado": "11,80 EK",
+      "rota": "",
+      "berco": "PNAVE",
       "posicao": null
     },
     {
@@ -330,16 +360,6 @@
       "rota": "",
       "berco": "JBS",
       "posicao": null
-    },
-    {
-      "navio": "KOTA ELOK",
-      "status": "Fundeado",
-      "data_hora_texto": "18/11/2026 - 06:40",
-      "data_hora_iso": "2026-11-18T06:40:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": null,
-      "posicao": "26 53,45 S / 048 30,74 W"
     },
     {
       "navio": "ZHEN HUA 15",
