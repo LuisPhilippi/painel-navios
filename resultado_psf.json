@@ -1,45 +1,6 @@
 {
-  "gerado_em": "2026-11-18T02:05:57.346081",
+  "gerado_em": "2026-11-18T11:04:01.135355",
   "navios": [
-    {
-      "navio": "HMM Bangkok",
-      "imo": "9323510",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "16/11/2026 04:48",
-      "data_chegada_iso": "2026-11-16T04:48:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "18/11/2026 05:00",
-      "data_manobra_iso": "2026-11-18T05:00:00",
-      "berco": "BARRA 902",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "CMA CGM Thorium",
-      "imo": "9996745",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "16/11/2026 07:00",
-      "data_chegada_iso": "2026-11-16T07:00:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "18/11/2026 05:15",
-      "data_manobra_iso": "2026-11-18T05:15:00",
-      "berco": "902 BARRA",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Lawin Arrow",
-      "imo": "9687162",
-      "agencia": "SEATRADE",
-      "data_chegada_texto": "07/11/2026 09:06",
-      "data_chegada_iso": "2026-11-07T09:06:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "18/11/2026 06:45",
-      "data_manobra_iso": "2026-11-18T06:45:00",
-      "berco": "BARRA 201",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Andreas k",
       "imo": "9491226",
@@ -50,7 +11,20 @@
       "data_manobra": "18/11/2026 06:45",
       "data_manobra_iso": "2026-11-18T06:45:00",
       "berco": "201 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Lawin Arrow",
+      "imo": "9687162",
+      "agencia": "SEATRADE",
+      "data_chegada_texto": "07/11/2026 09:06",
+      "data_chegada_iso": "2026-11-07T09:06:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "18/11/2026 07:00",
+      "data_manobra_iso": "2026-11-18T07:00:00",
+      "berco": "BARRA 201",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -60,10 +34,10 @@
       "data_chegada_texto": "10/11/2026 15:00",
       "data_chegada_iso": "2026-11-10T15:00:00",
       "manobra": "Entrada e Atracação",
-      "data_manobra": "18/11/2026 07:15",
-      "data_manobra_iso": "2026-11-18T07:15:00",
+      "data_manobra": "18/11/2026 07:05",
+      "data_manobra_iso": "2026-11-18T07:05:00",
       "berco": "BARRA 101",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -76,6 +50,32 @@
       "data_manobra": "18/11/2026 07:15",
       "data_manobra_iso": "2026-11-18T07:15:00",
       "berco": "101 F3",
+      "situacao": "Em Andamento",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "HMM Bangkok",
+      "imo": "9323510",
+      "agencia": "UNIMAR",
+      "data_chegada_texto": "16/11/2026 04:48",
+      "data_chegada_iso": "2026-11-16T04:48:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "18/11/2026 13:30",
+      "data_manobra_iso": "2026-11-18T13:30:00",
+      "berco": "BARRA 902",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "CMA CGM Thorium",
+      "imo": "9996745",
+      "agencia": "UNIMAR",
+      "data_chegada_texto": "16/11/2026 07:00",
+      "data_chegada_iso": "2026-11-16T07:00:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "18/11/2026 13:30",
+      "data_manobra_iso": "2026-11-18T13:30:00",
+      "berco": "902 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
     },
@@ -262,19 +262,6 @@
       "secao": "Navios Fundeados (Barra)"
     },
     {
-      "navio": "Ionic Pleione",
-      "imo": "9785354",
-      "agencia": "ALPHAMAR",
-      "data_chegada_texto": "18/11/2026 10:00",
-      "data_chegada_iso": "2026-11-18T10:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "SFS",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
       "navio": "Seaspan Emissary",
       "imo": "9407158",
       "agencia": "ROCHAMAR",
@@ -317,6 +304,19 @@
       "navio": "Federal Tyne",
       "imo": "9658903",
       "agencia": "CARGONAVE",
+      "data_chegada_texto": "19/11/2026 10:00",
+      "data_chegada_iso": "2026-11-19T10:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "SFS",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Ionic Pleione",
+      "imo": "9785354",
+      "agencia": "ALPHAMAR",
       "data_chegada_texto": "19/11/2026 10:00",
       "data_chegada_iso": "2026-11-19T10:00:00",
       "manobra": null,
@@ -379,15 +379,28 @@
       "secao": "Navios Esperados"
     },
     {
-      "navio": "Barcaça N10",
-      "imo": "9326017",
+      "navio": "MSC Rikku",
+      "imo": "9393319",
       "agencia": "WILSON SONS",
-      "data_chegada_texto": "20/11/2026 19:00",
-      "data_chegada_iso": "2026-11-20T19:00:00",
+      "data_chegada_texto": "20/11/2026 11:00",
+      "data_chegada_iso": "2026-11-20T11:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
-      "berco": "TESC",
+      "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "MSC Meline",
+      "imo": "9702077",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "20/11/2026 15:00",
+      "data_chegada_iso": "2026-11-20T15:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Esperados"
     },
@@ -548,32 +561,6 @@
       "secao": "Navios Esperados"
     },
     {
-      "navio": "MSC Meline",
-      "imo": "9702077",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "24/11/2026 02:00",
-      "data_chegada_iso": "2026-11-24T02:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Babitonga Bay",
-      "imo": "9663776",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "24/11/2026 13:00",
-      "data_chegada_iso": "2026-11-24T13:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "TESC",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
       "navio": "Petrel Arrow",
       "imo": "9607083",
       "agencia": "SEATRADE",
@@ -583,6 +570,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "SFS",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Barcaça N10",
+      "imo": "9326017",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "25/11/2026 07:00",
+      "data_chegada_iso": "2026-11-25T07:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "TESC",
       "situacao": null,
       "secao": "Navios Esperados"
     },
@@ -635,6 +635,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Babitonga Bay",
+      "imo": "9663776",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "26/11/2026 01:00",
+      "data_chegada_iso": "2026-11-26T01:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "TESC",
       "situacao": null,
       "secao": "Navios Esperados"
     },
@@ -733,8 +746,8 @@
       "navio": "Independent",
       "imo": "9762895",
       "agencia": "WILSON SONS",
-      "data_chegada_texto": "27/11/2026 19:00",
-      "data_chegada_iso": "2026-11-27T19:00:00",
+      "data_chegada_texto": "28/11/2026 13:00",
+      "data_chegada_iso": "2026-11-28T13:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
@@ -795,9 +808,9 @@
       "secao": "Navios Esperados"
     },
     {
-      "navio": "Pax Mundi",
-      "imo": "9690509",
-      "agencia": "WILSON SONS",
+      "navio": "Spar Indus",
+      "imo": "9734991",
+      "agencia": "SEATRADE",
       "data_chegada_texto": "14/12/2026 13:00",
       "data_chegada_iso": "2026-12-14T13:00:00",
       "manobra": null,
@@ -808,11 +821,11 @@
       "secao": "Navios Esperados"
     },
     {
-      "navio": "Spar Indus",
-      "imo": "9734991",
-      "agencia": "SEATRADE",
-      "data_chegada_texto": "14/12/2026 13:00",
-      "data_chegada_iso": "2026-12-14T13:00:00",
+      "navio": "Pax Mundi",
+      "imo": "9690509",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "18/12/2026 13:00",
+      "data_chegada_iso": "2026-12-18T13:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
