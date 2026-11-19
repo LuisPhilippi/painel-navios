@@ -1,58 +1,6 @@
 {
-  "gerado_em": "2026-11-19T09:56:07.948977",
+  "gerado_em": "2026-11-19T18:50:02.557921",
   "navios": [
-    {
-      "navio": "Anemos",
-      "imo": "9331529",
-      "agencia": "OCEÂNICA",
-      "data_chegada_texto": "13/11/2026 17:10",
-      "data_chegada_iso": "2026-11-13T17:10:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "19/11/2026 08:00",
-      "data_manobra_iso": "2026-11-19T08:00:00",
-      "berco": "BARRA 301",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Finch Arrow",
-      "imo": "9574860",
-      "agencia": "SEATRADE",
-      "data_chegada_texto": "08/11/2026 12:48",
-      "data_chegada_iso": "2026-11-08T12:48:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "19/11/2026 08:00",
-      "data_manobra_iso": "2026-11-19T08:00:00",
-      "berco": "301 BARRA",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Leader",
-      "imo": "9591973",
-      "agencia": "LITORAL",
-      "data_chegada_texto": "06/11/2026 05:00",
-      "data_chegada_iso": "2026-11-06T05:00:00",
-      "manobra": "Suspender e Sair",
-      "data_manobra": "19/11/2026 08:00",
-      "data_manobra_iso": "2026-11-19T08:00:00",
-      "berco": "F3 BARRA",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Barcaça N12",
-      "imo": "9326031",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "12/11/2026 08:05",
-      "data_chegada_iso": "2026-11-12T08:05:00",
-      "manobra": "Desatracação e Fundeio",
-      "data_manobra": "19/11/2026 09:30",
-      "data_manobra_iso": "2026-11-19T09:30:00",
-      "berco": "302 F1",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Seaspan Emissary",
       "imo": "9407158",
@@ -63,7 +11,7 @@
       "data_manobra": "19/11/2026 14:00",
       "data_manobra_iso": "2026-11-19T14:00:00",
       "berco": "BARRA 902",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -76,7 +24,7 @@
       "data_manobra": "19/11/2026 14:00",
       "data_manobra_iso": "2026-11-19T14:00:00",
       "berco": "902 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Em Andamento",
       "secao": "Movimentações"
     },
     {
@@ -102,6 +50,19 @@
       "data_manobra": "19/11/2026 18:00",
       "data_manobra_iso": "2026-11-19T18:00:00",
       "berco": "901 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "BBC Ganges",
+      "imo": "9508304",
+      "agencia": "SEATRADE",
+      "data_chegada_texto": "19/11/2026 10:53",
+      "data_chegada_iso": "2026-11-19T10:53:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "19/11/2026 18:05",
+      "data_manobra_iso": "2026-11-19T18:05:00",
+      "berco": "BARRA 302",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
     },
@@ -143,6 +104,32 @@
       "berco": "201",
       "situacao": null,
       "secao": "Navios Atracados"
+    },
+    {
+      "navio": "Anemos",
+      "imo": "9331529",
+      "agencia": "OCEÂNICA",
+      "data_chegada_texto": "13/11/2026 17:10",
+      "data_chegada_iso": "2026-11-13T17:10:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "301",
+      "situacao": null,
+      "secao": "Navios Atracados"
+    },
+    {
+      "navio": "Barcaça N12",
+      "imo": "9326031",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "12/11/2026 08:05",
+      "data_chegada_iso": "2026-11-12T08:05:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "F1",
+      "situacao": null,
+      "secao": "Navios Fundeados (Internos)"
     },
     {
       "navio": "Nandu Arrow",
@@ -252,14 +239,14 @@
       "navio": "San Augustin Maersk",
       "imo": "9622239",
       "agencia": "LACHMANN",
-      "data_chegada_texto": "19/11/2026 07:00",
-      "data_chegada_iso": "2026-11-19T07:00:00",
+      "data_chegada_texto": "19/11/2026 13:00",
+      "data_chegada_iso": "2026-11-19T13:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "ITAPOÁ",
       "situacao": null,
-      "secao": "Navios Esperados"
+      "secao": "Navios Fundeados (Barra)"
     },
     {
       "navio": "Federal Tyne",
@@ -297,19 +284,6 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "SFS",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Jamaica Bay",
-      "imo": "9610717",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "19/11/2026 23:00",
-      "data_chegada_iso": "2026-11-19T23:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "TESC",
       "situacao": null,
       "secao": "Navios Esperados"
     },
@@ -375,6 +349,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "SFS",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Jamaica Bay",
+      "imo": "9610717",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "21/11/2026 10:00",
+      "data_chegada_iso": "2026-11-21T10:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "TESC",
       "situacao": null,
       "secao": "Navios Esperados"
     },
@@ -739,6 +726,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "SFS",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "PANOPI",
+      "imo": "9554183",
+      "agencia": "ALPHAMAR",
+      "data_chegada_texto": "09/12/2026 12:00",
+      "data_chegada_iso": "2026-12-09T12:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": null,
       "situacao": null,
       "secao": "Navios Esperados"
     },

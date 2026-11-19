@@ -1,64 +1,14 @@
 {
-  "gerado_em": "2026-11-19T09:56:00.175893",
+  "gerado_em": "2026-11-19T18:49:56.432417",
   "navios": [
     {
       "navio": "PATMOS EXPRESS",
       "status": "ManobraPrevista",
       "data_hora_texto": "19/11/2026",
       "data_hora_iso": "2026-11-19T00:00:00",
-      "calado": "10,70/10,80",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "PACIFICA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "19/11/2026",
-      "data_hora_iso": "2026-11-19T00:00:00",
-      "calado": "5,50/6,40",
-      "rota": "",
-      "berco": "TEPORTI",
-      "posicao": null
-    },
-    {
-      "navio": "FRAGATA JERÔNIMO DE ALBUQUERQUE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "19/11/2026",
-      "data_hora_iso": "2026-11-19T00:00:00",
-      "calado": "4,00 EK",
-      "rota": "",
-      "berco": "JBS 3",
-      "posicao": null
-    },
-    {
-      "navio": "FRAGATA TAMANDARE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "19/11/2026",
-      "data_hora_iso": "2026-11-19T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "DELEMAR",
-      "posicao": null
-    },
-    {
-      "navio": "LOG-IN EVOLUTION",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "19/11/2026",
-      "data_hora_iso": "2026-11-19T00:00:00",
-      "calado": "8,20/9,10",
-      "rota": "",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "HMM PRESTIGE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "19/11/2026",
-      "data_hora_iso": "2026-11-19T00:00:00",
-      "calado": "11,70/11,72",
+      "calado": "11,40/11,50",
       "rota": "Bacia 1",
-      "berco": "PNAVE 01",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -72,12 +22,22 @@
       "posicao": null
     },
     {
+      "navio": "HMM PRESTIGE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "20/11/2026",
+      "data_hora_iso": "2026-11-20T00:00:00",
+      "calado": "10,10/11,10",
+      "rota": "Bacia 2",
+      "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
       "navio": "LOG-IN RESILIENTE",
       "status": "ManobraPrevista",
       "data_hora_texto": "20/11/2026",
       "data_hora_iso": "2026-11-20T00:00:00",
-      "calado": "TBC",
-      "rota": "Bacia 1",
+      "calado": "10,40/10,60",
+      "rota": "",
       "berco": "PNAVE 01",
       "posicao": null
     },
@@ -182,6 +142,16 @@
       "posicao": null
     },
     {
+      "navio": "HAM 316",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "21/11/2026",
+      "data_hora_iso": "2026-11-21T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "B.EVOLUÇÃO",
+      "posicao": null
+    },
+    {
       "navio": "SANTORINI",
       "status": "ManobraPrevista",
       "data_hora_texto": "21/11/2026",
@@ -196,7 +166,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "22/11/2026",
       "data_hora_iso": "2026-11-22T00:00:00",
-      "calado": "TBC",
+      "calado": "10,20/10,50",
       "rota": "",
       "berco": "JBS",
       "posicao": null
@@ -219,6 +189,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "STELLAR ONTARIO",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "22/11/2026",
+      "data_hora_iso": "2026-11-22T00:00:00",
+      "calado": "3,35/5,51",
+      "rota": "",
+      "berco": "TEPORTI",
       "posicao": null
     },
     {
@@ -262,6 +242,26 @@
       "posicao": null
     },
     {
+      "navio": "FRAGATA TAMANDARE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "23/11/2026",
+      "data_hora_iso": "2026-11-23T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "DELEMAR",
+      "posicao": null
+    },
+    {
+      "navio": "SEMIHA- AHMET- M",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "23/11/2026",
+      "data_hora_iso": "2026-11-23T00:00:00",
+      "calado": "6,40/8,00",
+      "rota": "Bacia 1",
+      "berco": "BRASKARNE",
+      "posicao": null
+    },
+    {
       "navio": "RUNAWAY BAY",
       "status": "ManobraPrevista",
       "data_hora_texto": "23/11/2026",
@@ -279,6 +279,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "BARRA DO RIO",
+      "posicao": null
+    },
+    {
+      "navio": "LE HAVRE EXPRESS",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "26/11/2026",
+      "data_hora_iso": "2026-11-26T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
       "posicao": null
     },
     {
@@ -332,13 +342,13 @@
       "posicao": null
     },
     {
-      "navio": "SEMIHA- AHMET- M",
+      "navio": "FRAGATA JERÔNIMO DE ALBUQUERQUE",
       "status": "Atracado",
-      "data_hora_texto": "18/11/2026 - 19:47",
-      "data_hora_iso": "2026-11-18T19:47:00",
+      "data_hora_texto": "19/11/2026 - 12:27",
+      "data_hora_iso": "2026-11-19T12:27:00",
       "calado": null,
       "rota": "",
-      "berco": "BRASKARNE",
+      "berco": "JBS 3",
       "posicao": null
     },
     {
