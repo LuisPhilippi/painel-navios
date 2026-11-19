@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-11-19T01:41:58.004527",
+  "gerado_em": "2026-11-19T09:56:00.175893",
   "navios": [
-    {
-      "navio": "MAERSK LEON",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "19/11/2026",
-      "data_hora_iso": "2026-11-19T00:00:00",
-      "calado": "10,70/10,90",
-      "rota": "Bacia 2",
-      "berco": "JBS 2",
-      "posicao": null
-    },
     {
       "navio": "PATMOS EXPRESS",
       "status": "ManobraPrevista",

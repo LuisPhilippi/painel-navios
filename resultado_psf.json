@@ -1,32 +1,6 @@
 {
-  "gerado_em": "2026-11-19T01:42:04.584338",
+  "gerado_em": "2026-11-19T09:56:07.948977",
   "navios": [
-    {
-      "navio": "Maersk Laberinto",
-      "imo": "9526978",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "18/11/2026 10:45",
-      "data_chegada_iso": "2026-11-18T10:45:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "18/11/2026 21:30",
-      "data_manobra_iso": "2026-11-18T21:30:00",
-      "berco": "BARRA 901",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Maersk Chambal",
-      "imo": "9525376",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "17/11/2026 00:13",
-      "data_chegada_iso": "2026-11-17T00:13:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "18/11/2026 21:30",
-      "data_manobra_iso": "2026-11-18T21:30:00",
-      "berco": "901 BARRA",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "Anemos",
       "imo": "9331529",
@@ -37,7 +11,7 @@
       "data_manobra": "19/11/2026 08:00",
       "data_manobra_iso": "2026-11-19T08:00:00",
       "berco": "BARRA 301",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -50,7 +24,7 @@
       "data_manobra": "19/11/2026 08:00",
       "data_manobra_iso": "2026-11-19T08:00:00",
       "berco": "301 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -63,7 +37,7 @@
       "data_manobra": "19/11/2026 08:00",
       "data_manobra_iso": "2026-11-19T08:00:00",
       "berco": "F3 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -115,6 +89,19 @@
       "data_manobra": "19/11/2026 18:00",
       "data_manobra_iso": "2026-11-19T18:00:00",
       "berco": "BARRA 901",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "Maersk Laberinto",
+      "imo": "9526978",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "18/11/2026 10:45",
+      "data_chegada_iso": "2026-11-18T10:45:00",
+      "manobra": "Desatracação e Saída",
+      "data_manobra": "19/11/2026 18:00",
+      "data_manobra_iso": "2026-11-19T18:00:00",
+      "berco": "901 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
     },
