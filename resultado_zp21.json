@@ -1,36 +1,6 @@
 {
-  "gerado_em": "2026-11-18T19:55:48.936141",
+  "gerado_em": "2026-11-19T01:41:58.004527",
   "navios": [
-    {
-      "navio": "CSPC RUBY",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "18/11/2026",
-      "data_hora_iso": "2026-11-18T00:00:00",
-      "calado": "7,40/7,46",
-      "rota": "Bacia 1",
-      "berco": "JBS 4",
-      "posicao": null
-    },
-    {
-      "navio": "SEMIHA- AHMET- M",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "18/11/2026",
-      "data_hora_iso": "2026-11-18T00:00:00",
-      "calado": "6,40/8,00",
-      "rota": "",
-      "berco": "BRASKARNE",
-      "posicao": null
-    },
-    {
-      "navio": "ABU AL ABYAD",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "18/11/2026",
-      "data_hora_iso": "2026-11-18T00:00:00",
-      "calado": "4,50/6,90",
-      "rota": "",
-      "berco": "JBS 4",
-      "posicao": null
-    },
     {
       "navio": "MAERSK LEON",
       "status": "ManobraPrevista",
@@ -49,6 +19,36 @@
       "calado": "10,70/10,80",
       "rota": "",
       "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "PACIFICA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "19/11/2026",
+      "data_hora_iso": "2026-11-19T00:00:00",
+      "calado": "5,50/6,40",
+      "rota": "",
+      "berco": "TEPORTI",
+      "posicao": null
+    },
+    {
+      "navio": "FRAGATA JERÔNIMO DE ALBUQUERQUE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "19/11/2026",
+      "data_hora_iso": "2026-11-19T00:00:00",
+      "calado": "4,00 EK",
+      "rota": "",
+      "berco": "JBS 3",
+      "posicao": null
+    },
+    {
+      "navio": "FRAGATA TAMANDARE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "19/11/2026",
+      "data_hora_iso": "2026-11-19T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "DELEMAR",
       "posicao": null
     },
     {
@@ -72,50 +72,30 @@
       "posicao": null
     },
     {
-      "navio": "MSC MARIA LAURA",
+      "navio": "MAERSK CHAMBAL",
       "status": "ManobraPrevista",
       "data_hora_texto": "19/11/2026",
       "data_hora_iso": "2026-11-19T00:00:00",
       "calado": "TBC",
       "rota": "",
-      "berco": "PNAVE",
-      "posicao": null
-    },
-    {
-      "navio": "PACIFICA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "19/11/2026",
-      "data_hora_iso": "2026-11-19T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "TEPORTI",
-      "posicao": null
-    },
-    {
-      "navio": "FRAGATA JERÔNIMO DE ALBUQUERQUE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "19/11/2026",
-      "data_hora_iso": "2026-11-19T00:00:00",
-      "calado": "4,00 EK",
-      "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
-      "navio": "FRAGATA TAMANDARE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "19/11/2026",
-      "data_hora_iso": "2026-11-19T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "DELEMAR",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
       "navio": "LOG-IN RESILIENTE",
       "status": "ManobraPrevista",
-      "data_hora_texto": "19/11/2026",
-      "data_hora_iso": "2026-11-19T00:00:00",
+      "data_hora_texto": "20/11/2026",
+      "data_hora_iso": "2026-11-20T00:00:00",
+      "calado": "TBC",
+      "rota": "Bacia 1",
+      "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
+      "navio": "CMA CGM THORIUM",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "20/11/2026",
+      "data_hora_iso": "2026-11-20T00:00:00",
       "calado": "TBC",
       "rota": "",
       "berco": "PNAVE",
@@ -132,13 +112,23 @@
       "posicao": null
     },
     {
-      "navio": "CMA CGM THORIUM",
+      "navio": "MSC MARIA LAURA",
       "status": "ManobraPrevista",
       "data_hora_texto": "20/11/2026",
       "data_hora_iso": "2026-11-20T00:00:00",
       "calado": "TBC",
       "rota": "",
       "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "ABU AL ABYAD",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "20/11/2026",
+      "data_hora_iso": "2026-11-20T00:00:00",
+      "calado": "5,50/6,90",
+      "rota": "",
+      "berco": "JBS",
       "posicao": null
     },
     {
@@ -159,16 +149,6 @@
       "calado": "TBC",
       "rota": "",
       "berco": "PNAVE",
-      "posicao": null
-    },
-    {
-      "navio": "MAERSK CHAMBAL",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "21/11/2026",
-      "data_hora_iso": "2026-11-21T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS",
       "posicao": null
     },
     {
@@ -359,6 +339,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "SEMIHA- AHMET- M",
+      "status": "Atracado",
+      "data_hora_texto": "18/11/2026 - 19:47",
+      "data_hora_iso": "2026-11-18T19:47:00",
+      "calado": null,
+      "rota": "",
+      "berco": "BRASKARNE",
       "posicao": null
     },
     {
