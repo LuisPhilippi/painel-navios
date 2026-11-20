@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-19T18:49:56.432417",
+  "gerado_em": "2026-11-20T01:01:12.081102",
   "navios": [
     {
       "navio": "PATMOS EXPRESS",
@@ -7,17 +7,7 @@
       "data_hora_texto": "19/11/2026",
       "data_hora_iso": "2026-11-19T00:00:00",
       "calado": "11,40/11,50",
-      "rota": "Bacia 1",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "MAERSK CHAMBAL",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "19/11/2026",
-      "data_hora_iso": "2026-11-19T00:00:00",
-      "calado": "TBC",
-      "rota": "",
+      "rota": "Bacia 2",
       "berco": "JBS 2",
       "posicao": null
     },
@@ -27,7 +17,7 @@
       "data_hora_texto": "20/11/2026",
       "data_hora_iso": "2026-11-20T00:00:00",
       "calado": "10,10/11,10",
-      "rota": "Bacia 2",
+      "rota": "Bacia 1",
       "berco": "PNAVE 01",
       "posicao": null
     },
@@ -37,38 +27,8 @@
       "data_hora_texto": "20/11/2026",
       "data_hora_iso": "2026-11-20T00:00:00",
       "calado": "10,40/10,60",
-      "rota": "",
+      "rota": "Bacia 1",
       "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "CMA CGM THORIUM",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "20/11/2026",
-      "data_hora_iso": "2026-11-20T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE",
-      "posicao": null
-    },
-    {
-      "navio": "SEASPAN OCEANIA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "20/11/2026",
-      "data_hora_iso": "2026-11-20T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "JBS",
-      "posicao": null
-    },
-    {
-      "navio": "MSC MARIA LAURA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "20/11/2026",
-      "data_hora_iso": "2026-11-20T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE",
       "posicao": null
     },
     {
@@ -77,38 +37,38 @@
       "data_hora_texto": "20/11/2026",
       "data_hora_iso": "2026-11-20T00:00:00",
       "calado": "5,50/6,90",
-      "rota": "",
-      "berco": "JBS",
+      "rota": "Bacia 1",
+      "berco": "JBS 4",
       "posicao": null
     },
     {
-      "navio": "MSC AJACCIO",
+      "navio": "MAERSK CHAMBAL",
       "status": "ManobraPrevista",
       "data_hora_texto": "20/11/2026",
       "data_hora_iso": "2026-11-20T00:00:00",
-      "calado": "TBC",
+      "calado": "11,00 EK",
       "rota": "",
-      "berco": null,
+      "berco": "JBS 2",
       "posicao": null
     },
     {
       "navio": "KOTA ELOK",
       "status": "ManobraPrevista",
+      "data_hora_texto": "20/11/2026",
+      "data_hora_iso": "2026-11-20T00:00:00",
+      "calado": "11,18 EK",
+      "rota": "Bacia 2",
+      "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
+      "navio": "SEASPAN OCEANIA",
+      "status": "ManobraPrevista",
       "data_hora_texto": "21/11/2026",
       "data_hora_iso": "2026-11-21T00:00:00",
       "calado": "TBC",
       "rota": "",
-      "berco": "PNAVE",
-      "posicao": null
-    },
-    {
-      "navio": "UAL COLOGNE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "21/11/2026",
-      "data_hora_iso": "2026-11-21T00:00:00",
-      "calado": "2,90/4,80",
-      "rota": "",
-      "berco": "BARRA DO RIO",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -132,6 +92,16 @@
       "posicao": null
     },
     {
+      "navio": "CMA CGM THORIUM",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "21/11/2026",
+      "data_hora_iso": "2026-11-21T00:00:00",
+      "calado": "11,10/11,20",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
       "navio": "MSC CASSANDRE",
       "status": "ManobraPrevista",
       "data_hora_texto": "21/11/2026",
@@ -149,6 +119,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "B.EVOLUÇÃO",
+      "posicao": null
+    },
+    {
+      "navio": "MSC AJACCIO",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "21/11/2026",
+      "data_hora_iso": "2026-11-21T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
       "posicao": null
     },
     {
@@ -186,7 +166,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "22/11/2026",
       "data_hora_iso": "2026-11-22T00:00:00",
-      "calado": "TBC",
+      "calado": "8,00/9,10",
       "rota": "",
       "berco": "JBS",
       "posicao": null
@@ -242,6 +222,16 @@
       "posicao": null
     },
     {
+      "navio": "UAL COLOGNE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "23/11/2026",
+      "data_hora_iso": "2026-11-23T00:00:00",
+      "calado": "2,90/4,80",
+      "rota": "",
+      "berco": "BARRA DO RIO",
+      "posicao": null
+    },
+    {
       "navio": "FRAGATA TAMANDARE",
       "status": "ManobraPrevista",
       "data_hora_texto": "23/11/2026",
@@ -262,6 +252,16 @@
       "posicao": null
     },
     {
+      "navio": "FRAGATA JERÔNIMO DE ALBUQUERQUE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "23/11/2026",
+      "data_hora_iso": "2026-11-23T00:00:00",
+      "calado": "4,00 EK",
+      "rota": "Bacia 1",
+      "berco": "JBS 3",
+      "posicao": null
+    },
+    {
       "navio": "RUNAWAY BAY",
       "status": "ManobraPrevista",
       "data_hora_texto": "23/11/2026",
@@ -269,6 +269,16 @@
       "calado": "3,36/5,96",
       "rota": "",
       "berco": "BRASKARNE",
+      "posicao": null
+    },
+    {
+      "navio": "MSC MARIA LAURA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "25/11/2026",
+      "data_hora_iso": "2026-11-25T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
       "posicao": null
     },
     {
@@ -339,16 +349,6 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
-      "posicao": null
-    },
-    {
-      "navio": "FRAGATA JERÔNIMO DE ALBUQUERQUE",
-      "status": "Atracado",
-      "data_hora_texto": "19/11/2026 - 12:27",
-      "data_hora_iso": "2026-11-19T12:27:00",
-      "calado": null,
-      "rota": "",
-      "berco": "JBS 3",
       "posicao": null
     },
     {
