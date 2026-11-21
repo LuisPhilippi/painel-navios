@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-11-21T00:33:52.058620",
+  "gerado_em": "2026-11-21T07:57:19.265634",
   "navios": [
-    {
-      "navio": "MAERSK CHAMBAL",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "21/11/2026",
-      "data_hora_iso": "2026-11-21T00:00:00",
-      "calado": "10,60/10,90",
-      "rota": "Bacia 1",
-      "berco": "JBS 2",
-      "posicao": null
-    },
     {
       "navio": "NAVIO DE APOIO OCEANICO MEARIM",
       "status": "ManobraPrevista",
@@ -22,13 +12,13 @@
       "posicao": null
     },
     {
-      "navio": "ABU AL ABYAD",
+      "navio": "MAERSK CHAMBAL",
       "status": "ManobraPrevista",
       "data_hora_texto": "21/11/2026",
       "data_hora_iso": "2026-11-21T00:00:00",
-      "calado": "5,50/6,90",
+      "calado": "10,60/10,90",
       "rota": "Bacia 1",
-      "berco": "JBS 4",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -59,6 +49,16 @@
       "calado": "11,10/11,20",
       "rota": "Bacia 2",
       "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
+      "navio": "ABU AL ABYAD",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "21/11/2026",
+      "data_hora_iso": "2026-11-21T00:00:00",
+      "calado": "5,50/6,90",
+      "rota": "Bacia 1",
+      "berco": "JBS 4",
       "posicao": null
     },
     {

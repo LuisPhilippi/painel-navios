@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-21T00:33:58.132538",
+  "gerado_em": "2026-11-21T07:57:26.814904",
   "navios": [
     {
       "navio": "Maersk Venezia",
@@ -8,10 +8,10 @@
       "data_chegada_texto": "19/11/2026 22:20",
       "data_chegada_iso": "2026-11-19T22:20:00",
       "manobra": "Entrada e Atracação",
-      "data_manobra": "21/11/2026 06:00",
-      "data_manobra_iso": "2026-11-21T06:00:00",
+      "data_manobra": "21/11/2026 06:30",
+      "data_manobra_iso": "2026-11-21T06:30:00",
       "berco": "BARRA 902",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -21,10 +21,10 @@
       "data_chegada_texto": "19/11/2026 13:00",
       "data_chegada_iso": "2026-11-19T13:00:00",
       "manobra": "Desatracação e Saída",
-      "data_manobra": "21/11/2026 06:00",
-      "data_manobra_iso": "2026-11-21T06:00:00",
+      "data_manobra": "21/11/2026 06:30",
+      "data_manobra_iso": "2026-11-21T06:30:00",
       "berco": "902 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -301,6 +301,19 @@
       "secao": "Navios Fundeados (Barra)"
     },
     {
+      "navio": "Koszalin",
+      "imo": "9594236",
+      "agencia": "SEATRADE",
+      "data_chegada_texto": "21/11/2026 01:15",
+      "data_chegada_iso": "2026-11-21T01:15:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "SFS",
+      "situacao": null,
+      "secao": "Navios Fundeados (Barra)"
+    },
+    {
       "navio": "Ionic Pleione",
       "imo": "9785354",
       "agencia": "ALPHAMAR",
@@ -345,19 +358,6 @@
       "agencia": "ZPORT AGENCIA",
       "data_chegada_texto": "21/11/2026 10:00",
       "data_chegada_iso": "2026-11-21T10:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "SFS",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Koszalin",
-      "imo": "9594236",
-      "agencia": "SEATRADE",
-      "data_chegada_texto": "21/11/2026 11:00",
-      "data_chegada_iso": "2026-11-21T11:00:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
