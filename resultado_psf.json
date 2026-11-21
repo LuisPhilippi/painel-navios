@@ -1,32 +1,6 @@
 {
-  "gerado_em": "2026-11-21T15:56:56.784897",
+  "gerado_em": "2026-11-21T21:27:47.370493",
   "navios": [
-    {
-      "navio": "Maersk San Vincent",
-      "imo": "9717228",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "20/11/2026 17:06",
-      "data_chegada_iso": "2026-11-20T17:06:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "21/11/2026 12:15",
-      "data_manobra_iso": "2026-11-21T12:15:00",
-      "berco": "BARRA 901",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Mercosul Guarujá",
-      "imo": "9539494",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "18/11/2026 16:00",
-      "data_chegada_iso": "2026-11-18T16:00:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "21/11/2026 12:15",
-      "data_manobra_iso": "2026-11-21T12:15:00",
-      "berco": "901 BARRA",
-      "situacao": "Em Andamento",
-      "secao": "Movimentações"
-    },
     {
       "navio": "BBC Ganges",
       "imo": "9508304",
@@ -37,7 +11,7 @@
       "data_manobra": "21/11/2026 18:45",
       "data_manobra_iso": "2026-11-21T18:45:00",
       "berco": "302 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -93,19 +67,6 @@
       "secao": "Movimentações"
     },
     {
-      "navio": "Américo Vespúcio",
-      "imo": "9603233",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "21/11/2026 17:00",
-      "data_chegada_iso": "2026-11-21T17:00:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "22/11/2026 01:30",
-      "data_manobra_iso": "2026-11-22T01:30:00",
-      "berco": "BARRA 902",
-      "situacao": "A Confirmar",
-      "secao": "Navios Esperados"
-    },
-    {
       "navio": "Maersk Venezia",
       "imo": "9344681",
       "agencia": "LACHMANN",
@@ -115,6 +76,19 @@
       "data_manobra": "22/11/2026 01:30",
       "data_manobra_iso": "2026-11-22T01:30:00",
       "berco": "902 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
+      "navio": "MSC Rikku",
+      "imo": "9393319",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "21/11/2026 09:53",
+      "data_chegada_iso": "2026-11-21T09:53:00",
+      "manobra": "Entrada e Atracação",
+      "data_manobra": "22/11/2026 09:00",
+      "data_manobra_iso": "2026-11-22T09:00:00",
+      "berco": "BARRA 902",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
     },
@@ -156,6 +130,19 @@
       "berco": "BARRA 102",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
+    },
+    {
+      "navio": "Maersk San Vincent",
+      "imo": "9717228",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "20/11/2026 17:06",
+      "data_chegada_iso": "2026-11-20T17:06:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "901",
+      "situacao": null,
+      "secao": "Navios Atracados"
     },
     {
       "navio": "Anemos",
@@ -312,6 +299,19 @@
       "berco": "SFS",
       "situacao": null,
       "secao": "Navios Fundeados (Barra)"
+    },
+    {
+      "navio": "Américo Vespúcio",
+      "imo": "9603233",
+      "agencia": "LACHMANN",
+      "data_chegada_texto": "21/11/2026 17:00",
+      "data_chegada_iso": "2026-11-21T17:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": null,
+      "situacao": null,
+      "secao": "Navios Esperados"
     },
     {
       "navio": "MSC Meline",
@@ -596,6 +596,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "TESC",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Anne",
+      "imo": "9593294",
+      "agencia": "LITORAL",
+      "data_chegada_texto": "02/12/2026 10:00",
+      "data_chegada_iso": "2026-12-02T10:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "SFS",
       "situacao": null,
       "secao": "Navios Esperados"
     },
