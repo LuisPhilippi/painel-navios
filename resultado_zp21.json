@@ -1,42 +1,12 @@
 {
-  "gerado_em": "2026-11-21T07:57:19.265634",
+  "gerado_em": "2026-11-21T15:56:47.891733",
   "navios": [
-    {
-      "navio": "NAVIO DE APOIO OCEANICO MEARIM",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "21/11/2026",
-      "data_hora_iso": "2026-11-21T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PASS",
-      "posicao": null
-    },
-    {
-      "navio": "MAERSK CHAMBAL",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "21/11/2026",
-      "data_hora_iso": "2026-11-21T00:00:00",
-      "calado": "10,60/10,90",
-      "rota": "Bacia 1",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "SEASPAN OCEANIA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "21/11/2026",
-      "data_hora_iso": "2026-11-21T00:00:00",
-      "calado": "10,70/11,45",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
     {
       "navio": "KOTA ELOK",
       "status": "ManobraPrevista",
       "data_hora_texto": "21/11/2026",
       "data_hora_iso": "2026-11-21T00:00:00",
-      "calado": "9,10/10,30",
+      "calado": "9,10/10,40",
       "rota": "",
       "berco": "PNAVE 02",
       "posicao": null
@@ -52,13 +22,13 @@
       "posicao": null
     },
     {
-      "navio": "ABU AL ABYAD",
+      "navio": "NAVIO DE APOIO OCEANICO MEARIM",
       "status": "ManobraPrevista",
       "data_hora_texto": "21/11/2026",
       "data_hora_iso": "2026-11-21T00:00:00",
-      "calado": "5,50/6,90",
-      "rota": "Bacia 1",
-      "berco": "JBS 4",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PASS",
       "posicao": null
     },
     {
@@ -72,6 +42,16 @@
       "posicao": null
     },
     {
+      "navio": "ABU AL ABYAD",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "21/11/2026",
+      "data_hora_iso": "2026-11-21T00:00:00",
+      "calado": "5,50/6,90",
+      "rota": "Bacia 1",
+      "berco": "JBS 4",
+      "posicao": null
+    },
+    {
       "navio": "IRENES WISDOM",
       "status": "ManobraPrevista",
       "data_hora_texto": "22/11/2026",
@@ -79,6 +59,16 @@
       "calado": "8,00/9,10",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "LOG-IN EXPERIENCE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "22/11/2026",
+      "data_hora_iso": "2026-11-22T00:00:00",
+      "calado": "10,20/10,80",
+      "rota": "",
+      "berco": "PNAVE",
       "posicao": null
     },
     {
@@ -106,7 +96,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "22/11/2026",
       "data_hora_iso": "2026-11-22T00:00:00",
-      "calado": "11,80 EK",
+      "calado": "6,80/10,00",
       "rota": "",
       "berco": "PNAVE",
       "posicao": null
@@ -122,6 +112,16 @@
       "posicao": null
     },
     {
+      "navio": "SEASPAN OCEANIA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "22/11/2026",
+      "data_hora_iso": "2026-11-22T00:00:00",
+      "calado": "TBC",
+      "rota": "Bacia 2",
+      "berco": "JBS 2",
+      "posicao": null
+    },
+    {
       "navio": "STELLAR ONTARIO",
       "status": "ManobraPrevista",
       "data_hora_texto": "22/11/2026",
@@ -129,26 +129,6 @@
       "calado": "3,35/5,51",
       "rota": "",
       "berco": "TEPORTI",
-      "posicao": null
-    },
-    {
-      "navio": "LOG-IN EXPERIENCE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "22/11/2026",
-      "data_hora_iso": "2026-11-22T00:00:00",
-      "calado": "10,20/10,80",
-      "rota": "",
-      "berco": "PNAVE",
-      "posicao": null
-    },
-    {
-      "navio": "ONE AMAZON",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "22/11/2026",
-      "data_hora_iso": "2026-11-22T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE",
       "posicao": null
     },
     {
@@ -189,6 +169,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "DELEMAR",
+      "posicao": null
+    },
+    {
+      "navio": "ONE AMAZON",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "23/11/2026",
+      "data_hora_iso": "2026-11-23T00:00:00",
+      "calado": "10,85/11,35",
+      "rota": "",
+      "berco": "PNAVE",
       "posicao": null
     },
     {
@@ -296,7 +286,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "01/12/2026",
       "data_hora_iso": "2026-12-01T00:00:00",
-      "calado": "5,70 EK",
+      "calado": "5,60 EK",
       "rota": "",
       "berco": "BRASKARNE",
       "posicao": null
