@@ -1,42 +1,12 @@
 {
-  "gerado_em": "2026-11-22T09:17:25.876653",
+  "gerado_em": "2026-11-22T17:35:25.907073",
   "navios": [
-    {
-      "navio": "ABU AL ABYAD",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "22/11/2026",
-      "data_hora_iso": "2026-11-22T00:00:00",
-      "calado": "5,50/6,90",
-      "rota": "Bacia 1",
-      "berco": "JBS 4",
-      "posicao": null
-    },
-    {
-      "navio": "IRENES WISDOM",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "22/11/2026",
-      "data_hora_iso": "2026-11-22T00:00:00",
-      "calado": "8,00/9,10",
-      "rota": "",
-      "berco": "JBS 4",
-      "posicao": null
-    },
-    {
-      "navio": "MSC CASSANDRE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "22/11/2026",
-      "data_hora_iso": "2026-11-22T00:00:00",
-      "calado": "10,40/11,10",
-      "rota": "",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "CMA CGM THORIUM",
       "status": "ManobraPrevista",
       "data_hora_texto": "22/11/2026",
       "data_hora_iso": "2026-11-22T00:00:00",
-      "calado": "TBC",
+      "calado": "11,10 EK",
       "rota": "",
       "berco": "PNAVE 02",
       "posicao": null
@@ -52,6 +22,26 @@
       "posicao": null
     },
     {
+      "navio": "SEMIHA- AHMET- M",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "22/11/2026",
+      "data_hora_iso": "2026-11-22T00:00:00",
+      "calado": "6,40/8,00",
+      "rota": "Bacia 1",
+      "berco": "BRASKARNE",
+      "posicao": null
+    },
+    {
+      "navio": "IRENES WISDOM",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "23/11/2026",
+      "data_hora_iso": "2026-11-23T00:00:00",
+      "calado": "9,00/9,29",
+      "rota": "Bacia 1",
+      "berco": "JBS 4",
+      "posicao": null
+    },
+    {
       "navio": "SEASPAN OCEANIA",
       "status": "ManobraPrevista",
       "data_hora_texto": "23/11/2026",
@@ -62,13 +52,13 @@
       "posicao": null
     },
     {
-      "navio": "MSC ODESSA V",
+      "navio": "GEMSBOK",
       "status": "ManobraPrevista",
       "data_hora_texto": "23/11/2026",
       "data_hora_iso": "2026-11-23T00:00:00",
-      "calado": "10,20/10,50",
+      "calado": "TBC",
       "rota": "",
-      "berco": "JBS",
+      "berco": "POLY TERMINAIS",
       "posicao": null
     },
     {
@@ -102,12 +92,12 @@
       "posicao": null
     },
     {
-      "navio": "MSC AJACCIO",
+      "navio": "MSC CASSANDRE",
       "status": "ManobraPrevista",
       "data_hora_texto": "23/11/2026",
       "data_hora_iso": "2026-11-23T00:00:00",
-      "calado": "10,60/11,30",
-      "rota": "",
+      "calado": "9,40/10,10",
+      "rota": "Bacia 2",
       "berco": "PNAVE 01",
       "posicao": null
     },
@@ -122,23 +112,13 @@
       "posicao": null
     },
     {
-      "navio": "ONE PARANA",
+      "navio": "MSC AJACCIO",
       "status": "ManobraPrevista",
       "data_hora_texto": "23/11/2026",
       "data_hora_iso": "2026-11-23T00:00:00",
-      "calado": "6,80/10,00",
+      "calado": "10,60/11,30",
       "rota": "",
-      "berco": "PNAVE",
-      "posicao": null
-    },
-    {
-      "navio": "ONE AMAZON",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "23/11/2026",
-      "data_hora_iso": "2026-11-23T00:00:00",
-      "calado": "10,85/11,35",
-      "rota": "",
-      "berco": "PNAVE 02",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
@@ -149,16 +129,6 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
-      "posicao": null
-    },
-    {
-      "navio": "SEMIHA- AHMET- M",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "23/11/2026",
-      "data_hora_iso": "2026-11-23T00:00:00",
-      "calado": "6,40/8,00",
-      "rota": "Bacia 1",
-      "berco": "BRASKARNE",
       "posicao": null
     },
     {
@@ -182,6 +152,36 @@
       "posicao": null
     },
     {
+      "navio": "MSC ODESSA V",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "23/11/2026",
+      "data_hora_iso": "2026-11-23T00:00:00",
+      "calado": "9,40/10,10",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "STELLAR ONTARIO",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "23/11/2026",
+      "data_hora_iso": "2026-11-23T00:00:00",
+      "calado": "3,35/5,48",
+      "rota": "",
+      "berco": "TEPORTI",
+      "posicao": null
+    },
+    {
+      "navio": "ONE AMAZON",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "23/11/2026",
+      "data_hora_iso": "2026-11-23T00:00:00",
+      "calado": "10,85/11,35",
+      "rota": "Bacia 2",
+      "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
       "navio": "RUNAWAY BAY",
       "status": "ManobraPrevista",
       "data_hora_texto": "23/11/2026",
@@ -192,16 +192,6 @@
       "posicao": null
     },
     {
-      "navio": "STELLAR ONTARIO",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "23/11/2026",
-      "data_hora_iso": "2026-11-23T00:00:00",
-      "calado": "3,35/5,51",
-      "rota": "",
-      "berco": "TEPORTI",
-      "posicao": null
-    },
-    {
       "navio": "NC BRISA",
       "status": "ManobraPrevista",
       "data_hora_texto": "24/11/2026",
@@ -209,6 +199,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "ONE PARANA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "24/11/2026",
+      "data_hora_iso": "2026-11-24T00:00:00",
+      "calado": "6,80/10,00",
+      "rota": "",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
