@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-22T01:52:50.249713",
+  "gerado_em": "2026-11-22T09:17:25.876653",
   "navios": [
     {
       "navio": "ABU AL ABYAD",
@@ -309,16 +309,6 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
-      "posicao": null
-    },
-    {
-      "navio": "ZHEN HUA 15",
-      "status": "Atracado",
-      "data_hora_texto": "14/11/2026 - 15:17",
-      "data_hora_iso": "2026-11-14T15:17:00",
-      "calado": null,
-      "rota": "",
-      "berco": "PNAVE 02",
       "posicao": null
     },
     {

@@ -1,71 +1,6 @@
 {
-  "gerado_em": "2026-11-22T01:52:56.505377",
+  "gerado_em": "2026-11-22T09:17:31.896962",
   "navios": [
-    {
-      "navio": "Equinox Dream",
-      "imo": "9503964",
-      "agencia": "ZPORT AGENCIA",
-      "data_chegada_texto": "03/11/2026 07:07",
-      "data_chegada_iso": "2026-11-03T07:07:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "21/11/2026 22:45",
-      "data_manobra_iso": "2026-11-21T22:45:00",
-      "berco": "102 BARRA",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Jamaica Bay",
-      "imo": "9610717",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "21/11/2026 10:48",
-      "data_chegada_iso": "2026-11-21T10:48:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "21/11/2026 23:00",
-      "data_manobra_iso": "2026-11-21T23:00:00",
-      "berco": "BARRA 302",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Magic Pluto",
-      "imo": "9651280",
-      "agencia": "LITORAL",
-      "data_chegada_texto": "20/11/2026 15:36",
-      "data_chegada_iso": "2026-11-20T15:36:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "21/11/2026 23:15",
-      "data_manobra_iso": "2026-11-21T23:15:00",
-      "berco": "BARRA 101",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Leo. K",
-      "imo": "9842736",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "10/11/2026 15:00",
-      "data_chegada_iso": "2026-11-10T15:00:00",
-      "manobra": "Desatracação e Fundeio",
-      "data_manobra": "21/11/2026 23:15",
-      "data_manobra_iso": "2026-11-21T23:15:00",
-      "berco": "101 F3",
-      "situacao": "Confirmado",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Maersk Venezia",
-      "imo": "9344681",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "19/11/2026 22:20",
-      "data_chegada_iso": "2026-11-19T22:20:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "22/11/2026 01:30",
-      "data_manobra_iso": "2026-11-22T01:30:00",
-      "berco": "902 BARRA",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
     {
       "navio": "MSC Rikku",
       "imo": "9393319",
@@ -119,6 +54,19 @@
       "secao": "Movimentações"
     },
     {
+      "navio": "Leo. K",
+      "imo": "9842736",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "10/11/2026 15:00",
+      "data_chegada_iso": "2026-11-10T15:00:00",
+      "manobra": "Suspender e Sair",
+      "data_manobra": "22/11/2026 11:15",
+      "data_manobra_iso": "2026-11-22T11:15:00",
+      "berco": "F3 BARRA",
+      "situacao": "A Confirmar",
+      "secao": "Movimentações"
+    },
+    {
       "navio": "Maersk San Vincent",
       "imo": "9717228",
       "agencia": "LACHMANN",
@@ -132,6 +80,19 @@
       "secao": "Navios Atracados"
     },
     {
+      "navio": "Magic Pluto",
+      "imo": "9651280",
+      "agencia": "LITORAL",
+      "data_chegada_texto": "20/11/2026 15:36",
+      "data_chegada_iso": "2026-11-20T15:36:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "101",
+      "situacao": null,
+      "secao": "Navios Atracados"
+    },
+    {
       "navio": "Anemos",
       "imo": "9331529",
       "agencia": "OCEÂNICA",
@@ -141,6 +102,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "301",
+      "situacao": null,
+      "secao": "Navios Atracados"
+    },
+    {
+      "navio": "Jamaica Bay",
+      "imo": "9610717",
+      "agencia": "WILSON SONS",
+      "data_chegada_texto": "21/11/2026 10:48",
+      "data_chegada_iso": "2026-11-21T10:48:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "302",
       "situacao": null,
       "secao": "Navios Atracados"
     },
@@ -288,30 +262,17 @@
       "secao": "Navios Fundeados (Barra)"
     },
     {
-      "navio": "Américo Vespúcio",
-      "imo": "9603233",
-      "agencia": "LACHMANN",
-      "data_chegada_texto": "21/11/2026 17:00",
-      "data_chegada_iso": "2026-11-21T17:00:00",
+      "navio": "Equinox Dream",
+      "imo": "9503964",
+      "agencia": "ZPORT AGENCIA",
+      "data_chegada_texto": "22/11/2026 01:36",
+      "data_chegada_iso": "2026-11-22T01:36:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
-      "berco": null,
+      "berco": "SFS",
       "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "MSC Meline",
-      "imo": "9702077",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "22/11/2026 00:00",
-      "data_chegada_iso": "2026-11-22T00:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
+      "secao": "Navios Fundeados (Barra)"
     },
     {
       "navio": "CMA CGM Yukon",
