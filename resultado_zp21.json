@@ -1,64 +1,14 @@
 {
-  "gerado_em": "2026-11-23T05:37:25.919743",
+  "gerado_em": "2026-11-23T17:24:08.417680",
   "navios": [
-    {
-      "navio": "IRENES WISDOM",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "23/11/2026",
-      "data_hora_iso": "2026-11-23T00:00:00",
-      "calado": "9,00/9,29",
-      "rota": "Bacia 1",
-      "berco": "JBS 4",
-      "posicao": null
-    },
-    {
-      "navio": "NAVIO DE APOIO OCEANICO MEARIM",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "23/11/2026",
-      "data_hora_iso": "2026-11-23T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PASS",
-      "posicao": null
-    },
-    {
-      "navio": "GEMSBOK",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "23/11/2026",
-      "data_hora_iso": "2026-11-23T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "POLY TERMINAIS",
-      "posicao": null
-    },
-    {
-      "navio": "FRAGATA TAMANDARE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "23/11/2026",
-      "data_hora_iso": "2026-11-23T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "DELEMAR",
-      "posicao": null
-    },
     {
       "navio": "MSC CASSANDRE",
       "status": "ManobraPrevista",
       "data_hora_texto": "23/11/2026",
       "data_hora_iso": "2026-11-23T00:00:00",
-      "calado": "9,40/10,10",
+      "calado": "9,10/10,10",
       "rota": "Bacia 2",
       "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "UAL COLOGNE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "23/11/2026",
-      "data_hora_iso": "2026-11-23T00:00:00",
-      "calado": "2,90/4,80",
-      "rota": "",
-      "berco": "BARRA DO RIO",
       "posicao": null
     },
     {
@@ -66,7 +16,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "23/11/2026",
       "data_hora_iso": "2026-11-23T00:00:00",
-      "calado": "4,00 EK",
+      "calado": "6,00 EK",
       "rota": "Bacia 1",
       "berco": "JBS 3",
       "posicao": null
@@ -76,7 +26,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "23/11/2026",
       "data_hora_iso": "2026-11-23T00:00:00",
-      "calado": "TBC",
+      "calado": "10,10/10,70",
       "rota": "Bacia 2",
       "berco": "JBS 2",
       "posicao": null
@@ -86,7 +36,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "23/11/2026",
       "data_hora_iso": "2026-11-23T00:00:00",
-      "calado": "10,20/10,50",
+      "calado": "9,90/10,60",
       "rota": "",
       "berco": "PNAVE 02",
       "posicao": null
@@ -96,7 +46,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "23/11/2026",
       "data_hora_iso": "2026-11-23T00:00:00",
-      "calado": "9,40/10,10",
+      "calado": "9,30/10,40",
       "rota": "",
       "berco": "JBS 2",
       "posicao": null
@@ -124,8 +74,8 @@
     {
       "navio": "RUNAWAY BAY",
       "status": "ManobraPrevista",
-      "data_hora_texto": "23/11/2026",
-      "data_hora_iso": "2026-11-23T00:00:00",
+      "data_hora_texto": "24/11/2026",
+      "data_hora_iso": "2026-11-24T00:00:00",
       "calado": "3,36/5,96",
       "rota": "",
       "berco": "BRASKARNE",
@@ -162,6 +112,16 @@
       "posicao": null
     },
     {
+      "navio": "UAL COLOGNE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "24/11/2026",
+      "data_hora_iso": "2026-11-24T00:00:00",
+      "calado": "3,60/4,60",
+      "rota": "",
+      "berco": "BARRA DO RIO",
+      "posicao": null
+    },
+    {
       "navio": "PETREL ARROW",
       "status": "ManobraPrevista",
       "data_hora_texto": "24/11/2026",
@@ -182,13 +142,23 @@
       "posicao": null
     },
     {
-      "navio": "STELLAR ONTARIO",
+      "navio": "MSC MELINE",
       "status": "ManobraPrevista",
       "data_hora_texto": "24/11/2026",
       "data_hora_iso": "2026-11-24T00:00:00",
-      "calado": "3,35/5,48",
+      "calado": "TBC",
       "rota": "",
-      "berco": "TEPORTI",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "LOG-IN JACARANDA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "25/11/2026",
+      "data_hora_iso": "2026-11-25T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
       "posicao": null
     },
     {
@@ -242,6 +212,26 @@
       "posicao": null
     },
     {
+      "navio": "MSC AINO",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "27/11/2026",
+      "data_hora_iso": "2026-11-27T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "MSC DAMLA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "27/11/2026",
+      "data_hora_iso": "2026-11-27T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
       "navio": "GARNET",
       "status": "ManobraPrevista",
       "data_hora_texto": "28/11/2026",
@@ -249,6 +239,26 @@
       "calado": "11,60 EK",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "LOG-IN RESILIENTE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "29/11/2026",
+      "data_hora_iso": "2026-11-29T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
+      "posicao": null
+    },
+    {
+      "navio": "MSC ALBANY",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "30/11/2026",
+      "data_hora_iso": "2026-11-30T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE",
       "posicao": null
     },
     {
@@ -300,6 +310,16 @@
       "rota": "",
       "berco": "JBS",
       "posicao": null
+    },
+    {
+      "navio": "STELLAR ONTARIO",
+      "status": "Fundeado",
+      "data_hora_texto": "22/11/2026 - 13:00",
+      "data_hora_iso": "2026-11-22T13:00:00",
+      "calado": "3,35/5,48",
+      "rota": "",
+      "berco": null,
+      "posicao": "26 57,55 S / 048 31,63 W"
     },
     {
       "navio": "BRUCE KAY",
