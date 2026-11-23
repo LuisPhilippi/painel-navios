@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-11-22T23:11:04.452088",
+  "gerado_em": "2026-11-23T05:37:25.919743",
   "navios": [
-    {
-      "navio": "SEMIHA- AHMET- M",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "22/11/2026",
-      "data_hora_iso": "2026-11-22T00:00:00",
-      "calado": "6,83/7,72",
-      "rota": "Bacia 1",
-      "berco": "BRASKARNE",
-      "posicao": null
-    },
     {
       "navio": "IRENES WISDOM",
       "status": "ManobraPrevista",
@@ -19,16 +9,6 @@
       "calado": "9,00/9,29",
       "rota": "Bacia 1",
       "berco": "JBS 4",
-      "posicao": null
-    },
-    {
-      "navio": "SEASPAN OCEANIA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "23/11/2026",
-      "data_hora_iso": "2026-11-23T00:00:00",
-      "calado": "TBC",
-      "rota": "Bacia 2",
-      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -42,16 +22,6 @@
       "posicao": null
     },
     {
-      "navio": "FRAGATA TAMANDARE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "23/11/2026",
-      "data_hora_iso": "2026-11-23T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "DELEMAR",
-      "posicao": null
-    },
-    {
       "navio": "GEMSBOK",
       "status": "ManobraPrevista",
       "data_hora_texto": "23/11/2026",
@@ -62,6 +32,16 @@
       "posicao": null
     },
     {
+      "navio": "FRAGATA TAMANDARE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "23/11/2026",
+      "data_hora_iso": "2026-11-23T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "DELEMAR",
+      "posicao": null
+    },
+    {
       "navio": "MSC CASSANDRE",
       "status": "ManobraPrevista",
       "data_hora_texto": "23/11/2026",
@@ -69,16 +49,6 @@
       "calado": "9,40/10,10",
       "rota": "Bacia 2",
       "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "STELLAR ONTARIO",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "23/11/2026",
-      "data_hora_iso": "2026-11-23T00:00:00",
-      "calado": "3,35/5,48",
-      "rota": "",
-      "berco": "TEPORTI",
       "posicao": null
     },
     {
@@ -102,6 +72,16 @@
       "posicao": null
     },
     {
+      "navio": "SEASPAN OCEANIA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "23/11/2026",
+      "data_hora_iso": "2026-11-23T00:00:00",
+      "calado": "TBC",
+      "rota": "Bacia 2",
+      "berco": "JBS 2",
+      "posicao": null
+    },
+    {
       "navio": "LOG-IN EXPERIENCE",
       "status": "ManobraPrevista",
       "data_hora_texto": "23/11/2026",
@@ -112,16 +92,6 @@
       "posicao": null
     },
     {
-      "navio": "MSC AJACCIO",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "23/11/2026",
-      "data_hora_iso": "2026-11-23T00:00:00",
-      "calado": "10,60/11,30",
-      "rota": "",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
       "navio": "MSC ODESSA V",
       "status": "ManobraPrevista",
       "data_hora_texto": "23/11/2026",
@@ -129,6 +99,16 @@
       "calado": "9,40/10,10",
       "rota": "",
       "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "MSC AJACCIO",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "23/11/2026",
+      "data_hora_iso": "2026-11-23T00:00:00",
+      "calado": "10,60/11,30",
+      "rota": "",
+      "berco": "PNAVE 01",
       "posicao": null
     },
     {
@@ -199,6 +179,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "BARRA DO RIO",
+      "posicao": null
+    },
+    {
+      "navio": "STELLAR ONTARIO",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "24/11/2026",
+      "data_hora_iso": "2026-11-24T00:00:00",
+      "calado": "3,35/5,48",
+      "rota": "",
+      "berco": "TEPORTI",
       "posicao": null
     },
     {
