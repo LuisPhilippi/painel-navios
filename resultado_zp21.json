@@ -1,36 +1,6 @@
 {
-  "gerado_em": "2026-11-24T23:44:00.426924",
+  "gerado_em": "2026-11-25T06:51:56.858558",
   "navios": [
-    {
-      "navio": "LOG-IN JACARANDA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "24/11/2026",
-      "data_hora_iso": "2026-11-24T00:00:00",
-      "calado": "8,50/9,50",
-      "rota": "Bacia 1",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
-    {
-      "navio": "MSC ODESSA V",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "24/11/2026",
-      "data_hora_iso": "2026-11-24T00:00:00",
-      "calado": "10,60/11,30",
-      "rota": "Bacia 2",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "CMA CGM YUKON",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "25/11/2026",
-      "data_hora_iso": "2026-11-25T00:00:00",
-      "calado": "7,50/9,60",
-      "rota": "Bacia 2",
-      "berco": "JBS 2",
-      "posicao": null
-    },
     {
       "navio": "NAVIOS VERMILION",
       "status": "ManobraPrevista",
@@ -49,6 +19,16 @@
       "calado": "TBC",
       "rota": "Bacia 2",
       "berco": "JBS 4",
+      "posicao": null
+    },
+    {
+      "navio": "MSC ODESSA V",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "25/11/2026",
+      "data_hora_iso": "2026-11-25T00:00:00",
+      "calado": "10,60/11,30",
+      "rota": "Bacia 2",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -82,6 +62,16 @@
       "posicao": null
     },
     {
+      "navio": "LOG-IN JACARANDA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "25/11/2026",
+      "data_hora_iso": "2026-11-25T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "PNAVE 01",
+      "posicao": null
+    },
+    {
       "navio": "MSC MELINE",
       "status": "ManobraPrevista",
       "data_hora_texto": "25/11/2026",
@@ -89,6 +79,16 @@
       "calado": "10,70/10,80",
       "rota": "Bacia 2",
       "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
+      "navio": "CMA CGM YUKON",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "25/11/2026",
+      "data_hora_iso": "2026-11-25T00:00:00",
+      "calado": "7,50/9,60",
+      "rota": "",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -166,7 +166,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "27/11/2026",
       "data_hora_iso": "2026-11-27T00:00:00",
-      "calado": "TBC",
+      "calado": "10,50/11,40",
       "rota": "",
       "berco": "JBS",
       "posicao": null
