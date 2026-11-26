@@ -1,36 +1,6 @@
 {
-  "gerado_em": "2026-11-26T01:30:19.476087",
+  "gerado_em": "2026-11-26T10:28:30.915116",
   "navios": [
-    {
-      "navio": "HYUNDAI DYNASTY",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "26/11/2026",
-      "data_hora_iso": "2026-11-26T00:00:00",
-      "calado": "11,35/11,60",
-      "rota": "",
-      "berco": "PNAVE 03",
-      "posicao": null
-    },
-    {
-      "navio": "MSC AJACCIO",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "26/11/2026",
-      "data_hora_iso": "2026-11-26T00:00:00",
-      "calado": "9,65/10,90",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
-      "navio": "LOG-IN JACARANDA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "26/11/2026",
-      "data_hora_iso": "2026-11-26T00:00:00",
-      "calado": "9,30/10,30",
-      "rota": "",
-      "berco": "PNAVE 01",
-      "posicao": null
-    },
     {
       "navio": "PETREL ARROW",
       "status": "ManobraPrevista",
@@ -52,13 +22,23 @@
       "posicao": null
     },
     {
-      "navio": "STELLAR ONTARIO",
+      "navio": "MSC AJACCIO",
       "status": "ManobraPrevista",
       "data_hora_texto": "26/11/2026",
       "data_hora_iso": "2026-11-26T00:00:00",
-      "calado": "3,30/5,46",
-      "rota": "",
-      "berco": "TEPORTI",
+      "calado": "11,60/11,65",
+      "rota": "Bacia 2",
+      "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "HYUNDAI DYNASTY",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "26/11/2026",
+      "data_hora_iso": "2026-11-26T00:00:00",
+      "calado": "11,40/11,55",
+      "rota": "Bacia 2",
+      "berco": "PNAVE 03",
       "posicao": null
     },
     {
@@ -199,6 +179,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "BRASKARNE",
+      "posicao": null
+    },
+    {
+      "navio": "STELLAR ONTARIO",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "27/11/2026",
+      "data_hora_iso": "2026-11-27T00:00:00",
+      "calado": "3,30/5,46",
+      "rota": "",
+      "berco": "TEPORTI",
       "posicao": null
     },
     {
