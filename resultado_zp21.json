@@ -1,36 +1,6 @@
 {
-  "gerado_em": "2026-11-27T11:44:03.498610",
+  "gerado_em": "2026-11-27T20:38:45.842535",
   "navios": [
-    {
-      "navio": "PETREL ARROW",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "27/11/2026",
-      "data_hora_iso": "2026-11-27T00:00:00",
-      "calado": "8,40/8,50",
-      "rota": "Bacia 1",
-      "berco": "JBS 4",
-      "posicao": null
-    },
-    {
-      "navio": "COSCO SHIPPING MEXICO",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "27/11/2026",
-      "data_hora_iso": "2026-11-27T00:00:00",
-      "calado": "11,20 EK",
-      "rota": "",
-      "berco": "PNAVE 03",
-      "posicao": null
-    },
-    {
-      "navio": "BBC NAPLES",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "27/11/2026",
-      "data_hora_iso": "2026-11-27T00:00:00",
-      "calado": "4,60/5,30",
-      "rota": "",
-      "berco": "TEPORTI",
-      "posicao": null
-    },
     {
       "navio": "FRAGATA JERÔNIMO DE ALBUQUERQUE",
       "status": "ManobraPrevista",
@@ -38,56 +8,16 @@
       "data_hora_iso": "2026-11-27T00:00:00",
       "calado": "4,00 EK",
       "rota": "",
-      "berco": "BRASIL SUL",
-      "posicao": null
-    },
-    {
-      "navio": "MSC DAMLA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "27/11/2026",
-      "data_hora_iso": "2026-11-27T00:00:00",
-      "calado": "9,40/9,80",
-      "rota": "",
-      "berco": "JBS 2",
+      "berco": "DELEMAR",
       "posicao": null
     },
     {
       "navio": "MERCOSUL SUAPE",
       "status": "ManobraPrevista",
-      "data_hora_texto": "27/11/2026",
-      "data_hora_iso": "2026-11-27T00:00:00",
+      "data_hora_texto": "28/11/2026",
+      "data_hora_iso": "2026-11-28T00:00:00",
       "calado": "8,20/9,10",
       "rota": "",
-      "berco": "PNAVE 03",
-      "posicao": null
-    },
-    {
-      "navio": "RUNAWAY BAY",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "28/11/2026",
-      "data_hora_iso": "2026-11-28T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "BRASKARNE",
-      "posicao": null
-    },
-    {
-      "navio": "EMERALD",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "28/11/2026",
-      "data_hora_iso": "2026-11-28T00:00:00",
-      "calado": "3,30/7,10",
-      "rota": "",
-      "berco": "BRASKARNE",
-      "posicao": null
-    },
-    {
-      "navio": "MSC MELINE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "28/11/2026",
-      "data_hora_iso": "2026-11-28T00:00:00",
-      "calado": "11,85 EK",
-      "rota": "Bacia 2",
       "berco": "PNAVE 02",
       "posicao": null
     },
@@ -112,6 +42,56 @@
       "posicao": null
     },
     {
+      "navio": "MSC AINO",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "28/11/2026",
+      "data_hora_iso": "2026-11-28T00:00:00",
+      "calado": "11,60/11,70",
+      "rota": "",
+      "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
+      "navio": "COSCO SHIPPING MEXICO",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "28/11/2026",
+      "data_hora_iso": "2026-11-28T00:00:00",
+      "calado": "TBC",
+      "rota": "Bacia 2",
+      "berco": "PNAVE 03",
+      "posicao": null
+    },
+    {
+      "navio": "RUNAWAY BAY",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "28/11/2026",
+      "data_hora_iso": "2026-11-28T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "BRASKARNE",
+      "posicao": null
+    },
+    {
+      "navio": "EMERALD",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "28/11/2026",
+      "data_hora_iso": "2026-11-28T00:00:00",
+      "calado": "3,30/7,10",
+      "rota": "",
+      "berco": "BRASKARNE",
+      "posicao": null
+    },
+    {
+      "navio": "BBC NAPLES",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "28/11/2026",
+      "data_hora_iso": "2026-11-28T00:00:00",
+      "calado": "4,60/5,30",
+      "rota": "",
+      "berco": "TEPORTI",
+      "posicao": null
+    },
+    {
       "navio": "MSC RIKKU",
       "status": "ManobraPrevista",
       "data_hora_texto": "28/11/2026",
@@ -132,13 +112,13 @@
       "posicao": null
     },
     {
-      "navio": "MSC AINO",
+      "navio": "MSC DAMLA",
       "status": "ManobraPrevista",
       "data_hora_texto": "28/11/2026",
       "data_hora_iso": "2026-11-28T00:00:00",
-      "calado": "TBC",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 02",
+      "calado": "9,40/10,60",
+      "rota": "",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -178,7 +158,7 @@
       "data_hora_iso": "2026-11-29T00:00:00",
       "calado": "11,70/11,80",
       "rota": "",
-      "berco": "JBS",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -198,7 +178,7 @@
       "data_hora_iso": "2026-11-29T00:00:00",
       "calado": "10,50/11,40",
       "rota": "",
-      "berco": "JBS",
+      "berco": "JBS 3",
       "posicao": null
     },
     {
@@ -206,7 +186,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "29/11/2026",
       "data_hora_iso": "2026-11-29T00:00:00",
-      "calado": "TBC",
+      "calado": "11,10 EK",
       "rota": "",
       "berco": "JBS",
       "posicao": null
