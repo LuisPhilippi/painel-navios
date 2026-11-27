@@ -1,32 +1,6 @@
 {
-  "gerado_em": "2026-11-26T19:58:42.395249",
+  "gerado_em": "2026-11-27T02:42:04.489210",
   "navios": [
-    {
-      "navio": "Equinox Dream",
-      "imo": "9503964",
-      "agencia": "BPA",
-      "data_chegada_texto": "22/11/2026 01:36",
-      "data_chegada_iso": "2026-11-22T01:36:00",
-      "manobra": "Entrada e Atracação",
-      "data_manobra": "26/11/2026 21:15",
-      "data_manobra_iso": "2026-11-26T21:15:00",
-      "berco": "BARRA 301",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
-    {
-      "navio": "Finch Arrow",
-      "imo": "9574860",
-      "agencia": "SEATRADE",
-      "data_chegada_texto": "23/11/2026 05:59",
-      "data_chegada_iso": "2026-11-23T05:59:00",
-      "manobra": "Desatracação e Saída",
-      "data_manobra": "26/11/2026 21:15",
-      "data_manobra_iso": "2026-11-26T21:15:00",
-      "berco": "301 BARRA",
-      "situacao": "A Confirmar",
-      "secao": "Movimentações"
-    },
     {
       "navio": "San Nicolas Maersk",
       "imo": "9622203",
@@ -34,8 +8,8 @@
       "data_chegada_texto": "26/11/2026 00:22",
       "data_chegada_iso": "2026-11-26T00:22:00",
       "manobra": "Entrada e Atracação",
-      "data_manobra": "27/11/2026 07:00",
-      "data_manobra_iso": "2026-11-27T07:00:00",
+      "data_manobra": "27/11/2026 08:00",
+      "data_manobra_iso": "2026-11-27T08:00:00",
       "berco": "BARRA 902",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
@@ -47,8 +21,8 @@
       "data_chegada_texto": "25/11/2026 19:00",
       "data_chegada_iso": "2026-11-25T19:00:00",
       "manobra": "Desatracação e Saída",
-      "data_manobra": "27/11/2026 07:00",
-      "data_manobra_iso": "2026-11-27T07:00:00",
+      "data_manobra": "27/11/2026 08:00",
+      "data_manobra_iso": "2026-11-27T08:00:00",
       "berco": "902 BARRA",
       "situacao": "A Confirmar",
       "secao": "Movimentações"
@@ -154,6 +128,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "300",
+      "situacao": null,
+      "secao": "Navios Atracados"
+    },
+    {
+      "navio": "Equinox Dream",
+      "imo": "9503964",
+      "agencia": "BPA",
+      "data_chegada_texto": "22/11/2026 01:36",
+      "data_chegada_iso": "2026-11-22T01:36:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "301",
       "situacao": null,
       "secao": "Navios Atracados"
     },

@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-26T19:58:34.157897",
+  "gerado_em": "2026-11-27T02:41:58.036214",
   "navios": [
     {
       "navio": "HYUNDAI DYNASTY",
@@ -16,7 +16,7 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "27/11/2026",
       "data_hora_iso": "2026-11-27T00:00:00",
-      "calado": "11,60/11,65",
+      "calado": "11,55/11,60",
       "rota": "Bacia 2",
       "berco": "JBS 2",
       "posicao": null
@@ -32,26 +32,6 @@
       "posicao": null
     },
     {
-      "navio": "CETUS BOTTLENOSE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "27/11/2026",
-      "data_hora_iso": "2026-11-27T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "BARRA DO RIO",
-      "posicao": null
-    },
-    {
-      "navio": "FRAGATA JERÔNIMO DE ALBUQUERQUE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "27/11/2026",
-      "data_hora_iso": "2026-11-27T00:00:00",
-      "calado": "4,00 EK",
-      "rota": "",
-      "berco": "BRASIL SUL",
-      "posicao": null
-    },
-    {
       "navio": "PETREL ARROW",
       "status": "ManobraPrevista",
       "data_hora_texto": "27/11/2026",
@@ -59,26 +39,6 @@
       "calado": "8,40 EK",
       "rota": "Bacia 1",
       "berco": "JBS 4",
-      "posicao": null
-    },
-    {
-      "navio": "COSCO SHIPPING MEXICO",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "27/11/2026",
-      "data_hora_iso": "2026-11-27T00:00:00",
-      "calado": "11,20 EK",
-      "rota": "",
-      "berco": "PNAVE 03",
-      "posicao": null
-    },
-    {
-      "navio": "LE HAVRE EXPRESS",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "27/11/2026",
-      "data_hora_iso": "2026-11-27T00:00:00",
-      "calado": "11,50 EK",
-      "rota": "",
-      "berco": "JBS 2",
       "posicao": null
     },
     {
@@ -92,23 +52,13 @@
       "posicao": null
     },
     {
-      "navio": "MSC RIKKU",
+      "navio": "FRAGATA JERÔNIMO DE ALBUQUERQUE",
       "status": "ManobraPrevista",
       "data_hora_texto": "27/11/2026",
       "data_hora_iso": "2026-11-27T00:00:00",
-      "calado": "9,00/10,80",
+      "calado": "4,00 EK",
       "rota": "",
-      "berco": "JBS 4",
-      "posicao": null
-    },
-    {
-      "navio": "MSC MELINE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "27/11/2026",
-      "data_hora_iso": "2026-11-27T00:00:00",
-      "calado": "11,85 EK",
-      "rota": "Bacia 2",
-      "berco": "PNAVE 02",
+      "berco": "BRASIL SUL",
       "posicao": null
     },
     {
@@ -116,26 +66,26 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "27/11/2026",
       "data_hora_iso": "2026-11-27T00:00:00",
-      "calado": "TBC",
+      "calado": "9,40/9,80",
       "rota": "",
-      "berco": "JBS",
+      "berco": "JBS 2",
       "posicao": null
     },
     {
-      "navio": "MSC INIYA V",
+      "navio": "COSCO SHIPPING MEXICO",
       "status": "ManobraPrevista",
       "data_hora_texto": "27/11/2026",
       "data_hora_iso": "2026-11-27T00:00:00",
-      "calado": "TBC",
+      "calado": "11,20 EK",
       "rota": "",
-      "berco": "JBS",
+      "berco": "PNAVE 03",
       "posicao": null
     },
     {
       "navio": "RUNAWAY BAY",
       "status": "ManobraPrevista",
-      "data_hora_texto": "27/11/2026",
-      "data_hora_iso": "2026-11-27T00:00:00",
+      "data_hora_texto": "28/11/2026",
+      "data_hora_iso": "2026-11-28T00:00:00",
       "calado": "TBC",
       "rota": "",
       "berco": "BRASKARNE",
@@ -152,13 +102,13 @@
       "posicao": null
     },
     {
-      "navio": "MSC AINO",
+      "navio": "MSC MELINE",
       "status": "ManobraPrevista",
       "data_hora_texto": "28/11/2026",
       "data_hora_iso": "2026-11-28T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "PNAVE",
+      "calado": "11,85 EK",
+      "rota": "Bacia 2",
+      "berco": "PNAVE 02",
       "posicao": null
     },
     {
@@ -172,6 +122,16 @@
       "posicao": null
     },
     {
+      "navio": "CETUS BOTTLENOSE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "28/11/2026",
+      "data_hora_iso": "2026-11-28T00:00:00",
+      "calado": "TBC",
+      "rota": "",
+      "berco": "BARRA DO RIO",
+      "posicao": null
+    },
+    {
       "navio": "STELLAR ONTARIO",
       "status": "ManobraPrevista",
       "data_hora_texto": "28/11/2026",
@@ -182,13 +142,23 @@
       "posicao": null
     },
     {
-      "navio": "GARNET",
+      "navio": "MSC RIKKU",
       "status": "ManobraPrevista",
       "data_hora_texto": "28/11/2026",
       "data_hora_iso": "2026-11-28T00:00:00",
-      "calado": "11,60 EK",
+      "calado": "9,00/10,80",
       "rota": "",
-      "berco": "JBS",
+      "berco": "JBS 4",
+      "posicao": null
+    },
+    {
+      "navio": "MSC AINO",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "28/11/2026",
+      "data_hora_iso": "2026-11-28T00:00:00",
+      "calado": "TBC",
+      "rota": "Bacia 2",
+      "berco": "PNAVE 02",
       "posicao": null
     },
     {
@@ -232,6 +202,16 @@
       "posicao": null
     },
     {
+      "navio": "GARNET",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "29/11/2026",
+      "data_hora_iso": "2026-11-29T00:00:00",
+      "calado": "11,70/11,80",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
       "navio": "LOG-IN RESILIENTE",
       "status": "ManobraPrevista",
       "data_hora_texto": "29/11/2026",
@@ -247,6 +227,16 @@
       "data_hora_texto": "29/11/2026",
       "data_hora_iso": "2026-11-29T00:00:00",
       "calado": "10,50/11,40",
+      "rota": "",
+      "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "MSC INIYA V",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "29/11/2026",
+      "data_hora_iso": "2026-11-29T00:00:00",
+      "calado": "TBC",
       "rota": "",
       "berco": "JBS",
       "posicao": null
