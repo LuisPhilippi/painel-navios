@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-27T02:42:04.489210",
+  "gerado_em": "2026-11-27T11:44:11.988224",
   "navios": [
     {
       "navio": "San Nicolas Maersk",
@@ -11,7 +11,7 @@
       "data_manobra": "27/11/2026 08:00",
       "data_manobra_iso": "2026-11-27T08:00:00",
       "berco": "BARRA 902",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -24,7 +24,7 @@
       "data_manobra": "27/11/2026 08:00",
       "data_manobra_iso": "2026-11-27T08:00:00",
       "berco": "902 BARRA",
-      "situacao": "A Confirmar",
+      "situacao": "Confirmado",
       "secao": "Movimentações"
     },
     {
@@ -70,14 +70,14 @@
       "navio": "Maersk Frankfurt",
       "imo": "9969065",
       "agencia": "LACHMANN",
-      "data_chegada_texto": "27/11/2026 06:00",
-      "data_chegada_iso": "2026-11-27T06:00:00",
+      "data_chegada_texto": "27/11/2026 05:48",
+      "data_chegada_iso": "2026-11-27T05:48:00",
       "manobra": "Entrada e Atracação",
       "data_manobra": "27/11/2026 19:00",
       "data_manobra_iso": "2026-11-27T19:00:00",
       "berco": "BARRA 901",
       "situacao": "A Confirmar",
-      "secao": "Navios Esperados"
+      "secao": "Movimentações"
     },
     {
       "navio": "Bartolomeu Dias",
@@ -301,43 +301,30 @@
       "secao": "Navios Fundeados (Barra)"
     },
     {
-      "navio": "MSC Damla",
-      "imo": "9250983",
-      "agencia": "WILSON SONS",
-      "data_chegada_texto": "25/11/2026 11:00",
-      "data_chegada_iso": "2026-11-25T11:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Amis Wealth",
-      "imo": "9897896",
-      "agencia": "LITORAL",
-      "data_chegada_texto": "26/11/2026 12:00",
-      "data_chegada_iso": "2026-11-26T12:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "SFS",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
       "navio": "Babitonga Bay",
       "imo": "9663776",
       "agencia": "WILSON SONS",
-      "data_chegada_texto": "26/11/2026 13:00",
-      "data_chegada_iso": "2026-11-26T13:00:00",
+      "data_chegada_texto": "27/11/2026 00:42",
+      "data_chegada_iso": "2026-11-27T00:42:00",
       "manobra": null,
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "TESC",
       "situacao": null,
-      "secao": "Navios Esperados"
+      "secao": "Navios Fundeados (Barra)"
+    },
+    {
+      "navio": "CMA CGM Santos",
+      "imo": "9649835",
+      "agencia": "UNIMAR",
+      "data_chegada_texto": "27/11/2026 06:35",
+      "data_chegada_iso": "2026-11-27T06:35:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Fundeados (Barra)"
     },
     {
       "navio": "Barcaça N09",
@@ -349,32 +336,6 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "TESC",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "Orfa",
-      "imo": "9663099",
-      "agencia": "CARGONAVE",
-      "data_chegada_texto": "27/11/2026 07:00",
-      "data_chegada_iso": "2026-11-27T07:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "SFS",
-      "situacao": null,
-      "secao": "Navios Esperados"
-    },
-    {
-      "navio": "CMA CGM Santos",
-      "imo": "9649835",
-      "agencia": "UNIMAR",
-      "data_chegada_texto": "27/11/2026 10:00",
-      "data_chegada_iso": "2026-11-27T10:00:00",
-      "manobra": null,
-      "data_manobra": null,
-      "data_manobra_iso": null,
-      "berco": "ITAPOÁ",
       "situacao": null,
       "secao": "Navios Esperados"
     },
@@ -401,6 +362,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "ITAPOÁ",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Orfa",
+      "imo": "9663099",
+      "agencia": "CARGONAVE",
+      "data_chegada_texto": "28/11/2026 15:00",
+      "data_chegada_iso": "2026-11-28T15:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "SFS",
       "situacao": null,
       "secao": "Navios Esperados"
     },
@@ -466,6 +440,19 @@
       "data_manobra": null,
       "data_manobra_iso": null,
       "berco": "TESC",
+      "situacao": null,
+      "secao": "Navios Esperados"
+    },
+    {
+      "navio": "Amis Wealth",
+      "imo": "9897896",
+      "agencia": "LITORAL",
+      "data_chegada_texto": "01/12/2026 15:00",
+      "data_chegada_iso": "2026-12-01T15:00:00",
+      "manobra": null,
+      "data_manobra": null,
+      "data_manobra_iso": null,
+      "berco": "SFS",
       "situacao": null,
       "secao": "Navios Esperados"
     },
