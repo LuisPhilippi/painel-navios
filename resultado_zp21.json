@@ -1,26 +1,6 @@
 {
-  "gerado_em": "2026-11-28T03:03:47.263346",
+  "gerado_em": "2026-11-28T12:40:38.418132",
   "navios": [
-    {
-      "navio": "MERCOSUL SUAPE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "28/11/2026",
-      "data_hora_iso": "2026-11-28T00:00:00",
-      "calado": "8,20/9,10",
-      "rota": "",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
-      "navio": "COSTA DIADEMA",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "28/11/2026",
-      "data_hora_iso": "2026-11-28T00:00:00",
-      "calado": "8,50 EK",
-      "rota": "Bacia 2",
-      "berco": "JBS 4",
-      "posicao": null
-    },
     {
       "navio": "COSCO SHIPPING MEXICO",
       "status": "ManobraPrevista",
@@ -52,6 +32,16 @@
       "posicao": null
     },
     {
+      "navio": "MERCOSUL SUAPE",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "28/11/2026",
+      "data_hora_iso": "2026-11-28T00:00:00",
+      "calado": "8,46/9,22",
+      "rota": "Bacia 1",
+      "berco": "PNAVE 02",
+      "posicao": null
+    },
+    {
       "navio": "BBC NAPLES",
       "status": "ManobraPrevista",
       "data_hora_texto": "28/11/2026",
@@ -66,9 +56,19 @@
       "status": "ManobraPrevista",
       "data_hora_texto": "28/11/2026",
       "data_hora_iso": "2026-11-28T00:00:00",
-      "calado": "TBC",
+      "calado": "5,30/6,30",
       "rota": "",
       "berco": "BARRA DO RIO",
+      "posicao": null
+    },
+    {
+      "navio": "COSTA DIADEMA",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "28/11/2026",
+      "data_hora_iso": "2026-11-28T00:00:00",
+      "calado": "8,50 EK",
+      "rota": "",
+      "berco": "JBS 4",
       "posicao": null
     },
     {
