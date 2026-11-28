@@ -1,16 +1,6 @@
 {
-  "gerado_em": "2026-11-27T20:38:45.842535",
+  "gerado_em": "2026-11-28T03:03:47.263346",
   "navios": [
-    {
-      "navio": "FRAGATA JERÔNIMO DE ALBUQUERQUE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "27/11/2026",
-      "data_hora_iso": "2026-11-27T00:00:00",
-      "calado": "4,00 EK",
-      "rota": "",
-      "berco": "DELEMAR",
-      "posicao": null
-    },
     {
       "navio": "MERCOSUL SUAPE",
       "status": "ManobraPrevista",
@@ -32,31 +22,11 @@
       "posicao": null
     },
     {
-      "navio": "CETUS BOTTLENOSE",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "28/11/2026",
-      "data_hora_iso": "2026-11-28T00:00:00",
-      "calado": "TBC",
-      "rota": "",
-      "berco": "BARRA DO RIO",
-      "posicao": null
-    },
-    {
-      "navio": "MSC AINO",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "28/11/2026",
-      "data_hora_iso": "2026-11-28T00:00:00",
-      "calado": "11,60/11,70",
-      "rota": "",
-      "berco": "PNAVE 02",
-      "posicao": null
-    },
-    {
       "navio": "COSCO SHIPPING MEXICO",
       "status": "ManobraPrevista",
       "data_hora_texto": "28/11/2026",
       "data_hora_iso": "2026-11-28T00:00:00",
-      "calado": "TBC",
+      "calado": "10,50/10,80",
       "rota": "Bacia 2",
       "berco": "PNAVE 03",
       "posicao": null
@@ -72,13 +42,13 @@
       "posicao": null
     },
     {
-      "navio": "EMERALD",
+      "navio": "MSC AINO",
       "status": "ManobraPrevista",
       "data_hora_texto": "28/11/2026",
       "data_hora_iso": "2026-11-28T00:00:00",
-      "calado": "3,30/7,10",
+      "calado": "11,60/11,70",
       "rota": "",
-      "berco": "BRASKARNE",
+      "berco": "PNAVE 03",
       "posicao": null
     },
     {
@@ -92,33 +62,53 @@
       "posicao": null
     },
     {
-      "navio": "MSC RIKKU",
+      "navio": "CETUS BOTTLENOSE",
       "status": "ManobraPrevista",
       "data_hora_texto": "28/11/2026",
       "data_hora_iso": "2026-11-28T00:00:00",
-      "calado": "9,00/10,80",
+      "calado": "TBC",
       "rota": "",
-      "berco": "JBS 4",
-      "posicao": null
-    },
-    {
-      "navio": "STELLAR ONTARIO",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "28/11/2026",
-      "data_hora_iso": "2026-11-28T00:00:00",
-      "calado": "3,30/5,46",
-      "rota": "",
-      "berco": "TEPORTI",
+      "berco": "BARRA DO RIO",
       "posicao": null
     },
     {
       "navio": "MSC DAMLA",
       "status": "ManobraPrevista",
-      "data_hora_texto": "28/11/2026",
-      "data_hora_iso": "2026-11-28T00:00:00",
+      "data_hora_texto": "29/11/2026",
+      "data_hora_iso": "2026-11-29T00:00:00",
       "calado": "9,40/10,60",
+      "rota": "Bacia 2",
+      "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "EMERALD",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "29/11/2026",
+      "data_hora_iso": "2026-11-29T00:00:00",
+      "calado": "3,30/7,10",
+      "rota": "",
+      "berco": "BRASKARNE",
+      "posicao": null
+    },
+    {
+      "navio": "GARNET",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "29/11/2026",
+      "data_hora_iso": "2026-11-29T00:00:00",
+      "calado": "11,70/11,80",
       "rota": "",
       "berco": "JBS 2",
+      "posicao": null
+    },
+    {
+      "navio": "MSC JEONGMIN",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "29/11/2026",
+      "data_hora_iso": "2026-11-29T00:00:00",
+      "calado": "10,50/11,40",
+      "rota": "",
+      "berco": "JBS 4",
       "posicao": null
     },
     {
@@ -152,16 +142,6 @@
       "posicao": null
     },
     {
-      "navio": "GARNET",
-      "status": "ManobraPrevista",
-      "data_hora_texto": "29/11/2026",
-      "data_hora_iso": "2026-11-29T00:00:00",
-      "calado": "11,70/11,80",
-      "rota": "",
-      "berco": "JBS 2",
-      "posicao": null
-    },
-    {
       "navio": "LOG-IN RESILIENTE",
       "status": "ManobraPrevista",
       "data_hora_texto": "29/11/2026",
@@ -172,13 +152,13 @@
       "posicao": null
     },
     {
-      "navio": "MSC JEONGMIN",
+      "navio": "STELLAR ONTARIO",
       "status": "ManobraPrevista",
       "data_hora_texto": "29/11/2026",
       "data_hora_iso": "2026-11-29T00:00:00",
-      "calado": "10,50/11,40",
+      "calado": "TBC",
       "rota": "",
-      "berco": "JBS 3",
+      "berco": "TEPORTI",
       "posicao": null
     },
     {
@@ -199,6 +179,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "MSC RIKKU",
+      "status": "ManobraPrevista",
+      "data_hora_texto": "30/11/2026",
+      "data_hora_iso": "2026-11-30T00:00:00",
+      "calado": "9,00/10,80",
+      "rota": "",
+      "berco": "JBS 4",
       "posicao": null
     },
     {
@@ -289,6 +279,16 @@
       "calado": "TBC",
       "rota": "",
       "berco": "JBS",
+      "posicao": null
+    },
+    {
+      "navio": "FRAGATA JERÔNIMO DE ALBUQUERQUE",
+      "status": "Atracado",
+      "data_hora_texto": "27/11/2026 - 18:14",
+      "data_hora_iso": "2026-11-27T18:14:00",
+      "calado": null,
+      "rota": "",
+      "berco": "DELEMAR",
       "posicao": null
     },
     {
